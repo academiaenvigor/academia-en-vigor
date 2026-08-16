@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 37**, aplica esta regla: Estudia el tema
 - **Incorrecto:** El Tema 37 se limita a elegir entre b y v.
 - **Incorrecto:** La puntuación y las expresiones numéricas quedan fuera del programa.
 
-<!-- VISUAL PENDIENTE: t37-01-alcance-oficial-del-tema-37.webp -->
+<!-- VISUAL:t37-01-alcance-oficial-del-tema-37.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-01-alcance-oficial-del-tema-37.webp" alt="Alcance oficial del Tema 37" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 37.</em></p>
 
 :::hablemos-claro
 Estudia el tema como ocho puertas; una respuesta puede ser correcta en letras y fallar en tilde, espacio o mayúscula.
@@ -72,7 +76,11 @@ Para dominar **ortografía, norma y escritura**, aplica esta regla: La pronuncia
 - **Incorrecto:** Cada hablante debe escribir exactamente como pronuncia.
 - **Incorrecto:** La ortografía solo regula las letras y nunca los espacios.
 
-<!-- VISUAL PENDIENTE: t37-02-ortografia-norma-y-escritura.webp -->
+<!-- VISUAL:t37-02-ortografia-norma-y-escritura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-02-ortografia-norma-y-escritura.webp" alt="Ortografía, norma y escritura" width="820">
+</p>
+<p align="center"><em>Infografía: Ortografía, norma y escritura.</em></p>
 
 :::hablemos-claro
 La pronunciación varía; la escritura común actúa como un mapa compartido entre variedades.
@@ -111,7 +119,11 @@ Para dominar **sonido, fonema y grafema**, aplica esta regla: No emparejes voz y
 - **Incorrecto:** Cada sonido distinto exige necesariamente una letra distinta.
 - **Incorrecto:** Todo grafema representa siempre un único fonema en cualquier contexto.
 
-<!-- VISUAL PENDIENTE: t37-03-sonido-fonema-y-grafema.webp -->
+<!-- VISUAL:t37-03-sonido-fonema-y-grafema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-03-sonido-fonema-y-grafema.webp" alt="Sonido, fonema y grafema" width="820">
+</p>
+<p align="center"><em>Infografía: Sonido, fonema y grafema.</em></p>
 
 :::hablemos-claro
 No emparejes voz y escritura como si fueran un cable único: hay desvíos, alternativas y grafemas sin sonido.
@@ -150,7 +162,11 @@ Para dominar **el abecedario español**, aplica esta regla: Cuenta signos simple
 - **Incorrecto:** El abecedario actual tiene veintinueve letras porque incluye ch y ll.
 - **Incorrecto:** La ñ es una variante tipográfica de n sin valor propio.
 
-<!-- VISUAL PENDIENTE: t37-il-04-el-abecedario-espanol.webp -->
+<!-- VISUAL:t37-il-04-el-abecedario-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-04-el-abecedario-espanol.webp" alt="El abecedario español" width="820">
+</p>
+<p align="center"><em>Infografía: El abecedario español.</em></p>
 
 :::hablemos-claro
 Cuenta signos simples, no sonidos: 27 letras; ch y ll trabajan en pareja, pero no obtienen asiento propio.
@@ -189,7 +205,11 @@ Para dominar **nombres de las letras**, aplica esta regla: Distingue recomendaci
 - **Incorrecto:** Las variantes ve corta e i griega están prohibidas en todo el ámbito hispánico.
 - **Incorrecto:** Los nombres de las letras deben escribirse siempre con mayúscula.
 
-<!-- VISUAL PENDIENTE: t37-05-nombres-de-las-letras.webp -->
+<!-- VISUAL:t37-05-nombres-de-las-letras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-05-nombres-de-las-letras.webp" alt="Nombres de las letras" width="820">
+</p>
+<p align="center"><em>Infografía: Nombres de las letras.</em></p>
 
 :::hablemos-claro
 Distingue recomendación unificadora de prohibición: la Academia propone nombres comunes sin borrar variantes arraigadas.
@@ -228,7 +248,11 @@ Para dominar **dígrafos del español**, aplica esta regla: Dos letras forman d�
 - **Incorrecto:** Todo grupo de dos consonantes es un dígrafo.
 - **Incorrecto:** La u de guitarra se pronuncia siempre.
 
-<!-- VISUAL PENDIENTE: t37-06-digrafos-del-espanol.webp -->
+<!-- VISUAL:t37-06-digrafos-del-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-06-digrafos-del-espanol.webp" alt="Dígrafos del español" width="820">
+</p>
+<p align="center"><em>Infografía: Dígrafos del español.</em></p>
 
 :::hablemos-claro
 Dos letras forman dígrafo solo si realizan juntas un trabajo fónico único; no basta con que estén juntas.
@@ -267,7 +291,11 @@ Para dominar **correspondencias regulares y zonas de duda**, aplica esta regla: 
 - **Incorrecto:** La ortografía española es enteramente fonética y no requiere memoria léxica.
 - **Incorrecto:** Una letra sin sonido puede eliminarse libremente.
 
-<!-- VISUAL PENDIENTE: t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp -->
+<!-- VISUAL:t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp" alt="Correspondencias regulares y zonas de duda" width="820">
+</p>
+<p align="center"><em>Infografía: Correspondencias regulares y zonas de duda.</em></p>
 
 :::hablemos-claro
 Usa reglas donde existan y memoria de familias o diccionario donde la pronunciación no decida.
@@ -306,7 +334,11 @@ Para dominar **regla, familia y diccionario**, aplica esta regla: La ortografía
 - **Incorrecto:** Una palabra parecida transmite siempre su grafía a otra.
 - **Incorrecto:** Toda regla escolar admite aplicarse sin excepciones.
 
-<!-- VISUAL PENDIENTE: t37-08-regla-familia-y-diccionario.webp -->
+<!-- VISUAL:t37-08-regla-familia-y-diccionario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-08-regla-familia-y-diccionario.webp" alt="Regla, familia y diccionario" width="820">
+</p>
+<p align="center"><em>Infografía: Regla, familia y diccionario.</em></p>
 
 :::hablemos-claro
 La ortografía no se gana inventando reglas: primero norma, después familia transparente y, si queda duda, diccionario.
@@ -345,7 +377,11 @@ Para dominar **las letras b y v**, aplica esta regla: Si el oído no separa b y 
 - **Incorrecto:** La v española debe pronunciarse siempre como la v francesa.
 - **Incorrecto:** B y v pueden intercambiarse si no cambia la pronunciación.
 
-<!-- VISUAL PENDIENTE: t37-09-las-letras-b-y-v.webp -->
+<!-- VISUAL:t37-09-las-letras-b-y-v.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-09-las-letras-b-y-v.webp" alt="Las letras b y v" width="820">
+</p>
+<p align="center"><em>Infografía: Las letras b y v.</em></p>
 
 :::hablemos-claro
 Si el oído no separa b y v, no lo fuerces: usa la estructura y el significado de la palabra.
@@ -384,7 +420,11 @@ Para dominar **b en secuencias y terminaciones frecuentes**, aplica esta regla: 
 - **Incorrecto:** Después de m se escribe siempre v.
 - **Incorrecto:** Toda palabra terminada en -ilidad debe llevar b.
 
-<!-- VISUAL PENDIENTE: t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp -->
+<!-- VISUAL:t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp" alt="B en secuencias y terminaciones frecuentes" width="820">
+</p>
+<p align="center"><em>Infografía: B en secuencias y terminaciones frecuentes.</em></p>
 
 :::hablemos-claro
 Son reglas potentes, pero no infinitas: aplica el patrón exacto y conserva sus excepciones léxicas.
@@ -423,7 +463,11 @@ Para dominar **v en formas y familias**, aplica esta regla: Busca la forma de or
 - **Incorrecto:** Andube es correcta porque b y v suenan igual.
 - **Incorrecto:** Toda palabra que termina en sonido /ibo/ se escribe con v.
 
-<!-- VISUAL PENDIENTE: t37-11-v-en-formas-y-familias.webp -->
+<!-- VISUAL:t37-11-v-en-formas-y-familias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-11-v-en-formas-y-familias.webp" alt="V en formas y familias" width="820">
+</p>
+<p align="center"><em>Infografía: V en formas y familias.</em></p>
 
 :::hablemos-claro
 Busca la forma de origen y el sufijo real; una coincidencia sonora no basta.
@@ -462,7 +506,11 @@ Para dominar **las letras g y j ante e, i**, aplica esta regla: Ante e e i hay c
 - **Incorrecto:** La g tiene el mismo valor en gato y gente.
 - **Incorrecto:** La j solo puede aparecer ante a, o y u.
 
-<!-- VISUAL PENDIENTE: t37-il-12-las-letras-g-y-j-ante-e-i.webp -->
+<!-- VISUAL:t37-il-12-las-letras-g-y-j-ante-e-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-12-las-letras-g-y-j-ante-e-i.webp" alt="Las letras g y j ante e, i" width="820">
+</p>
+<p align="center"><em>Infografía: Las letras g y j ante e, i.</em></p>
 
 :::hablemos-claro
 Ante e e i hay cruce de caminos: sonido igual, letras posibles distintas; decide por regla o palabra.
@@ -501,7 +549,11 @@ Para dominar **gu y gü ante e, i**, aplica esta regla: La diéresis es un inter
 - **Incorrecto:** La u de guerra debe pronunciarse.
 - **Incorrecto:** La forma paragüas necesita diéresis para que suene la u.
 
-<!-- VISUAL PENDIENTE: t37-13-gu-y-gu-ante-e-i.webp -->
+<!-- VISUAL:t37-13-gu-y-gu-ante-e-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-13-gu-y-gu-ante-e-i.webp" alt="Gu y gü ante e, i" width="820">
+</p>
+<p align="center"><em>Infografía: Gu y gü ante e, i.</em></p>
 
 :::hablemos-claro
 La diéresis es un interruptor: solo en güe y güi enciende una u que, sin ella, quedaría muda.
@@ -540,7 +592,11 @@ Para dominar **c, z y s**, aplica esta regla: Pronunciar igual no significa escr
 - **Incorrecto:** El seseo es una falta ortográfica.
 - **Incorrecto:** Quien sesea puede escribir casar y cazar indistintamente.
 
-<!-- VISUAL PENDIENTE: t37-14-c-z-y-s.webp -->
+<!-- VISUAL:t37-14-c-z-y-s.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-14-c-z-y-s.webp" alt="C, z y s" width="820">
+</p>
+<p align="center"><em>Infografía: C, z y s.</em></p>
 
 :::hablemos-claro
 Pronunciar igual no significa escribir igual: la variedad oral es legítima y la distinción gráfica sigue vigente.
@@ -579,7 +635,11 @@ Para dominar **c y z en flexión y derivación**, aplica esta regla: La familia 
 - **Incorrecto:** El plural de pez es pezes.
 - **Incorrecto:** Una familia léxica debe conservar siempre la misma letra sin alternancias.
 
-<!-- VISUAL PENDIENTE: t37-15-c-y-z-en-flexion-y-derivacion.webp -->
+<!-- VISUAL:t37-15-c-y-z-en-flexion-y-derivacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-15-c-y-z-en-flexion-y-derivacion.webp" alt="C y z en flexión y derivación" width="820">
+</p>
+<p align="center"><em>Infografía: C y z en flexión y derivación.</em></p>
 
 :::hablemos-claro
 La familia se mantiene aunque cambie la pieza gráfica exigida por la vocal siguiente.
@@ -618,7 +678,11 @@ Para dominar **k, qu y c para el fonema /k/**, aplica esta regla: Para /k/, c cu
 - **Incorrecto:** La u de queso se pronuncia.
 - **Incorrecto:** La k no pertenece al abecedario español.
 
-<!-- VISUAL PENDIENTE: t37-16-k-qu-y-c-para-el-fonema-k.webp -->
+<!-- VISUAL:t37-16-k-qu-y-c-para-el-fonema-k.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-16-k-qu-y-c-para-el-fonema-k.webp" alt="K, qu y c para el fonema /k/" width="820">
+</p>
+<p align="center"><em>Infografía: K, qu y c para el fonema /k/.</em></p>
 
 :::hablemos-claro
 Para /k/, c cubre a-o-u, qu cubre e-i y k aparece en vocabulario específico o prestado.
@@ -657,7 +721,11 @@ Para dominar **i e y con valor vocálico**, aplica esta regla: La y tiene doble 
 - **Incorrecto:** La y representa siempre una consonante.
 - **Incorrecto:** La conjunción copulativa se escribe siempre i.
 
-<!-- VISUAL PENDIENTE: t37-17-i-e-y-con-valor-vocalico.webp -->
+<!-- VISUAL:t37-17-i-e-y-con-valor-vocalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-17-i-e-y-con-valor-vocalico.webp" alt="I e y con valor vocálico" width="820">
+</p>
+<p align="center"><em>Infografía: I e y con valor vocálico.</em></p>
 
 :::hablemos-claro
 La y tiene doble oficio: suele ser consonante, pero en posiciones concretas trabaja como vocal.
@@ -696,7 +764,11 @@ Para dominar **ll e y**, aplica esta regla: El oído yeísta no separa ll e y; e
 - **Incorrecto:** El yeísmo permite escribir yave por llave.
 - **Incorrecto:** Ll sigue siendo una letra independiente del abecedario.
 
-<!-- VISUAL PENDIENTE: t37-il-18-ll-e-y.webp -->
+<!-- VISUAL:t37-il-18-ll-e-y.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-18-ll-e-y.webp" alt="Ll e y" width="820">
+</p>
+<p align="center"><em>Infografía: Ll e y.</em></p>
 
 :::hablemos-claro
 El oído yeísta no separa ll e y; el significado y la memoria gráfica sí.
@@ -735,7 +807,11 @@ Para dominar **r y rr**, aplica esta regla: La fuerza del sonido no basta: la po
 - **Incorrecto:** Toda vibrante múltiple se escribe rr.
 - **Incorrecto:** La rr puede comenzar una palabra española.
 
-<!-- VISUAL PENDIENTE: t37-19-r-y-rr.webp -->
+<!-- VISUAL:t37-19-r-y-rr.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-19-r-y-rr.webp" alt="R y rr" width="820">
+</p>
+<p align="center"><em>Infografía: R y rr.</em></p>
 
 :::hablemos-claro
 La fuerza del sonido no basta: la posición decide si la vibrante múltiple usa r o rr.
@@ -774,7 +850,11 @@ Para dominar **la letra h**, aplica esta regla: La h es silenciosa, no decorativ
 - **Incorrecto:** La h puede omitirse porque no se pronuncia.
 - **Incorrecto:** Toda palabra derivada conserva necesariamente la h visible de su base.
 
-<!-- VISUAL PENDIENTE: t37-20-la-letra-h.webp -->
+<!-- VISUAL:t37-20-la-letra-h.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-20-la-letra-h.webp" alt="La letra h" width="820">
+</p>
+<p align="center"><em>Infografía: La letra h.</em></p>
 
 :::hablemos-claro
 La h es silenciosa, no decorativa: puede separar significados y forma parte de la palabra.
@@ -813,7 +893,11 @@ Para dominar **m y n ante consonante**, aplica esta regla: Antes de b y p, la m 
 - **Incorrecto:** Antes de p se escribe n.
 - **Incorrecto:** La nasal debe escribirse siempre como se oiga en el habla rápida.
 
-<!-- VISUAL PENDIENTE: t37-21-m-y-n-ante-consonante.webp -->
+<!-- VISUAL:t37-21-m-y-n-ante-consonante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-21-m-y-n-ante-consonante.webp" alt="M y n ante consonante" width="820">
+</p>
+<p align="center"><em>Infografía: M y n ante consonante.</em></p>
 
 :::hablemos-claro
 Antes de b y p, la m es la señal segura; la pronunciación rápida no reescribe la palabra.
@@ -852,7 +936,11 @@ Para dominar **x y s**, aplica esta regla: La x es una letra de varios valores; 
 - **Incorrecto:** Examen puede escribirse esamen si se pronuncia con /s/.
 - **Incorrecto:** La x representa siempre y únicamente /ks/.
 
-<!-- VISUAL PENDIENTE: t37-22-x-y-s.webp -->
+<!-- VISUAL:t37-22-x-y-s.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-22-x-y-s.webp" alt="X y s" width="820">
+</p>
+<p align="center"><em>Infografía: X y s.</em></p>
 
 :::hablemos-claro
 La x es una letra de varios valores; memoriza la grafía de la palabra, no una pronunciación simplificada.
@@ -891,7 +979,11 @@ Para dominar **la letra w**, aplica esta regla: La w tiene pasaporte español, a
 - **Incorrecto:** La w es un signo extranjero ajeno al abecedario.
 - **Incorrecto:** Toda w debe pronunciarse del mismo modo.
 
-<!-- VISUAL PENDIENTE: t37-il-23-la-letra-w.webp -->
+<!-- VISUAL:t37-il-23-la-letra-w.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-23-la-letra-w.webp" alt="La letra w" width="820">
+</p>
+<p align="center"><em>Infografía: La letra w.</em></p>
 
 :::hablemos-claro
 La w tiene pasaporte español, aunque gran parte de su equipaje venga de otras lenguas.
@@ -930,7 +1022,11 @@ Para dominar **la letra ñ y la secuencia gn**, aplica esta regla: La virgulilla
 - **Incorrecto:** La ñ es una n con tilde acentual.
 - **Incorrecto:** En mayúsculas puede omitirse la virgulilla de Ñ.
 
-<!-- VISUAL PENDIENTE: t37-24-la-letra-n-y-la-secuencia-gn.webp -->
+<!-- VISUAL:t37-24-la-letra-n-y-la-secuencia-gn.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-24-la-letra-n-y-la-secuencia-gn.webp" alt="La letra ñ y la secuencia gn" width="820">
+</p>
+<p align="center"><em>Infografía: La letra ñ y la secuencia gn.</em></p>
 
 :::hablemos-claro
 La virgulilla no adorna ni acentúa: convierte n en otra letra.
@@ -969,7 +1065,11 @@ Para dominar **homófonos y parónimos ortográficos**, aplica esta regla: La pa
 - **Incorrecto:** Si una forma existe en el diccionario, encaja en cualquier contexto.
 - **Incorrecto:** Halla y haya son variantes gráficas del mismo verbo.
 
-<!-- VISUAL PENDIENTE: t37-25-homofonos-y-paronimos-ortograficos.webp -->
+<!-- VISUAL:t37-25-homofonos-y-paronimos-ortograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-25-homofonos-y-paronimos-ortograficos.webp" alt="Homófonos y parónimos ortográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Homófonos y parónimos ortográficos.</em></p>
 
 :::hablemos-claro
 La palabra puede estar bien escrita y ser la palabra equivocada; el significado completa el control.
@@ -1008,7 +1108,11 @@ Para dominar **familias léxicas y alternancias**, aplica esta regla: La familia
 - **Incorrecto:** Una familia conserva siempre todas sus letras sin cambios.
 - **Incorrecto:** Dos palabras que empiezan igual pertenecen necesariamente a la misma familia.
 
-<!-- VISUAL PENDIENTE: t37-26-familias-lexicas-y-alternancias.webp -->
+<!-- VISUAL:t37-26-familias-lexicas-y-alternancias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-26-familias-lexicas-y-alternancias.webp" alt="Familias léxicas y alternancias" width="820">
+</p>
+<p align="center"><em>Infografía: Familias léxicas y alternancias.</em></p>
 
 :::hablemos-claro
 La familia conserva identidad, pero puede cambiar de uniforme gráfico para mantener el sonido.
@@ -1047,7 +1151,11 @@ Para dominar **secuencias consonánticas y simplificación**, aplica esta regla:
 - **Incorrecto:** Cualquier grupo difícil puede simplificarse libremente.
 - **Incorrecto:** Solo la forma etimológica más larga puede ser correcta.
 
-<!-- VISUAL PENDIENTE: t37-27-secuencias-consonanticas-y-simplificacion.webp -->
+<!-- VISUAL:t37-27-secuencias-consonanticas-y-simplificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-27-secuencias-consonanticas-y-simplificacion.webp" alt="Secuencias consonánticas y simplificación" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencias consonánticas y simplificación.</em></p>
 
 :::hablemos-claro
 No conviertas una variante registrada en una regla de borrado general: cada palabra tiene expediente propio.
@@ -1086,7 +1194,11 @@ Para dominar **grafías de palabras compuestas y prefijadas**, aplica esta regla
 - **Incorrecto:** Todo prefijo se escribe separado.
 - **Incorrecto:** Al unir elementos se conservan siempre todas las letras sin ajuste.
 
-<!-- VISUAL PENDIENTE: t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp -->
+<!-- VISUAL:t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp" alt="Grafías de palabras compuestas y prefijadas" width="820">
+</p>
+<p align="center"><em>Infografía: Grafías de palabras compuestas y prefijadas.</em></p>
 
 :::hablemos-claro
 Cuando dos piezas se unen, revisa tres controles: frontera, sonido resultante y acentuación del conjunto.
@@ -1125,7 +1237,11 @@ Para dominar **acento prosódico y tilde**, aplica esta regla: Primero localiza 
 - **Incorrecto:** Acento y tilde son términos siempre equivalentes.
 - **Incorrecto:** Toda palabra tónica debe escribirse con tilde.
 
-<!-- VISUAL PENDIENTE: t37-il-29-acento-prosodico-y-tilde.webp -->
+<!-- VISUAL:t37-il-29-acento-prosodico-y-tilde.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-29-acento-prosodico-y-tilde.webp" alt="Acento prosódico y tilde" width="820">
+</p>
+<p align="center"><em>Infografía: Acento prosódico y tilde.</em></p>
 
 :::hablemos-claro
 Primero localiza la sílaba tónica; después pregunta si la regla exige dibujar la tilde.
@@ -1164,7 +1280,11 @@ Para dominar **agudas, llanas, esdrújulas y sobresdrújulas**, aplica esta regl
 - **Incorrecto:** Los monosílabos se clasifican como agudos.
 - **Incorrecto:** Una palabra con tilde es siempre esdrújula.
 
-<!-- VISUAL PENDIENTE: t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp -->
+<!-- VISUAL:t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp" alt="Agudas, llanas, esdrújulas y sobresdrújulas" width="820">
+</p>
+<p align="center"><em>Infografía: Agudas, llanas, esdrújulas y sobresdrújulas.</em></p>
 
 :::hablemos-claro
 Clasifica por la posición del golpe de voz, no por la presencia de tilde.
@@ -1203,7 +1323,11 @@ Para dominar **regla de las palabras agudas**, aplica esta regla: La contraseña
 - **Incorrecto:** Toda aguda terminada en s lleva tilde aunque la s siga a otra consonante.
 - **Incorrecto:** Convoy lleva tilde por terminar en sonido vocálico.
 
-<!-- VISUAL PENDIENTE: t37-31-regla-de-las-palabras-agudas.webp -->
+<!-- VISUAL:t37-31-regla-de-las-palabras-agudas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-31-regla-de-las-palabras-agudas.webp" alt="Regla de las palabras agudas" width="820">
+</p>
+<p align="center"><em>Infografía: Regla de las palabras agudas.</em></p>
 
 :::hablemos-claro
 La contraseña es vocal, n o s simple; una consonante adicional o la y cambian la salida.
@@ -1242,7 +1366,11 @@ Para dominar **regla de las palabras llanas**, aplica esta regla: En las llanas 
 - **Incorrecto:** Bíceps no lleva tilde porque termina en s.
 - **Incorrecto:** Examen lleva tilde por ser llana.
 
-<!-- VISUAL PENDIENTE: t37-32-regla-de-las-palabras-llanas.webp -->
+<!-- VISUAL:t37-32-regla-de-las-palabras-llanas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-32-regla-de-las-palabras-llanas.webp" alt="Regla de las palabras llanas" width="820">
+</p>
+<p align="center"><em>Infografía: Regla de las palabras llanas.</em></p>
 
 :::hablemos-claro
 En las llanas la regla se invierte, pero vigila las salidas dobles: bíceps lleva tilde porque acaba en dos consonantes.
@@ -1281,7 +1409,11 @@ Para dominar **esdrújulas y sobresdrújulas**, aplica esta regla: Esdrújula y 
 - **Incorrecto:** Una esdrújula puede perder la tilde si termina en vocal.
 - **Incorrecto:** El plural conserva siempre la misma clasificación acentual.
 
-<!-- VISUAL PENDIENTE: t37-33-esdrujulas-y-sobresdrujulas.webp -->
+<!-- VISUAL:t37-33-esdrujulas-y-sobresdrujulas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-33-esdrujulas-y-sobresdrujulas.webp" alt="Esdrújulas y sobresdrújulas" width="820">
+</p>
+<p align="center"><em>Infografía: Esdrújulas y sobresdrújulas.</em></p>
 
 :::hablemos-claro
 Esdrújula y sobresdrújula entran con pase directo a la tilde.
@@ -1320,7 +1452,11 @@ Para dominar **monosílabos**, aplica esta regla: En ortografía, ciertos grupos
 - **Incorrecto:** Fue y dio llevan tilde por ser formas verbales.
 - **Incorrecto:** Guion puede tildarse libremente si se pronuncia en dos sílabas.
 
-<!-- VISUAL PENDIENTE: t37-il-34-monosilabos.webp -->
+<!-- VISUAL:t37-il-34-monosilabos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-34-monosilabos.webp" alt="Monosílabos" width="820">
+</p>
+<p align="center"><em>Infografía: Monosílabos.</em></p>
 
 :::hablemos-claro
 En ortografía, ciertos grupos vocálicos cuentan como una sola sílaba aunque tu pronunciación los separe.
@@ -1359,7 +1495,11 @@ Para dominar **tilde diacrítica en monosílabos i**, aplica esta regla: La func
 - **Incorrecto:** El artículo el lleva tilde ante nombres propios.
 - **Incorrecto:** La nota musical mí debe llevar tilde.
 
-<!-- VISUAL PENDIENTE: t37-35-tilde-diacritica-en-monosilabos-i.webp -->
+<!-- VISUAL:t37-35-tilde-diacritica-en-monosilabos-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-35-tilde-diacritica-en-monosilabos-i.webp" alt="Tilde diacrítica en monosílabos I" width="820">
+</p>
+<p align="center"><em>Infografía: Tilde diacrítica en monosílabos I.</em></p>
 
 :::hablemos-claro
 La función y la tonicidad deciden: pronombre tónico con tilde; artículo o posesivo átono sin ella.
@@ -1398,7 +1538,11 @@ Para dominar **tilde diacrítica en monosílabos ii**, aplica esta regla: No mem
 - **Incorrecto:** La preposición dé lleva tilde.
 - **Incorrecto:** Mas lleva siempre tilde porque es una palabra tónica.
 
-<!-- VISUAL PENDIENTE: t37-36-tilde-diacritica-en-monosilabos-ii.webp -->
+<!-- VISUAL:t37-36-tilde-diacritica-en-monosilabos-ii.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-36-tilde-diacritica-en-monosilabos-ii.webp" alt="Tilde diacrítica en monosílabos II" width="820">
+</p>
+<p align="center"><em>Infografía: Tilde diacrítica en monosílabos II.</em></p>
 
 :::hablemos-claro
 No memorices pares aislados: identifica qué trabajo realiza cada forma dentro de la frase.
@@ -1437,7 +1581,11 @@ Para dominar **aún y aun**, aplica esta regla: Prueba el recambio: todavía abr
 - **Incorrecto:** Aun lleva siempre tilde.
 - **Incorrecto:** Aún se escribe sin tilde cuando equivale a todavía.
 
-<!-- VISUAL PENDIENTE: t37-37-aun-y-aun.webp -->
+<!-- VISUAL:t37-37-aun-y-aun.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-37-aun-y-aun.webp" alt="Aún y aun" width="820">
+</p>
+<p align="center"><em>Infografía: Aún y aun.</em></p>
 
 :::hablemos-claro
 Prueba el recambio: todavía abre la puerta de aún; incluso suele abrir la de aun.
@@ -1476,7 +1624,11 @@ Para dominar **interrogativos y exclamativos**, aplica esta regla: Busca una inc
 - **Incorrecto:** Solo llevan tilde dentro de signos de interrogación.
 - **Incorrecto:** La forma que lleva tilde en toda oración relativa.
 
-<!-- VISUAL PENDIENTE: t37-38-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t37-38-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-38-interrogativos-y-exclamativos.webp" alt="Interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogativos y exclamativos.</em></p>
 
 :::hablemos-claro
 Busca una incógnita o una exclamación tónica, aunque esté escondida dentro de otra oración.
@@ -1515,7 +1667,11 @@ Para dominar **solo y los demostrativos**, aplica esta regla: La regla general e
 - **Incorrecto:** El adverbio solo debe llevar siempre tilde.
 - **Incorrecto:** Esto puede tildarse para distinguirlo de un determinante.
 
-<!-- VISUAL PENDIENTE: t37-39-solo-y-los-demostrativos.webp -->
+<!-- VISUAL:t37-39-solo-y-los-demostrativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-39-solo-y-los-demostrativos.webp" alt="Solo y los demostrativos" width="820">
+</p>
+<p align="center"><em>Infografía: Solo y los demostrativos.</em></p>
 
 :::hablemos-claro
 La regla general es no tildar; la norma actual solo admite la tilde como opción restringida ante ambigüedad real.
@@ -1554,7 +1710,11 @@ Para dominar **diptongos**, aplica esta regla: Primero decide si las vocales com
 - **Incorrecto:** Todo encuentro de dos vocales forma hiato.
 - **Incorrecto:** La tilde de un diptongo va siempre sobre la vocal cerrada.
 
-<!-- VISUAL PENDIENTE: t37-40-diptongos.webp -->
+<!-- VISUAL:t37-40-diptongos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-40-diptongos.webp" alt="Diptongos" width="820">
+</p>
+<p align="center"><em>Infografía: Diptongos.</em></p>
 
 :::hablemos-claro
 Primero decide si las vocales comparten sílaba; después aplica la regla general y ubica la tilde.
@@ -1593,7 +1753,11 @@ Para dominar **triptongos**, aplica esta regla: El triptongo es un bocadillo voc
 - **Incorrecto:** Todo grupo de tres vocales es un triptongo.
 - **Incorrecto:** La tilde del triptongo se coloca sobre cualquiera de las vocales cerradas.
 
-<!-- VISUAL PENDIENTE: t37-il-41-triptongos.webp -->
+<!-- VISUAL:t37-il-41-triptongos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-41-triptongos.webp" alt="Triptongos" width="820">
+</p>
+<p align="center"><em>Infografía: Triptongos.</em></p>
 
 :::hablemos-claro
 El triptongo es un bocadillo vocálico: abierta en el centro y cerradas átonas a los lados.
@@ -1632,7 +1796,11 @@ Para dominar **hiatos**, aplica esta regla: La tilde en la cerrada tónica actú
 - **Incorrecto:** Maíz lleva tilde por ser una palabra aguda terminada en z.
 - **Incorrecto:** Dos vocales abiertas forman siempre diptongo.
 
-<!-- VISUAL PENDIENTE: t37-42-hiatos.webp -->
+<!-- VISUAL:t37-42-hiatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-42-hiatos.webp" alt="Hiatos" width="820">
+</p>
+<p align="center"><em>Infografía: Hiatos.</em></p>
 
 :::hablemos-claro
 La tilde en la cerrada tónica actúa como cuña: separa las vocales en sílabas distintas.
@@ -1671,7 +1839,11 @@ Para dominar **palabras compuestas**, aplica esta regla: Si se fusionan, recalcu
 - **Incorrecto:** Cada componente de un compuesto unido conserva siempre su tilde original.
 - **Incorrecto:** Los compuestos con guion pierden todas las tildes.
 
-<!-- VISUAL PENDIENTE: t37-43-palabras-compuestas.webp -->
+<!-- VISUAL:t37-43-palabras-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-43-palabras-compuestas.webp" alt="Palabras compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Palabras compuestas.</em></p>
 
 :::hablemos-claro
 Si se fusionan, recalcula desde cero; si el guion mantiene las piezas, cada una conserva su control.
@@ -1710,7 +1882,11 @@ Para dominar **adverbios en -mente y formas con pronombres enclíticos**, aplica
 - **Incorrecto:** Todo adverbio terminado en -mente lleva tilde.
 - **Incorrecto:** Los enclíticos nunca cambian la acentuación gráfica del verbo.
 
-<!-- VISUAL PENDIENTE: t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp -->
+<!-- VISUAL:t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp" alt="Adverbios en -mente y formas con pronombres enclíticos" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios en -mente y formas con pronombres enclíticos.</em></p>
 
 :::hablemos-claro
 En -mente se conserva la memoria del adjetivo; con enclíticos se vuelve a pasar el conjunto por la regla general.
@@ -1749,7 +1925,11 @@ Para dominar **mayúsculas, abreviaturas, siglas y extranjerismos**, aplica esta
 - **Incorrecto:** Las palabras en mayúsculas nunca llevan tilde.
 - **Incorrecto:** Toda sigla debe tildarse según su pronunciación.
 
-<!-- VISUAL PENDIENTE: t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp -->
+<!-- VISUAL:t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp" alt="Mayúsculas, abreviaturas, siglas y extranjerismos" width="820">
+</p>
+<p align="center"><em>Infografía: Mayúsculas, abreviaturas, siglas y extranjerismos.</em></p>
 
 :::hablemos-claro
 El formato no borra la ortografía: ÁVILA lleva tilde; una sigla, en cambio, sigue su convención propia.
@@ -1788,7 +1968,11 @@ Para dominar **clases de signos ortográficos**, aplica esta regla: Clasifica po
 - **Incorrecto:** La tilde es un signo de puntuación.
 - **Incorrecto:** Todos los signos ortográficos marcan una pausa oral.
 
-<!-- VISUAL PENDIENTE: t37-46-clases-de-signos-ortograficos.webp -->
+<!-- VISUAL:t37-46-clases-de-signos-ortograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-46-clases-de-signos-ortograficos.webp" alt="Clases de signos ortográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Clases de signos ortográficos.</em></p>
 
 :::hablemos-claro
 Clasifica por función, no por forma: una rayita puede ser tilde, guion o raya y cumplir trabajos distintos.
@@ -1827,7 +2011,11 @@ Para dominar **el punto**, aplica esta regla: Mira qué cierra el punto: una abr
 - **Incorrecto:** El punto debe ir separado de la palabra anterior.
 - **Incorrecto:** Después de todo punto se continúa necesariamente en un párrafo nuevo.
 
-<!-- VISUAL PENDIENTE: t37-il-47-el-punto.webp -->
+<!-- VISUAL:t37-il-47-el-punto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-47-el-punto.webp" alt="El punto" width="820">
+</p>
+<p align="center"><em>Infografía: El punto.</em></p>
 
 :::hablemos-claro
 Mira qué cierra el punto: una abreviatura no termina por sí sola el enunciado.
@@ -1866,7 +2054,11 @@ Para dominar **la coma en enumeraciones y elipsis**, aplica esta regla: La coma 
 - **Incorrecto:** Toda pausa al hablar debe representarse con coma.
 - **Incorrecto:** Una enumeración simple exige coma antes de y.
 
-<!-- VISUAL PENDIENTE: t37-48-la-coma-en-enumeraciones-y-elipsis.webp -->
+<!-- VISUAL:t37-48-la-coma-en-enumeraciones-y-elipsis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-48-la-coma-en-enumeraciones-y-elipsis.webp" alt="La coma en enumeraciones y elipsis" width="820">
+</p>
+<p align="center"><em>Infografía: La coma en enumeraciones y elipsis.</em></p>
 
 :::hablemos-claro
 La coma organiza piezas internas; no la coloques por falta de aire.
@@ -1905,7 +2097,11 @@ Para dominar **vocativos e incisos**, aplica esta regla: Vocativo e inciso entra
 - **Incorrecto:** El vocativo funciona como sujeto y no se separa.
 - **Incorrecto:** Un inciso interior necesita una sola coma de apertura.
 
-<!-- VISUAL PENDIENTE: t37-49-vocativos-e-incisos.webp -->
+<!-- VISUAL:t37-49-vocativos-e-incisos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-49-vocativos-e-incisos.webp" alt="Vocativos e incisos" width="820">
+</p>
+<p align="center"><em>Infografía: Vocativos e incisos.</em></p>
 
 :::hablemos-claro
 Vocativo e inciso entran como visitantes: abre y cierra la puerta de la puntuación.
@@ -1944,7 +2140,11 @@ Para dominar **coma entre sujeto y predicado**, aplica esta regla: La coma no co
 - **Incorrecto:** Todo sujeto largo debe cerrarse con coma.
 - **Incorrecto:** Nunca puede verse una coma gráfica antes del verbo.
 
-<!-- VISUAL PENDIENTE: t37-50-coma-entre-sujeto-y-predicado.webp -->
+<!-- VISUAL:t37-50-coma-entre-sujeto-y-predicado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-50-coma-entre-sujeto-y-predicado.webp" alt="Coma entre sujeto y predicado" width="820">
+</p>
+<p align="center"><em>Infografía: Coma entre sujeto y predicado.</em></p>
 
 :::hablemos-claro
 La coma no corta la columna vertebral sujeto-verbo; si aparece ahí, debe cerrar otra estructura.
@@ -1983,7 +2183,11 @@ Para dominar **el punto y coma**, aplica esta regla: Es una frontera de intensid
 - **Incorrecto:** Después del punto y coma se escribe siempre mayúscula.
 - **Incorrecto:** El punto y coma solo puede usarse en listas verticales.
 
-<!-- VISUAL PENDIENTE: t37-51-el-punto-y-coma.webp -->
+<!-- VISUAL:t37-51-el-punto-y-coma.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-51-el-punto-y-coma.webp" alt="El punto y coma" width="820">
+</p>
+<p align="center"><em>Infografía: El punto y coma.</em></p>
 
 :::hablemos-claro
 Es una frontera de intensidad media: más fuerte que coma, menos definitiva que punto.
@@ -2022,7 +2226,11 @@ Para dominar **los dos puntos**, aplica esta regla: Los dos puntos necesitan una
 - **Incorrecto:** Después de dos puntos se escribe siempre mayúscula.
 - **Incorrecto:** Es correcto escribir Trajo: documentos, fotos y llaves.
 
-<!-- VISUAL PENDIENTE: t37-52-los-dos-puntos.webp -->
+<!-- VISUAL:t37-52-los-dos-puntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-52-los-dos-puntos.webp" alt="Los dos puntos" width="820">
+</p>
+<p align="center"><em>Infografía: Los dos puntos.</em></p>
 
 :::hablemos-claro
 Los dos puntos necesitan una plataforma de lanzamiento; no cortes el verbo de aquello que rige.
@@ -2061,7 +2269,11 @@ Para dominar **los puntos suspensivos**, aplica esta regla: Son tres, ni dos ni 
 - **Incorrecto:** Los puntos suspensivos pueden tener cualquier número de puntos.
 - **Incorrecto:** Siempre se añade punto final después de ellos.
 
-<!-- VISUAL PENDIENTE: t37-il-53-los-puntos-suspensivos.webp -->
+<!-- VISUAL:t37-il-53-los-puntos-suspensivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-53-los-puntos-suspensivos.webp" alt="Los puntos suspensivos" width="820">
+</p>
+<p align="center"><em>Infografía: Los puntos suspensivos.</em></p>
 
 :::hablemos-claro
 Son tres, ni dos ni cuatro; ya llevan incorporada la idea de cierre o suspensión.
@@ -2100,7 +2312,11 @@ Para dominar **interrogación y exclamación**, aplica esta regla: Abre donde em
 - **Incorrecto:** En español basta con el signo de cierre.
 - **Incorrecto:** Después de ? o ! debe añadirse un punto.
 
-<!-- VISUAL PENDIENTE: t37-54-interrogacion-y-exclamacion.webp -->
+<!-- VISUAL:t37-54-interrogacion-y-exclamacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-54-interrogacion-y-exclamacion.webp" alt="Interrogación y exclamación" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogación y exclamación.</em></p>
 
 :::hablemos-claro
 Abre donde empieza la pregunta real y cierra donde acaba; el signo final ya hace de punto.
@@ -2139,7 +2355,11 @@ Para dominar **paréntesis y corchetes**, aplica esta regla: Piensa en cajas ani
 - **Incorrecto:** Todo paréntesis sustituye exactamente a una coma.
 - **Incorrecto:** Los corchetes no pueden aparecer dentro de paréntesis.
 
-<!-- VISUAL PENDIENTE: t37-55-parentesis-y-corchetes.webp -->
+<!-- VISUAL:t37-55-parentesis-y-corchetes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-55-parentesis-y-corchetes.webp" alt="Paréntesis y corchetes" width="820">
+</p>
+<p align="center"><em>Infografía: Paréntesis y corchetes.</em></p>
 
 :::hablemos-claro
 Piensa en cajas anidadas: el signo exterior organiza el enunciado y el interior protege la aclaración.
@@ -2178,7 +2398,11 @@ Para dominar **raya y guion**, aplica esta regla: El guion cose piezas; la raya 
 - **Incorrecto:** Raya y guion son nombres intercambiables del mismo signo.
 - **Incorrecto:** Los incisos con raya solo requieren signo de apertura.
 
-<!-- VISUAL PENDIENTE: t37-56-raya-y-guion.webp -->
+<!-- VISUAL:t37-56-raya-y-guion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-56-raya-y-guion.webp" alt="Raya y guion" width="820">
+</p>
+<p align="center"><em>Infografía: Raya y guion.</em></p>
 
 :::hablemos-claro
 El guion cose piezas; la raya abre espacio para una voz o un inciso.
@@ -2217,7 +2441,11 @@ Para dominar **comillas**, aplica esta regla: Las comillas tienen niveles como m
 - **Incorrecto:** El español solo admite comillas inglesas.
 - **Incorrecto:** Todo título de obra debe escribirse entre comillas.
 
-<!-- VISUAL PENDIENTE: t37-57-comillas.webp -->
+<!-- VISUAL:t37-57-comillas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-57-comillas.webp" alt="Comillas" width="820">
+</p>
+<p align="center"><em>Infografía: Comillas.</em></p>
 
 :::hablemos-claro
 Las comillas tienen niveles como muñecas rusas: angulares, inglesas y simples según la anidación.
@@ -2256,7 +2484,11 @@ Para dominar **combinación de signos**, aplica esta regla: Cierra las cajas en 
 - **Incorrecto:** Dos signos de cierre consecutivos son siempre incorrectos.
 - **Incorrecto:** La interrogación final impide cualquier coma posterior.
 
-<!-- VISUAL PENDIENTE: t37-il-58-combinacion-de-signos.webp -->
+<!-- VISUAL:t37-il-58-combinacion-de-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-58-combinacion-de-signos.webp" alt="Combinación de signos" width="820">
+</p>
+<p align="center"><em>Infografía: Combinación de signos.</em></p>
 
 :::hablemos-claro
 Cierra las cajas en orden y después añade la puntuación que pertenezca al enunciado exterior.
@@ -2295,7 +2527,11 @@ Para dominar **barra, apóstrofo y asterisco**, aplica esta regla: Los signos au
 - **Incorrecto:** El plural de una sigla se forma con apóstrofo y s.
 - **Incorrecto:** La barra lleva siempre espacios a ambos lados.
 
-<!-- VISUAL PENDIENTE: t37-59-barra-apostrofo-y-asterisco.webp -->
+<!-- VISUAL:t37-59-barra-apostrofo-y-asterisco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-59-barra-apostrofo-y-asterisco.webp" alt="Barra, apóstrofo y asterisco" width="820">
+</p>
+<p align="center"><em>Infografía: Barra, apóstrofo y asterisco.</em></p>
 
 :::hablemos-claro
 Los signos auxiliares son herramientas especializadas: su forma no determina por sí sola el espaciado.
@@ -2334,7 +2570,11 @@ Para dominar **espacios y signos**, aplica esta regla: Los signos abrazan el tex
 - **Incorrecto:** La coma se separa con un espacio de la palabra anterior.
 - **Incorrecto:** Los signos de interrogación deben aislarse con espacios interiores.
 
-<!-- VISUAL PENDIENTE: t37-60-espacios-y-signos.webp -->
+<!-- VISUAL:t37-60-espacios-y-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-60-espacios-y-signos.webp" alt="Espacios y signos" width="820">
+</p>
+<p align="center"><em>Infografía: Espacios y signos.</em></p>
 
 :::hablemos-claro
 Los signos abrazan el texto por dentro y dejan aire por fuera.
@@ -2373,7 +2613,11 @@ Para dominar **principios de mayúsculas y minúsculas**, aplica esta regla: La 
 - **Incorrecto:** Las mayúsculas no llevan tilde.
 - **Incorrecto:** Cualquier palabra importante puede escribirse con mayúscula.
 
-<!-- VISUAL PENDIENTE: t37-61-principios-de-mayusculas-y-minusculas.webp -->
+<!-- VISUAL:t37-61-principios-de-mayusculas-y-minusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-61-principios-de-mayusculas-y-minusculas.webp" alt="Principios de mayúsculas y minúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de mayúsculas y minúsculas.</em></p>
 
 :::hablemos-claro
 La mayúscula necesita una función, no una emoción: delimitar o identificar.
@@ -2412,7 +2656,11 @@ Para dominar **inicio de enunciado y después de signos**, aplica esta regla: La
 - **Incorrecto:** Después de dos puntos se escribe siempre mayúscula.
 - **Incorrecto:** Los puntos suspensivos obligan siempre a comenzar con mayúscula.
 
-<!-- VISUAL PENDIENTE: t37-62-inicio-de-enunciado-y-despues-de-signos.webp -->
+<!-- VISUAL:t37-62-inicio-de-enunciado-y-despues-de-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-62-inicio-de-enunciado-y-despues-de-signos.webp" alt="Inicio de enunciado y después de signos" width="820">
+</p>
+<p align="center"><em>Infografía: Inicio de enunciado y después de signos.</em></p>
 
 :::hablemos-claro
 La pregunta clave es si terminó el enunciado, no qué signo viste por última vez.
@@ -2451,7 +2699,11 @@ Para dominar **antropónimos, apodos y seudónimos**, aplica esta regla: El apod
 - **Incorrecto:** En Alfonso X el Sabio, el debe escribirse con mayúscula.
 - **Incorrecto:** Los apodos se escriben enteramente con minúscula.
 
-<!-- VISUAL PENDIENTE: t37-il-63-antroponimos-apodos-y-seudonimos.webp -->
+<!-- VISUAL:t37-il-63-antroponimos-apodos-y-seudonimos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-63-antroponimos-apodos-y-seudonimos.webp" alt="Antropónimos, apodos y seudónimos" width="820">
+</p>
+<p align="center"><em>Infografía: Antropónimos, apodos y seudónimos.</em></p>
 
 :::hablemos-claro
 El apodo recibe mayúscula; el artículo acompañante no asciende automáticamente.
@@ -2490,7 +2742,11 @@ Para dominar **instituciones, organismos y cuerpos**, aplica esta regla: Nombre 
 - **Incorrecto:** Toda mención de ministerio o policía exige mayúscula.
 - **Incorrecto:** Las siglas se escriben con puntos entre todas sus letras.
 
-<!-- VISUAL PENDIENTE: t37-64-instituciones-organismos-y-cuerpos.webp -->
+<!-- VISUAL:t37-64-instituciones-organismos-y-cuerpos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-64-instituciones-organismos-y-cuerpos.webp" alt="Instituciones, organismos y cuerpos" width="820">
+</p>
+<p align="center"><em>Infografía: Instituciones, organismos y cuerpos.</em></p>
 
 :::hablemos-claro
 Nombre oficial completo: placa identificativa; uso genérico: nombre común.
@@ -2529,7 +2785,11 @@ Para dominar **cargos, títulos y tratamientos**, aplica esta regla: El cargo es
 - **Incorrecto:** Presidente del Gobierno debe llevar mayúscula en presidente por respeto.
 - **Incorrecto:** Todos los tratamientos desarrollados llevan mayúscula inicial.
 
-<!-- VISUAL PENDIENTE: t37-65-cargos-titulos-y-tratamientos.webp -->
+<!-- VISUAL:t37-65-cargos-titulos-y-tratamientos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-65-cargos-titulos-y-tratamientos.webp" alt="Cargos, títulos y tratamientos" width="820">
+</p>
+<p align="center"><em>Infografía: Cargos, títulos y tratamientos.</em></p>
 
 :::hablemos-claro
 El cargo es una función, no un nombre propio: se escribe con minúscula.
@@ -2568,7 +2828,11 @@ Para dominar **topónimos y accidentes geográficos**, aplica esta regla: Separa
 - **Incorrecto:** Río debe escribirse siempre con mayúscula ante un topónimo.
 - **Incorrecto:** Norte lleva mayúscula en cualquier indicación de dirección.
 
-<!-- VISUAL PENDIENTE: t37-66-toponimos-y-accidentes-geograficos.webp -->
+<!-- VISUAL:t37-66-toponimos-y-accidentes-geograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-66-toponimos-y-accidentes-geograficos.webp" alt="Topónimos y accidentes geográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Topónimos y accidentes geográficos.</em></p>
 
 :::hablemos-claro
 Separa la clase de accidente del nombre individual: río es categoría; Ebro identifica.
@@ -2607,7 +2871,11 @@ Para dominar **obras, publicaciones y documentos**, aplica esta regla: En españ
 - **Incorrecto:** Todas las palabras de un título de libro llevan mayúscula en español.
 - **Incorrecto:** Cursiva y comillas son siempre intercambiables.
 
-<!-- VISUAL PENDIENTE: t37-67-obras-publicaciones-y-documentos.webp -->
+<!-- VISUAL:t37-67-obras-publicaciones-y-documentos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-67-obras-publicaciones-y-documentos.webp" alt="Obras, publicaciones y documentos" width="820">
+</p>
+<p align="center"><em>Infografía: Obras, publicaciones y documentos.</em></p>
 
 :::hablemos-claro
 En español los títulos no se visten como en inglés: normalmente solo la primera palabra abre con mayúscula.
@@ -2646,7 +2914,11 @@ Para dominar **leyes, periodos y calendario**, aplica esta regla: El calendario 
 - **Incorrecto:** Agosto se escribe siempre con mayúscula por ser nombre de mes.
 - **Incorrecto:** Toda referencia a una ley se escribe completamente en mayúsculas.
 
-<!-- VISUAL PENDIENTE: t37-il-68-leyes-periodos-y-calendario.webp -->
+<!-- VISUAL:t37-il-68-leyes-periodos-y-calendario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-68-leyes-periodos-y-calendario.webp" alt="Leyes, periodos y calendario" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes, periodos y calendario.</em></p>
 
 :::hablemos-claro
 El calendario ordinario va en minúscula; la denominación propia de una fiesta o periodo puede llevar mayúscula.
@@ -2685,7 +2957,11 @@ Para dominar **palabra y unidad léxica**, aplica esta regla: El espacio tambié
 - **Incorrecto:** Toda unidad léxica se escribe en una sola palabra.
 - **Incorrecto:** Los espacios no tienen valor ortográfico.
 
-<!-- VISUAL PENDIENTE: t37-69-palabra-y-unidad-lexica.webp -->
+<!-- VISUAL:t37-69-palabra-y-unidad-lexica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-69-palabra-y-unidad-lexica.webp" alt="Palabra y unidad léxica" width="820">
+</p>
+<p align="center"><em>Infografía: Palabra y unidad léxica.</em></p>
 
 :::hablemos-claro
 El espacio también escribe: puede separar piezas de una locución o distinguir dos expresiones distintas.
@@ -2724,7 +3000,11 @@ Para dominar **prefijos unidos a una base**, aplica esta regla: Una base de una 
 - **Incorrecto:** Ex ministro es la forma general correcta.
 - **Incorrecto:** Todo prefijo debe llevar guion.
 
-<!-- VISUAL PENDIENTE: t37-70-prefijos-unidos-a-una-base.webp -->
+<!-- VISUAL:t37-70-prefijos-unidos-a-una-base.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-70-prefijos-unidos-a-una-base.webp" alt="Prefijos unidos a una base" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos unidos a una base.</em></p>
 
 :::hablemos-claro
 Una base de una sola palabra atrae al prefijo: se escriben juntos.
@@ -2763,7 +3043,11 @@ Para dominar **prefijos con guion o separados**, aplica esta regla: El prefijo s
 - **Incorrecto:** Ex-OTAN debe escribirse sin guion.
 - **Incorrecto:** Exprimer ministro se escribe unido aunque la base tenga dos palabras.
 
-<!-- VISUAL PENDIENTE: t37-71-prefijos-con-guion-o-separados.webp -->
+<!-- VISUAL:t37-71-prefijos-con-guion-o-separados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-71-prefijos-con-guion-o-separados.webp" alt="Prefijos con guion o separados" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos con guion o separados.</em></p>
 
 :::hablemos-claro
 El prefijo se une a una palabra, usa guion ante mayúscula o cifra y se separa ante una base de varias palabras.
@@ -2802,7 +3086,11 @@ Para dominar **por qué, porque, porqué y por que**, aplica esta regla: No elij
 - **Incorrecto:** Porqué introduce siempre una pregunta.
 - **Incorrecto:** Porque se escribe separado en toda respuesta causal.
 
-<!-- VISUAL PENDIENTE: t37-72-por-que-porque-porque-y-por-que.webp -->
+<!-- VISUAL:t37-72-por-que-porque-porque-y-por-que.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-72-por-que-porque-porque-y-por-que.webp" alt="Por qué, porque, porqué y por que" width="820">
+</p>
+<p align="center"><em>Infografía: Por qué, porque, porqué y por que.</em></p>
 
 :::hablemos-claro
 No elijas por oído: pregunta, respuesta, nombre o suma de preposición y que.
@@ -2841,7 +3129,11 @@ Para dominar **sino y si no**, aplica esta regla: Sustitución corrige el rumbo:
 - **Incorrecto:** Si no adversativo se escribe siempre unido.
 - **Incorrecto:** Sino condicional se escribe siempre unido.
 
-<!-- VISUAL PENDIENTE: t37-il-73-sino-y-si-no.webp -->
+<!-- VISUAL:t37-il-73-sino-y-si-no.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-73-sino-y-si-no.webp" alt="Sino y si no" width="820">
+</p>
+<p align="center"><em>Infografía: Sino y si no.</em></p>
 
 :::hablemos-claro
 Sustitución corrige el rumbo: sino equivale a más bien; si no abre una condición negativa.
@@ -2880,7 +3172,11 @@ Para dominar **conque, con que y con qué**, aplica esta regla: Tres controles: 
 - **Incorrecto:** Conque se escribe separado cuando equivale a así que.
 - **Incorrecto:** Con qué interrogativo se escribe sin tilde.
 
-<!-- VISUAL PENDIENTE: t37-74-conque-con-que-y-con-que.webp -->
+<!-- VISUAL:t37-74-conque-con-que-y-con-que.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-74-conque-con-que-y-con-que.webp" alt="Conque, con que y con qué" width="820">
+</p>
+<p align="center"><em>Infografía: Conque, con que y con qué.</em></p>
 
 :::hablemos-claro
 Tres controles: consecuencia unida, piezas sintácticas separadas e interrogación con tilde.
@@ -2919,7 +3215,11 @@ Para dominar **secuencias de escritura dudosa**, aplica esta regla: La escritura
 - **Incorrecto:** Sobretodo significa siempre principalmente.
 - **Incorrecto:** A sí mismo equivale siempre a también.
 
-<!-- VISUAL PENDIENTE: t37-75-secuencias-de-escritura-dudosa.webp -->
+<!-- VISUAL:t37-75-secuencias-de-escritura-dudosa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-75-secuencias-de-escritura-dudosa.webp" alt="Secuencias de escritura dudosa" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencias de escritura dudosa.</em></p>
 
 :::hablemos-claro
 La escritura cambia con el significado: prueba una sustitución antes de decidir el espacio o la tilde.
@@ -2958,7 +3258,11 @@ Para dominar **préstamos adaptados y extranjerismos crudos**, aplica esta regla
 - **Incorrecto:** Todo extranjerismo debe escribirse en redonda sin adaptación.
 - **Incorrecto:** Una voz extranjera puede recibir una tilde española y conservar a la vez el resto de su grafía cruda sin criterio.
 
-<!-- VISUAL PENDIENTE: t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp -->
+<!-- VISUAL:t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp" alt="Préstamos adaptados y extranjerismos crudos" width="820">
+</p>
+<p align="center"><em>Infografía: Préstamos adaptados y extranjerismos crudos.</em></p>
 
 :::hablemos-claro
 Elige un carril completo: adaptación española o forma extranjera marcada.
@@ -2997,7 +3301,11 @@ Para dominar **latinismos y locuciones latinas**, aplica esta regla: Una locuci�
 - **Incorrecto:** La expresión correcta es de motu propio.
 - **Incorrecto:** Todas las locuciones latinas se escriben con tildes españolas.
 
-<!-- VISUAL PENDIENTE: t37-77-latinismos-y-locuciones-latinas.webp -->
+<!-- VISUAL:t37-77-latinismos-y-locuciones-latinas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-77-latinismos-y-locuciones-latinas.webp" alt="Latinismos y locuciones latinas" width="820">
+</p>
+<p align="center"><em>Infografía: Latinismos y locuciones latinas.</em></p>
 
 :::hablemos-claro
 Una locución latina no necesita muletas castellanas: evita de motu proprio y a grosso modo.
@@ -3036,7 +3344,11 @@ Para dominar **transcripción y transliteración**, aplica esta regla: Transcrib
 - **Incorrecto:** Transcripción y transliteración son exactamente el mismo procedimiento.
 - **Incorrecto:** Toda forma transcrita conserva obligatoriamente la ortografía de una lengua intermediaria.
 
-<!-- VISUAL PENDIENTE: t37-78-transcripcion-y-transliteracion.webp -->
+<!-- VISUAL:t37-78-transcripcion-y-transliteracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-78-transcripcion-y-transliteracion.webp" alt="Transcripción y transliteración" width="820">
+</p>
+<p align="center"><em>Infografía: Transcripción y transliteración.</em></p>
 
 :::hablemos-claro
 Transcribir aproxima el sonido; transliterar empareja signos. No son el mismo puente.
@@ -3075,7 +3387,11 @@ Para dominar **antropónimos extranjeros**, aplica esta regla: Conserva la ident
 - **Incorrecto:** Todo nombre extranjero debe traducirse al español.
 - **Incorrecto:** Los nombres propios están exentos de reglas ortográficas.
 
-<!-- VISUAL PENDIENTE: t37-il-79-antroponimos-extranjeros.webp -->
+<!-- VISUAL:t37-il-79-antroponimos-extranjeros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-79-antroponimos-extranjeros.webp" alt="Antropónimos extranjeros" width="820">
+</p>
+<p align="center"><em>Infografía: Antropónimos extranjeros.</em></p>
 
 :::hablemos-claro
 Conserva la identidad gráfica salvo que exista forma española tradicional o sea necesaria una transcripción.
@@ -3114,7 +3430,11 @@ Para dominar **topónimos extranjeros y gentilicios**, aplica esta regla: El lug
 - **Incorrecto:** Los gentilicios llevan mayúscula por derivar de topónimos.
 - **Incorrecto:** Debe escribirse New York en todo texto español.
 
-<!-- VISUAL PENDIENTE: t37-80-toponimos-extranjeros-y-gentilicios.webp -->
+<!-- VISUAL:t37-80-toponimos-extranjeros-y-gentilicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-80-toponimos-extranjeros-y-gentilicios.webp" alt="Topónimos extranjeros y gentilicios" width="820">
+</p>
+<p align="center"><em>Infografía: Topónimos extranjeros y gentilicios.</em></p>
 
 :::hablemos-claro
 El lugar puede conservar mayúscula; el habitante baja a minúscula.
@@ -3153,7 +3473,11 @@ Para dominar **apellidos con preposiciones y artículos**, aplica esta regla: La
 - **Incorrecto:** La preposición de lleva siempre mayúscula dentro de un apellido.
 - **Incorrecto:** Los apellidos no admiten artículos.
 
-<!-- VISUAL PENDIENTE: t37-81-apellidos-con-preposiciones-y-articulos.webp -->
+<!-- VISUAL:t37-81-apellidos-con-preposiciones-y-articulos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-81-apellidos-con-preposiciones-y-articulos.webp" alt="Apellidos con preposiciones y artículos" width="820">
+</p>
+<p align="center"><em>Infografía: Apellidos con preposiciones y artículos.</em></p>
 
 :::hablemos-claro
 La pieza del apellido cambia de altura según vaya acompañada del nombre; además, la forma registrada manda.
@@ -3192,7 +3516,11 @@ Para dominar **cifras arábigas y agrupación**, aplica esta regla: Agrupa canti
 - **Incorrecto:** Los millares deben separarse siempre con punto.
 - **Incorrecto:** Los años se agrupan en tríos mediante espacios.
 
-<!-- VISUAL PENDIENTE: t37-82-cifras-arabigas-y-agrupacion.webp -->
+<!-- VISUAL:t37-82-cifras-arabigas-y-agrupacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-82-cifras-arabigas-y-agrupacion.webp" alt="Cifras arábigas y agrupación" width="820">
+</p>
+<p align="center"><em>Infografía: Cifras arábigas y agrupación.</em></p>
 
 :::hablemos-claro
 Agrupa cantidades, no identificadores; el espacio separa millares sin competir con el decimal.
@@ -3231,7 +3559,11 @@ Para dominar **cardinales y ordinales escritos con palabras**, aplica esta regla
 - **Incorrecto:** Treintaicinco es la única grafía válida de 35.
 - **Incorrecto:** Onceavo es siempre el ordinal recomendado para el puesto 11.
 
-<!-- VISUAL PENDIENTE: t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp -->
+<!-- VISUAL:t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp" alt="Cardinales y ordinales escritos con palabras" width="820">
+</p>
+<p align="center"><em>Infografía: Cardinales y ordinales escritos con palabras.</em></p>
 
 :::hablemos-claro
 Cardinal cuenta, ordinal ordena y fraccionario divide: no intercambies sus uniformes.
@@ -3270,7 +3602,11 @@ Para dominar **números romanos**, aplica esta regla: Son cifras, no abreviatura
 - **Incorrecto:** Los números romanos deben cerrarse con punto.
 - **Incorrecto:** IIII es la única forma normativa general de cuatro.
 
-<!-- VISUAL PENDIENTE: t37-84-numeros-romanos.webp -->
+<!-- VISUAL:t37-84-numeros-romanos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-84-numeros-romanos.webp" alt="Números romanos" width="820">
+</p>
+<p align="center"><em>Infografía: Números romanos.</em></p>
 
 :::hablemos-claro
 Son cifras, no abreviaturas: mayúsculas sin punto y combinación reglada.
@@ -3309,7 +3645,11 @@ Para dominar **fechas**, aplica esta regla: En una fecha española el mes es nom
 - **Incorrecto:** Los meses llevan mayúscula dentro de una fecha.
 - **Incorrecto:** El año debe separarse con punto de millar.
 
-<!-- VISUAL PENDIENTE: t37-85-fechas.webp -->
+<!-- VISUAL:t37-85-fechas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-85-fechas.webp" alt="Fechas" width="820">
+</p>
+<p align="center"><em>Infografía: Fechas.</em></p>
 
 :::hablemos-claro
 En una fecha española el mes es nombre común y el año no es una cantidad para agrupar.
@@ -3348,7 +3688,11 @@ Para dominar **la hora**, aplica esta regla: Elige reloj de 24 horas con h o sis
 - **Incorrecto:** El símbolo de hora es h. con punto.
 - **Incorrecto:** La forma 17:30 h p. m. es recomendable.
 
-<!-- VISUAL PENDIENTE: t37-86-la-hora.webp -->
+<!-- VISUAL:t37-86-la-hora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-86-la-hora.webp" alt="La hora" width="820">
+</p>
+<p align="center"><em>Infografía: La hora.</em></p>
 
 :::hablemos-claro
 Elige reloj de 24 horas con h o sistema de 12 horas con a. m./p. m.; no superpongas ambos.
@@ -3387,7 +3731,11 @@ Para dominar **porcentajes, unidades y monedas**, aplica esta regla: El símbolo
 - **Incorrecto:** El plural de kg es kgs.
 - **Incorrecto:** El porcentaje se escribe obligatoriamente pegado a la cifra en la norma académica.
 
-<!-- VISUAL PENDIENTE: t37-87-porcentajes-unidades-y-monedas.webp -->
+<!-- VISUAL:t37-87-porcentajes-unidades-y-monedas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-87-porcentajes-unidades-y-monedas.webp" alt="Porcentajes, unidades y monedas" width="820">
+</p>
+<p align="center"><em>Infografía: Porcentajes, unidades y monedas.</em></p>
 
 :::hablemos-claro
 El símbolo es una ficha internacional: sin punto, sin plural y con su forma fija.
@@ -3426,7 +3774,11 @@ Para dominar **abreviaturas, siglas, acrónimos y símbolos**, aplica esta regla
 - **Incorrecto:** Abreviatura, sigla y símbolo son nombres del mismo procedimiento.
 - **Incorrecto:** El plural de ONG se escribe ONG's.
 
-<!-- VISUAL PENDIENTE: t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp -->
+<!-- VISUAL:t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp" alt="Abreviaturas, siglas, acrónimos y símbolos" width="820">
+</p>
+<p align="center"><em>Infografía: Abreviaturas, siglas, acrónimos y símbolos.</em></p>
 
 :::hablemos-claro
 Distingue las cuatro tarjetas: abreviatura con punto, sigla sin puntos, acrónimo convertido en palabra y símbolo fijo.

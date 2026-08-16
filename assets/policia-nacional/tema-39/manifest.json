@@ -4,14 +4,14 @@
   "topic": "tema-39",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 74,
-    "integrated": 0,
-    "planned": 74
+    "integrated": 74,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-15",
   "resources": [
     {
       "id": "T39-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial del Tema 39",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El programa exige estudiar los modelos OSI y TCP/IP.",
+      "description": "El programa exige estudiar los modelos OSI y TCP/IP.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Red, nodo, enlace y protocolo",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una red interconecta sistemas para intercambiar datos y compartir recursos.",
+      "description": "Una red interconecta sistemas para intercambiar datos y compartir recursos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "LAN, MAN, WAN y PAN",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una LAN cubre normalmente un ámbito local bajo administración próxima.",
+      "description": "Una LAN cubre normalmente un ámbito local bajo administración próxima.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Topología física y topología lógica",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La topología física describe cómo se disponen enlaces y dispositivos.",
+      "description": "La topología física describe cómo se disponen enlaces y dispositivos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Conmutación, encaminamiento y servicios",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La conmutación Ethernet decide el reenvío local principalmente mediante direcciones MAC.",
+      "description": "La conmutación Ethernet decide el reenvío local principalmente mediante direcciones MAC.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Encapsulación y unidades de datos",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La encapsulación añade información de control al bajar por la pila.",
+      "description": "La encapsulación añade información de control al bajar por la pila.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Finalidad del modelo OSI",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: OSI proporciona una base común para coordinar estándares de interconexión de sistemas abiertos.",
+      "description": "OSI proporciona una base común para coordinar estándares de interconexión de sistemas abiertos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Capas, servicios, protocolos e interfaces",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una capa presta servicios a la capa superior y utiliza servicios de la inferior.",
+      "description": "Una capa presta servicios a la capa superior y utiliza servicios de la inferior.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Capa 1: física",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa física transmite un flujo de bits a través del medio.",
+      "description": "La capa física transmite un flujo de bits a través del medio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Capa 2: enlace de datos",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de enlace organiza la transmisión sobre un enlace en unidades como tramas.",
+      "description": "La capa de enlace organiza la transmisión sobre un enlace en unidades como tramas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Sublayers LLC y MAC",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La subcapa MAC se relaciona con el acceso al medio y el direccionamiento físico.",
+      "description": "La subcapa MAC se relaciona con el acceso al medio y el direccionamiento físico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Capa 3: red",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de red permite transferir paquetes entre sistemas a través de redes intermedias.",
+      "description": "La capa de red permite transferir paquetes entre sistemas a través de redes intermedias.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Capa 4: transporte",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de transporte ofrece comunicación lógica entre extremos o procesos.",
+      "description": "La capa de transporte ofrece comunicación lógica entre extremos o procesos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Capa 5: sesión",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de sesión modela el establecimiento, mantenimiento y cierre de diálogos.",
+      "description": "La capa de sesión modela el establecimiento, mantenimiento y cierre de diálogos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Capa 6: presentación",
       "type": "ilustracion_simple",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de presentación trata la sintaxis y representación de la información.",
+      "description": "La capa de presentación trata la sintaxis y representación de la información.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Capa 7: aplicación",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de aplicación ofrece servicios de comunicación a procesos de aplicación.",
+      "description": "La capa de aplicación ofrece servicios de comunicación a procesos de aplicación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "PDU: bits, tramas, paquetes y segmentos",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Bits es la denominación elemental asociada a la transmisión física.",
+      "description": "Bits es la denominación elemental asociada a la transmisión física.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Encapsulación en el modelo OSI",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cada capa puede añadir su cabecera a la unidad recibida de la superior.",
+      "description": "Cada capa puede añadir su cabecera a la unidad recibida de la superior.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Dispositivos y capas OSI",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Hub y repetidor se asocian principalmente a la capa física.",
+      "description": "Hub y repetidor se asocian principalmente a la capa física.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Diagnóstico por capas",
       "type": "ilustracion_simple",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La ausencia de enlace físico se investiga antes que la resolución DNS.",
+      "description": "La ausencia de enlace físico se investiga antes que la resolución DNS.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Finalidad del modelo TCP/IP",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: TCP/IP agrupa protocolos usados para interconectar redes y prestar servicios de Internet.",
+      "description": "TCP/IP agrupa protocolos usados para interconectar redes y prestar servicios de Internet.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Correspondencia OSI y TCP/IP",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La aplicación TCP/IP agrupa funciones que OSI separa en aplicación, presentación y sesión.",
+      "description": "La aplicación TCP/IP agrupa funciones que OSI separa en aplicación, presentación y sesión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Capa de aplicación TCP/IP",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La capa de aplicación contiene protocolos que soportan servicios para programas y usuarios.",
+      "description": "La capa de aplicación contiene protocolos que soportan servicios para programas y usuarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "TCP: conexión y fiabilidad",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: TCP ofrece a las aplicaciones un flujo fiable y ordenado de bytes.",
+      "description": "TCP ofrece a las aplicaciones un flujo fiable y ordenado de bytes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Establecimiento y cierre TCP",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El establecimiento normal de TCP usa el intercambio SYN, SYN-ACK y ACK.",
+      "description": "El establecimiento normal de TCP usa el intercambio SYN, SYN-ACK y ACK.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "UDP: datagramas sin conexión",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: UDP transporta datagramas sin establecer una conexión fiable.",
+      "description": "UDP transporta datagramas sin establecer una conexión fiable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "IP: servicio de datagramas",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: IP transporta datagramas entre redes mediante direcciones lógicas.",
+      "description": "IP transporta datagramas entre redes mediante direcciones lógicas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "ICMP y el comando ping",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ICMP comunica determinados errores y condiciones de control asociados a IP.",
+      "description": "ICMP comunica determinados errores y condiciones de control asociados a IP.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "ARP en IPv4 y NDP en IPv6",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ARP permite asociar una dirección IPv4 con una dirección de enlace en la red local.",
+      "description": "ARP permite asociar una dirección IPv4 con una dirección de enlace en la red local.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Puertos, sockets y multiplexación",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los puertos permiten multiplexar conversaciones de transporte en un host.",
+      "description": "Los puertos permiten multiplexar conversaciones de transporte en un host.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Repetidor y concentrador hub",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un repetidor regenera o repite señales para extender un segmento físico.",
+      "description": "Un repetidor regenera o repite señales para extender un segmento físico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Dominio de colisión compartido",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los puertos de un hub comparten el mismo dominio de colisión.",
+      "description": "Los puertos de un hub comparten el mismo dominio de colisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Bridge y switch Ethernet",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un bridge conecta segmentos de capa 2 y filtra o reenvía tramas.",
+      "description": "Un bridge conecta segmentos de capa 2 y filtra o reenvía tramas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Aprendizaje de la tabla MAC",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El switch aprende la asociación entre MAC de origen y puerto de entrada.",
+      "description": "El switch aprende la asociación entre MAC de origen y puerto de entrada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Filtrado, reenvío y flooding",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si el destino conocido está en otro puerto, el switch reenvía hacia ese puerto.",
+      "description": "Si el destino conocido está en otro puerto, el switch reenvía hacia ese puerto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Dominios de colisión y broadcast",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cada puerto de switch constituye normalmente un dominio de colisión separado.",
+      "description": "Cada puerto de switch constituye normalmente un dominio de colisión separado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "VLAN y etiquetado",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una VLAN crea un dominio lógico de broadcast dentro de una infraestructura conmutada.",
+      "description": "Una VLAN crea un dominio lógico de broadcast dentro de una infraestructura conmutada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Bucles y Spanning Tree",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un bucle de capa 2 puede multiplicar tramas y causar tormentas de broadcast.",
+      "description": "Un bucle de capa 2 puede multiplicar tramas y causar tormentas de broadcast.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Función del router",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un router conecta redes y reenvía datagramas IP entre interfaces.",
+      "description": "Un router conecta redes y reenvía datagramas IP entre interfaces.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Tabla de encaminamiento y ruta por defecto",
       "type": "ilustracion_simple",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una ruta asocia un prefijo de destino con un siguiente salto o una interfaz.",
+      "description": "Una ruta asocia un prefijo de destino con un siguiente salto o una interfaz.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Siguiente salto, TTL y Hop Limit",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El siguiente salto es el router o destino vecino al que se entrega el paquete.",
+      "description": "El siguiente salto es el router o destino vecino al que se entrega el paquete.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Rutas estáticas y protocolos dinámicos",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una ruta estática se configura explícitamente y no se aprende por intercambio dinámico.",
+      "description": "Una ruta estática se configura explícitamente y no se aprende por intercambio dinámico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "NAT y PAT",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: NAT modifica direcciones IP al atravesar el traductor.",
+      "description": "NAT modifica direcciones IP al atravesar el traductor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Concepto y política de firewall",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un firewall es un dispositivo o programa que controla tráfico entre redes o hosts con posturas de seguridad diferentes.",
+      "description": "Un firewall es un dispositivo o programa que controla tráfico entre redes o hosts con posturas de seguridad diferentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Filtrado de paquetes y estado",
       "type": "ilustracion_simple",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El filtrado de paquetes evalúa campos como direcciones, protocolos y puertos.",
+      "description": "El filtrado de paquetes evalúa campos como direcciones, protocolos y puertos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Proxy firewall, UTM y defensa en profundidad",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un proxy de aplicación termina una conversación y origina otra como intermediario.",
+      "description": "Un proxy de aplicación termina una conversación y origina otra como intermediario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Finalidad y actores de DHCPv4",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: DHCPv4 permite entregar parámetros de configuración a clientes de forma automática.",
+      "description": "DHCPv4 permite entregar parámetros de configuración a clientes de forma automática.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "DORA: descubrimiento y concesión",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: DHCPDISCOVER permite al cliente localizar servidores disponibles.",
+      "description": "DHCPDISCOVER permite al cliente localizar servidores disponibles.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Concesión, renovación y reserva DHCP",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una concesión DHCP asigna parámetros durante un intervalo administrado.",
+      "description": "Una concesión DHCP asigna parámetros durante un intervalo administrado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Broadcast, relay y autoconfiguración IPv4",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un cliente IPv4 sin dirección puede utilizar broadcast para iniciar DHCP.",
+      "description": "Un cliente IPv4 sin dirección puede utilizar broadcast para iniciar DHCP.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "DHCPv6 y SLAAC",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: DHCPv6 puede proporcionar direcciones, prefijos y parámetros de configuración.",
+      "description": "DHCPv6 puede proporcionar direcciones, prefijos y parámetros de configuración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Espacio de nombres DNS",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: DNS organiza nombres en un espacio jerárquico distribuido.",
+      "description": "DNS organiza nombres en un espacio jerárquico distribuido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Registros DNS principales",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: A asocia un nombre con una dirección IPv4 y AAAA con una dirección IPv6.",
+      "description": "A asocia un nombre con una dirección IPv4 y AAAA con una dirección IPv6.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Consulta recursiva e iterativa",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En una consulta recursiva el servidor consultado debe devolver una respuesta final o un error.",
+      "description": "En una consulta recursiva el servidor consultado debe devolver una respuesta final o un error.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Servidores autoritativos, primario y secundario",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un servidor autoritativo responde con datos de las zonas para las que tiene autoridad.",
+      "description": "Un servidor autoritativo responde con datos de las zonas para las que tiene autoridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Caché, TTL y transporte DNS",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El TTL de un registro limita cuánto tiempo puede conservarse en caché.",
+      "description": "El TTL de un registro limita cuánto tiempo puede conservarse en caché.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Proxy directo o forward proxy",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un forward proxy actúa en nombre del cliente frente a servidores de destino.",
+      "description": "Un forward proxy actúa en nombre del cliente frente a servidores de destino.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Reverse proxy, caché y túnel",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un reverse proxy recibe solicitudes en nombre de uno o varios servidores de origen.",
+      "description": "Un reverse proxy recibe solicitudes en nombre de uno o varios servidores de origen.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Formato y longitud de IPv4",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una dirección IPv4 tiene 32 bits.",
+      "description": "Una dirección IPv4 tiene 32 bits.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Prefijo, host y máscara de subred",
       "type": "ilustracion_simple",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El prefijo identifica la parte de red usada para el encaminamiento.",
+      "description": "El prefijo identifica la parte de red usada para el encaminamiento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Clase A histórica",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase A comienza con bit 0.",
+      "description": "En el esquema histórico, una dirección de clase A comienza con bit 0.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Clase B histórica",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase B comienza con bits 10.",
+      "description": "En el esquema histórico, una dirección de clase B comienza con bits 10.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Clase C histórica",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase C comienza con bits 110.",
+      "description": "En el esquema histórico, una dirección de clase C comienza con bits 110.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Clases D y E históricas",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El rango histórico de clase D comprende primeros octetos 224 a 239 y se asocia a multicast.",
+      "description": "El rango histórico de clase D comprende primeros octetos 224 a 239 y se asocia a multicast.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "CIDR frente a direccionamiento por clases",
       "type": "ilustracion_simple",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: CIDR sustituyó operacionalmente las fronteras rígidas de clases por longitudes de prefijo.",
+      "description": "CIDR sustituyó operacionalmente las fronteras rígidas de clases por longitudes de prefijo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Cálculo de subred, red y broadcast",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La dirección de red IPv4 se obtiene aplicando la máscara a la dirección.",
+      "description": "La dirección de red IPv4 se obtiene aplicando la máscara a la dirección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Direcciones IPv4 privadas",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los bloques privados son 10.0.0.0/8, 172.16.0.0/12 y 192.168.0.0/16.",
+      "description": "Los bloques privados son 10.0.0.0/8, 172.16.0.0/12 y 192.168.0.0/16.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Direcciones IPv4 especiales y puerta de enlace",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: 0.0.0.0 puede expresar dirección no especificada y 0.0.0.0/0 la ruta por defecto según contexto.",
+      "description": "0.0.0.0 puede expresar dirección no especificada y 0.0.0.0/0 la ruta por defecto según contexto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Longitud y notación IPv6",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una dirección IPv6 tiene 128 bits.",
+      "description": "Una dirección IPv6 tiene 128 bits.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Unicast, anycast y multicast",
       "type": "ilustracion_simple",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una dirección unicast identifica una interfaz individual.",
+      "description": "Una dirección unicast identifica una interfaz individual.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Prefijos IPv6 principales",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: 2000::/3 cubre el espacio general de unicast global actualmente asignable.",
+      "description": "2000::/3 cubre el espacio general de unicast global actualmente asignable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Cabecera básica y extensiones IPv6",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La cabecera básica IPv6 tiene longitud fija de 40 bytes.",
+      "description": "La cabecera básica IPv6 tiene longitud fija de 40 bytes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Neighbor Discovery y SLAAC",
       "type": "infografia",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Neighbor Discovery usa ICMPv6 para descubrir vecinos, routers y parámetros del enlace.",
+      "description": "Neighbor Discovery usa ICMPv6 para descubrir vecinos, routers y parámetros del enlace.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,1201 +1260,17 @@
       "title": "Transición y límites de IPv6",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dual stack permite ejecutar IPv4 e IPv6 simultáneamente.",
+      "description": "Dual stack permite ejecutar IPv4 e IPv6 simultáneamente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T39-V01",
-      "file": "t39-01-alcance-oficial-del-tema-39.webp",
-      "title": "Alcance oficial del Tema 39",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El programa exige estudiar los modelos OSI y TCP/IP.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V02",
-      "file": "t39-02-red-nodo-enlace-y-protocolo.webp",
-      "title": "Red, nodo, enlace y protocolo",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una red interconecta sistemas para intercambiar datos y compartir recursos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V03",
-      "file": "t39-03-lan-man-wan-y-pan.webp",
-      "title": "LAN, MAN, WAN y PAN",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una LAN cubre normalmente un ámbito local bajo administración próxima.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V04",
-      "file": "t39-04-topologia-fisica-y-topologia-logica.webp",
-      "title": "Topología física y topología lógica",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La topología física describe cómo se disponen enlaces y dispositivos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V05",
-      "file": "t39-il-05-conmutacion-encaminamiento-y-servicios.webp",
-      "title": "Conmutación, encaminamiento y servicios",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La conmutación Ethernet decide el reenvío local principalmente mediante direcciones MAC.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V06",
-      "file": "t39-06-encapsulacion-y-unidades-de-datos.webp",
-      "title": "Encapsulación y unidades de datos",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La encapsulación añade información de control al bajar por la pila.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V07",
-      "file": "t39-07-finalidad-del-modelo-osi.webp",
-      "title": "Finalidad del modelo OSI",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: OSI proporciona una base común para coordinar estándares de interconexión de sistemas abiertos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V08",
-      "file": "t39-08-capas-servicios-protocolos-e-interfaces.webp",
-      "title": "Capas, servicios, protocolos e interfaces",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una capa presta servicios a la capa superior y utiliza servicios de la inferior.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V09",
-      "file": "t39-09-capa-1-fisica.webp",
-      "title": "Capa 1: física",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa física transmite un flujo de bits a través del medio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V10",
-      "file": "t39-il-10-capa-2-enlace-de-datos.webp",
-      "title": "Capa 2: enlace de datos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de enlace organiza la transmisión sobre un enlace en unidades como tramas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V11",
-      "file": "t39-11-sublayers-llc-y-mac.webp",
-      "title": "Sublayers LLC y MAC",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La subcapa MAC se relaciona con el acceso al medio y el direccionamiento físico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V12",
-      "file": "t39-12-capa-3-red.webp",
-      "title": "Capa 3: red",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de red permite transferir paquetes entre sistemas a través de redes intermedias.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V13",
-      "file": "t39-13-capa-4-transporte.webp",
-      "title": "Capa 4: transporte",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de transporte ofrece comunicación lógica entre extremos o procesos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V14",
-      "file": "t39-14-capa-5-sesion.webp",
-      "title": "Capa 5: sesión",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de sesión modela el establecimiento, mantenimiento y cierre de diálogos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V15",
-      "file": "t39-il-15-capa-6-presentacion.webp",
-      "title": "Capa 6: presentación",
-      "type": "ilustracion_simple",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de presentación trata la sintaxis y representación de la información.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V16",
-      "file": "t39-16-capa-7-aplicacion.webp",
-      "title": "Capa 7: aplicación",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de aplicación ofrece servicios de comunicación a procesos de aplicación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V17",
-      "file": "t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp",
-      "title": "PDU: bits, tramas, paquetes y segmentos",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Bits es la denominación elemental asociada a la transmisión física.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V18",
-      "file": "t39-18-encapsulacion-en-el-modelo-osi.webp",
-      "title": "Encapsulación en el modelo OSI",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cada capa puede añadir su cabecera a la unidad recibida de la superior.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V19",
-      "file": "t39-19-dispositivos-y-capas-osi.webp",
-      "title": "Dispositivos y capas OSI",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Hub y repetidor se asocian principalmente a la capa física.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V20",
-      "file": "t39-il-20-diagnostico-por-capas.webp",
-      "title": "Diagnóstico por capas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La ausencia de enlace físico se investiga antes que la resolución DNS.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V21",
-      "file": "t39-21-finalidad-del-modelo-tcp-ip.webp",
-      "title": "Finalidad del modelo TCP/IP",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: TCP/IP agrupa protocolos usados para interconectar redes y prestar servicios de Internet.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V22",
-      "file": "t39-22-correspondencia-osi-y-tcp-ip.webp",
-      "title": "Correspondencia OSI y TCP/IP",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La aplicación TCP/IP agrupa funciones que OSI separa en aplicación, presentación y sesión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V23",
-      "file": "t39-23-capa-de-aplicacion-tcp-ip.webp",
-      "title": "Capa de aplicación TCP/IP",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La capa de aplicación contiene protocolos que soportan servicios para programas y usuarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V24",
-      "file": "t39-24-tcp-conexion-y-fiabilidad.webp",
-      "title": "TCP: conexión y fiabilidad",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: TCP ofrece a las aplicaciones un flujo fiable y ordenado de bytes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V25",
-      "file": "t39-il-25-establecimiento-y-cierre-tcp.webp",
-      "title": "Establecimiento y cierre TCP",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El establecimiento normal de TCP usa el intercambio SYN, SYN-ACK y ACK.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V26",
-      "file": "t39-26-udp-datagramas-sin-conexion.webp",
-      "title": "UDP: datagramas sin conexión",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: UDP transporta datagramas sin establecer una conexión fiable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V27",
-      "file": "t39-27-ip-servicio-de-datagramas.webp",
-      "title": "IP: servicio de datagramas",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: IP transporta datagramas entre redes mediante direcciones lógicas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V28",
-      "file": "t39-28-icmp-y-el-comando-ping.webp",
-      "title": "ICMP y el comando ping",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ICMP comunica determinados errores y condiciones de control asociados a IP.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V29",
-      "file": "t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp",
-      "title": "ARP en IPv4 y NDP en IPv6",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ARP permite asociar una dirección IPv4 con una dirección de enlace en la red local.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V30",
-      "file": "t39-il-30-puertos-sockets-y-multiplexacion.webp",
-      "title": "Puertos, sockets y multiplexación",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los puertos permiten multiplexar conversaciones de transporte en un host.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V31",
-      "file": "t39-31-repetidor-y-concentrador-hub.webp",
-      "title": "Repetidor y concentrador hub",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un repetidor regenera o repite señales para extender un segmento físico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V32",
-      "file": "t39-32-dominio-de-colision-compartido.webp",
-      "title": "Dominio de colisión compartido",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los puertos de un hub comparten el mismo dominio de colisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V33",
-      "file": "t39-33-bridge-y-switch-ethernet.webp",
-      "title": "Bridge y switch Ethernet",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un bridge conecta segmentos de capa 2 y filtra o reenvía tramas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V34",
-      "file": "t39-34-aprendizaje-de-la-tabla-mac.webp",
-      "title": "Aprendizaje de la tabla MAC",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El switch aprende la asociación entre MAC de origen y puerto de entrada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V35",
-      "file": "t39-il-35-filtrado-reenvio-y-flooding.webp",
-      "title": "Filtrado, reenvío y flooding",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si el destino conocido está en otro puerto, el switch reenvía hacia ese puerto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V36",
-      "file": "t39-36-dominios-de-colision-y-broadcast.webp",
-      "title": "Dominios de colisión y broadcast",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cada puerto de switch constituye normalmente un dominio de colisión separado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V37",
-      "file": "t39-37-vlan-y-etiquetado.webp",
-      "title": "VLAN y etiquetado",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una VLAN crea un dominio lógico de broadcast dentro de una infraestructura conmutada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V38",
-      "file": "t39-38-bucles-y-spanning-tree.webp",
-      "title": "Bucles y Spanning Tree",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un bucle de capa 2 puede multiplicar tramas y causar tormentas de broadcast.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V39",
-      "file": "t39-39-funcion-del-router.webp",
-      "title": "Función del router",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un router conecta redes y reenvía datagramas IP entre interfaces.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V40",
-      "file": "t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp",
-      "title": "Tabla de encaminamiento y ruta por defecto",
-      "type": "ilustracion_simple",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una ruta asocia un prefijo de destino con un siguiente salto o una interfaz.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V41",
-      "file": "t39-41-siguiente-salto-ttl-y-hop-limit.webp",
-      "title": "Siguiente salto, TTL y Hop Limit",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El siguiente salto es el router o destino vecino al que se entrega el paquete.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V42",
-      "file": "t39-42-rutas-estaticas-y-protocolos-dinamicos.webp",
-      "title": "Rutas estáticas y protocolos dinámicos",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una ruta estática se configura explícitamente y no se aprende por intercambio dinámico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V43",
-      "file": "t39-43-nat-y-pat.webp",
-      "title": "NAT y PAT",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: NAT modifica direcciones IP al atravesar el traductor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V44",
-      "file": "t39-44-concepto-y-politica-de-firewall.webp",
-      "title": "Concepto y política de firewall",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un firewall es un dispositivo o programa que controla tráfico entre redes o hosts con posturas de seguridad diferentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V45",
-      "file": "t39-il-45-filtrado-de-paquetes-y-estado.webp",
-      "title": "Filtrado de paquetes y estado",
-      "type": "ilustracion_simple",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El filtrado de paquetes evalúa campos como direcciones, protocolos y puertos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V46",
-      "file": "t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp",
-      "title": "Proxy firewall, UTM y defensa en profundidad",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un proxy de aplicación termina una conversación y origina otra como intermediario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V47",
-      "file": "t39-47-finalidad-y-actores-de-dhcpv4.webp",
-      "title": "Finalidad y actores de DHCPv4",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: DHCPv4 permite entregar parámetros de configuración a clientes de forma automática.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V48",
-      "file": "t39-48-dora-descubrimiento-y-concesion.webp",
-      "title": "DORA: descubrimiento y concesión",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: DHCPDISCOVER permite al cliente localizar servidores disponibles.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V49",
-      "file": "t39-49-concesion-renovacion-y-reserva-dhcp.webp",
-      "title": "Concesión, renovación y reserva DHCP",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una concesión DHCP asigna parámetros durante un intervalo administrado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V50",
-      "file": "t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp",
-      "title": "Broadcast, relay y autoconfiguración IPv4",
-      "type": "ilustracion_simple",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un cliente IPv4 sin dirección puede utilizar broadcast para iniciar DHCP.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V51",
-      "file": "t39-51-dhcpv6-y-slaac.webp",
-      "title": "DHCPv6 y SLAAC",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: DHCPv6 puede proporcionar direcciones, prefijos y parámetros de configuración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V52",
-      "file": "t39-52-espacio-de-nombres-dns.webp",
-      "title": "Espacio de nombres DNS",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: DNS organiza nombres en un espacio jerárquico distribuido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V53",
-      "file": "t39-53-registros-dns-principales.webp",
-      "title": "Registros DNS principales",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: A asocia un nombre con una dirección IPv4 y AAAA con una dirección IPv6.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V54",
-      "file": "t39-54-consulta-recursiva-e-iterativa.webp",
-      "title": "Consulta recursiva e iterativa",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En una consulta recursiva el servidor consultado debe devolver una respuesta final o un error.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V55",
-      "file": "t39-il-55-servidores-autoritativos-primario-y-secundario.webp",
-      "title": "Servidores autoritativos, primario y secundario",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un servidor autoritativo responde con datos de las zonas para las que tiene autoridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V56",
-      "file": "t39-56-cache-ttl-y-transporte-dns.webp",
-      "title": "Caché, TTL y transporte DNS",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El TTL de un registro limita cuánto tiempo puede conservarse en caché.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V57",
-      "file": "t39-57-proxy-directo-o-forward-proxy.webp",
-      "title": "Proxy directo o forward proxy",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un forward proxy actúa en nombre del cliente frente a servidores de destino.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V58",
-      "file": "t39-58-reverse-proxy-cache-y-tunel.webp",
-      "title": "Reverse proxy, caché y túnel",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un reverse proxy recibe solicitudes en nombre de uno o varios servidores de origen.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V59",
-      "file": "t39-59-formato-y-longitud-de-ipv4.webp",
-      "title": "Formato y longitud de IPv4",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una dirección IPv4 tiene 32 bits.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V60",
-      "file": "t39-il-60-prefijo-host-y-mascara-de-subred.webp",
-      "title": "Prefijo, host y máscara de subred",
-      "type": "ilustracion_simple",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El prefijo identifica la parte de red usada para el encaminamiento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V61",
-      "file": "t39-61-clase-a-historica.webp",
-      "title": "Clase A histórica",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase A comienza con bit 0.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V62",
-      "file": "t39-62-clase-b-historica.webp",
-      "title": "Clase B histórica",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase B comienza con bits 10.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V63",
-      "file": "t39-63-clase-c-historica.webp",
-      "title": "Clase C histórica",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En el esquema histórico, una dirección de clase C comienza con bits 110.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V64",
-      "file": "t39-64-clases-d-y-e-historicas.webp",
-      "title": "Clases D y E históricas",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El rango histórico de clase D comprende primeros octetos 224 a 239 y se asocia a multicast.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V65",
-      "file": "t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp",
-      "title": "CIDR frente a direccionamiento por clases",
-      "type": "ilustracion_simple",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: CIDR sustituyó operacionalmente las fronteras rígidas de clases por longitudes de prefijo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V66",
-      "file": "t39-66-calculo-de-subred-red-y-broadcast.webp",
-      "title": "Cálculo de subred, red y broadcast",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La dirección de red IPv4 se obtiene aplicando la máscara a la dirección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V67",
-      "file": "t39-67-direcciones-ipv4-privadas.webp",
-      "title": "Direcciones IPv4 privadas",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los bloques privados son 10.0.0.0/8, 172.16.0.0/12 y 192.168.0.0/16.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V68",
-      "file": "t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp",
-      "title": "Direcciones IPv4 especiales y puerta de enlace",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: 0.0.0.0 puede expresar dirección no especificada y 0.0.0.0/0 la ruta por defecto según contexto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V69",
-      "file": "t39-69-longitud-y-notacion-ipv6.webp",
-      "title": "Longitud y notación IPv6",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una dirección IPv6 tiene 128 bits.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V70",
-      "file": "t39-il-70-unicast-anycast-y-multicast.webp",
-      "title": "Unicast, anycast y multicast",
-      "type": "ilustracion_simple",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una dirección unicast identifica una interfaz individual.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V71",
-      "file": "t39-71-prefijos-ipv6-principales.webp",
-      "title": "Prefijos IPv6 principales",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: 2000::/3 cubre el espacio general de unicast global actualmente asignable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V72",
-      "file": "t39-72-cabecera-basica-y-extensiones-ipv6.webp",
-      "title": "Cabecera básica y extensiones IPv6",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La cabecera básica IPv6 tiene longitud fija de 40 bytes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V73",
-      "file": "t39-73-neighbor-discovery-y-slaac.webp",
-      "title": "Neighbor Discovery y SLAAC",
-      "type": "infografia",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Neighbor Discovery usa ICMPv6 para descubrir vecinos, routers y parámetros del enlace.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T39-V74",
-      "file": "t39-74-transicion-y-limites-de-ipv6.webp",
-      "title": "Transición y límites de IPv6",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dual stack permite ejecutar IPv4 e IPv6 simultáneamente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

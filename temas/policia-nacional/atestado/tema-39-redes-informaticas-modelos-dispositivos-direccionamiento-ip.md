@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 39**, aplica esta regla: El programa exi
 - **Incorrecto:** El Tema 39 es un catálogo general de toda la ciberseguridad.
 - **Incorrecto:** Las direcciones IP quedan fuera del epígrafe.
 
-<!-- VISUAL PENDIENTE: t39-01-alcance-oficial-del-tema-39.webp -->
+<!-- VISUAL:t39-01-alcance-oficial-del-tema-39.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-01-alcance-oficial-del-tema-39.webp" alt="Alcance oficial del Tema 39" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 39.</em></p>
 
 :::hablemos-claro
 El programa exige estudiar los modelos OSI y TCP/IP.
@@ -72,7 +76,11 @@ Para dominar **red, nodo, enlace y protocolo**, aplica esta regla: Una red inter
 - **Incorrecto:** Una red exige siempre acceso a Internet.
 - **Incorrecto:** Un protocolo es el cable que une físicamente dos equipos.
 
-<!-- VISUAL PENDIENTE: t39-02-red-nodo-enlace-y-protocolo.webp -->
+<!-- VISUAL:t39-02-red-nodo-enlace-y-protocolo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-02-red-nodo-enlace-y-protocolo.webp" alt="Red, nodo, enlace y protocolo" width="820">
+</p>
+<p align="center"><em>Infografía: Red, nodo, enlace y protocolo.</em></p>
 
 :::hablemos-claro
 Una red interconecta sistemas para intercambiar datos y compartir recursos.
@@ -111,7 +119,11 @@ Para dominar **lan, man, wan y pan**, aplica esta regla: Una LAN cubre normalmen
 - **Incorrecto:** Toda LAN usa exclusivamente cable Ethernet.
 - **Incorrecto:** Una WAN pertenece necesariamente a una sola organización.
 
-<!-- VISUAL PENDIENTE: t39-03-lan-man-wan-y-pan.webp -->
+<!-- VISUAL:t39-03-lan-man-wan-y-pan.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-03-lan-man-wan-y-pan.webp" alt="LAN, MAN, WAN y PAN" width="820">
+</p>
+<p align="center"><em>Infografía: LAN, MAN, WAN y PAN.</em></p>
 
 :::hablemos-claro
 Una LAN cubre normalmente un ámbito local bajo administración próxima.
@@ -150,7 +162,11 @@ Para dominar **topología física y topología lógica**, aplica esta regla: La 
 - **Incorrecto:** La topología física y la lógica son siempre idénticas.
 - **Incorrecto:** Estrella significa que cada nodo está conectado directamente a todos los demás.
 
-<!-- VISUAL PENDIENTE: t39-04-topologia-fisica-y-topologia-logica.webp -->
+<!-- VISUAL:t39-04-topologia-fisica-y-topologia-logica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-04-topologia-fisica-y-topologia-logica.webp" alt="Topología física y topología lógica" width="820">
+</p>
+<p align="center"><em>Infografía: Topología física y topología lógica.</em></p>
 
 :::hablemos-claro
 La topología física describe cómo se disponen enlaces y dispositivos.
@@ -189,7 +205,11 @@ Para dominar **conmutación, encaminamiento y servicios**, aplica esta regla: La
 - **Incorrecto:** Switch, router y DNS son tres nombres de la misma función.
 - **Incorrecto:** Un router reenvía tramas locales únicamente por la dirección MAC de destino final.
 
-<!-- VISUAL PENDIENTE: t39-il-05-conmutacion-encaminamiento-y-servicios.webp -->
+<!-- VISUAL:t39-il-05-conmutacion-encaminamiento-y-servicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-05-conmutacion-encaminamiento-y-servicios.webp" alt="Conmutación, encaminamiento y servicios" width="820">
+</p>
+<p align="center"><em>Infografía: Conmutación, encaminamiento y servicios.</em></p>
 
 :::hablemos-claro
 La conmutación Ethernet decide el reenvío local principalmente mediante direcciones MAC.
@@ -228,7 +248,11 @@ Para dominar **encapsulación y unidades de datos**, aplica esta regla: La encap
 - **Incorrecto:** Cada capa borra las cabeceras de las capas superiores antes de transmitir.
 - **Incorrecto:** La carga útil de una capa nunca contiene una unidad de otra capa.
 
-<!-- VISUAL PENDIENTE: t39-06-encapsulacion-y-unidades-de-datos.webp -->
+<!-- VISUAL:t39-06-encapsulacion-y-unidades-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-06-encapsulacion-y-unidades-de-datos.webp" alt="Encapsulación y unidades de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Encapsulación y unidades de datos.</em></p>
 
 :::hablemos-claro
 La encapsulación añade información de control al bajar por la pila.
@@ -267,7 +291,11 @@ Para dominar **finalidad del modelo osi**, aplica esta regla: OSI proporciona un
 - **Incorrecto:** OSI es un sistema operativo de red.
 - **Incorrecto:** Toda comunicación real implementa exactamente un protocolo por capa OSI.
 
-<!-- VISUAL PENDIENTE: t39-07-finalidad-del-modelo-osi.webp -->
+<!-- VISUAL:t39-07-finalidad-del-modelo-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-07-finalidad-del-modelo-osi.webp" alt="Finalidad del modelo OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad del modelo OSI.</em></p>
 
 :::hablemos-claro
 OSI proporciona una base común para coordinar estándares de interconexión de sistemas abiertos.
@@ -306,7 +334,11 @@ Para dominar **capas, servicios, protocolos e interfaces**, aplica esta regla: U
 - **Incorrecto:** Un servicio describe exclusivamente el formato de los mensajes entre pares.
 - **Incorrecto:** Una interfaz conecta siempre dos ordenadores remotos.
 
-<!-- VISUAL PENDIENTE: t39-08-capas-servicios-protocolos-e-interfaces.webp -->
+<!-- VISUAL:t39-08-capas-servicios-protocolos-e-interfaces.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-08-capas-servicios-protocolos-e-interfaces.webp" alt="Capas, servicios, protocolos e interfaces" width="820">
+</p>
+<p align="center"><em>Infografía: Capas, servicios, protocolos e interfaces.</em></p>
 
 :::hablemos-claro
 Una capa presta servicios a la capa superior y utiliza servicios de la inferior.
@@ -345,7 +377,11 @@ Para dominar **capa 1: física**, aplica esta regla: La capa física transmite u
 - **Incorrecto:** La capa física crea registros DNS.
 - **Incorrecto:** La capa física selecciona el mejor prefijo IP.
 
-<!-- VISUAL PENDIENTE: t39-09-capa-1-fisica.webp -->
+<!-- VISUAL:t39-09-capa-1-fisica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-09-capa-1-fisica.webp" alt="Capa 1: física" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 1: física.</em></p>
 
 :::hablemos-claro
 La capa física transmite un flujo de bits a través del medio.
@@ -384,7 +420,11 @@ Para dominar **capa 2: enlace de datos**, aplica esta regla: La capa de enlace o
 - **Incorrecto:** Una trama Ethernet se encamina por Internet sin encapsulación IP.
 - **Incorrecto:** Las direcciones MAC son nombres DNS.
 
-<!-- VISUAL PENDIENTE: t39-il-10-capa-2-enlace-de-datos.webp -->
+<!-- VISUAL:t39-il-10-capa-2-enlace-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-10-capa-2-enlace-de-datos.webp" alt="Capa 2: enlace de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 2: enlace de datos.</em></p>
 
 :::hablemos-claro
 La capa de enlace organiza la transmisión sobre un enlace en unidades como tramas.
@@ -423,7 +463,11 @@ Para dominar **sublayers llc y mac**, aplica esta regla: La subcapa MAC se relac
 - **Incorrecto:** LLC asigna direcciones IPv6 globales.
 - **Incorrecto:** Una MAC identifica siempre a una persona y nunca puede cambiar.
 
-<!-- VISUAL PENDIENTE: t39-11-sublayers-llc-y-mac.webp -->
+<!-- VISUAL:t39-11-sublayers-llc-y-mac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-11-sublayers-llc-y-mac.webp" alt="Sublayers LLC y MAC" width="820">
+</p>
+<p align="center"><em>Infografía: Sublayers LLC y MAC.</em></p>
 
 :::hablemos-claro
 La subcapa MAC se relaciona con el acceso al medio y el direccionamiento físico.
@@ -462,7 +506,11 @@ Para dominar **capa 3: red**, aplica esta regla: La capa de red permite transfer
 - **Incorrecto:** La capa de red es la capa de sesión.
 - **Incorrecto:** IP confirma necesariamente cada paquete recibido.
 
-<!-- VISUAL PENDIENTE: t39-12-capa-3-red.webp -->
+<!-- VISUAL:t39-12-capa-3-red.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-12-capa-3-red.webp" alt="Capa 3: red" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 3: red.</em></p>
 
 :::hablemos-claro
 La capa de red permite transferir paquetes entre sistemas a través de redes intermedias.
@@ -501,7 +549,11 @@ Para dominar **capa 4: transporte**, aplica esta regla: La capa de transporte of
 - **Incorrecto:** Todo protocolo de transporte confirma y retransmite.
 - **Incorrecto:** La capa de transporte elige la dirección MAC del siguiente enlace.
 
-<!-- VISUAL PENDIENTE: t39-13-capa-4-transporte.webp -->
+<!-- VISUAL:t39-13-capa-4-transporte.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-13-capa-4-transporte.webp" alt="Capa 4: transporte" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 4: transporte.</em></p>
 
 :::hablemos-claro
 La capa de transporte ofrece comunicación lógica entre extremos o procesos.
@@ -540,7 +592,11 @@ Para dominar **capa 5: sesión**, aplica esta regla: La capa de sesión modela e
 - **Incorrecto:** La capa de sesión transmite voltajes.
 - **Incorrecto:** TCP/IP exige un protocolo autónomo llamado siempre sesión.
 
-<!-- VISUAL PENDIENTE: t39-14-capa-5-sesion.webp -->
+<!-- VISUAL:t39-14-capa-5-sesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-14-capa-5-sesion.webp" alt="Capa 5: sesión" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 5: sesión.</em></p>
 
 :::hablemos-claro
 La capa de sesión modela el establecimiento, mantenimiento y cierre de diálogos.
@@ -579,7 +635,11 @@ Para dominar **capa 6: presentación**, aplica esta regla: La capa de presentaci
 - **Incorrecto:** La capa de presentación diseña la interfaz gráfica de la pantalla.
 - **Incorrecto:** Todo cifrado pertenece exclusivamente y sin excepción a la capa 6.
 
-<!-- VISUAL PENDIENTE: t39-il-15-capa-6-presentacion.webp -->
+<!-- VISUAL:t39-il-15-capa-6-presentacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-15-capa-6-presentacion.webp" alt="Capa 6: presentación" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 6: presentación.</em></p>
 
 :::hablemos-claro
 La capa de presentación trata la sintaxis y representación de la información.
@@ -618,7 +678,11 @@ Para dominar **capa 7: aplicación**, aplica esta regla: La capa de aplicación 
 - **Incorrecto:** La capa de aplicación es el programa completo y no contiene protocolos.
 - **Incorrecto:** DNS opera como señal eléctrica de capa física.
 
-<!-- VISUAL PENDIENTE: t39-16-capa-7-aplicacion.webp -->
+<!-- VISUAL:t39-16-capa-7-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-16-capa-7-aplicacion.webp" alt="Capa 7: aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 7: aplicación.</em></p>
 
 :::hablemos-claro
 La capa de aplicación ofrece servicios de comunicación a procesos de aplicación.
@@ -657,7 +721,11 @@ Para dominar **pdu: bits, tramas, paquetes y segmentos**, aplica esta regla: Bit
 - **Incorrecto:** Todos los niveles llaman trama a su unidad.
 - **Incorrecto:** Un segmento TCP es una señal eléctrica sin cabecera.
 
-<!-- VISUAL PENDIENTE: t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp -->
+<!-- VISUAL:t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp" alt="PDU: bits, tramas, paquetes y segmentos" width="820">
+</p>
+<p align="center"><em>Infografía: PDU: bits, tramas, paquetes y segmentos.</em></p>
 
 :::hablemos-claro
 Bits es la denominación elemental asociada a la transmisión física.
@@ -696,7 +764,11 @@ Para dominar **encapsulación en el modelo osi**, aplica esta regla: Cada capa p
 - **Incorrecto:** El receptor añade todas las cabeceras antes de entregar datos.
 - **Incorrecto:** El tráiler Ethernet contiene la ruta IP completa.
 
-<!-- VISUAL PENDIENTE: t39-18-encapsulacion-en-el-modelo-osi.webp -->
+<!-- VISUAL:t39-18-encapsulacion-en-el-modelo-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-18-encapsulacion-en-el-modelo-osi.webp" alt="Encapsulación en el modelo OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Encapsulación en el modelo OSI.</em></p>
 
 :::hablemos-claro
 Cada capa puede añadir su cabecera a la unidad recibida de la superior.
@@ -735,7 +807,11 @@ Para dominar **dispositivos y capas osi**, aplica esta regla: Hub y repetidor se
 - **Incorrecto:** Todo firewall funciona únicamente en capa física.
 - **Incorrecto:** Un switch nunca puede incorporar funciones de capa 3.
 
-<!-- VISUAL PENDIENTE: t39-19-dispositivos-y-capas-osi.webp -->
+<!-- VISUAL:t39-19-dispositivos-y-capas-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-19-dispositivos-y-capas-osi.webp" alt="Dispositivos y capas OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos y capas OSI.</em></p>
 
 :::hablemos-claro
 Hub y repetidor se asocian principalmente a la capa física.
@@ -774,7 +850,11 @@ Para dominar **diagnóstico por capas**, aplica esta regla: La ausencia de enlac
 - **Incorrecto:** Si ping responde, toda aplicación funciona necesariamente.
 - **Incorrecto:** Un fallo DNS impide que una interfaz tenga enlace físico.
 
-<!-- VISUAL PENDIENTE: t39-il-20-diagnostico-por-capas.webp -->
+<!-- VISUAL:t39-il-20-diagnostico-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-20-diagnostico-por-capas.webp" alt="Diagnóstico por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Diagnóstico por capas.</em></p>
 
 :::hablemos-claro
 La ausencia de enlace físico se investiga antes que la resolución DNS.
@@ -813,7 +893,11 @@ Para dominar **finalidad del modelo tcp/ip**, aplica esta regla: TCP/IP agrupa p
 - **Incorrecto:** TCP/IP tiene siempre siete capas idénticas a OSI.
 - **Incorrecto:** TCP/IP es únicamente el protocolo TCP.
 
-<!-- VISUAL PENDIENTE: t39-21-finalidad-del-modelo-tcp-ip.webp -->
+<!-- VISUAL:t39-21-finalidad-del-modelo-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-21-finalidad-del-modelo-tcp-ip.webp" alt="Finalidad del modelo TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad del modelo TCP/IP.</em></p>
 
 :::hablemos-claro
 TCP/IP agrupa protocolos usados para interconectar redes y prestar servicios de Internet.
@@ -852,7 +936,11 @@ Para dominar **correspondencia osi y tcp/ip**, aplica esta regla: La aplicación
 - **Incorrecto:** La equivalencia entre ambos modelos es exacta protocolo por protocolo.
 - **Incorrecto:** La capa Internet TCP/IP equivale a presentación OSI.
 
-<!-- VISUAL PENDIENTE: t39-22-correspondencia-osi-y-tcp-ip.webp -->
+<!-- VISUAL:t39-22-correspondencia-osi-y-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-22-correspondencia-osi-y-tcp-ip.webp" alt="Correspondencia OSI y TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Correspondencia OSI y TCP/IP.</em></p>
 
 :::hablemos-claro
 La aplicación TCP/IP agrupa funciones que OSI separa en aplicación, presentación y sesión.
@@ -891,7 +979,11 @@ Para dominar **capa de aplicación tcp/ip**, aplica esta regla: La capa de aplic
 - **Incorrecto:** Todo protocolo de aplicación usa exclusivamente TCP.
 - **Incorrecto:** El número de puerto es una dirección IP.
 
-<!-- VISUAL PENDIENTE: t39-23-capa-de-aplicacion-tcp-ip.webp -->
+<!-- VISUAL:t39-23-capa-de-aplicacion-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-23-capa-de-aplicacion-tcp-ip.webp" alt="Capa de aplicación TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Capa de aplicación TCP/IP.</em></p>
 
 :::hablemos-claro
 La capa de aplicación contiene protocolos que soportan servicios para programas y usuarios.
@@ -930,7 +1022,11 @@ Para dominar **tcp: conexión y fiabilidad**, aplica esta regla: TCP ofrece a la
 - **Incorrecto:** TCP preserva necesariamente los límites de cada mensaje de la aplicación.
 - **Incorrecto:** TCP elimina toda posibilidad de congestión.
 
-<!-- VISUAL PENDIENTE: t39-24-tcp-conexion-y-fiabilidad.webp -->
+<!-- VISUAL:t39-24-tcp-conexion-y-fiabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-24-tcp-conexion-y-fiabilidad.webp" alt="TCP: conexión y fiabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: TCP: conexión y fiabilidad.</em></p>
 
 :::hablemos-claro
 TCP ofrece a las aplicaciones un flujo fiable y ordenado de bytes.
@@ -969,7 +1065,11 @@ Para dominar **establecimiento y cierre tcp**, aplica esta regla: El establecimi
 - **Incorrecto:** SYN transmite siempre el archivo completo.
 - **Incorrecto:** RST representa un cierre ordenado confirmado por ambas partes.
 
-<!-- VISUAL PENDIENTE: t39-il-25-establecimiento-y-cierre-tcp.webp -->
+<!-- VISUAL:t39-il-25-establecimiento-y-cierre-tcp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-25-establecimiento-y-cierre-tcp.webp" alt="Establecimiento y cierre TCP" width="820">
+</p>
+<p align="center"><em>Infografía: Establecimiento y cierre TCP.</em></p>
 
 :::hablemos-claro
 El establecimiento normal de TCP usa el intercambio SYN, SYN-ACK y ACK.
@@ -1008,7 +1108,11 @@ Para dominar **udp: datagramas sin conexión**, aplica esta regla: UDP transport
 - **Incorrecto:** UDP garantiza que los datagramas llegan en orden.
 - **Incorrecto:** UDP carece de números de puerto.
 
-<!-- VISUAL PENDIENTE: t39-26-udp-datagramas-sin-conexion.webp -->
+<!-- VISUAL:t39-26-udp-datagramas-sin-conexion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-26-udp-datagramas-sin-conexion.webp" alt="UDP: datagramas sin conexión" width="820">
+</p>
+<p align="center"><em>Infografía: UDP: datagramas sin conexión.</em></p>
 
 :::hablemos-claro
 UDP transporta datagramas sin establecer una conexión fiable.
@@ -1047,7 +1151,11 @@ Para dominar **ip: servicio de datagramas**, aplica esta regla: IP transporta da
 - **Incorrecto:** IP establece por sí mismo una sesión fiable antes de cada paquete.
 - **Incorrecto:** Un router confirma a la aplicación la entrega de todos los datagramas.
 
-<!-- VISUAL PENDIENTE: t39-27-ip-servicio-de-datagramas.webp -->
+<!-- VISUAL:t39-27-ip-servicio-de-datagramas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-27-ip-servicio-de-datagramas.webp" alt="IP: servicio de datagramas" width="820">
+</p>
+<p align="center"><em>Infografía: IP: servicio de datagramas.</em></p>
 
 :::hablemos-claro
 IP transporta datagramas entre redes mediante direcciones lógicas.
@@ -1086,7 +1194,11 @@ Para dominar **icmp y el comando ping**, aplica esta regla: ICMP comunica determ
 - **Incorrecto:** Ping utiliza necesariamente RIP.
 - **Incorrecto:** ICMP es un protocolo de transferencia de archivos.
 
-<!-- VISUAL PENDIENTE: t39-28-icmp-y-el-comando-ping.webp -->
+<!-- VISUAL:t39-28-icmp-y-el-comando-ping.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-28-icmp-y-el-comando-ping.webp" alt="ICMP y el comando ping" width="820">
+</p>
+<p align="center"><em>Infografía: ICMP y el comando ping.</em></p>
 
 :::hablemos-claro
 ICMP comunica determinados errores y condiciones de control asociados a IP.
@@ -1125,7 +1237,11 @@ Para dominar **arp en ipv4 y ndp en ipv6**, aplica esta regla: ARP permite asoci
 - **Incorrecto:** DNS sustituye a ARP dentro de Ethernet.
 - **Incorrecto:** Un host busca por ARP la MAC del servidor remoto a través de todos los routers.
 
-<!-- VISUAL PENDIENTE: t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp -->
+<!-- VISUAL:t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp" alt="ARP en IPv4 y NDP en IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: ARP en IPv4 y NDP en IPv6.</em></p>
 
 :::hablemos-claro
 ARP permite asociar una dirección IPv4 con una dirección de enlace en la red local.
@@ -1164,7 +1280,11 @@ Para dominar **puertos, sockets y multiplexación**, aplica esta regla: Los puer
 - **Incorrecto:** El puerto 443 convierte automáticamente cualquier tráfico en seguro.
 - **Incorrecto:** Dos conexiones TCP son idénticas si comparten solo el puerto de destino.
 
-<!-- VISUAL PENDIENTE: t39-il-30-puertos-sockets-y-multiplexacion.webp -->
+<!-- VISUAL:t39-il-30-puertos-sockets-y-multiplexacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-30-puertos-sockets-y-multiplexacion.webp" alt="Puertos, sockets y multiplexación" width="820">
+</p>
+<p align="center"><em>Infografía: Puertos, sockets y multiplexación.</em></p>
 
 :::hablemos-claro
 Los puertos permiten multiplexar conversaciones de transporte en un host.
@@ -1203,7 +1323,11 @@ Para dominar **repetidor y concentrador hub**, aplica esta regla: Un repetidor r
 - **Incorrecto:** Un hub construye una tabla de rutas IP.
 - **Incorrecto:** Un hub envía la trama solo al puerto de la MAC destino aprendida.
 
-<!-- VISUAL PENDIENTE: t39-31-repetidor-y-concentrador-hub.webp -->
+<!-- VISUAL:t39-31-repetidor-y-concentrador-hub.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-31-repetidor-y-concentrador-hub.webp" alt="Repetidor y concentrador hub" width="820">
+</p>
+<p align="center"><em>Infografía: Repetidor y concentrador hub.</em></p>
 
 :::hablemos-claro
 Un repetidor regenera o repite señales para extender un segmento físico.
@@ -1242,7 +1366,11 @@ Para dominar **dominio de colisión compartido**, aplica esta regla: Los puertos
 - **Incorrecto:** Cada puerto de un hub crea un dominio de colisión independiente.
 - **Incorrecto:** Un hub garantiza full-duplex simultáneo en todos sus puertos.
 
-<!-- VISUAL PENDIENTE: t39-32-dominio-de-colision-compartido.webp -->
+<!-- VISUAL:t39-32-dominio-de-colision-compartido.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-32-dominio-de-colision-compartido.webp" alt="Dominio de colisión compartido" width="820">
+</p>
+<p align="center"><em>Infografía: Dominio de colisión compartido.</em></p>
 
 :::hablemos-claro
 Los puertos de un hub comparten el mismo dominio de colisión.
@@ -1281,7 +1409,11 @@ Para dominar **bridge y switch ethernet**, aplica esta regla: Un bridge conecta 
 - **Incorrecto:** Un switch de capa 2 elige rutas globales por prefijos IP.
 - **Incorrecto:** Bridge y hub repiten siempre todas las señales del mismo modo.
 
-<!-- VISUAL PENDIENTE: t39-33-bridge-y-switch-ethernet.webp -->
+<!-- VISUAL:t39-33-bridge-y-switch-ethernet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-33-bridge-y-switch-ethernet.webp" alt="Bridge y switch Ethernet" width="820">
+</p>
+<p align="center"><em>Infografía: Bridge y switch Ethernet.</em></p>
 
 :::hablemos-claro
 Un bridge conecta segmentos de capa 2 y filtra o reenvía tramas.
@@ -1320,7 +1452,11 @@ Para dominar **aprendizaje de la tabla mac**, aplica esta regla: El switch apren
 - **Incorrecto:** El switch aprende el puerto mirando solo la MAC de destino.
 - **Incorrecto:** La tabla MAC es la zona DNS del conmutador.
 
-<!-- VISUAL PENDIENTE: t39-34-aprendizaje-de-la-tabla-mac.webp -->
+<!-- VISUAL:t39-34-aprendizaje-de-la-tabla-mac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-34-aprendizaje-de-la-tabla-mac.webp" alt="Aprendizaje de la tabla MAC" width="820">
+</p>
+<p align="center"><em>Infografía: Aprendizaje de la tabla MAC.</em></p>
 
 :::hablemos-claro
 El switch aprende la asociación entre MAC de origen y puerto de entrada.
@@ -1359,7 +1495,11 @@ Para dominar **filtrado, reenvío y flooding**, aplica esta regla: Si el destino
 - **Incorrecto:** Un destino desconocido hace que el switch descarte siempre la trama.
 - **Incorrecto:** Flooding significa enviar la trama de vuelta solo al puerto de entrada.
 
-<!-- VISUAL PENDIENTE: t39-il-35-filtrado-reenvio-y-flooding.webp -->
+<!-- VISUAL:t39-il-35-filtrado-reenvio-y-flooding.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-35-filtrado-reenvio-y-flooding.webp" alt="Filtrado, reenvío y flooding" width="820">
+</p>
+<p align="center"><em>Infografía: Filtrado, reenvío y flooding.</em></p>
 
 :::hablemos-claro
 Si el destino conocido está en otro puerto, el switch reenvía hacia ese puerto.
@@ -1398,7 +1538,11 @@ Para dominar **dominios de colisión y broadcast**, aplica esta regla: Cada puer
 - **Incorrecto:** Un switch sin VLAN separa automáticamente cada puerto en un dominio de broadcast.
 - **Incorrecto:** Un router une todos los broadcasts Ethernet entre interfaces.
 
-<!-- VISUAL PENDIENTE: t39-36-dominios-de-colision-y-broadcast.webp -->
+<!-- VISUAL:t39-36-dominios-de-colision-y-broadcast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-36-dominios-de-colision-y-broadcast.webp" alt="Dominios de colisión y broadcast" width="820">
+</p>
+<p align="center"><em>Infografía: Dominios de colisión y broadcast.</em></p>
 
 :::hablemos-claro
 Cada puerto de switch constituye normalmente un dominio de colisión separado.
@@ -1437,7 +1581,11 @@ Para dominar **vlan y etiquetado**, aplica esta regla: Una VLAN crea un dominio 
 - **Incorrecto:** Una VLAN cifra automáticamente todo el tráfico.
 - **Incorrecto:** Dos VLAN distintas se comunican sin encaminamiento por ser del mismo switch.
 
-<!-- VISUAL PENDIENTE: t39-37-vlan-y-etiquetado.webp -->
+<!-- VISUAL:t39-37-vlan-y-etiquetado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-37-vlan-y-etiquetado.webp" alt="VLAN y etiquetado" width="820">
+</p>
+<p align="center"><em>Infografía: VLAN y etiquetado.</em></p>
 
 :::hablemos-claro
 Una VLAN crea un dominio lógico de broadcast dentro de una infraestructura conmutada.
@@ -1476,7 +1624,11 @@ Para dominar **bucles y spanning tree**, aplica esta regla: Un bucle de capa 2 p
 - **Incorrecto:** Una trama Ethernet reduce su TTL en cada switch.
 - **Incorrecto:** Spanning Tree obliga a eliminar físicamente todos los enlaces redundantes.
 
-<!-- VISUAL PENDIENTE: t39-38-bucles-y-spanning-tree.webp -->
+<!-- VISUAL:t39-38-bucles-y-spanning-tree.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-38-bucles-y-spanning-tree.webp" alt="Bucles y Spanning Tree" width="820">
+</p>
+<p align="center"><em>Infografía: Bucles y Spanning Tree.</em></p>
 
 :::hablemos-claro
 Un bucle de capa 2 puede multiplicar tramas y causar tormentas de broadcast.
@@ -1515,7 +1667,11 @@ Para dominar **función del router**, aplica esta regla: Un router conecta redes
 - **Incorrecto:** El router reenvía siempre la misma trama Ethernet intacta de origen a destino.
 - **Incorrecto:** El router decide por el nombre DNS del archivo solicitado.
 
-<!-- VISUAL PENDIENTE: t39-39-funcion-del-router.webp -->
+<!-- VISUAL:t39-39-funcion-del-router.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-39-funcion-del-router.webp" alt="Función del router" width="820">
+</p>
+<p align="center"><em>Infografía: Función del router.</em></p>
 
 :::hablemos-claro
 Un router conecta redes y reenvía datagramas IP entre interfaces.
@@ -1554,7 +1710,11 @@ Para dominar **tabla de encaminamiento y ruta por defecto**, aplica esta regla: 
 - **Incorrecto:** La primera ruta escrita es siempre la elegida aunque sea menos específica.
 - **Incorrecto:** 0.0.0.0/0 coincide solo con la dirección 0.0.0.0.
 
-<!-- VISUAL PENDIENTE: t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp -->
+<!-- VISUAL:t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp" alt="Tabla de encaminamiento y ruta por defecto" width="820">
+</p>
+<p align="center"><em>Infografía: Tabla de encaminamiento y ruta por defecto.</em></p>
 
 :::hablemos-claro
 Una ruta asocia un prefijo de destino con un siguiente salto o una interfaz.
@@ -1593,7 +1753,11 @@ Para dominar **siguiente salto, ttl y hop limit**, aplica esta regla: El siguien
 - **Incorrecto:** TTL mide el tiempo exacto en segundos que un paquete permanece en Internet.
 - **Incorrecto:** Los switches de capa 2 reducen siempre el Hop Limit.
 
-<!-- VISUAL PENDIENTE: t39-41-siguiente-salto-ttl-y-hop-limit.webp -->
+<!-- VISUAL:t39-41-siguiente-salto-ttl-y-hop-limit.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-41-siguiente-salto-ttl-y-hop-limit.webp" alt="Siguiente salto, TTL y Hop Limit" width="820">
+</p>
+<p align="center"><em>Infografía: Siguiente salto, TTL y Hop Limit.</em></p>
 
 :::hablemos-claro
 El siguiente salto es el router o destino vecino al que se entrega el paquete.
@@ -1632,7 +1796,11 @@ Para dominar **rutas estáticas y protocolos dinámicos**, aplica esta regla: Un
 - **Incorrecto:** BGP asigna direcciones MAC a los hosts de una LAN.
 - **Incorrecto:** Toda ruta dinámica es necesariamente mejor y más segura que una estática.
 
-<!-- VISUAL PENDIENTE: t39-42-rutas-estaticas-y-protocolos-dinamicos.webp -->
+<!-- VISUAL:t39-42-rutas-estaticas-y-protocolos-dinamicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-42-rutas-estaticas-y-protocolos-dinamicos.webp" alt="Rutas estáticas y protocolos dinámicos" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas estáticas y protocolos dinámicos.</em></p>
 
 :::hablemos-claro
 Una ruta estática se configura explícitamente y no se aprende por intercambio dinámico.
@@ -1671,7 +1839,11 @@ Para dominar **nat y pat**, aplica esta regla: NAT modifica direcciones IP al at
 - **Incorrecto:** NAT cifra el contenido de todos los paquetes.
 - **Incorrecto:** Una dirección privada se vuelve pública sin que el traductor modifique nada.
 
-<!-- VISUAL PENDIENTE: t39-43-nat-y-pat.webp -->
+<!-- VISUAL:t39-43-nat-y-pat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-43-nat-y-pat.webp" alt="NAT y PAT" width="820">
+</p>
+<p align="center"><em>Infografía: NAT y PAT.</em></p>
 
 :::hablemos-claro
 NAT modifica direcciones IP al atravesar el traductor.
@@ -1710,7 +1882,11 @@ Para dominar **concepto y política de firewall**, aplica esta regla: Un firewal
 - **Incorrecto:** Firewall significa necesariamente antivirus.
 - **Incorrecto:** Toda política segura debe permitir por defecto cualquier tráfico desconocido.
 
-<!-- VISUAL PENDIENTE: t39-44-concepto-y-politica-de-firewall.webp -->
+<!-- VISUAL:t39-44-concepto-y-politica-de-firewall.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-44-concepto-y-politica-de-firewall.webp" alt="Concepto y política de firewall" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y política de firewall.</em></p>
 
 :::hablemos-claro
 Un firewall es un dispositivo o programa que controla tráfico entre redes o hosts con posturas de seguridad diferentes.
@@ -1749,7 +1925,11 @@ Para dominar **filtrado de paquetes y estado**, aplica esta regla: El filtrado d
 - **Incorrecto:** Un firewall con estado solo mira la dirección MAC.
 - **Incorrecto:** Mantener estado equivale a descifrar siempre el contenido cifrado.
 
-<!-- VISUAL PENDIENTE: t39-il-45-filtrado-de-paquetes-y-estado.webp -->
+<!-- VISUAL:t39-il-45-filtrado-de-paquetes-y-estado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-45-filtrado-de-paquetes-y-estado.webp" alt="Filtrado de paquetes y estado" width="820">
+</p>
+<p align="center"><em>Infografía: Filtrado de paquetes y estado.</em></p>
 
 :::hablemos-claro
 El filtrado de paquetes evalúa campos como direcciones, protocolos y puertos.
@@ -1788,7 +1968,11 @@ Para dominar **proxy firewall, utm y defensa en profundidad**, aplica esta regla
 - **Incorrecto:** Proxy y router trabajan necesariamente al mismo nivel de la pila.
 - **Incorrecto:** UTM garantiza seguridad completa sin actualización ni política.
 
-<!-- VISUAL PENDIENTE: t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp -->
+<!-- VISUAL:t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp" alt="Proxy firewall, UTM y defensa en profundidad" width="820">
+</p>
+<p align="center"><em>Infografía: Proxy firewall, UTM y defensa en profundidad.</em></p>
 
 :::hablemos-claro
 Un proxy de aplicación termina una conversación y origina otra como intermediario.
@@ -1827,7 +2011,11 @@ Para dominar **finalidad y actores de dhcpv4**, aplica esta regla: DHCPv4 permit
 - **Incorrecto:** DHCP traduce nombres de dominio a direcciones IP.
 - **Incorrecto:** Un relay DHCP es el servidor que almacena necesariamente todas las concesiones.
 
-<!-- VISUAL PENDIENTE: t39-47-finalidad-y-actores-de-dhcpv4.webp -->
+<!-- VISUAL:t39-47-finalidad-y-actores-de-dhcpv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-47-finalidad-y-actores-de-dhcpv4.webp" alt="Finalidad y actores de DHCPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad y actores de DHCPv4.</em></p>
 
 :::hablemos-claro
 DHCPv4 permite entregar parámetros de configuración a clientes de forma automática.
@@ -1866,7 +2054,11 @@ Para dominar **dora: descubrimiento y concesión**, aplica esta regla: DHCPDISCO
 - **Incorrecto:** DORA termina con una consulta DNS.
 - **Incorrecto:** DHCPACK es el primer mensaje enviado por un cliente sin configuración.
 
-<!-- VISUAL PENDIENTE: t39-48-dora-descubrimiento-y-concesion.webp -->
+<!-- VISUAL:t39-48-dora-descubrimiento-y-concesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-48-dora-descubrimiento-y-concesion.webp" alt="DORA: descubrimiento y concesión" width="820">
+</p>
+<p align="center"><em>Infografía: DORA: descubrimiento y concesión.</em></p>
 
 :::hablemos-claro
 DHCPDISCOVER permite al cliente localizar servidores disponibles.
@@ -1905,7 +2097,11 @@ Para dominar **concesión, renovación y reserva dhcp**, aplica esta regla: Una 
 - **Incorrecto:** Una concesión DHCP nunca caduca.
 - **Incorrecto:** Una reserva impide que el cliente use protocolo DHCP.
 
-<!-- VISUAL PENDIENTE: t39-49-concesion-renovacion-y-reserva-dhcp.webp -->
+<!-- VISUAL:t39-49-concesion-renovacion-y-reserva-dhcp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-49-concesion-renovacion-y-reserva-dhcp.webp" alt="Concesión, renovación y reserva DHCP" width="820">
+</p>
+<p align="center"><em>Infografía: Concesión, renovación y reserva DHCP.</em></p>
 
 :::hablemos-claro
 Una concesión DHCP asigna parámetros durante un intervalo administrado.
@@ -1944,7 +2140,11 @@ Para dominar **broadcast, relay y autoconfiguración ipv4**, aplica esta regla: 
 - **Incorrecto:** Los broadcasts DHCP atraviesan todos los routers por defecto.
 - **Incorrecto:** 169.254.0.0/16 es un rango público global.
 
-<!-- VISUAL PENDIENTE: t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp -->
+<!-- VISUAL:t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp" alt="Broadcast, relay y autoconfiguración IPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Broadcast, relay y autoconfiguración IPv4.</em></p>
 
 :::hablemos-claro
 Un cliente IPv4 sin dirección puede utilizar broadcast para iniciar DHCP.
@@ -1983,7 +2183,11 @@ Para dominar **dhcpv6 y slaac**, aplica esta regla: DHCPv6 puede proporcionar di
 - **Incorrecto:** IPv6 solo puede configurarse mediante DHCPv6.
 - **Incorrecto:** DHCPv6 utiliza exactamente los mensajes DORA de DHCPv4.
 
-<!-- VISUAL PENDIENTE: t39-51-dhcpv6-y-slaac.webp -->
+<!-- VISUAL:t39-51-dhcpv6-y-slaac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-51-dhcpv6-y-slaac.webp" alt="DHCPv6 y SLAAC" width="820">
+</p>
+<p align="center"><em>Infografía: DHCPv6 y SLAAC.</em></p>
 
 :::hablemos-claro
 DHCPv6 puede proporcionar direcciones, prefijos y parámetros de configuración.
@@ -2022,7 +2226,11 @@ Para dominar **espacio de nombres dns**, aplica esta regla: DNS organiza nombres
 - **Incorrecto:** DNS es una única tabla mundial almacenada en un servidor.
 - **Incorrecto:** Toda zona contiene siempre todos los subdominios descendientes.
 
-<!-- VISUAL PENDIENTE: t39-52-espacio-de-nombres-dns.webp -->
+<!-- VISUAL:t39-52-espacio-de-nombres-dns.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-52-espacio-de-nombres-dns.webp" alt="Espacio de nombres DNS" width="820">
+</p>
+<p align="center"><em>Infografía: Espacio de nombres DNS.</em></p>
 
 :::hablemos-claro
 DNS organiza nombres en un espacio jerárquico distribuido.
@@ -2061,7 +2269,11 @@ Para dominar **registros dns principales**, aplica esta regla: A asocia un nombr
 - **Incorrecto:** Un registro A contiene una dirección IPv6.
 - **Incorrecto:** CNAME es un registro de ruta por defecto.
 
-<!-- VISUAL PENDIENTE: t39-53-registros-dns-principales.webp -->
+<!-- VISUAL:t39-53-registros-dns-principales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-53-registros-dns-principales.webp" alt="Registros DNS principales" width="820">
+</p>
+<p align="center"><em>Infografía: Registros DNS principales.</em></p>
 
 :::hablemos-claro
 A asocia un nombre con una dirección IPv4 y AAAA con una dirección IPv6.
@@ -2100,7 +2312,11 @@ Para dominar **consulta recursiva e iterativa**, aplica esta regla: En una consu
 - **Incorrecto:** Una respuesta iterativa obliga al servidor a consultar toda la jerarquía por el cliente.
 - **Incorrecto:** Todo servidor autoritativo debe ofrecer recursión pública.
 
-<!-- VISUAL PENDIENTE: t39-54-consulta-recursiva-e-iterativa.webp -->
+<!-- VISUAL:t39-54-consulta-recursiva-e-iterativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-54-consulta-recursiva-e-iterativa.webp" alt="Consulta recursiva e iterativa" width="820">
+</p>
+<p align="center"><em>Infografía: Consulta recursiva e iterativa.</em></p>
 
 :::hablemos-claro
 En una consulta recursiva el servidor consultado debe devolver una respuesta final o un error.
@@ -2139,7 +2355,11 @@ Para dominar **servidores autoritativos, primario y secundario**, aplica esta re
 - **Incorrecto:** El servidor secundario ofrece respuestas menos oficiales que el primario.
 - **Incorrecto:** Toda respuesta en caché implica autoridad sobre la zona.
 
-<!-- VISUAL PENDIENTE: t39-il-55-servidores-autoritativos-primario-y-secundario.webp -->
+<!-- VISUAL:t39-il-55-servidores-autoritativos-primario-y-secundario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-55-servidores-autoritativos-primario-y-secundario.webp" alt="Servidores autoritativos, primario y secundario" width="820">
+</p>
+<p align="center"><em>Infografía: Servidores autoritativos, primario y secundario.</em></p>
 
 :::hablemos-claro
 Un servidor autoritativo responde con datos de las zonas para las que tiene autoridad.
@@ -2178,7 +2398,11 @@ Para dominar **caché, ttl y transporte dns**, aplica esta regla: El TTL de un r
 - **Incorrecto:** El TTL indica la distancia en saltos hasta el servidor.
 - **Incorrecto:** DNS funciona exclusivamente mediante UDP.
 
-<!-- VISUAL PENDIENTE: t39-56-cache-ttl-y-transporte-dns.webp -->
+<!-- VISUAL:t39-56-cache-ttl-y-transporte-dns.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-56-cache-ttl-y-transporte-dns.webp" alt="Caché, TTL y transporte DNS" width="820">
+</p>
+<p align="center"><em>Infografía: Caché, TTL y transporte DNS.</em></p>
 
 :::hablemos-claro
 El TTL de un registro limita cuánto tiempo puede conservarse en caché.
@@ -2217,7 +2441,11 @@ Para dominar **proxy directo o forward proxy**, aplica esta regla: Un forward pr
 - **Incorrecto:** Todo proxy es un dispositivo físico independiente.
 - **Incorrecto:** Un forward proxy representa al servidor de origen ante Internet.
 
-<!-- VISUAL PENDIENTE: t39-57-proxy-directo-o-forward-proxy.webp -->
+<!-- VISUAL:t39-57-proxy-directo-o-forward-proxy.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-57-proxy-directo-o-forward-proxy.webp" alt="Proxy directo o forward proxy" width="820">
+</p>
+<p align="center"><em>Infografía: Proxy directo o forward proxy.</em></p>
 
 :::hablemos-claro
 Un forward proxy actúa en nombre del cliente frente a servidores de destino.
@@ -2256,7 +2484,11 @@ Para dominar **reverse proxy, caché y túnel**, aplica esta regla: Un reverse p
 - **Incorrecto:** Un reverse proxy representa al cliente dentro de su red local.
 - **Incorrecto:** Toda respuesta HTTP puede almacenarse indefinidamente en caché.
 
-<!-- VISUAL PENDIENTE: t39-58-reverse-proxy-cache-y-tunel.webp -->
+<!-- VISUAL:t39-58-reverse-proxy-cache-y-tunel.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-58-reverse-proxy-cache-y-tunel.webp" alt="Reverse proxy, caché y túnel" width="820">
+</p>
+<p align="center"><em>Infografía: Reverse proxy, caché y túnel.</em></p>
 
 :::hablemos-claro
 Un reverse proxy recibe solicitudes en nombre de uno o varios servidores de origen.
@@ -2295,7 +2527,11 @@ Para dominar **formato y longitud de ipv4**, aplica esta regla: Una dirección I
 - **Incorrecto:** IPv4 tiene 128 bits.
 - **Incorrecto:** Cualquier combinación 0-255 identifica una conexión pública válida.
 
-<!-- VISUAL PENDIENTE: t39-59-formato-y-longitud-de-ipv4.webp -->
+<!-- VISUAL:t39-59-formato-y-longitud-de-ipv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-59-formato-y-longitud-de-ipv4.webp" alt="Formato y longitud de IPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Formato y longitud de IPv4.</em></p>
 
 :::hablemos-claro
 Una dirección IPv4 tiene 32 bits.
@@ -2334,7 +2570,11 @@ Para dominar **prefijo, host y máscara de subred**, aplica esta regla: El prefi
 - **Incorrecto:** La máscara 255.0.255.0 es una máscara CIDR contigua ordinaria.
 - **Incorrecto:** /24 significa que quedan 24 bits de host.
 
-<!-- VISUAL PENDIENTE: t39-il-60-prefijo-host-y-mascara-de-subred.webp -->
+<!-- VISUAL:t39-il-60-prefijo-host-y-mascara-de-subred.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-60-prefijo-host-y-mascara-de-subred.webp" alt="Prefijo, host y máscara de subred" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijo, host y máscara de subred.</em></p>
 
 :::hablemos-claro
 El prefijo identifica la parte de red usada para el encaminamiento.
@@ -2373,7 +2613,11 @@ Para dominar **clase a histórica**, aplica esta regla: En el esquema histórico
 - **Incorrecto:** Clase A usa por defecto /24.
 - **Incorrecto:** 127.0.0.0/8 se asigna como red pública ordinaria.
 
-<!-- VISUAL PENDIENTE: t39-61-clase-a-historica.webp -->
+<!-- VISUAL:t39-61-clase-a-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-61-clase-a-historica.webp" alt="Clase A histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase A histórica.</em></p>
 
 :::hablemos-claro
 En el esquema histórico, una dirección de clase A comienza con bit 0.
@@ -2412,7 +2656,11 @@ Para dominar **clase b histórica**, aplica esta regla: En el esquema histórico
 - **Incorrecto:** Clase B comienza en 192.
 - **Incorrecto:** Toda dirección cuyo primer octeto es 172 usa obligatoriamente /16.
 
-<!-- VISUAL PENDIENTE: t39-62-clase-b-historica.webp -->
+<!-- VISUAL:t39-62-clase-b-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-62-clase-b-historica.webp" alt="Clase B histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase B histórica.</em></p>
 
 :::hablemos-claro
 En el esquema histórico, una dirección de clase B comienza con bits 10.
@@ -2451,7 +2699,11 @@ Para dominar **clase c histórica**, aplica esta regla: En el esquema histórico
 - **Incorrecto:** Clase C usa por defecto /8.
 - **Incorrecto:** Una /24 ofrece siempre 256 direcciones utilizables por hosts.
 
-<!-- VISUAL PENDIENTE: t39-63-clase-c-historica.webp -->
+<!-- VISUAL:t39-63-clase-c-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-63-clase-c-historica.webp" alt="Clase C histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase C histórica.</em></p>
 
 :::hablemos-claro
 En el esquema histórico, una dirección de clase C comienza con bits 110.
@@ -2490,7 +2742,11 @@ Para dominar **clases d y e históricas**, aplica esta regla: El rango históric
 - **Incorrecto:** Clase D es el rango privado doméstico.
 - **Incorrecto:** Clase E usa máscara por defecto /32 para redes de host ordinarias.
 
-<!-- VISUAL PENDIENTE: t39-64-clases-d-y-e-historicas.webp -->
+<!-- VISUAL:t39-64-clases-d-y-e-historicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-64-clases-d-y-e-historicas.webp" alt="Clases D y E históricas" width="820">
+</p>
+<p align="center"><em>Infografía: Clases D y E históricas.</em></p>
 
 :::hablemos-claro
 El rango histórico de clase D comprende primeros octetos 224 a 239 y se asocia a multicast.
@@ -2529,7 +2785,11 @@ Para dominar **cidr frente a direccionamiento por clases**, aplica esta regla: C
 - **Incorrecto:** CIDR obliga a usar solo /8, /16 o /24.
 - **Incorrecto:** Con CIDR el primer octeto fija automáticamente la máscara.
 
-<!-- VISUAL PENDIENTE: t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp -->
+<!-- VISUAL:t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp" alt="CIDR frente a direccionamiento por clases" width="820">
+</p>
+<p align="center"><em>Infografía: CIDR frente a direccionamiento por clases.</em></p>
 
 :::hablemos-claro
 CIDR sustituyó operacionalmente las fronteras rígidas de clases por longitudes de prefijo.
@@ -2568,7 +2828,11 @@ Para dominar **cálculo de subred, red y broadcast**, aplica esta regla: La dire
 - **Incorrecto:** El broadcast se obtiene poniendo a cero todos los bits de host.
 - **Incorrecto:** Toda subred sin excepción pierde siempre dos direcciones de host.
 
-<!-- VISUAL PENDIENTE: t39-66-calculo-de-subred-red-y-broadcast.webp -->
+<!-- VISUAL:t39-66-calculo-de-subred-red-y-broadcast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-66-calculo-de-subred-red-y-broadcast.webp" alt="Cálculo de subred, red y broadcast" width="820">
+</p>
+<p align="center"><em>Infografía: Cálculo de subred, red y broadcast.</em></p>
 
 :::hablemos-claro
 La dirección de red IPv4 se obtiene aplicando la máscara a la dirección.
@@ -2607,7 +2871,11 @@ Para dominar **direcciones ipv4 privadas**, aplica esta regla: Los bloques priva
 - **Incorrecto:** Cualquier dirección 172.x.x.x es privada.
 - **Incorrecto:** 192.0.0.0/8 completo está reservado para redes privadas.
 
-<!-- VISUAL PENDIENTE: t39-67-direcciones-ipv4-privadas.webp -->
+<!-- VISUAL:t39-67-direcciones-ipv4-privadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-67-direcciones-ipv4-privadas.webp" alt="Direcciones IPv4 privadas" width="820">
+</p>
+<p align="center"><em>Infografía: Direcciones IPv4 privadas.</em></p>
 
 :::hablemos-claro
 Los bloques privados son 10.0.0.0/8, 172.16.0.0/12 y 192.168.0.0/16.
@@ -2646,7 +2914,11 @@ Para dominar **direcciones ipv4 especiales y puerta de enlace**, aplica esta reg
 - **Incorrecto:** 0.0.0.0 y 0.0.0.0/0 significan siempre exactamente lo mismo.
 - **Incorrecto:** 127.0.0.1 identifica el router predeterminado de cualquier red.
 
-<!-- VISUAL PENDIENTE: t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp -->
+<!-- VISUAL:t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp" alt="Direcciones IPv4 especiales y puerta de enlace" width="820">
+</p>
+<p align="center"><em>Infografía: Direcciones IPv4 especiales y puerta de enlace.</em></p>
 
 :::hablemos-claro
 0.0.0.0 puede expresar dirección no especificada y 0.0.0.0/0 la ruta por defecto según contexto.
@@ -2685,7 +2957,11 @@ Para dominar **longitud y notación ipv6**, aplica esta regla: Una dirección IP
 - **Incorrecto:** IPv6 usa cuatro octetos decimales.
 - **Incorrecto:** El doble dos puntos puede aparecer varias veces en la misma dirección sin ambigüedad.
 
-<!-- VISUAL PENDIENTE: t39-69-longitud-y-notacion-ipv6.webp -->
+<!-- VISUAL:t39-69-longitud-y-notacion-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-69-longitud-y-notacion-ipv6.webp" alt="Longitud y notación IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Longitud y notación IPv6.</em></p>
 
 :::hablemos-claro
 Una dirección IPv6 tiene 128 bits.
@@ -2724,7 +3000,11 @@ Para dominar **unicast, anycast y multicast**, aplica esta regla: Una dirección
 - **Incorrecto:** Anycast entrega necesariamente a todos los miembros.
 - **Incorrecto:** IPv6 conserva 255.255.255.255 como broadcast nativo.
 
-<!-- VISUAL PENDIENTE: t39-il-70-unicast-anycast-y-multicast.webp -->
+<!-- VISUAL:t39-il-70-unicast-anycast-y-multicast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-70-unicast-anycast-y-multicast.webp" alt="Unicast, anycast y multicast" width="820">
+</p>
+<p align="center"><em>Infografía: Unicast, anycast y multicast.</em></p>
 
 :::hablemos-claro
 Una dirección unicast identifica una interfaz individual.
@@ -2763,7 +3043,11 @@ Para dominar **prefijos ipv6 principales**, aplica esta regla: 2000::/3 cubre el
 - **Incorrecto:** fe80::/10 se enruta globalmente por Internet.
 - **Incorrecto:** ::1 es la ruta por defecto IPv6.
 
-<!-- VISUAL PENDIENTE: t39-71-prefijos-ipv6-principales.webp -->
+<!-- VISUAL:t39-71-prefijos-ipv6-principales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-71-prefijos-ipv6-principales.webp" alt="Prefijos IPv6 principales" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos IPv6 principales.</em></p>
 
 :::hablemos-claro
 2000::/3 cubre el espacio general de unicast global actualmente asignable.
@@ -2802,7 +3086,11 @@ Para dominar **cabecera básica y extensiones ipv6**, aplica esta regla: La cabe
 - **Incorrecto:** La cabecera básica IPv6 contiene una suma de comprobación propia.
 - **Incorrecto:** Cada router IPv6 fragmenta libremente los paquetes demasiado grandes.
 
-<!-- VISUAL PENDIENTE: t39-72-cabecera-basica-y-extensiones-ipv6.webp -->
+<!-- VISUAL:t39-72-cabecera-basica-y-extensiones-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-72-cabecera-basica-y-extensiones-ipv6.webp" alt="Cabecera básica y extensiones IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Cabecera básica y extensiones IPv6.</em></p>
 
 :::hablemos-claro
 La cabecera básica IPv6 tiene longitud fija de 40 bytes.
@@ -2841,7 +3129,11 @@ Para dominar **neighbor discovery y slaac**, aplica esta regla: Neighbor Discove
 - **Incorrecto:** IPv6 utiliza ARP sin cambios.
 - **Incorrecto:** SLAAC exige que un servidor DHCPv6 asigne siempre la dirección.
 
-<!-- VISUAL PENDIENTE: t39-73-neighbor-discovery-y-slaac.webp -->
+<!-- VISUAL:t39-73-neighbor-discovery-y-slaac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-73-neighbor-discovery-y-slaac.webp" alt="Neighbor Discovery y SLAAC" width="820">
+</p>
+<p align="center"><em>Infografía: Neighbor Discovery y SLAAC.</em></p>
 
 :::hablemos-claro
 Neighbor Discovery usa ICMPv6 para descubrir vecinos, routers y parámetros del enlace.
@@ -2880,7 +3172,11 @@ Para dominar **transición y límites de ipv6**, aplica esta regla: Dual stack p
 - **Incorrecto:** Migrar a IPv6 hace innecesarios firewall y actualización.
 - **Incorrecto:** Todo paquete IPv6 viaja cifrado obligatoriamente por IPsec.
 
-<!-- VISUAL PENDIENTE: t39-74-transicion-y-limites-de-ipv6.webp -->
+<!-- VISUAL:t39-74-transicion-y-limites-de-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-74-transicion-y-limites-de-ipv6.webp" alt="Transición y límites de IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Transición y límites de IPv6.</em></p>
 
 :::hablemos-claro
 Dual stack permite ejecutar IPv4 e IPv6 simultáneamente.

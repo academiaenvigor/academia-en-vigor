@@ -19,7 +19,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La parte sintáctica estudia la combinación de palabras y grupos y las oraciones resultantes.
 - El análisis debe identificar categorías, grupos, funciones y relaciones sin confundir estos niveles.
 
-<!-- VISUAL PENDIENTE: t36-01-alcance-oficial-del-tema-36.webp -->
+<!-- VISUAL:t36-01-alcance-oficial-del-tema-36.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-01-alcance-oficial-del-tema-36.webp" alt="Alcance oficial del Tema 36" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 36.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T36 -->
 
@@ -32,7 +36,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La sintaxis analiza combinaciones, dependencias y funciones dentro de grupos y oraciones.
 - Morfología y sintaxis se relacionan, pero responden a preguntas distintas sobre una misma expresión.
 
-<!-- VISUAL PENDIENTE: t36-il-02-gramatica-morfologia-y-sintaxis.webp -->
+<!-- VISUAL:t36-il-02-gramatica-morfologia-y-sintaxis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-02-gramatica-morfologia-y-sintaxis.webp" alt="Gramática, morfología y sintaxis" width="820">
+</p>
+<p align="center"><em>Infografía: Gramática, morfología y sintaxis.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -45,7 +53,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El morfema aporta información gramatical o interviene en la formación de palabras.
 - Una palabra puede estar formada por un solo morfema o por varios segmentos morfológicos.
 
-<!-- VISUAL PENDIENTE: t36-03-palabra-lexema-y-morfema.webp -->
+<!-- VISUAL:t36-03-palabra-lexema-y-morfema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-03-palabra-lexema-y-morfema.webp" alt="Palabra, lexema y morfema" width="820">
+</p>
+<p align="center"><em>Infografía: Palabra, lexema y morfema.</em></p>
 
 <!-- FUENTE: RAE-NGB-MORFOLOGIA-T36 -->
 
@@ -58,7 +70,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Género, número, persona, tiempo y modo pueden expresarse mediante rasgos flexivos según la categoría.
 - La derivación puede cambiar la categoría gramatical de la base, aunque no lo hace necesariamente.
 
-<!-- VISUAL PENDIENTE: t36-il-04-morfologia-flexiva-y-derivativa.webp -->
+<!-- VISUAL:t36-il-04-morfologia-flexiva-y-derivativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-04-morfologia-flexiva-y-derivativa.webp" alt="Morfología flexiva y derivativa" width="820">
+</p>
+<p align="center"><em>Infografía: Morfología flexiva y derivativa.</em></p>
 
 <!-- FUENTE: RAE-NGB-MORFOLOGIA-T36 -->
 
@@ -71,7 +87,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Una palabra compuesta combina dos o más bases o elementos compositivos.
 - La historia etimológica no sustituye al análisis que reconoce el hablante en el español actual.
 
-<!-- VISUAL PENDIENTE: t36-05-palabras-simples-derivadas-y-compuestas.webp -->
+<!-- VISUAL:t36-05-palabras-simples-derivadas-y-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-05-palabras-simples-derivadas-y-compuestas.webp" alt="Palabras simples, derivadas y compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Palabras simples, derivadas y compuestas.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -84,7 +104,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La composición reúne bases léxicas o elementos compositivos en una nueva unidad.
 - Prefijación, sufijación y composición son mecanismos distintos aunque puedan concurrir.
 
-<!-- VISUAL PENDIENTE: t36-06-prefijacion-sufijacion-y-composicion.webp -->
+<!-- VISUAL:t36-06-prefijacion-sufijacion-y-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-06-prefijacion-sufijacion-y-composicion.webp" alt="Prefijación, sufijación y composición" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijación, sufijación y composición.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -97,7 +121,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La sufijación puede provocar ajustes fonológicos o alomorfia en la base o en el afijo.
 - No toda secuencia final repetida es un sufijo: debe existir relación formal y semántica analizable.
 
-<!-- VISUAL PENDIENTE: t36-07-el-sufijo-derivativo.webp -->
+<!-- VISUAL:t36-07-el-sufijo-derivativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-07-el-sufijo-derivativo.webp" alt="El sufijo derivativo" width="820">
+</p>
+<p align="center"><em>Infografía: El sufijo derivativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -110,7 +138,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los sufijos verbales forman verbos y pueden aportar valores aspectuales o causativos.
 - La clase del derivado se determina por el resultado, no únicamente por la categoría de la base.
 
-<!-- VISUAL PENDIENTE: t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp -->
+<!-- VISUAL:t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp" alt="Sufijos nominales, adjetivales y verbales" width="820">
+</p>
+<p align="center"><em>Infografía: Sufijos nominales, adjetivales y verbales.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -123,7 +155,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El contexto puede hacer que un diminutivo exprese afecto, cortesía, atenuación o ironía.
 - La sufijación apreciativa suele mantener la categoría gramatical de la base.
 
-<!-- VISUAL PENDIENTE: t36-09-sufijos-apreciativos.webp -->
+<!-- VISUAL:t36-09-sufijos-apreciativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-09-sufijos-apreciativos.webp" alt="Sufijos apreciativos" width="820">
+</p>
+<p align="center"><em>Infografía: Sufijos apreciativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -136,7 +172,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - También se denomina parasintética cierta formación que combina composición y derivación.
 - Para defender un análisis parasintético se comprueba si las formaciones intermedias existen con el sentido pertinente.
 
-<!-- VISUAL PENDIENTE: t36-il-10-interfijos-y-parasintesis.webp -->
+<!-- VISUAL:t36-il-10-interfijos-y-parasintesis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-10-interfijos-y-parasintesis.webp" alt="Interfijos y parasíntesis" width="820">
+</p>
+<p align="center"><em>Infografía: Interfijos y parasíntesis.</em></p>
 
 <!-- FUENTE: RAE-NGB-DERIVACION-T36 -->
 
@@ -149,7 +189,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Pueden combinarse con determinantes, adjetivos y complementos.
 - La función sintáctica depende del grupo en la oración, no de que una palabra sea sustantivo.
 
-<!-- VISUAL PENDIENTE: t36-11-el-sustantivo-propiedades-basicas.webp -->
+<!-- VISUAL:t36-11-el-sustantivo-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-11-el-sustantivo-propiedades-basicas.webp" alt="El sustantivo: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El sustantivo: propiedades básicas.</em></p>
 
 <!-- FUENTE: RAE-NGB-SUSTANTIVO-T36 -->
 
@@ -162,7 +206,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los nombres propios pueden llevar determinante en ciertos usos y variedades.
 - Un nombre propio puede adquirir uso común y un nombre común puede integrarse en una denominación propia.
 
-<!-- VISUAL PENDIENTE: t36-12-sustantivos-comunes-y-propios.webp -->
+<!-- VISUAL:t36-12-sustantivos-comunes-y-propios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-12-sustantivos-comunes-y-propios.webp" alt="Sustantivos comunes y propios" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos comunes y propios.</em></p>
 
 <!-- FUENTE: RAE-NGB-SUSTANTIVO-T36 -->
 
@@ -175,7 +223,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los abstractos suelen designar cualidades, estados, procesos o nociones.
 - El contexto puede favorecer lecturas concretas o abstractas de una misma forma léxica.
 
-<!-- VISUAL PENDIENTE: t36-il-13-sustantivos-concretos-y-abstractos.webp -->
+<!-- VISUAL:t36-il-13-sustantivos-concretos-y-abstractos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-13-sustantivos-concretos-y-abstractos.webp" alt="Sustantivos concretos y abstractos" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos concretos y abstractos.</em></p>
 
 <!-- FUENTE: RAE-NGB-SUSTANTIVO-T36 -->
 
@@ -188,7 +240,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Muchos sustantivos alternan entre lectura contable y no contable según el contexto.
 - El plural de un nombre de materia puede designar clases, variedades o porciones.
 
-<!-- VISUAL PENDIENTE: t36-14-sustantivos-contables-y-no-contables.webp -->
+<!-- VISUAL:t36-14-sustantivos-contables-y-no-contables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-14-sustantivos-contables-y-no-contables.webp" alt="Sustantivos contables y no contables" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos contables y no contables.</em></p>
 
 <!-- FUENTE: RAE-NGB-SUSTANTIVO-T36 -->
 
@@ -201,7 +257,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El colectivo singular no equivale morfológicamente a un plural.
 - La concordancia estándar atiende normalmente al número gramatical del núcleo colectivo.
 
-<!-- VISUAL PENDIENTE: t36-15-sustantivos-individuales-y-colectivos.webp -->
+<!-- VISUAL:t36-15-sustantivos-individuales-y-colectivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-15-sustantivos-individuales-y-colectivos.webp" alt="Sustantivos individuales y colectivos" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos individuales y colectivos.</em></p>
 
 <!-- FUENTE: RAE-NGB-SUSTANTIVO-T36 -->
 
@@ -214,7 +274,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La terminación ayuda en muchos casos, pero no determina por sí sola el género.
 - Los sustantivos epicenos tienen un solo género gramatical aunque designen seres de ambos sexos.
 
-<!-- VISUAL PENDIENTE: t36-16-genero-del-sustantivo.webp -->
+<!-- VISUAL:t36-16-genero-del-sustantivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-16-genero-del-sustantivo.webp" alt="Género del sustantivo" width="820">
+</p>
+<p align="center"><em>Infografía: Género del sustantivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -227,7 +291,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los sustantivos ambiguos en cuanto al género admiten masculino o femenino sin cambiar normalmente el referente.
 - Común, epiceno, ambiguo y heterónimo describen comportamientos diferentes y no son sinónimos.
 
-<!-- VISUAL PENDIENTE: t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp -->
+<!-- VISUAL:t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp" alt="Comunes en cuanto al género y heterónimos" width="820">
+</p>
+<p align="center"><em>Infografía: Comunes en cuanto al género y heterónimos.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -240,7 +308,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La concordancia hace visible el número en varios componentes del grupo nominal.
 - Existen sustantivos usados preferentemente o exclusivamente en singular o en plural.
 
-<!-- VISUAL PENDIENTE: t36-18-numero-singular-y-plural.webp -->
+<!-- VISUAL:t36-18-numero-singular-y-plural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-18-numero-singular-y-plural.webp" alt="Número: singular y plural" width="820">
+</p>
+<p align="center"><em>Infografía: Número: singular y plural.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -253,7 +325,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La formación del plural atiende a la pronunciación y no solo a la letra final.
 - Algunas voces admiten variantes de plural asentadas en distintas áreas o registros.
 
-<!-- VISUAL PENDIENTE: t36-19-formacion-regular-del-plural.webp -->
+<!-- VISUAL:t36-19-formacion-regular-del-plural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-19-formacion-regular-del-plural.webp" alt="Formación regular del plural" width="820">
+</p>
+<p align="center"><em>Infografía: Formación regular del plural.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -266,7 +342,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las abreviaturas, siglas y compuestos pueden seguir reglas específicas que no se deducen por analogía simple.
 - El determinante y la concordancia permiten reconocer el número de nombres formalmente invariables.
 
-<!-- VISUAL PENDIENTE: t36-20-plurales-especiales-e-invariables.webp -->
+<!-- VISUAL:t36-20-plurales-especiales-e-invariables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-20-plurales-especiales-e-invariables.webp" alt="Plurales especiales e invariables" width="820">
+</p>
+<p align="center"><em>Infografía: Plurales especiales e invariables.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -279,7 +359,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Un grupo nominal puede estar formado por una sola palabra.
 - El grupo completo desempeña la función sintáctica, aunque el sustantivo sea su núcleo.
 
-<!-- VISUAL PENDIENTE: t36-il-21-el-grupo-nominal.webp -->
+<!-- VISUAL:t36-il-21-el-grupo-nominal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-21-el-grupo-nominal.webp" alt="El grupo nominal" width="820">
+</p>
+<p align="center"><em>Infografía: El grupo nominal.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -292,7 +376,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El artículo indeterminado introduce habitualmente un referente no identificado de forma previa.
 - El artículo neutro lo no acompaña a sustantivos y forma expresiones de valor abstracto con adjetivos u otras unidades.
 
-<!-- VISUAL PENDIENTE: t36-22-determinacion-y-articulo.webp -->
+<!-- VISUAL:t36-22-determinacion-y-articulo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-22-determinacion-y-articulo.webp" alt="Determinación y artículo" width="820">
+</p>
+<p align="center"><em>Infografía: Determinación y artículo.</em></p>
 
 <!-- FUENTE: RAE-NGB-T36 -->
 
@@ -305,7 +393,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Muchas series comparten formas, pero se distinguen por su comportamiento sintáctico.
 - No es preciso afirmar que todo pronombre sustituye materialmente a un sustantivo previamente expreso.
 
-<!-- VISUAL PENDIENTE: t36-23-pronombre-y-determinante.webp -->
+<!-- VISUAL:t36-23-pronombre-y-determinante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-23-pronombre-y-determinante.webp" alt="Pronombre y determinante" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombre y determinante.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -318,7 +410,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Yo y tú son formas de sujeto; mí y ti aparecen como término de preposición en los usos correspondientes.
 - Consigo es reflexivo y debe remitir al sujeto de tercera persona de la construcción pertinente.
 
-<!-- VISUAL PENDIENTE: t36-24-pronombres-personales-tonicos.webp -->
+<!-- VISUAL:t36-24-pronombres-personales-tonicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-24-pronombres-personales-tonicos.webp" alt="Pronombres personales tónicos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres personales tónicos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -331,7 +427,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los clíticos expresan funciones como complemento directo o indirecto según su forma y contexto.
 - La combinación de varios clíticos sigue un orden gramatical y puede producir la variante se ante lo, la, los o las.
 
-<!-- VISUAL PENDIENTE: t36-il-25-pronombres-atonos-y-cliticos.webp -->
+<!-- VISUAL:t36-il-25-pronombres-atonos-y-cliticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-25-pronombres-atonos-y-cliticos.webp" alt="Pronombres átonos y clíticos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres átonos y clíticos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -344,7 +444,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El loísmo usa lo o los como complemento indirecto masculino o neutro.
 - La norma culta admite ciertos usos limitados de leísmo, pero no convierte laísmo y loísmo en pautas generales correctas.
 
-<!-- VISUAL PENDIENTE: t36-26-leismo-laismo-y-loismo.webp -->
+<!-- VISUAL:t36-26-leismo-laismo-y-loismo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-26-leismo-laismo-y-loismo.webp" alt="Leísmo, laísmo y loísmo" width="820">
+</p>
+<p align="center"><em>Infografía: Leísmo, laísmo y loísmo.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T36 -->
 
@@ -357,7 +461,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las formas nos, os y se pueden recibir lectura reflexiva o recíproca según el contexto.
 - Los refuerzos a sí mismo o el uno al otro ayudan a distinguir interpretaciones.
 
-<!-- VISUAL PENDIENTE: t36-27-pronombres-reflexivos-y-reciprocos.webp -->
+<!-- VISUAL:t36-27-pronombres-reflexivos-y-reciprocos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-27-pronombres-reflexivos-y-reciprocos.webp" alt="Pronombres reflexivos y recíprocos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres reflexivos y recíprocos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -370,7 +478,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Se interviene en pasivas reflejas e impersonales sin desempeñar siempre una función pronominal argumental.
 - Algunos verbos pronominales incorporan se como parte de su construcción léxica.
 
-<!-- VISUAL PENDIENTE: t36-28-valores-gramaticales-de-se.webp -->
+<!-- VISUAL:t36-28-valores-gramaticales-de-se.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-28-valores-gramaticales-de-se.webp" alt="Valores gramaticales de se" width="820">
+</p>
+<p align="center"><em>Infografía: Valores gramaticales de se.</em></p>
 
 <!-- FUENTE: RAE-NGLE-T36 -->
 
@@ -383,7 +495,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Esto, eso y aquello son pronombres neutros y no acompañan a sustantivos.
 - La oposición de distancia puede ser espacial, temporal, discursiva o afectiva.
 
-<!-- VISUAL PENDIENTE: t36-29-demostrativos.webp -->
+<!-- VISUAL:t36-29-demostrativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-29-demostrativos.webp" alt="Demostrativos" width="820">
+</p>
+<p align="center"><em>Infografía: Demostrativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -396,7 +512,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El posesivo concuerda en género y número con la entidad poseída, no con el poseedor.
 - Su y sus pueden ser ambiguos respecto de la persona o el número del poseedor.
 
-<!-- VISUAL PENDIENTE: t36-il-30-posesivos.webp -->
+<!-- VISUAL:t36-il-30-posesivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-30-posesivos.webp" alt="Posesivos" width="820">
+</p>
+<p align="center"><em>Infografía: Posesivos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -409,7 +529,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Alguno y ninguno presentan variantes apocopadas ante ciertos sustantivos masculinos singulares.
 - Nada, nadie y ninguno participan en construcciones negativas con reglas de concordancia negativa propias del español.
 
-<!-- VISUAL PENDIENTE: t36-31-cuantificadores-indefinidos.webp -->
+<!-- VISUAL:t36-31-cuantificadores-indefinidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-31-cuantificadores-indefinidos.webp" alt="Cuantificadores indefinidos" width="820">
+</p>
+<p align="center"><em>Infografía: Cuantificadores indefinidos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -422,7 +546,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las formas numerales pueden desempeñar funciones determinativas, pronominales o adjetivales.
 - No deben confundirse ordinales con fraccionarios aunque algunas formas coincidan en ciertos usos.
 
-<!-- VISUAL PENDIENTE: t36-32-numerales.webp -->
+<!-- VISUAL:t36-32-numerales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-32-numerales.webp" alt="Numerales" width="820">
+</p>
+<p align="center"><em>Infografía: Numerales.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -435,7 +563,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Cuyo es determinante relativo posesivo y concuerda con el sustantivo que introduce.
 - Donde, cuando y como pueden funcionar como adverbios relativos en los contextos correspondientes.
 
-<!-- VISUAL PENDIENTE: t36-33-relativos.webp -->
+<!-- VISUAL:t36-33-relativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-33-relativos.webp" alt="Relativos" width="820">
+</p>
+<p align="center"><em>Infografía: Relativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -448,7 +580,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Según el contexto funcionan como pronombres, determinantes o adverbios.
 - La tilde distingue estos usos tónicos de muchos relativos y conjunciones átonos homónimos.
 
-<!-- VISUAL PENDIENTE: t36-34-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t36-34-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-34-interrogativos-y-exclamativos.webp" alt="Interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogativos y exclamativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-PRONOMBRES-T36 -->
 
@@ -461,7 +597,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Puede ser núcleo de un grupo adjetival y recibir modificadores y complementos.
 - La categoría adjetivo no equivale a la función sintáctica de atributo o complemento predicativo.
 
-<!-- VISUAL PENDIENTE: t36-35-el-adjetivo-propiedades-basicas.webp -->
+<!-- VISUAL:t36-35-el-adjetivo-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-35-el-adjetivo-propiedades-basicas.webp" alt="El adjetivo: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El adjetivo: propiedades básicas.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -474,7 +614,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los relacionales suelen aparecer pospuestos y rechazar el grado en su lectura estricta.
 - Un mismo adjetivo puede alternar lectura relacional y calificativa según el contexto.
 
-<!-- VISUAL PENDIENTE: t36-36-adjetivos-calificativos-y-relacionales.webp -->
+<!-- VISUAL:t36-36-adjetivos-calificativos-y-relacionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-36-adjetivos-calificativos-y-relacionales.webp" alt="Adjetivos calificativos y relacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Adjetivos calificativos y relacionales.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -487,7 +631,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La posición y la entonación influyen, pero el sentido de la construcción es decisivo.
 - La misma forma adjetiva puede ser especificativa o explicativa en contextos diferentes.
 
-<!-- VISUAL PENDIENTE: t36-il-37-adjetivos-especificativos-y-explicativos.webp -->
+<!-- VISUAL:t36-il-37-adjetivos-especificativos-y-explicativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-37-adjetivos-especificativos-y-explicativos.webp" alt="Adjetivos especificativos y explicativos" width="820">
+</p>
+<p align="center"><em>Infografía: Adjetivos especificativos y explicativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -500,7 +648,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Ciertos adjetivos cambian de significado o valoración al anteponerse o posponerse.
 - No existe una regla general que haga ornamental todo adjetivo antepuesto y restrictivo todo pospuesto.
 
-<!-- VISUAL PENDIENTE: t36-38-posicion-del-adjetivo.webp -->
+<!-- VISUAL:t36-38-posicion-del-adjetivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-38-posicion-del-adjetivo.webp" alt="Posición del adjetivo" width="820">
+</p>
+<p align="center"><em>Infografía: Posición del adjetivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -513,7 +665,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Algunos adjetivos se apocopan ante sustantivo masculino singular, como bueno y primero.
 - La apócope es una reducción formal condicionada por posición y contexto, no una pérdida de significado gramatical.
 
-<!-- VISUAL PENDIENTE: t36-39-flexion-y-apocope-del-adjetivo.webp -->
+<!-- VISUAL:t36-39-flexion-y-apocope-del-adjetivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-39-flexion-y-apocope-del-adjetivo.webp" alt="Flexión y apócope del adjetivo" width="820">
+</p>
+<p align="center"><em>Infografía: Flexión y apócope del adjetivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -526,7 +682,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Un adjetivo en positivo puede aparecer modificado por adverbios de intensidad.
 - Los adjetivos relacionales no suelen participar en el paradigma de grado en su lectura estricta.
 
-<!-- VISUAL PENDIENTE: t36-40-grado-positivo.webp -->
+<!-- VISUAL:t36-40-grado-positivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-40-grado-positivo.webp" alt="Grado positivo" width="820">
+</p>
+<p align="center"><em>Infografía: Grado positivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -539,7 +699,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El segundo término de la comparación completa la relación comparativa.
 - Mejor, peor, mayor y menor son comparativos sincréticos en determinados usos.
 
-<!-- VISUAL PENDIENTE: t36-il-41-grado-comparativo.webp -->
+<!-- VISUAL:t36-il-41-grado-comparativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-41-grado-comparativo.webp" alt="Grado comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Grado comparativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -552,7 +716,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El superlativo relativo sitúa una entidad en el extremo de una escala dentro de un conjunto.
 - El más alto del grupo es relativo; altísimo puede ser absoluto.
 
-<!-- VISUAL PENDIENTE: t36-42-superlativo-absoluto-y-relativo.webp -->
+<!-- VISUAL:t36-42-superlativo-absoluto-y-relativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-42-superlativo-absoluto-y-relativo.webp" alt="Superlativo absoluto y relativo" width="820">
+</p>
+<p align="center"><em>Infografía: Superlativo absoluto y relativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADJETIVO-T36 -->
 
@@ -565,7 +733,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Su invariabilidad lo distingue de adjetivos y determinantes en muchos contextos.
 - La función concreta se establece dentro de la estructura y no por una lista memorizada.
 
-<!-- VISUAL PENDIENTE: t36-43-el-adverbio-propiedades-basicas.webp -->
+<!-- VISUAL:t36-43-el-adverbio-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-43-el-adverbio-propiedades-basicas.webp" alt="El adverbio: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El adverbio: propiedades básicas.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADVERBIO-T36 -->
 
@@ -578,7 +750,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Aquí, allí, ayer y mañana poseen propiedades deícticas o demostrativas.
 - Un adverbio temporal puede afectar al evento o establecer el marco de toda la oración.
 
-<!-- VISUAL PENDIENTE: t36-44-adverbios-de-lugar-y-tiempo.webp -->
+<!-- VISUAL:t36-44-adverbios-de-lugar-y-tiempo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-44-adverbios-de-lugar-y-tiempo.webp" alt="Adverbios de lugar y tiempo" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios de lugar y tiempo.</em></p>
 
 <!-- FUENTE: RAE-GTG-ESQUEMAS-T36 -->
 
@@ -591,7 +767,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Muy modifica típicamente adjetivos o adverbios, mientras mucho puede presentar otros comportamientos.
 - Una misma forma puede pertenecer a categorías distintas según su distribución.
 
-<!-- VISUAL PENDIENTE: t36-45-adverbios-de-modo-cantidad-y-grado.webp -->
+<!-- VISUAL:t36-45-adverbios-de-modo-cantidad-y-grado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-45-adverbios-de-modo-cantidad-y-grado.webp" alt="Adverbios de modo, cantidad y grado" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios de modo, cantidad y grado.</em></p>
 
 <!-- FUENTE: RAE-GTG-ESQUEMAS-T36 -->
 
@@ -604,7 +784,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los adverbios de polaridad afectan a la afirmación o negación del contenido.
 - Algunos adverbios de duda inciden sobre toda la oración y no son simples circunstanciales del verbo.
 
-<!-- VISUAL PENDIENTE: t36-46-afirmacion-negacion-y-duda.webp -->
+<!-- VISUAL:t36-46-afirmacion-negacion-y-duda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-46-afirmacion-negacion-y-duda.webp" alt="Afirmación, negación y duda" width="820">
+</p>
+<p align="center"><em>Infografía: Afirmación, negación y duda.</em></p>
 
 <!-- FUENTE: RAE-GTG-ESQUEMAS-T36 -->
 
@@ -617,7 +801,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los relativos introducen subordinadas y desempeñan función dentro de ellas.
 - Los interrogativos pueden aparecer en preguntas directas o indirectas.
 
-<!-- VISUAL PENDIENTE: t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp" alt="Adverbios relativos, interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios relativos, interrogativos y exclamativos.</em></p>
 
 <!-- FUENTE: RAE-GTG-ESQUEMAS-T36 -->
 
@@ -630,7 +818,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Estos adverbios conservan el acento gráfico del adjetivo base cuando le corresponde.
 - No todos los adverbios en -mente expresan exclusivamente manera; algunos son oracionales o evaluativos.
 
-<!-- VISUAL PENDIENTE: t36-48-adverbios-terminados-en-mente.webp -->
+<!-- VISUAL:t36-48-adverbios-terminados-en-mente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-48-adverbios-terminados-en-mente.webp" alt="Adverbios terminados en -mente" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios terminados en -mente.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADVERBIO-T36 -->
 
@@ -643,7 +835,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - De repente es locución; muy lejos de aquí es un grupo con núcleo adverbial.
 - La función adverbial de una secuencia no obliga a considerarla morfológicamente un solo adverbio.
 
-<!-- VISUAL PENDIENTE: t36-49-locuciones-y-grupos-adverbiales.webp -->
+<!-- VISUAL:t36-49-locuciones-y-grupos-adverbiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-49-locuciones-y-grupos-adverbiales.webp" alt="Locuciones y grupos adverbiales" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones y grupos adverbiales.</em></p>
 
 <!-- FUENTE: RAE-NGB-ADVERBIO-T36 -->
 
@@ -656,7 +852,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las formas verbales se construyen sobre raíz, vocal temática y desinencias según el análisis.
 - Categoría verbal y función de predicado están relacionadas, pero el predicado puede incluir todo el grupo verbal.
 
-<!-- VISUAL PENDIENTE: t36-50-el-verbo-propiedades-y-estructura.webp -->
+<!-- VISUAL:t36-50-el-verbo-propiedades-y-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-50-el-verbo-propiedades-y-estructura.webp" alt="El verbo: propiedades y estructura" width="820">
+</p>
+<p align="center"><em>Infografía: El verbo: propiedades y estructura.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -669,7 +869,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La vocal temática ayuda a identificar la conjugación y aparece con variantes en el paradigma.
 - Pertenecer a una conjugación no garantiza que el verbo sea regular.
 
-<!-- VISUAL PENDIENTE: t36-51-las-tres-conjugaciones.webp -->
+<!-- VISUAL:t36-51-las-tres-conjugaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-51-las-tres-conjugaciones.webp" alt="Las tres conjugaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Las tres conjugaciones.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -682,7 +886,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las irregularidades pueden afectar solo a determinadas personas, tiempos o modos.
 - Los cambios puramente ortográficos para conservar un sonido no siempre constituyen irregularidad morfológica.
 
-<!-- VISUAL PENDIENTE: t36-il-52-verbos-regulares-e-irregulares.webp -->
+<!-- VISUAL:t36-il-52-verbos-regulares-e-irregulares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-52-verbos-regulares-e-irregulares.webp" alt="Verbos regulares e irregulares" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos regulares e irregulares.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -695,7 +903,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El verbo finito concuerda normalmente en persona y número con el sujeto.
 - La desinencia puede permitir recuperar un sujeto tácito sin pronombre expreso.
 
-<!-- VISUAL PENDIENTE: t36-53-persona-y-numero-verbal.webp -->
+<!-- VISUAL:t36-53-persona-y-numero-verbal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-53-persona-y-numero-verbal.webp" alt="Persona y número verbal" width="820">
+</p>
+<p align="center"><em>Infografía: Persona y número verbal.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -708,7 +920,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El presente puede recibir valores actuales, habituales, históricos o prospectivos.
 - La interpretación temporal depende también de aspecto, adverbios y contexto.
 
-<!-- VISUAL PENDIENTE: t36-54-tiempo-verbal-y-referencia-temporal.webp -->
+<!-- VISUAL:t36-54-tiempo-verbal-y-referencia-temporal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-54-tiempo-verbal-y-referencia-temporal.webp" alt="Tiempo verbal y referencia temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Tiempo verbal y referencia temporal.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -721,7 +937,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La oposición perfectivo-imperfectivo no equivale simplemente a pasado-presente.
 - Las perífrasis pueden expresar comienzo, duración, repetición o final de una acción.
 
-<!-- VISUAL PENDIENTE: t36-il-55-aspecto-lexico-y-gramatical.webp -->
+<!-- VISUAL:t36-il-55-aspecto-lexico-y-gramatical.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-55-aspecto-lexico-y-gramatical.webp" alt="Aspecto léxico y gramatical" width="820">
+</p>
+<p align="center"><em>Infografía: Aspecto léxico y gramatical.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -734,7 +954,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Incluye tiempos simples y compuestos de presente, pasado y futuro, además del condicional en el paradigma tradicional.
 - La selección de modo depende de la construcción, la actitud del hablante y el tipo de subordinación.
 
-<!-- VISUAL PENDIENTE: t36-56-modo-indicativo.webp -->
+<!-- VISUAL:t36-56-modo-indicativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-56-modo-indicativo.webp" alt="Modo indicativo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo indicativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -747,7 +971,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Posee formas simples y compuestas organizadas en su paradigma.
 - La elección entre indicativo y subjuntivo puede cambiar la interpretación de una subordinada.
 
-<!-- VISUAL PENDIENTE: t36-57-modo-subjuntivo.webp -->
+<!-- VISUAL:t36-57-modo-subjuntivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-57-modo-subjuntivo.webp" alt="Modo subjuntivo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo subjuntivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -760,7 +988,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las órdenes negativas se construyen con formas de subjuntivo.
 - Los pronombres átonos se posponen al imperativo afirmativo y se anteponen en el negativo.
 
-<!-- VISUAL PENDIENTE: t36-58-modo-imperativo.webp -->
+<!-- VISUAL:t36-58-modo-imperativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-58-modo-imperativo.webp" alt="Modo imperativo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo imperativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -773,7 +1005,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El infinitivo puede encabezar construcciones con propiedades nominales y verbales.
 - Gerundio y participio participan en perífrasis y otras construcciones, pero no son intercambiables.
 
-<!-- VISUAL PENDIENTE: t36-59-formas-no-personales.webp -->
+<!-- VISUAL:t36-59-formas-no-personales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-59-formas-no-personales.webp" alt="Formas no personales" width="820">
+</p>
+<p align="center"><em>Infografía: Formas no personales.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -786,7 +1022,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Suele expresar una situación simultánea o anterior a la principal según el contexto.
 - El llamado gerundio de posterioridad resulta inadecuado cuando presenta como posterior una acción independiente.
 
-<!-- VISUAL PENDIENTE: t36-60-gerundio-simple-y-compuesto.webp -->
+<!-- VISUAL:t36-60-gerundio-simple-y-compuesto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-60-gerundio-simple-y-compuesto.webp" alt="Gerundio simple y compuesto" width="820">
+</p>
+<p align="center"><em>Infografía: Gerundio simple y compuesto.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -799,7 +1039,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - En usos adjetivales o pasivos con ser, el participio concuerda cuando corresponde.
 - Algunos verbos presentan participios dobles con distribución léxica o histórica específica.
 
-<!-- VISUAL PENDIENTE: t36-61-participio-y-construcciones-de-perfecto.webp -->
+<!-- VISUAL:t36-61-participio-y-construcciones-de-perfecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-61-participio-y-construcciones-de-perfecto.webp" alt="Participio y construcciones de perfecto" width="820">
+</p>
+<p align="center"><em>Infografía: Participio y construcciones de perfecto.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -812,7 +1056,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El imperfecto sirve como marco descriptivo, habitual o simultáneo en narraciones.
 - El presente y el imperfecto pueden adquirir valores modales de cortesía o atenuación.
 
-<!-- VISUAL PENDIENTE: t36-62-presente-y-preterito-imperfecto.webp -->
+<!-- VISUAL:t36-62-presente-y-preterito-imperfecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-62-presente-y-preterito-imperfecto.webp" alt="Presente y pretérito imperfecto" width="820">
+</p>
+<p align="center"><em>Infografía: Presente y pretérito imperfecto.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -825,7 +1073,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La oposición entre ambas formas varía según áreas dialectales y relación con el presente.
 - No debe suponerse que una de las dos formas ha desaparecido del español general.
 
-<!-- VISUAL PENDIENTE: t36-63-preterito-perfecto-simple-y-compuesto.webp -->
+<!-- VISUAL:t36-63-preterito-perfecto-simple-y-compuesto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-63-preterito-perfecto-simple-y-compuesto.webp" alt="Pretérito perfecto simple y compuesto" width="820">
+</p>
+<p align="center"><em>Infografía: Pretérito perfecto simple y compuesto.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -838,7 +1090,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El pretérito anterior se forma con pretérito perfecto simple de haber y participio.
 - El pretérito anterior tiene hoy uso muy restringido, sobre todo literario y en subordinadas temporales.
 
-<!-- VISUAL PENDIENTE: t36-il-64-pluscuamperfecto-y-preterito-anterior.webp -->
+<!-- VISUAL:t36-il-64-pluscuamperfecto-y-preterito-anterior.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-64-pluscuamperfecto-y-preterito-anterior.webp" alt="Pluscuamperfecto y pretérito anterior" width="820">
+</p>
+<p align="center"><em>Infografía: Pluscuamperfecto y pretérito anterior.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -851,7 +1107,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El condicional aparece además en hipótesis, cortesía y usos de probabilidad referida al pasado.
 - Futuro y condicional poseen formas compuestas con haber y participio.
 
-<!-- VISUAL PENDIENTE: t36-65-futuro-y-condicional.webp -->
+<!-- VISUAL:t36-65-futuro-y-condicional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-65-futuro-y-condicional.webp" alt="Futuro y condicional" width="820">
+</p>
+<p align="center"><em>Infografía: Futuro y condicional.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -864,7 +1124,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El pretérito perfecto de subjuntivo se forma con presente de subjuntivo de haber y participio.
 - El pluscuamperfecto de subjuntivo se forma con imperfecto de subjuntivo de haber y participio.
 
-<!-- VISUAL PENDIENTE: t36-66-tiempos-del-subjuntivo.webp -->
+<!-- VISUAL:t36-66-tiempos-del-subjuntivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-66-tiempos-del-subjuntivo.webp" alt="Tiempos del subjuntivo" width="820">
+</p>
+<p align="center"><em>Infografía: Tiempos del subjuntivo.</em></p>
 
 <!-- FUENTE: RAE-NGB-FLEXION-VERBAL-T36 -->
 
@@ -877,7 +1141,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - No toda sucesión de verbo conjugado y forma no personal constituye una perífrasis.
 - La unidad sintáctica se comprueba mediante propiedades como la selección de complementos y el comportamiento de clíticos.
 
-<!-- VISUAL PENDIENTE: t36-67-perifrasis-verbales.webp -->
+<!-- VISUAL:t36-67-perifrasis-verbales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-67-perifrasis-verbales.webp" alt="Perífrasis verbales" width="820">
+</p>
+<p align="center"><em>Infografía: Perífrasis verbales.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -890,7 +1158,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los verbos predicativos poseen contenido léxico y seleccionan sus argumentos.
 - Algunos verbos son semicopulativos cuando expresan cambio, permanencia o estado con atributo.
 
-<!-- VISUAL PENDIENTE: t36-68-verbos-copulativos-y-predicativos.webp -->
+<!-- VISUAL:t36-68-verbos-copulativos-y-predicativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-68-verbos-copulativos-y-predicativos.webp" alt="Verbos copulativos y predicativos" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos copulativos y predicativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -903,7 +1175,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Muchos verbos alternan usos transitivos e intransitivos.
 - La ausencia superficial de complemento directo no convierte automáticamente en intransitivo un verbo usado de forma absoluta.
 
-<!-- VISUAL PENDIENTE: t36-69-transitividad-e-intransitividad.webp -->
+<!-- VISUAL:t36-69-transitividad-e-intransitividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-69-transitividad-e-intransitividad.webp" alt="Transitividad e intransitividad" width="820">
+</p>
+<p align="center"><em>Infografía: Transitividad e intransitividad.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -916,7 +1192,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Haber existencial se usa en tercera persona singular en la norma general.
 - Las impersonales con se llevan verbo en tercera persona singular y no deben confundirse con pasivas reflejas.
 
-<!-- VISUAL PENDIENTE: t36-70-verbos-pronominales-e-impersonales.webp -->
+<!-- VISUAL:t36-70-verbos-pronominales-e-impersonales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-70-verbos-pronominales-e-impersonales.webp" alt="Verbos pronominales e impersonales" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos pronominales e impersonales.</em></p>
 
 <!-- FUENTE: RAE-NGB-VERBO-T36 -->
 
@@ -929,7 +1209,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Un verbo frecuentativo o iterativo expresa repetición o frecuencia de la acción.
 - Estas etiquetas describen significado léxico o aspectual y no conjugaciones verbales distintas.
 
-<!-- VISUAL PENDIENTE: t36-71-verbos-incoativos-causativos-y-frecuentativos.webp -->
+<!-- VISUAL:t36-71-verbos-incoativos-causativos-y-frecuentativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-71-verbos-incoativos-causativos-y-frecuentativos.webp" alt="Verbos incoativos, causativos y frecuentativos" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos incoativos, causativos y frecuentativos.</em></p>
 
 <!-- FUENTE: RAE-GTG-T36 -->
 
@@ -942,7 +1226,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El término puede ser un grupo nominal, una subordinada u otra unidad admitida por la construcción.
 - La preposición puede estar seleccionada por un núcleo o introducir un adjunto.
 
-<!-- VISUAL PENDIENTE: t36-72-la-preposicion.webp -->
+<!-- VISUAL:t36-72-la-preposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-72-la-preposicion.webp" alt="La preposición" width="820">
+</p>
+<p align="center"><em>Infografía: La preposición.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -955,7 +1243,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Durante y mediante se integran en el inventario moderno de preposiciones.
 - La pertenencia a la clase se establece por comportamiento gramatical, no solo por una lista escolar histórica.
 
-<!-- VISUAL PENDIENTE: t36-il-73-inventario-de-preposiciones.webp -->
+<!-- VISUAL:t36-il-73-inventario-de-preposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-73-inventario-de-preposiciones.webp" alt="Inventario de preposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: Inventario de preposiciones.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -968,7 +1260,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - No se contrae cuando El forma parte de un nombre propio en el que conserva artículo integrado según el uso normativo.
 - La contracción no se produce con él pronombre, que mantiene tilde.
 
-<!-- VISUAL PENDIENTE: t36-74-contracciones-al-y-del.webp -->
+<!-- VISUAL:t36-74-contracciones-al-y-del.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-74-contracciones-al-y-del.webp" alt="Contracciones al y del" width="820">
+</p>
+<p align="center"><em>Infografía: Contracciones al y del.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T36 -->
 
@@ -981,7 +1277,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - No toda secuencia acabada en preposición constituye una locución.
 - La selección entre preposición simple y locución puede cambiar el significado o el registro.
 
-<!-- VISUAL PENDIENTE: t36-75-locuciones-preposicionales.webp -->
+<!-- VISUAL:t36-75-locuciones-preposicionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-75-locuciones-preposicionales.webp" alt="Locuciones preposicionales" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones preposicionales.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -994,7 +1294,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las subordinantes introducen construcciones dependientes o marcan relaciones entre cláusulas.
 - Una conjunción no desempeña normalmente dentro de la subordinada la función que sí puede desempeñar un relativo.
 
-<!-- VISUAL PENDIENTE: t36-76-la-conjuncion.webp -->
+<!-- VISUAL:t36-76-la-conjuncion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-76-la-conjuncion.webp" alt="La conjunción" width="820">
+</p>
+<p align="center"><em>Infografía: La conjunción.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -1007,7 +1311,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Pero, sino y mas pueden introducir relaciones adversativas con distribuciones propias.
 - La elección de e o u responde al entorno fónico y no cambia el tipo de coordinación.
 
-<!-- VISUAL PENDIENTE: t36-77-conjunciones-coordinantes.webp -->
+<!-- VISUAL:t36-77-conjunciones-coordinantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-77-conjunciones-coordinantes.webp" alt="Conjunciones coordinantes" width="820">
+</p>
+<p align="center"><em>Infografía: Conjunciones coordinantes.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -1020,7 +1328,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La misma forma puede recibir análisis distinto según la construcción.
 - La clasificación semántica no elimina la necesidad de identificar la dependencia sintáctica.
 
-<!-- VISUAL PENDIENTE: t36-78-conjunciones-subordinantes.webp -->
+<!-- VISUAL:t36-78-conjunciones-subordinantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-78-conjunciones-subordinantes.webp" alt="Conjunciones subordinantes" width="820">
+</p>
+<p align="center"><em>Infografía: Conjunciones subordinantes.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -1033,7 +1345,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las locuciones pueden contener una preposición, un sustantivo u otros elementos internamente fijados.
 - No deben confundirse conectores discursivos y conjunciones solo porque ambos relacionen contenidos.
 
-<!-- VISUAL PENDIENTE: t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp -->
+<!-- VISUAL:t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp" alt="Locuciones conjuntivas y enlaces complejos" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones conjuntivas y enlaces complejos.</em></p>
 
 <!-- FUENTE: RAE-NGB-ENLACES-T36 -->
 
@@ -1046,7 +1362,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las funciones se atribuyen a constituyentes dentro de una estructura.
 - El análisis lineal debe complementarse con la jerarquía y dependencia entre unidades.
 
-<!-- VISUAL PENDIENTE: t36-80-la-sintaxis-y-sus-unidades.webp -->
+<!-- VISUAL:t36-80-la-sintaxis-y-sus-unidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-80-la-sintaxis-y-sus-unidades.webp" alt="La sintaxis y sus unidades" width="820">
+</p>
+<p align="center"><em>Infografía: La sintaxis y sus unidades.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1059,7 +1379,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Los grupos pueden contener otros grupos y formar estructuras jerárquicas.
 - La denominación del grupo atiende a la categoría de su núcleo, no a su función oracional.
 
-<!-- VISUAL PENDIENTE: t36-81-grupos-sintacticos-y-nucleo.webp -->
+<!-- VISUAL:t36-81-grupos-sintacticos-y-nucleo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-81-grupos-sintacticos-y-nucleo.webp" alt="Grupos sintácticos y núcleo" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos sintácticos y núcleo.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1072,7 +1396,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - El predicado atribuye al sujeto una acción, proceso, estado o propiedad.
 - El sujeto puede ser expreso o tácito; su posición no es fija en español.
 
-<!-- VISUAL PENDIENTE: t36-82-sujeto-y-predicado.webp -->
+<!-- VISUAL:t36-82-sujeto-y-predicado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-82-sujeto-y-predicado.webp" alt="Sujeto y predicado" width="820">
+</p>
+<p align="center"><em>Infografía: Sujeto y predicado.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1085,7 +1413,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Puede llevar la preposición a cuando designa personas u otros referentes determinados en contextos previstos.
 - En la pasiva perifrástica, el complemento directo de la activa corresponde normalmente al sujeto paciente.
 
-<!-- VISUAL PENDIENTE: t36-83-complemento-directo.webp -->
+<!-- VISUAL:t36-83-complemento-directo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-83-complemento-directo.webp" alt="Complemento directo" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento directo.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1098,7 +1430,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Puede aparecer duplicado por un grupo introducido por a.
 - No todo grupo con para es complemento indirecto; muchos son complementos o adjuntos de finalidad o beneficiario.
 
-<!-- VISUAL PENDIENTE: t36-84-complemento-indirecto.webp -->
+<!-- VISUAL:t36-84-complemento-indirecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-84-complemento-indirecto.webp" alt="Complemento indirecto" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento indirecto.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1111,7 +1447,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - No se identifica por significado circunstancial, sino por dependencia léxica y sintáctica.
 - Puede coexistir con complemento directo en algunos predicados.
 
-<!-- VISUAL PENDIENTE: t36-85-complemento-de-regimen.webp -->
+<!-- VISUAL:t36-85-complemento-de-regimen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-85-complemento-de-regimen.webp" alt="Complemento de régimen" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento de régimen.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1124,7 +1464,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Puede estar realizado por grupos adjetivales, nominales, preposicionales o adverbiales según el contexto.
 - Con ser, estar y parecer puede sustituirse a menudo por el pronombre neutro lo.
 
-<!-- VISUAL PENDIENTE: t36-86-atributo-y-verbos-copulativos.webp -->
+<!-- VISUAL:t36-86-atributo-y-verbos-copulativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-86-atributo-y-verbos-copulativos.webp" alt="Atributo y verbos copulativos" width="820">
+</p>
+<p align="center"><em>Infografía: Atributo y verbos copulativos.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1137,7 +1481,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Cuando es adjetival, concuerda con la unidad de la que se predica.
 - Se distingue del circunstancial de modo porque establece predicación sobre un participante.
 
-<!-- VISUAL PENDIENTE: t36-87-complemento-predicativo.webp -->
+<!-- VISUAL:t36-87-complemento-predicativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-87-complemento-predicativo.webp" alt="Complemento predicativo" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento predicativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1150,7 +1498,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Pueden estar realizados por grupos adverbiales, preposicionales, nominales u oraciones.
 - El significado de lugar o tiempo no convierte automáticamente una unidad en complemento circunstancial si pertenece a otro grupo.
 
-<!-- VISUAL PENDIENTE: t36-il-88-complementos-circunstanciales-y-adjuntos.webp -->
+<!-- VISUAL:t36-il-88-complementos-circunstanciales-y-adjuntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-88-complementos-circunstanciales-y-adjuntos.webp" alt="Complementos circunstanciales y adjuntos" width="820">
+</p>
+<p align="center"><em>Infografía: Complementos circunstanciales y adjuntos.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1163,7 +1515,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Es normalmente opcional y no debe confundirse con cualquier grupo causal introducido por por.
 - Al transformar en activa, el complemento agente corresponde prototípicamente al sujeto agente.
 
-<!-- VISUAL PENDIENTE: t36-89-complemento-agente-y-pasiva.webp -->
+<!-- VISUAL:t36-89-complemento-agente-y-pasiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-89-complemento-agente-y-pasiva.webp" alt="Complemento agente y pasiva" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento agente y pasiva.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1176,7 +1532,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Puede haber enunciados no oracionales, como ciertas interjecciones o grupos usados autónomamente.
 - El término proposición se usa con sentidos distintos en las tradiciones gramaticales y debe definirse antes de aplicarlo.
 
-<!-- VISUAL PENDIENTE: t36-90-enunciado-oracion-y-proposicion.webp -->
+<!-- VISUAL:t36-90-enunciado-oracion-y-proposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-90-enunciado-oracion-y-proposicion.webp" alt="Enunciado, oración y proposición" width="820">
+</p>
+<p align="center"><em>Infografía: Enunciado, oración y proposición.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1189,7 +1549,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La forma sintáctica y la fuerza comunicativa pueden no coincidir exactamente.
 - La entonación, el modo verbal y ciertas partículas contribuyen a expresar modalidad.
 
-<!-- VISUAL PENDIENTE: t36-91-modalidad-oracional.webp -->
+<!-- VISUAL:t36-91-modalidad-oracional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-91-modalidad-oracional.webp" alt="Modalidad oracional" width="820">
+</p>
+<p align="center"><em>Infografía: Modalidad oracional.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1202,7 +1566,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Son impersonales prototípicas ciertas construcciones meteorológicas y existenciales con haber.
 - Las impersonales con se llevan verbo en tercera persona singular y admiten complementos humanos introducidos por a.
 
-<!-- VISUAL PENDIENTE: t36-92-oraciones-personales-e-impersonales.webp -->
+<!-- VISUAL:t36-92-oraciones-personales-e-impersonales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-92-oraciones-personales-e-impersonales.webp" alt="Oraciones personales e impersonales" width="820">
+</p>
+<p align="center"><em>Infografía: Oraciones personales e impersonales.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1215,7 +1583,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La pasiva refleja se construye con se y un sujeto que concuerda con el verbo.
 - Las construcciones medias presentan propiedades o procesos sin focalizar un agente externo.
 
-<!-- VISUAL PENDIENTE: t36-93-activas-pasivas-y-medias.webp -->
+<!-- VISUAL:t36-93-activas-pasivas-y-medias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-93-activas-pasivas-y-medias.webp" alt="Activas, pasivas y medias" width="820">
+</p>
+<p align="center"><em>Infografía: Activas, pasivas y medias.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1228,7 +1600,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Una perífrasis verbal constituye normalmente un núcleo complejo, no dos oraciones por el mero número de formas verbales.
 - Una forma no personal puede encabezar una construcción subordinada con estructura propia.
 
-<!-- VISUAL PENDIENTE: t36-94-oraciones-simples-y-compuestas.webp -->
+<!-- VISUAL:t36-94-oraciones-simples-y-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-94-oraciones-simples-y-compuestas.webp" alt="Oraciones simples y compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Oraciones simples y compuestas.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1241,7 +1617,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - La yuxtaposición une unidades sin conjunción expresa mediante pausa o signo gráfico en la escritura.
 - La ausencia de conjunción no elimina las relaciones semánticas entre miembros yuxtapuestos.
 
-<!-- VISUAL PENDIENTE: t36-95-coordinacion-y-yuxtaposicion.webp -->
+<!-- VISUAL:t36-95-coordinacion-y-yuxtaposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-95-coordinacion-y-yuxtaposicion.webp" alt="Coordinación y yuxtaposición" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación y yuxtaposición.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1254,7 +1634,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Que y si son nexos frecuentes, y también existen interrogativas indirectas.
 - El nexo que conjuntivo no desempeña función sintáctica dentro de la subordinada.
 
-<!-- VISUAL PENDIENTE: t36-96-subordinadas-sustantivas.webp -->
+<!-- VISUAL:t36-96-subordinadas-sustantivas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-96-subordinadas-sustantivas.webp" alt="Subordinadas sustantivas" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas sustantivas.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1267,7 +1651,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Las especificativas restringen la referencia; las explicativas aportan información incidental.
 - Las explicativas se aíslan prosódicamente y mediante comas en la escritura.
 
-<!-- VISUAL PENDIENTE: t36-97-subordinadas-de-relativo.webp -->
+<!-- VISUAL:t36-97-subordinadas-de-relativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-97-subordinadas-de-relativo.webp" alt="Subordinadas de relativo" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas de relativo.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1280,7 +1668,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Una subordinada puede funcionar como adjunto del predicado o incidir sobre toda la oración.
 - El nexo y la relación semántica deben analizarse junto con la dependencia estructural.
 
-<!-- VISUAL PENDIENTE: t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp -->
+<!-- VISUAL:t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp" alt="Subordinadas adverbiales y construcciones circunstanciales" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas adverbiales y construcciones circunstanciales.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 
@@ -1293,7 +1685,11 @@ El Tema 36 se estudia en nueve partes: fundamentos y morfología; sustantivos; p
 - Concordancia, sustitución pronominal, selección léxica y transformación son pruebas útiles, no recetas infalibles aisladas.
 - El resultado debe justificar relaciones jerárquicas y admitir ambigüedad cuando la estructura permite más de una lectura.
 
-<!-- VISUAL PENDIENTE: t36-il-99-metodo-de-analisis-sintactico.webp -->
+<!-- VISUAL:t36-il-99-metodo-de-analisis-sintactico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-99-metodo-de-analisis-sintactico.webp" alt="Método de análisis sintáctico" width="820">
+</p>
+<p align="center"><em>Infografía: Método de análisis sintáctico.</em></p>
 
 <!-- FUENTE: RAE-NGB-SINTAXIS-T36 -->
 

@@ -19,7 +19,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La gestión ambiental transforma objetivos en planificación, prevención, control, participación y mejora.
 - Las cifras coyunturales deben estudiarse con fecha y fuente, separadas de las reglas estables.
 
-<!-- VISUAL PENDIENTE: t35-01-alcance-del-tema-35.webp -->
+<!-- VISUAL:t35-01-alcance-del-tema-35.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-01-alcance-del-tema-35.webp" alt="Alcance del Tema 35" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance del Tema 35.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T35 -->
 
@@ -32,7 +36,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El concepto une desarrollo y límites ambientales en vez de tratarlos como políticas aisladas.
 - La fórmula es un criterio de orientación y no una licencia para llamar sostenible a cualquier crecimiento.
 
-<!-- VISUAL PENDIENTE: t35-il-02-definicion-del-informe-brundtland.webp -->
+<!-- VISUAL:t35-il-02-definicion-del-informe-brundtland.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-02-definicion-del-informe-brundtland.webp" alt="Definición del Informe Brundtland" width="820">
+</p>
+<p align="center"><em>Infografía: Definición del Informe Brundtland.</em></p>
 
 <!-- FUENTE: UN-BRUNDTLAND-T35 -->
 
@@ -45,7 +53,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Una medida económicamente rentable puede ser insostenible si desplaza costes sociales o ambientales graves.
 - La protección ambiental puede generar beneficios sociales y económicos cuando previene daños y conserva servicios ecosistémicos.
 
-<!-- VISUAL PENDIENTE: t35-03-tres-dimensiones-integradas.webp -->
+<!-- VISUAL:t35-03-tres-dimensiones-integradas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-03-tres-dimensiones-integradas.webp" alt="Tres dimensiones integradas" width="820">
+</p>
+<p align="center"><em>Infografía: Tres dimensiones integradas.</em></p>
 
 <!-- FUENTE: UN-BRUNDTLAND-T35 -->
 
@@ -58,7 +70,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Trasladar contaminación a territorios vulnerables no resuelve el problema de sostenibilidad.
 - Posponer costes irreversibles puede limitar de forma real las opciones de generaciones futuras.
 
-<!-- VISUAL PENDIENTE: t35-04-equidad-intra-e-intergeneracional.webp -->
+<!-- VISUAL:t35-04-equidad-intra-e-intergeneracional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-04-equidad-intra-e-intergeneracional.webp" alt="Equidad intra e intergeneracional" width="820">
+</p>
+<p align="center"><em>Infografía: Equidad intra e intergeneracional.</em></p>
 
 <!-- FUENTE: UN-BRUNDTLAND-T35 -->
 
@@ -71,7 +87,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La innovación puede reducir presión, pero no garantiza por sí sola un resultado justo o sostenible.
 - La eficiencia pierde efecto si el aumento del consumo supera el ahorro obtenido por unidad.
 
-<!-- VISUAL PENDIENTE: t35-il-05-necesidades-limites-y-tecnologia.webp -->
+<!-- VISUAL:t35-il-05-necesidades-limites-y-tecnologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-05-necesidades-limites-y-tecnologia.webp" alt="Necesidades, límites y tecnología" width="820">
+</p>
+<p align="center"><em>Infografía: Necesidades, límites y tecnología.</em></p>
 
 <!-- FUENTE: UN-BRUNDTLAND-T35 -->
 
@@ -84,7 +104,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La corrección en la fuente busca tratar la contaminación donde se produce.
 - Precaución no significa prohibir cualquier actividad ante una duda mínima ni ignorar evidencia disponible.
 
-<!-- VISUAL PENDIENTE: t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp -->
+<!-- VISUAL:t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp" alt="Prevención, precaución y corrección en la fuente" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención, precaución y corrección en la fuente.</em></p>
 
 <!-- FUENTE: EU-ENV-PRINCIPLES-T35 -->
 
@@ -97,7 +121,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Busca evitar que el coste ambiental recaiga sin más sobre toda la sociedad.
 - Su aplicación concreta depende del régimen jurídico y de la relación causal exigible.
 
-<!-- VISUAL PENDIENTE: t35-07-quien-contamina-paga.webp -->
+<!-- VISUAL:t35-07-quien-contamina-paga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-07-quien-contamina-paga.webp" alt="Quien contamina paga" width="820">
+</p>
+<p align="center"><em>Infografía: Quien contamina paga.</em></p>
 
 <!-- FUENTE: EU-ENV-PRINCIPLES-T35 -->
 
@@ -110,7 +138,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Una huella ambiental estima presiones o consumos, pero su significado depende de método y límites.
 - Ningún indicador único describe por completo la sostenibilidad de una sociedad.
 
-<!-- VISUAL PENDIENTE: t35-08-indicadores-pib-idh-y-huella-ambiental.webp -->
+<!-- VISUAL:t35-08-indicadores-pib-idh-y-huella-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-08-indicadores-pib-idh-y-huella-ambiental.webp" alt="Indicadores: PIB, IDH y huella ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores: PIB, IDH y huella ambiental.</em></p>
 
 <!-- FUENTE: UNDP-HDI-T35 -->
 
@@ -123,7 +155,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Su Declaración formuló principios y su Plan de Acción impulsó cooperación.
 - Contribuyó a la creación del Programa de las Naciones Unidas para el Medio Ambiente.
 
-<!-- VISUAL PENDIENTE: t35-09-conferencia-de-estocolmo-de-1972.webp -->
+<!-- VISUAL:t35-09-conferencia-de-estocolmo-de-1972.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-09-conferencia-de-estocolmo-de-1972.webp" alt="Conferencia de Estocolmo de 1972" width="820">
+</p>
+<p align="center"><em>Infografía: Conferencia de Estocolmo de 1972.</em></p>
 
 <!-- FUENTE: UN-STOCKHOLM-T35 -->
 
@@ -136,7 +172,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Evalúa tendencias, apoya normas y facilita cooperación entre Estados y organizaciones.
 - No es un gobierno ambiental mundial con potestad general para sancionar Estados.
 
-<!-- VISUAL PENDIENTE: t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp -->
+<!-- VISUAL:t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp" alt="Programa de las Naciones Unidas para el Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Programa de las Naciones Unidas para el Medio Ambiente.</em></p>
 
 <!-- FUENTE: UN-STOCKHOLM-T35 -->
 
@@ -149,7 +189,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - En su marco se abrieron a firma la Convención sobre Cambio Climático y la de Diversidad Biológica.
 - Sus resultados combinan declaraciones, programas y tratados con distinta fuerza jurídica.
 
-<!-- VISUAL PENDIENTE: t35-11-cumbre-de-rio-de-1992.webp -->
+<!-- VISUAL:t35-11-cumbre-de-rio-de-1992.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-11-cumbre-de-rio-de-1992.webp" alt="Cumbre de Río de 1992" width="820">
+</p>
+<p align="center"><em>Infografía: Cumbre de Río de 1992.</em></p>
 
 <!-- FUENTE: UN-RIO-T35 -->
 
@@ -162,7 +206,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Agenda 21 promovió la intervención de administraciones, ciencia, empresas, sindicatos, ONG y ciudadanía.
 - La participación mejora legitimidad y conocimiento, pero no elimina la competencia del órgano decisor.
 
-<!-- VISUAL PENDIENTE: t35-12-declaracion-de-rio-y-participacion-social.webp -->
+<!-- VISUAL:t35-12-declaracion-de-rio-y-participacion-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-12-declaracion-de-rio-y-participacion-social.webp" alt="Declaración de Río y participación social" width="820">
+</p>
+<p align="center"><em>Infografía: Declaración de Río y participación social.</em></p>
 
 <!-- FUENTE: UN-RIO-T35 -->
 
@@ -175,7 +223,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La Convención establece el marco institucional de las conferencias de las Partes.
 - Diferencia responsabilidades y capacidades sin borrar la necesidad de cooperación universal.
 
-<!-- VISUAL PENDIENTE: t35-13-convencion-marco-sobre-cambio-climatico.webp -->
+<!-- VISUAL:t35-13-convencion-marco-sobre-cambio-climatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-13-convencion-marco-sobre-cambio-climatico.webp" alt="Convención Marco sobre Cambio Climático" width="820">
+</p>
+<p align="center"><em>Infografía: Convención Marco sobre Cambio Climático.</em></p>
 
 <!-- FUENTE: UNFCCC-T35 -->
 
@@ -188,7 +240,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El número de una COP no equivale al año de entrada en vigor de todos sus resultados.
 - Una sede o presidencia concreta es un dato histórico y debe fecharse.
 
-<!-- VISUAL PENDIENTE: t35-il-14-conferencias-de-las-partes.webp -->
+<!-- VISUAL:t35-il-14-conferencias-de-las-partes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-14-conferencias-de-las-partes.webp" alt="Conferencias de las Partes" width="820">
+</p>
+<p align="center"><em>Infografía: Conferencias de las Partes.</em></p>
 
 <!-- FUENTE: UNFCCC-T35 -->
 
@@ -201,7 +257,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - No realiza por sí mismo toda la investigación primaria que sintetiza.
 - Sus informes apoyan decisiones, pero no son tratados ni imponen obligaciones jurídicas.
 
-<!-- VISUAL PENDIENTE: t35-15-ipcc-funcion-y-productos.webp -->
+<!-- VISUAL:t35-15-ipcc-funcion-y-productos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-15-ipcc-funcion-y-productos.webp" alt="IPCC: función y productos" width="820">
+</p>
+<p align="center"><em>Infografía: IPCC: función y productos.</em></p>
 
 <!-- FUENTE: IPCC-T35 -->
 
@@ -214,7 +274,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Utilizó mecanismos como comercio de emisiones, aplicación conjunta y desarrollo limpio.
 - No es correcto trasladar su arquitectura sin matices al Acuerdo de París.
 
-<!-- VISUAL PENDIENTE: t35-16-protocolo-de-kioto.webp -->
+<!-- VISUAL:t35-16-protocolo-de-kioto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-16-protocolo-de-kioto.webp" alt="Protocolo de Kioto" width="820">
+</p>
+<p align="center"><em>Infografía: Protocolo de Kioto.</em></p>
 
 <!-- FUENTE: UNFCCC-T35 -->
 
@@ -227,7 +291,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Entró en vigor el 4 de noviembre de 2016 tras alcanzarse el umbral previsto.
 - Firma, ratificación o adhesión y entrada en vigor son actos jurídicos distintos.
 
-<!-- VISUAL PENDIENTE: t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp" alt="Adopción y entrada en vigor del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Adopción y entrada en vigor del Acuerdo de París.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -240,7 +308,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La retirada de Estados Unidos surtió efecto el 27 de enero de 2026 según el registro de NDC de la CMNUCC.
 - Las preguntas históricas sobre quién firmó el 22 de abril de 2016 deben resolverse con el registro de aquella fecha.
 
-<!-- VISUAL PENDIENTE: t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp -->
+<!-- VISUAL:t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp" alt="Partes del Acuerdo de París en 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Partes del Acuerdo de París en 2026.</em></p>
 
 <!-- FUENTE: UNFCCC-PARTIES-2026-T35 -->
 
@@ -253,7 +325,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El objetivo convive con adaptación y orientación de flujos financieros.
 - No fija una cuota idéntica de reducción para cada país dentro del propio texto.
 
-<!-- VISUAL PENDIENTE: t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp" alt="Objetivos de temperatura del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivos de temperatura del Acuerdo de París.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -266,7 +342,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Se comunican en ciclos de cinco años.
 - Nacionalmente determinada no significa jurídicamente irrelevante: existen deberes de preparación, comunicación y seguimiento.
 
-<!-- VISUAL PENDIENTE: t35-20-contribuciones-determinadas-a-nivel-nacional.webp -->
+<!-- VISUAL:t35-20-contribuciones-determinadas-a-nivel-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-20-contribuciones-determinadas-a-nivel-nacional.webp" alt="Contribuciones determinadas a nivel nacional" width="820">
+</p>
+<p align="center"><em>Infografía: Contribuciones determinadas a nivel nacional.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -279,7 +359,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La revisión técnica y la consideración multilateral no equivalen a un juicio penal.
 - Transparencia permite comparar progreso sin convertir capacidades nacionales distintas en datos idénticos.
 
-<!-- VISUAL PENDIENTE: t35-21-marco-reforzado-de-transparencia.webp -->
+<!-- VISUAL:t35-21-marco-reforzado-de-transparencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-21-marco-reforzado-de-transparencia.webp" alt="Marco reforzado de transparencia" width="820">
+</p>
+<p align="center"><em>Infografía: Marco reforzado de transparencia.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -292,7 +376,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Informa la actualización y mejora de acciones y apoyo posteriores.
 - No califica por sí solo el cumplimiento individual de cada Parte como una sentencia.
 
-<!-- VISUAL PENDIENTE: t35-22-balance-mundial-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-22-balance-mundial-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-22-balance-mundial-del-acuerdo-de-paris.webp" alt="Balance mundial del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Balance mundial del Acuerdo de París.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -305,7 +393,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Pérdidas y daños aborda impactos que no se evitan completamente mediante mitigación o adaptación.
 - Los tres planos se relacionan, pero no son sinónimos ni fondos automáticamente intercambiables.
 
-<!-- VISUAL PENDIENTE: t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp -->
+<!-- VISUAL:t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp" alt="Adaptación, financiación y pérdidas y daños" width="820">
+</p>
+<p align="center"><em>Infografía: Adaptación, financiación y pérdidas y daños.</em></p>
 
 <!-- FUENTE: UNFCCC-PARIS-T35 -->
 
@@ -318,7 +410,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los ODS son universales e integrados y abarcan dimensiones sociales, económicas y ambientales.
 - Los objetivos no son una lista de leyes penales ni sustituyen las competencias nacionales.
 
-<!-- VISUAL PENDIENTE: t35-24-agenda-2030-adopcion-y-estructura.webp -->
+<!-- VISUAL:t35-24-agenda-2030-adopcion-y-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-24-agenda-2030-adopcion-y-estructura.webp" alt="Agenda 2030: adopción y estructura" width="820">
+</p>
+<p align="center"><em>Infografía: Agenda 2030: adopción y estructura.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -331,7 +427,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Alianzas subraya cooperación entre gobiernos, sociedad, ciencia y sector privado.
 - Paz e instituciones muestran que sostenibilidad no se reduce a variables biofísicas.
 
-<!-- VISUAL PENDIENTE: t35-25-las-cinco-p-de-la-agenda-2030.webp -->
+<!-- VISUAL:t35-25-las-cinco-p-de-la-agenda-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-25-las-cinco-p-de-la-agenda-2030.webp" alt="Las cinco P de la Agenda 2030" width="820">
+</p>
+<p align="center"><em>Infografía: Las cinco P de la Agenda 2030.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -344,7 +444,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los ODS 14 y 15 se refieren a vida submarina y ecosistemas terrestres.
 - La dimensión ambiental también atraviesa salud, ciudades, energía, pobreza y alianzas.
 
-<!-- VISUAL PENDIENTE: t35-26-ods-ambientales-directos-y-transversales.webp -->
+<!-- VISUAL:t35-26-ods-ambientales-directos-y-transversales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-26-ods-ambientales-directos-y-transversales.webp" alt="ODS ambientales directos y transversales" width="820">
+</p>
+<p align="center"><em>Infografía: ODS ambientales directos y transversales.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -357,7 +461,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El seguimiento requiere series comparables, metodología y fecha de referencia.
 - Mejorar un indicador no demuestra por sí solo cumplimiento íntegro de un ODS.
 
-<!-- VISUAL PENDIENTE: t35-27-metas-indicadores-y-seguimiento.webp -->
+<!-- VISUAL:t35-27-metas-indicadores-y-seguimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-27-metas-indicadores-y-seguimiento.webp" alt="Metas, indicadores y seguimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Metas, indicadores y seguimiento.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -370,7 +478,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Trabaja con Eionet, red europea de información y observación ambiental.
 - La AEMA informa políticas, pero no es el legislador ambiental de la Unión.
 
-<!-- VISUAL PENDIENTE: t35-il-28-agencia-europea-de-medio-ambiente.webp -->
+<!-- VISUAL:t35-il-28-agencia-europea-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-28-agencia-europea-de-medio-ambiente.webp" alt="Agencia Europea de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Agencia Europea de Medio Ambiente.</em></p>
 
 <!-- FUENTE: AEMA-T35 -->
 
@@ -383,7 +495,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El objetivo es de la Unión en su conjunto y no una cuota idéntica automática para cada Estado.
 - La norma establece un marco de progreso y revisión coherente con París.
 
-<!-- VISUAL PENDIENTE: t35-29-ley-europea-del-clima.webp -->
+<!-- VISUAL:t35-29-ley-europea-del-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-29-ley-europea-del-clima.webp" alt="Ley Europea del Clima" width="820">
+</p>
+<p align="center"><em>Infografía: Ley Europea del Clima.</em></p>
 
 <!-- FUENTE: EU-CLIMATE-LAW-T35 -->
 
@@ -396,7 +512,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - También persigue uso prudente y racional de recursos naturales.
 - Los principios orientan políticas y normas; su aplicación concreta exige el instrumento jurídico correspondiente.
 
-<!-- VISUAL PENDIENTE: t35-30-principios-ambientales-de-la-union-europea.webp -->
+<!-- VISUAL:t35-30-principios-ambientales-de-la-union-europea.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-30-principios-ambientales-de-la-union-europea.webp" alt="Principios ambientales de la Unión Europea" width="820">
+</p>
+<p align="center"><em>Infografía: Principios ambientales de la Unión Europea.</em></p>
 
 <!-- FUENTE: EU-ENV-PRINCIPLES-T35 -->
 
@@ -409,7 +529,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Incluye ámbitos de naturaleza y biodiversidad, economía circular, mitigación, adaptación y transición energética limpia.
 - Una ayuda LIFE no sustituye permisos, evaluación ambiental ni obligaciones legales del proyecto.
 
-<!-- VISUAL PENDIENTE: t35-31-programa-life-2021-2027.webp -->
+<!-- VISUAL:t35-31-programa-life-2021-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-31-programa-life-2021-2027.webp" alt="Programa LIFE 2021-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Programa LIFE 2021-2027.</em></p>
 
 <!-- FUENTE: LIFE-2021-783-T35 -->
 
@@ -422,7 +546,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El artículo 45.3 prevé sanciones penales o administrativas y obligación de reparar el daño en los términos legales.
 - Su ubicación constitucional no permite inventar una acción procesal directa al margen de las leyes que la articulan.
 
-<!-- VISUAL PENDIENTE: t35-32-articulo-45-de-la-constitucion.webp -->
+<!-- VISUAL:t35-32-articulo-45-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-32-articulo-45-de-la-constitucion.webp" alt="Artículo 45 de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Artículo 45 de la Constitución.</em></p>
 
 <!-- FUENTE: CE-ART45-T35 -->
 
@@ -435,7 +563,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Su naturaleza consultiva no lo convierte en órgano legislativo ni ejecutivo.
 - Impulsa el diálogo y la coordinación entre agentes sociales, económicos, ambientales y culturales para contribuir a los ODS.
 
-<!-- VISUAL PENDIENTE: t35-il-33-consejo-de-desarrollo-sostenible.webp -->
+<!-- VISUAL:t35-il-33-consejo-de-desarrollo-sostenible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-33-consejo-de-desarrollo-sostenible.webp" alt="Consejo de Desarrollo Sostenible" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Desarrollo Sostenible.</em></p>
 
 <!-- FUENTE: ORDEN-DSA-819-2020-T35 -->
 
@@ -448,7 +580,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Participa en elaboración y seguimiento de políticas climáticas promovidas por el Estado.
 - No debe confundirse con la Oficina Española de Cambio Climático ni con la comisión de coordinación territorial.
 
-<!-- VISUAL PENDIENTE: t35-34-consejo-nacional-del-clima.webp -->
+<!-- VISUAL:t35-34-consejo-nacional-del-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-34-consejo-nacional-del-clima.webp" alt="Consejo Nacional del Clima" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Nacional del Clima.</em></p>
 
 <!-- FUENTE: RD415-2014-T35 -->
 
@@ -461,7 +597,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La Oficina Española de Cambio Climático ejerce funciones técnicas y administrativas dentro del ministerio competente.
 - Órganos con nombres próximos pueden participar, coordinar o ejecutar: la función distingue la respuesta.
 
-<!-- VISUAL PENDIENTE: t35-35-coordinacion-climatica-administrativa.webp -->
+<!-- VISUAL:t35-35-coordinacion-climatica-administrativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-35-coordinacion-climatica-administrativa.webp" alt="Coordinación climática administrativa" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación climática administrativa.</em></p>
 
 <!-- FUENTE: MITECO-ESTRUCTURA-T35 -->
 
@@ -474,7 +614,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las entidades locales ejercen competencias ambientales en los términos de la legislación aplicable.
 - La cooperación no elimina competencias: busca coherencia entre niveles y sectores.
 
-<!-- VISUAL PENDIENTE: t35-36-distribucion-de-competencias-ambientales.webp -->
+<!-- VISUAL:t35-36-distribucion-de-competencias-ambientales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-36-distribucion-de-competencias-ambientales.webp" alt="Distribución de competencias ambientales" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de competencias ambientales.</em></p>
 
 <!-- FUENTE: CE-ART45-T35 -->
 
@@ -487,7 +631,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Impuestos, límites, responsabilidad, información e incentivos son instrumentos distintos para corregir fallos.
 - Ningún instrumento funciona igual en todos los sectores o riesgos.
 
-<!-- VISUAL PENDIENTE: t35-37-consumo-produccion-y-externalidades.webp -->
+<!-- VISUAL:t35-37-consumo-produccion-y-externalidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-37-consumo-produccion-y-externalidades.webp" alt="Consumo, producción y externalidades" width="820">
+</p>
+<p align="center"><em>Infografía: Consumo, producción y externalidades.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -500,7 +648,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Formación, diversificación y protección social pueden acompañar el cierre o cambio de actividades.
 - Justa no significa renunciar a objetivos climáticos ni conservar indefinidamente cualquier actividad.
 
-<!-- VISUAL PENDIENTE: t35-il-38-transicion-justa.webp -->
+<!-- VISUAL:t35-il-38-transicion-justa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-38-transicion-justa.webp" alt="Transición justa" width="820">
+</p>
+<p align="center"><em>Infografía: Transición justa.</em></p>
 
 <!-- FUENTE: LEY7-2021-T35 -->
 
@@ -513,7 +665,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - También exige reconocer necesidades y vulnerabilidades distintas.
 - Trato formalmente idéntico puede producir resultados injustos si ignora exposición o capacidad desigual.
 
-<!-- VISUAL PENDIENTE: t35-39-justicia-ambiental.webp -->
+<!-- VISUAL:t35-39-justicia-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-39-justicia-ambiental.webp" alt="Justicia ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Justicia ambiental.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -526,7 +682,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La educación ambiental desarrolla capacidad para relacionar conducta, impactos y alternativas.
 - Informar no sustituye controles ni convierte al receptor en único responsable del problema.
 
-<!-- VISUAL PENDIENTE: t35-40-informacion-y-alfabetizacion-ambiental.webp -->
+<!-- VISUAL:t35-40-informacion-y-alfabetizacion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-40-informacion-y-alfabetizacion-ambiental.webp" alt="Información y alfabetización ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Información y alfabetización ambiental.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -539,7 +699,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La autoridad debe tomar en consideración el resultado conforme al procedimiento.
 - Considerar alegaciones no obliga a aceptarlas todas ni permite una decisión arbitraria.
 
-<!-- VISUAL PENDIENTE: t35-41-participacion-temprana-y-efectiva.webp -->
+<!-- VISUAL:t35-41-participacion-temprana-y-efectiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-41-participacion-temprana-y-efectiva.webp" alt="Participación temprana y efectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Participación temprana y efectiva.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -552,7 +716,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El criterio debe ser verificable y no discriminatorio.
 - La etiqueta puede servir como medio de prueba cuando la ley lo permite, sin cerrar injustificadamente equivalencias.
 
-<!-- VISUAL PENDIENTE: t35-42-compra-publica-verde.webp -->
+<!-- VISUAL:t35-42-compra-publica-verde.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-42-compra-publica-verde.webp" alt="Compra pública verde" width="820">
+</p>
+<p align="center"><em>Infografía: Compra pública verde.</em></p>
 
 <!-- FUENTE: UN-SDGS-T35 -->
 
@@ -565,7 +733,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los objetivos deben conectarse con aspectos significativos, riesgos y recursos.
 - La comunicación ambiental debe poder demostrarse con datos y criterios claros.
 
-<!-- VISUAL PENDIENTE: t35-il-43-empresa-cumplimiento-y-desempeno.webp -->
+<!-- VISUAL:t35-il-43-empresa-cumplimiento-y-desempeno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-43-empresa-cumplimiento-y-desempeno.webp" alt="Empresa, cumplimiento y desempeño" width="820">
+</p>
+<p align="center"><em>Infografía: Empresa, cumplimiento y desempeño.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -578,7 +750,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Una mejora relativa no debe comunicarse como ausencia total de impacto.
 - La transparencia exige explicar período, alcance, método y compensaciones cuando sean relevantes.
 
-<!-- VISUAL PENDIENTE: t35-44-greenwashing-y-alegaciones-ambientales.webp -->
+<!-- VISUAL:t35-44-greenwashing-y-alegaciones-ambientales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-44-greenwashing-y-alegaciones-ambientales.webp" alt="Greenwashing y alegaciones ambientales" width="820">
+</p>
+<p align="center"><em>Infografía: Greenwashing y alegaciones ambientales.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -591,7 +767,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los poderes públicos deben velar por conservación y uso racional en sus competencias.
 - Uso sostenible no significa ausencia total de uso, sino evitar disminución a largo plazo de componentes y funciones.
 
-<!-- VISUAL PENDIENTE: t35-45-objeto-y-principios-de-la-ley-42-2007.webp -->
+<!-- VISUAL:t35-45-objeto-y-principios-de-la-ley-42-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-45-objeto-y-principios-de-la-ley-42-2007.webp" alt="Objeto y principios de la Ley 42/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y principios de la Ley 42/2007.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -604,7 +784,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Geodiversidad atiende variedad de elementos y procesos geológicos.
 - Conservación in situ mantiene componentes en sus ecosistemas; ex situ actúa fuera de su hábitat natural.
 
-<!-- VISUAL PENDIENTE: t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp -->
+<!-- VISUAL:t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp" alt="Conceptos de biodiversidad y patrimonio natural" width="820">
+</p>
+<p align="center"><em>Infografía: Conceptos de biodiversidad y patrimonio natural.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -617,7 +801,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Un sistema de indicadores expresa de forma sintética sus resultados.
 - La información apoya decisiones y el informe periódico sobre estado y evolución del patrimonio.
 
-<!-- VISUAL PENDIENTE: t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp -->
+<!-- VISUAL:t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp" alt="Inventario Español del Patrimonio Natural y Biodiversidad" width="820">
+</p>
+<p align="center"><em>Infografía: Inventario Español del Patrimonio Natural y Biodiversidad.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -630,7 +818,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Derogó el Real Decreto 1274/2011 que aprobaba el plan 2011-2017.
 - No debe confundirse la vigencia del plan con una duración máxima genérica tomada de apuntes antiguos.
 
-<!-- VISUAL PENDIENTE: t35-il-48-plan-estrategico-estatal-a-2030.webp -->
+<!-- VISUAL:t35-il-48-plan-estrategico-estatal-a-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-48-plan-estrategico-estatal-a-2030.webp" alt="Plan Estratégico Estatal a 2030" width="820">
+</p>
+<p align="center"><em>Infografía: Plan Estratégico Estatal a 2030.</em></p>
 
 <!-- FUENTE: RD1057-2022-T35 -->
 
@@ -643,7 +835,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Sus disposiciones prevalecen sobre instrumentos territoriales o urbanísticos incompatibles en los términos legales.
 - Su elaboración incluye participación conforme al procedimiento aplicable.
 
-<!-- VISUAL PENDIENTE: t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp -->
+<!-- VISUAL:t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp" alt="Planes de Ordenación de los Recursos Naturales" width="820">
+</p>
+<p align="center"><em>Infografía: Planes de Ordenación de los Recursos Naturales.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -656,7 +852,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La declaración no borra automáticamente competencias sectoriales ni derechos preexistentes.
 - La gestión debe concretar normas, planificación y medidas compatibles con la finalidad protectora.
 
-<!-- VISUAL PENDIENTE: t35-50-espacios-naturales-protegidos.webp -->
+<!-- VISUAL:t35-50-espacios-naturales-protegidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-50-espacios-naturales-protegidos.webp" alt="Espacios naturales protegidos" width="820">
+</p>
+<p align="center"><em>Infografía: Espacios naturales protegidos.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -669,7 +869,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La red busca mantener o restablecer hábitats y especies de interés comunitario en estado favorable.
 - Pertenecer a Red Natura 2000 no implica prohibición absoluta de toda actividad.
 
-<!-- VISUAL PENDIENTE: t35-51-red-natura-2000.webp -->
+<!-- VISUAL:t35-51-red-natura-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-51-red-natura-2000.webp" alt="Red Natura 2000" width="820">
+</p>
+<p align="center"><em>Infografía: Red Natura 2000.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -682,7 +886,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La ausencia de certeza sobre efectos significativos no permite saltarse automáticamente la evaluación.
 - Las excepciones exigen condiciones estrictas, alternativas, razones imperiosas y medidas compensatorias cuando proceda.
 
-<!-- VISUAL PENDIENTE: t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp -->
+<!-- VISUAL:t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp" alt="Evaluación de repercusiones en Red Natura 2000" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de repercusiones en Red Natura 2000.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -695,7 +903,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - En peligro exige plan de recuperación; vulnerable exige plan de conservación.
 - La inclusión genera prohibiciones y medidas cuya extensión depende de la norma y excepciones aplicables.
 
-<!-- VISUAL PENDIENTE: t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp -->
+<!-- VISUAL:t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp" alt="Listado y Catálogo de especies amenazadas" width="820">
+</p>
+<p align="center"><em>Infografía: Listado y Catálogo de especies amenazadas.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -708,7 +920,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El Catálogo Español activa medidas de prevención y control conforme a su regulación.
 - Exótica no equivale automáticamente a invasora: la amenaza y catalogación importan.
 
-<!-- VISUAL PENDIENTE: t35-54-especies-exoticas-invasoras.webp -->
+<!-- VISUAL:t35-54-especies-exoticas-invasoras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-54-especies-exoticas-invasoras.webp" alt="Especies exóticas invasoras" width="820">
+</p>
+<p align="center"><em>Infografía: Especies exóticas invasoras.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -721,7 +937,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La planificación territorial debe considerar coherencia y conectividad de redes de conservación.
 - Un corredor no sustituye la protección de hábitats núcleo degradados.
 
-<!-- VISUAL PENDIENTE: t35-il-55-corredores-ecologicos-y-conectividad.webp -->
+<!-- VISUAL:t35-il-55-corredores-ecologicos-y-conectividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-55-corredores-ecologicos-y-conectividad.webp" alt="Corredores ecológicos y conectividad" width="820">
+</p>
+<p align="center"><em>Infografía: Corredores ecológicos y conectividad.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -734,7 +954,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las Reservas de la Biosfera españolas se integran en la Red Mundial del programa MaB de UNESCO.
 - Una designación internacional no convierte todas las categorías en el mismo régimen jurídico interno.
 
-<!-- VISUAL PENDIENTE: t35-56-areas-protegidas-por-instrumentos-internacionales.webp -->
+<!-- VISUAL:t35-56-areas-protegidas-por-instrumentos-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-56-areas-protegidas-por-instrumentos-internacionales.webp" alt="Áreas protegidas por instrumentos internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Áreas protegidas por instrumentos internacionales.</em></p>
 
 <!-- FUENTE: LEY42-2007-T35 -->
 
@@ -747,7 +971,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Integra economía, servicios, cohesión territorial y protección del patrimonio natural.
 - No es una ley exclusivamente agraria ni un plan de conservación de especies.
 
-<!-- VISUAL PENDIENTE: t35-57-objeto-de-la-ley-45-2007.webp -->
+<!-- VISUAL:t35-57-objeto-de-la-ley-45-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-57-objeto-de-la-ley-45-2007.webp" alt="Objeto de la Ley 45/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la Ley 45/2007.</em></p>
 
 <!-- FUENTE: LEY45-2007-T35 -->
 
@@ -760,7 +988,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Municipio rural de pequeño tamaño es el que cumple el umbral poblacional específico de la ley.
 - No deben intercambiarse los tres conceptos ni usar cifras sin consultar el artículo consolidado.
 
-<!-- VISUAL PENDIENTE: t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp -->
+<!-- VISUAL:t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp" alt="Medio rural, zona rural y municipio pequeño" width="820">
+</p>
+<p align="center"><em>Infografía: Medio rural, zona rural y municipio pequeño.</em></p>
 
 <!-- FUENTE: LEY45-2007-T35 -->
 
@@ -773,7 +1005,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las actuaciones se concretan mediante planificación, convenios y programas territoriales cuando proceda.
 - Su ejecución debe respetar las competencias de cada Administración y articular la cooperación entre ellas.
 
-<!-- VISUAL PENDIENTE: t35-59-programa-de-desarrollo-rural-sostenible.webp -->
+<!-- VISUAL:t35-59-programa-de-desarrollo-rural-sostenible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-59-programa-de-desarrollo-rural-sostenible.webp" alt="Programa de Desarrollo Rural Sostenible" width="820">
+</p>
+<p align="center"><em>Infografía: Programa de Desarrollo Rural Sostenible.</em></p>
 
 <!-- FUENTE: LEY45-2007-T35 -->
 
@@ -786,7 +1022,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las intermedias combinan baja o media densidad, empleo diversificado y distancia de áreas urbanas.
 - Las periurbanas tienen población creciente, predominio terciario y proximidad a áreas urbanas.
 
-<!-- VISUAL PENDIENTE: t35-60-clasificacion-de-zonas-rurales.webp -->
+<!-- VISUAL:t35-60-clasificacion-de-zonas-rurales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-60-clasificacion-de-zonas-rurales.webp" alt="Clasificación de zonas rurales" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de zonas rurales.</em></p>
 
 <!-- FUENTE: LEY45-2007-T35 -->
 
@@ -799,7 +1039,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Ambas pueden tramitarse mediante procedimiento ordinario o simplificado según supuestos legales.
 - La evaluación debe realizarse antes de la aprobación, adopción o autorización definitiva.
 
-<!-- VISUAL PENDIENTE: t35-61-arquitectura-de-la-ley-21-2013.webp -->
+<!-- VISUAL:t35-61-arquitectura-de-la-ley-21-2013.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-61-arquitectura-de-la-ley-21-2013.webp" alt="Arquitectura de la Ley 21/2013" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura de la Ley 21/2013.</em></p>
 
 <!-- FUENTE: LEY21-2013-T35 -->
 
@@ -812,7 +1056,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El estudio ambiental estratégico analiza alternativas razonables y efectos significativos.
 - La declaración o informe ambiental no sustituye la aprobación sustantiva del plan.
 
-<!-- VISUAL PENDIENTE: t35-62-evaluacion-ambiental-estrategica.webp -->
+<!-- VISUAL:t35-62-evaluacion-ambiental-estrategica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-62-evaluacion-ambiental-estrategica.webp" alt="Evaluación ambiental estratégica" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación ambiental estratégica.</em></p>
 
 <!-- FUENTE: LEY21-2013-T35 -->
 
@@ -825,7 +1073,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El estudio de impacto identifica, describe y evalúa efectos y alternativas del proyecto.
 - Una DIA favorable puede imponer condiciones y no equivale a autorización sustantiva.
 
-<!-- VISUAL PENDIENTE: t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp -->
+<!-- VISUAL:t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp" alt="Evaluación de impacto ambiental de proyectos" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de impacto ambiental de proyectos.</em></p>
 
 <!-- FUENTE: LEY21-2013-T35 -->
 
@@ -838,7 +1090,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El órgano ambiental realiza el análisis técnico y formula declaración o informe ambiental.
 - La separación de funciones evita confundir evaluación técnica con decisión sustantiva.
 
-<!-- VISUAL PENDIENTE: t35-64-organo-ambiental-sustantivo-y-promotor.webp -->
+<!-- VISUAL:t35-64-organo-ambiental-sustantivo-y-promotor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-64-organo-ambiental-sustantivo-y-promotor.webp" alt="Órgano ambiental, sustantivo y promotor" width="820">
+</p>
+<p align="center"><em>Infografía: Órgano ambiental, sustantivo y promotor.</em></p>
 
 <!-- FUENTE: LEY21-2013-T35 -->
 
@@ -851,7 +1107,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Para otras actividades la reparación exige dolo, culpa o negligencia en los términos legales, sin perjuicio de prevención y evitación.
 - La obligación de reparar no se reduce a pagar una multa ni tiene un tope general equivalente a la sanción.
 
-<!-- VISUAL PENDIENTE: t35-65-modelo-de-la-ley-26-2007.webp -->
+<!-- VISUAL:t35-65-modelo-de-la-ley-26-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-65-modelo-de-la-ley-26-2007.webp" alt="Modelo de la Ley 26/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de la Ley 26/2007.</em></p>
 
 <!-- FUENTE: LEY26-2007-T35 -->
 
@@ -864,7 +1124,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El daño al suelo se vincula a riesgo significativo de efectos adversos para la salud humana.
 - No todo perjuicio patrimonial privado es daño medioambiental de esta ley.
 
-<!-- VISUAL PENDIENTE: t35-66-dano-medioambiental-cubierto.webp -->
+<!-- VISUAL:t35-66-dano-medioambiental-cubierto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-66-dano-medioambiental-cubierto.webp" alt="Daño medioambiental cubierto" width="820">
+</p>
+<p align="center"><em>Infografía: Daño medioambiental cubierto.</em></p>
 
 <!-- FUENTE: LEY26-2007-T35 -->
 
@@ -877,7 +1141,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Cuando el daño se ha producido debe evitar nuevos daños y controlar o contener factores causantes.
 - La comunicación a la autoridad no permite esperar pasivamente si existen medidas inmediatas exigibles.
 
-<!-- VISUAL PENDIENTE: t35-67-amenaza-inminente-prevencion-y-evitacion.webp -->
+<!-- VISUAL:t35-67-amenaza-inminente-prevencion-y-evitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-67-amenaza-inminente-prevencion-y-evitacion.webp" alt="Amenaza inminente, prevención y evitación" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza inminente, prevención y evitación.</em></p>
 
 <!-- FUENTE: LEY26-2007-T35 -->
 
@@ -890,7 +1158,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La compensatoria compensa pérdidas provisionales desde el daño hasta que la reparación surte efecto.
 - Compensatoria no significa indemnización económica al público como sustituto automático de restaurar.
 
-<!-- VISUAL PENDIENTE: t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp -->
+<!-- VISUAL:t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp" alt="Reparación primaria, complementaria y compensatoria" width="820">
+</p>
+<p align="center"><em>Infografía: Reparación primaria, complementaria y compensatoria.</em></p>
 
 <!-- FUENTE: LEY26-2007-T35 -->
 
@@ -903,7 +1175,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - También coordina su ámbito con convenios internacionales enumerados legalmente.
 - Una exclusión de esta ley no descarta automáticamente otras responsabilidades civiles, penales o administrativas.
 
-<!-- VISUAL PENDIENTE: t35-69-plazo-temporal-y-exclusiones.webp -->
+<!-- VISUAL:t35-69-plazo-temporal-y-exclusiones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-69-plazo-temporal-y-exclusiones.webp" alt="Plazo temporal y exclusiones" width="820">
+</p>
+<p align="center"><em>Infografía: Plazo temporal y exclusiones.</em></p>
 
 <!-- FUENTE: LEY26-2007-T35 -->
 
@@ -916,7 +1192,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El segundo es participación pública en decisiones ambientales.
 - El tercero es acceso a justicia y tutela administrativa en la materia.
 
-<!-- VISUAL PENDIENTE: t35-70-convenio-de-aarhus-y-tres-pilares.webp -->
+<!-- VISUAL:t35-70-convenio-de-aarhus-y-tres-pilares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-70-convenio-de-aarhus-y-tres-pilares.webp" alt="Convenio de Aarhus y tres pilares" width="820">
+</p>
+<p align="center"><em>Infografía: Convenio de Aarhus y tres pilares.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -929,7 +1209,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las excepciones se interpretan restrictivamente y ponderan interés público según corresponda.
 - Si la información está en poder de otra autoridad, debe aplicarse el mecanismo legal de remisión o información al solicitante.
 
-<!-- VISUAL PENDIENTE: t35-71-acceso-a-informacion-ambiental.webp -->
+<!-- VISUAL:t35-71-acceso-a-informacion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-71-acceso-a-informacion-ambiental.webp" alt="Acceso a información ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a información ambiental.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -942,7 +1226,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Se conceden plazos razonables para formular observaciones y opiniones.
 - La decisión debe tener debidamente en cuenta los resultados de la participación.
 
-<!-- VISUAL PENDIENTE: t35-72-participacion-en-planes-y-disposiciones.webp -->
+<!-- VISUAL:t35-72-participacion-en-planes-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-72-participacion-en-planes-y-disposiciones.webp" alt="Participación en planes y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: Participación en planes y disposiciones.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -955,7 +1243,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La acción popular no corresponde automáticamente a cualquier entidad por incluir ambiente en su nombre.
 - El acceso a justicia complementa, pero no sustituye, vías administrativas y requisitos procesales.
 
-<!-- VISUAL PENDIENTE: t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp -->
+<!-- VISUAL:t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp" alt="Acceso a la justicia y acción popular ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a la justicia y acción popular ambiental.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -968,7 +1260,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Puede emitir informes y propuestas dentro de sus funciones.
 - No debe confundirse con el Consejo Nacional del Clima, centrado específicamente en política climática.
 
-<!-- VISUAL PENDIENTE: t35-74-consejo-asesor-de-medio-ambiente.webp -->
+<!-- VISUAL:t35-74-consejo-asesor-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-74-consejo-asesor-de-medio-ambiente.webp" alt="Consejo Asesor de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Asesor de Medio Ambiente.</em></p>
 
 <!-- FUENTE: LEY27-2006-T35 -->
 
@@ -981,7 +1277,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Integra ciencia, precaución, no regresión, protección de biodiversidad y transición justa entre sus orientaciones.
 - La ley consolidada debe consultarse porque fue modificada hasta el 30 de junio de 2026.
 
-<!-- VISUAL PENDIENTE: t35-75-objeto-y-principios-de-la-ley-7-2021.webp -->
+<!-- VISUAL:t35-75-objeto-y-principios-de-la-ley-7-2021.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-75-objeto-y-principios-de-la-ley-7-2021.webp" alt="Objeto y principios de la Ley 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y principios de la Ley 7/2021.</em></p>
 
 <!-- FUENTE: LEY7-2021-T35 -->
 
@@ -994,7 +1294,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Por eso deben distinguirse los objetivos mínimos legales de 2021 y los objetivos del PNIEC actualizado.
 - Una pregunta debe indicar si pide la ley o el plan; mezclar cifras produce una respuesta falsa.
 
-<!-- VISUAL PENDIENTE: t35-76-objetivos-legales-y-objetivos-del-pniec.webp -->
+<!-- VISUAL:t35-76-objetivos-legales-y-objetivos-del-pniec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-76-objetivos-legales-y-objetivos-del-pniec.webp" alt="Objetivos legales y objetivos del PNIEC" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivos legales y objetivos del PNIEC.</em></p>
 
 <!-- FUENTE: LEY7-2021-T35 -->
 
@@ -1007,7 +1311,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Establece 43 % de mejora de eficiencia energética en términos de energía final.
 - Prevé 81 % de energía renovable en la generación eléctrica y reducción de dependencia energética hasta el 50 %.
 
-<!-- VISUAL PENDIENTE: t35-77-pniec-2023-2030-actualizado.webp -->
+<!-- VISUAL:t35-77-pniec-2023-2030-actualizado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-77-pniec-2023-2030-actualizado.webp" alt="PNIEC 2023-2030 actualizado" width="820">
+</p>
+<p align="center"><em>Infografía: PNIEC 2023-2030 actualizado.</em></p>
 
 <!-- FUENTE: PNIEC-2023-2030-T35 -->
 
@@ -1020,7 +1328,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Su actualización fue sometida a evaluación ambiental estratégica.
 - El plan integra sectores y no se limita a generación eléctrica.
 
-<!-- VISUAL PENDIENTE: t35-il-78-dimensiones-y-estructura-del-pniec.webp -->
+<!-- VISUAL:t35-il-78-dimensiones-y-estructura-del-pniec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-78-dimensiones-y-estructura-del-pniec.webp" alt="Dimensiones y estructura del PNIEC" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensiones y estructura del PNIEC.</em></p>
 
 <!-- FUENTE: PNIEC-2023-2030-T35 -->
 
@@ -1033,7 +1345,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Integra adaptación en políticas sectoriales y refuerza capacidades de respuesta.
 - Se desarrolla mediante programas de trabajo y seguimiento, no mediante una lista cerrada e inmutable.
 
-<!-- VISUAL PENDIENTE: t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp -->
+<!-- VISUAL:t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp" alt="Plan Nacional de Adaptación 2021-2030" width="820">
+</p>
+<p align="center"><em>Infografía: Plan Nacional de Adaptación 2021-2030.</em></p>
 
 <!-- FUENTE: PNACC-2021-2030-T35 -->
 
@@ -1046,7 +1362,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los convenios de transición justa pueden concentrar actuaciones en zonas afectadas.
 - Su finalidad no es indemnizar automáticamente cualquier pérdida empresarial.
 
-<!-- VISUAL PENDIENTE: t35-80-estrategia-de-transicion-justa.webp -->
+<!-- VISUAL:t35-80-estrategia-de-transicion-justa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-80-estrategia-de-transicion-justa.webp" alt="Estrategia de Transición Justa" width="820">
+</p>
+<p align="center"><em>Infografía: Estrategia de Transición Justa.</em></p>
 
 <!-- FUENTE: LEY7-2021-T35 -->
 
@@ -1059,7 +1379,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Una solución basada en naturaleza puede aportar simultáneamente mitigación, adaptación y biodiversidad.
 - La etiqueta depende de la función principal y no del color verde del proyecto.
 
-<!-- VISUAL PENDIENTE: t35-81-mitigacion-y-adaptacion-casos-limite.webp -->
+<!-- VISUAL:t35-81-mitigacion-y-adaptacion-casos-limite.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-81-mitigacion-y-adaptacion-casos-limite.webp" alt="Mitigación y adaptación: casos límite" width="820">
+</p>
+<p align="center"><em>Infografía: Mitigación y adaptación: casos límite.</em></p>
 
 <!-- FUENTE: PNACC-2021-2030-T35 -->
 
@@ -1072,7 +1396,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - El sistema debe integrarse en la dirección de la organización y no quedar como archivo aislado.
 - Su alcance define actividades, productos, servicios y ubicaciones cubiertas.
 
-<!-- VISUAL PENDIENTE: t35-82-sistema-de-gestion-ambiental.webp -->
+<!-- VISUAL:t35-82-sistema-de-gestion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-82-sistema-de-gestion-ambiental.webp" alt="Sistema de gestión ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema de gestión ambiental.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1085,7 +1413,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Especifica requisitos para establecer, implementar, mantener y mejorar continuamente un SGA.
 - La certificación es voluntaria salvo que un contrato o norma sectorial la exija como condición.
 
-<!-- VISUAL PENDIENTE: t35-il-83-iso-14001-2026.webp -->
+<!-- VISUAL:t35-il-83-iso-14001-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-83-iso-14001-2026.webp" alt="ISO 14001:2026" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 14001:2026.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1098,7 +1430,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La organización determina aspectos significativos con criterios definidos.
 - La perspectiva de ciclo de vida considera etapas controlables o influenciables sin exigir siempre un análisis de ciclo de vida completo.
 
-<!-- VISUAL PENDIENTE: t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp -->
+<!-- VISUAL:t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp" alt="Aspectos, impactos y perspectiva de ciclo de vida" width="820">
+</p>
+<p align="center"><em>Infografía: Aspectos, impactos y perspectiva de ciclo de vida.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1111,7 +1447,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Los objetivos ambientales deben ser coherentes con política, medibles cuando sea posible y objeto de seguimiento.
 - Conocer una norma sin evaluar su cumplimiento no cierra el ciclo de gestión.
 
-<!-- VISUAL PENDIENTE: t35-85-obligaciones-de-cumplimiento-y-objetivos.webp -->
+<!-- VISUAL:t35-85-obligaciones-de-cumplimiento-y-objetivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-85-obligaciones-de-cumplimiento-y-objetivos.webp" alt="Obligaciones de cumplimiento y objetivos" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de cumplimiento y objetivos.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1124,7 +1464,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La organización se prepara y responde ante situaciones potenciales de emergencia ambiental.
 - Los simulacros y revisiones permiten aprender; un plan no probado puede fallar cuando se necesita.
 
-<!-- VISUAL PENDIENTE: t35-86-control-operacional-y-emergencias.webp -->
+<!-- VISUAL:t35-86-control-operacional-y-emergencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-86-control-operacional-y-emergencias.webp" alt="Control operacional y emergencias" width="820">
+</p>
+<p align="center"><em>Infografía: Control operacional y emergencias.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1137,7 +1481,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - La alta dirección revisa el SGA para asegurar conveniencia, adecuación y eficacia.
 - Una auditoría sin evidencia ni seguimiento de hallazgos no demuestra mejora.
 
-<!-- VISUAL PENDIENTE: t35-87-seguimiento-auditoria-y-revision.webp -->
+<!-- VISUAL:t35-87-seguimiento-auditoria-y-revision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-87-seguimiento-auditoria-y-revision.webp" alt="Seguimiento, auditoría y revisión" width="820">
+</p>
+<p align="center"><em>Infografía: Seguimiento, auditoría y revisión.</em></p>
 
 <!-- FUENTE: ISO14001-2026-T35 -->
 
@@ -1150,7 +1498,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Exige revisión ambiental, sistema de gestión, auditoría y declaración ambiental validada.
 - La organización debe demostrar cumplimiento legal y mejora del desempeño conforme al Reglamento.
 
-<!-- VISUAL PENDIENTE: t35-88-emas-naturaleza-y-requisitos.webp -->
+<!-- VISUAL:t35-88-emas-naturaleza-y-requisitos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-88-emas-naturaleza-y-requisitos.webp" alt="EMAS: naturaleza y requisitos" width="820">
+</p>
+<p align="center"><em>Infografía: EMAS: naturaleza y requisitos.</em></p>
 
 <!-- FUENTE: EMAS-1221-2009-T35 -->
 
@@ -1163,7 +1515,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Una certificación ISO no equivale automáticamente a inscripción EMAS.
 - Ambos instrumentos son voluntarios, pero no idénticos en evidencia pública y procedimiento.
 
-<!-- VISUAL PENDIENTE: t35-89-iso-14001-y-emas.webp -->
+<!-- VISUAL:t35-89-iso-14001-y-emas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-89-iso-14001-y-emas.webp" alt="ISO 14001 y EMAS" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 14001 y EMAS.</em></p>
 
 <!-- FUENTE: EMAS-1221-2009-T35 -->
 
@@ -1176,7 +1532,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Economía circular busca mantener valor de productos, materiales y recursos y reducir residuos.
 - Reciclar es importante, pero está por debajo de prevenir y preparar para reutilización.
 
-<!-- VISUAL PENDIENTE: t35-90-jerarquia-de-residuos-y-economia-circular.webp -->
+<!-- VISUAL:t35-90-jerarquia-de-residuos-y-economia-circular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-90-jerarquia-de-residuos-y-economia-circular.webp" alt="Jerarquía de residuos y economía circular" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de residuos y economía circular.</em></p>
 
 <!-- FUENTE: LEY7-2022-T35 -->
 
@@ -1189,7 +1549,11 @@ El Tema 35 se estudia en nueve partes: fundamentos; cooperación internacional; 
 - Las mejores técnicas disponibles orientan valores límite y condiciones sin prescribir siempre una tecnología concreta.
 - El enfoque integrado evita resolver una emisión trasladando el problema de un medio a otro.
 
-<!-- VISUAL PENDIENTE: t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp -->
+<!-- VISUAL:t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp" alt="Prevención y control integrados de la contaminación" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención y control integrados de la contaminación.</em></p>
 
 <!-- FUENTE: IPPC-1-2016-T35 -->
 

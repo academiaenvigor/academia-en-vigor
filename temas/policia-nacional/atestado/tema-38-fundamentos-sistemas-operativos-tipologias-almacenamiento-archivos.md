@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 38**, aplica esta regla: El programa exi
 - **Incorrecto:** El Tema 38 se limita al manejo de Windows.
 - **Incorrecto:** Las tecnologías móviles y los sistemas de archivos quedan fuera del epígrafe.
 
-<!-- VISUAL PENDIENTE: t38-01-alcance-oficial-del-tema-38.webp -->
+<!-- VISUAL:t38-01-alcance-oficial-del-tema-38.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-01-alcance-oficial-del-tema-38.webp" alt="Alcance oficial del Tema 38" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 38.</em></p>
 
 :::hablemos-claro
 El programa exige fundamentos y funciones de los sistemas operativos.
@@ -72,7 +76,11 @@ Para dominar **hardware, software y firmware**, aplica esta regla: El hardware r
 - **Incorrecto:** El firmware es un periférico físico sin código.
 - **Incorrecto:** Toda aplicación forma parte del núcleo del sistema operativo.
 
-<!-- VISUAL PENDIENTE: t38-02-hardware-software-y-firmware.webp -->
+<!-- VISUAL:t38-02-hardware-software-y-firmware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-02-hardware-software-y-firmware.webp" alt="Hardware, software y firmware" width="820">
+</p>
+<p align="center"><em>Infografía: Hardware, software y firmware.</em></p>
 
 :::hablemos-claro
 El hardware reúne los componentes físicos que ejecutan, almacenan o transfieren información.
@@ -111,7 +119,11 @@ Para dominar **arquitectura de programa almacenado**, aplica esta regla: En una 
 - **Incorrecto:** La ALU almacena permanentemente todos los archivos del usuario.
 - **Incorrecto:** El procesador ejecuta programas sin leer instrucciones ni datos de memoria.
 
-<!-- VISUAL PENDIENTE: t38-03-arquitectura-de-programa-almacenado.webp -->
+<!-- VISUAL:t38-03-arquitectura-de-programa-almacenado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-03-arquitectura-de-programa-almacenado.webp" alt="Arquitectura de programa almacenado" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura de programa almacenado.</em></p>
 
 :::hablemos-claro
 En una arquitectura de programa almacenado, instrucciones y datos se conservan en memoria accesible al procesador.
@@ -150,7 +162,11 @@ Para dominar **cpu, núcleos, hilos y caché**, aplica esta regla: La CPU ejecut
 - **Incorrecto:** Un hilo lógico es siempre otro procesador físico independiente.
 - **Incorrecto:** La caché sustituye al almacenamiento persistente del equipo.
 
-<!-- VISUAL PENDIENTE: t38-il-04-cpu-nucleos-hilos-y-cache.webp -->
+<!-- VISUAL:t38-il-04-cpu-nucleos-hilos-y-cache.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-04-cpu-nucleos-hilos-y-cache.webp" alt="CPU, núcleos, hilos y caché" width="820">
+</p>
+<p align="center"><em>Infografía: CPU, núcleos, hilos y caché.</em></p>
 
 :::hablemos-claro
 La CPU ejecuta instrucciones y puede integrar uno o varios núcleos de procesamiento.
@@ -189,7 +205,11 @@ Para dominar **jerarquía de memoria**, aplica esta regla: Registros y cachés s
 - **Incorrecto:** La RAM es un almacenamiento no volátil equivalente a un SSD.
 - **Incorrecto:** La memoria virtual aumenta físicamente los módulos RAM instalados.
 
-<!-- VISUAL PENDIENTE: t38-il-05-jerarquia-de-memoria.webp -->
+<!-- VISUAL:t38-il-05-jerarquia-de-memoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-05-jerarquia-de-memoria.webp" alt="Jerarquía de memoria" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de memoria.</em></p>
 
 :::hablemos-claro
 Registros y cachés son muy rápidos y de capacidad limitada frente a la memoria principal.
@@ -228,7 +248,11 @@ Para dominar **bit, byte y prefijos de capacidad**, aplica esta regla: El bit es
 - **Incorrecto:** Un byte contiene 1024 bits.
 - **Incorrecto:** KB y KiB son símbolos rigurosamente equivalentes en cualquier contexto.
 
-<!-- VISUAL PENDIENTE: t38-06-bit-byte-y-prefijos-de-capacidad.webp -->
+<!-- VISUAL:t38-06-bit-byte-y-prefijos-de-capacidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-06-bit-byte-y-prefijos-de-capacidad.webp" alt="Bit, byte y prefijos de capacidad" width="820">
+</p>
+<p align="center"><em>Infografía: Bit, byte y prefijos de capacidad.</em></p>
 
 :::hablemos-claro
 El bit es una unidad binaria y el byte agrupa ocho bits.
@@ -267,7 +291,11 @@ Para dominar **entrada, salida y periféricos**, aplica esta regla: Un dispositi
 - **Incorrecto:** Todo periférico es exclusivamente de entrada o exclusivamente de salida.
 - **Incorrecto:** Las aplicaciones controlan el hardware sin mediación del sistema operativo.
 
-<!-- VISUAL PENDIENTE: t38-07-entrada-salida-y-perifericos.webp -->
+<!-- VISUAL:t38-07-entrada-salida-y-perifericos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-07-entrada-salida-y-perifericos.webp" alt="Entrada, salida y periféricos" width="820">
+</p>
+<p align="center"><em>Infografía: Entrada, salida y periféricos.</em></p>
 
 :::hablemos-claro
 Un dispositivo de entrada aporta datos o señales al sistema.
@@ -306,7 +334,11 @@ Para dominar **arranque: firmware, cargador y núcleo**, aplica esta regla: El f
 - **Incorrecto:** El cargador de arranque comienza después de cerrar el sistema operativo.
 - **Incorrecto:** Arranque seguro y cifrado completo del almacenamiento son la misma función.
 
-<!-- VISUAL PENDIENTE: t38-08-arranque-firmware-cargador-y-nucleo.webp -->
+<!-- VISUAL:t38-08-arranque-firmware-cargador-y-nucleo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-08-arranque-firmware-cargador-y-nucleo.webp" alt="Arranque: firmware, cargador y núcleo" width="820">
+</p>
+<p align="center"><em>Infografía: Arranque: firmware, cargador y núcleo.</em></p>
 
 :::hablemos-claro
 El firmware inicializa componentes básicos y localiza un mecanismo de arranque.
@@ -345,7 +377,11 @@ Para dominar **sistema operativo como gestor de recursos**, aplica esta regla: E
 - **Incorrecto:** La única función del sistema operativo es mostrar ventanas.
 - **Incorrecto:** Cada aplicación debe asignarse por sí sola la memoria física y los dispositivos.
 
-<!-- VISUAL PENDIENTE: t38-09-sistema-operativo-como-gestor-de-recursos.webp -->
+<!-- VISUAL:t38-09-sistema-operativo-como-gestor-de-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-09-sistema-operativo-como-gestor-de-recursos.webp" alt="Sistema operativo como gestor de recursos" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema operativo como gestor de recursos.</em></p>
 
 :::hablemos-claro
 El sistema operativo administra procesador, memoria, dispositivos y almacenamiento.
@@ -384,7 +420,11 @@ Para dominar **núcleo, modo usuario y llamadas al sistema**, aplica esta regla:
 - **Incorrecto:** Una llamada al sistema cambia permanentemente cualquier programa a modo núcleo.
 - **Incorrecto:** El modo usuario permite ejecutar sin control todas las instrucciones privilegiadas.
 
-<!-- VISUAL PENDIENTE: t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp -->
+<!-- VISUAL:t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp" alt="Núcleo, modo usuario y llamadas al sistema" width="820">
+</p>
+<p align="center"><em>Infografía: Núcleo, modo usuario y llamadas al sistema.</em></p>
 
 :::hablemos-claro
 El núcleo ejecuta funciones privilegiadas y mantiene el control de recursos críticos.
@@ -423,7 +463,11 @@ Para dominar **programa, proceso e imagen ejecutable**, aplica esta regla: Un pr
 - **Incorrecto:** Un proceso es únicamente el archivo guardado en disco.
 - **Incorrecto:** Un programa solo puede tener una instancia en ejecución.
 
-<!-- VISUAL PENDIENTE: t38-11-programa-proceso-e-imagen-ejecutable.webp -->
+<!-- VISUAL:t38-11-programa-proceso-e-imagen-ejecutable.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-11-programa-proceso-e-imagen-ejecutable.webp" alt="Programa, proceso e imagen ejecutable" width="820">
+</p>
+<p align="center"><em>Infografía: Programa, proceso e imagen ejecutable.</em></p>
 
 :::hablemos-claro
 Un programa es código y datos preparados para ejecutarse.
@@ -462,7 +506,11 @@ Para dominar **estados y ciclo de vida de un proceso**, aplica esta regla: Un pr
 - **Incorrecto:** Un proceso bloqueado consume necesariamente CPU de forma continua.
 - **Incorrecto:** El estado listo significa que el proceso ya terminó.
 
-<!-- VISUAL PENDIENTE: t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp -->
+<!-- VISUAL:t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp" alt="Estados y ciclo de vida de un proceso" width="820">
+</p>
+<p align="center"><em>Infografía: Estados y ciclo de vida de un proceso.</em></p>
 
 :::hablemos-claro
 Un proceso listo puede ejecutar cuando el planificador le asigne procesador.
@@ -501,7 +549,11 @@ Para dominar **hilos y recursos compartidos**, aplica esta regla: Un hilo es una
 - **Incorrecto:** Cada hilo tiene siempre un espacio de direcciones completamente aislado.
 - **Incorrecto:** Los hilos eliminan cualquier riesgo de carrera sobre datos compartidos.
 
-<!-- VISUAL PENDIENTE: t38-13-hilos-y-recursos-compartidos.webp -->
+<!-- VISUAL:t38-13-hilos-y-recursos-compartidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-13-hilos-y-recursos-compartidos.webp" alt="Hilos y recursos compartidos" width="820">
+</p>
+<p align="center"><em>Infografía: Hilos y recursos compartidos.</em></p>
 
 :::hablemos-claro
 Un hilo es una secuencia de ejecución planificable dentro de un proceso.
@@ -540,7 +592,11 @@ Para dominar **planificación de cpu**, aplica esta regla: El planificador decid
 - **Incorrecto:** El planificador solo interviene cuando se apaga el equipo.
 - **Incorrecto:** El cambio de contexto convierte dos procesos en uno.
 
-<!-- VISUAL PENDIENTE: t38-14-planificacion-de-cpu.webp -->
+<!-- VISUAL:t38-14-planificacion-de-cpu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-14-planificacion-de-cpu.webp" alt="Planificación de CPU" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de CPU.</em></p>
 
 :::hablemos-claro
 El planificador decide qué tarea ejecutable utiliza la CPU en cada momento.
@@ -579,7 +635,11 @@ Para dominar **multiprogramación, multitarea y multiprocesamiento**, aplica est
 - **Incorrecto:** Toda concurrencia exige dos procesadores físicos.
 - **Incorrecto:** Multitarea y multiprocesamiento significan exactamente lo mismo.
 
-<!-- VISUAL PENDIENTE: t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp -->
+<!-- VISUAL:t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp" alt="Multiprogramación, multitarea y multiprocesamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Multiprogramación, multitarea y multiprocesamiento.</em></p>
 
 :::hablemos-claro
 La multiprogramación mantiene varios trabajos preparados para aprovechar mejor la CPU.
@@ -618,7 +678,11 @@ Para dominar **sincronización y condiciones de carrera**, aplica esta regla: Ex
 - **Incorrecto:** Un mutex incrementa la velocidad eliminando toda espera posible.
 - **Incorrecto:** Interbloqueo significa que una tarea ya ha terminado correctamente.
 
-<!-- VISUAL PENDIENTE: t38-il-16-sincronizacion-y-condiciones-de-carrera.webp -->
+<!-- VISUAL:t38-il-16-sincronizacion-y-condiciones-de-carrera.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-16-sincronizacion-y-condiciones-de-carrera.webp" alt="Sincronización y condiciones de carrera" width="820">
+</p>
+<p align="center"><em>Infografía: Sincronización y condiciones de carrera.</em></p>
 
 :::hablemos-claro
 Existe condición de carrera cuando el resultado depende de un orden no controlado entre ejecuciones concurrentes.
@@ -657,7 +721,11 @@ Para dominar **comunicación entre procesos**, aplica esta regla: La comunicaci�
 - **Incorrecto:** IPC significa que todos los procesos comparten automáticamente toda la RAM.
 - **Incorrecto:** Las tuberías son dispositivos físicos de almacenamiento.
 
-<!-- VISUAL PENDIENTE: t38-17-comunicacion-entre-procesos.webp -->
+<!-- VISUAL:t38-17-comunicacion-entre-procesos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-17-comunicacion-entre-procesos.webp" alt="Comunicación entre procesos" width="820">
+</p>
+<p align="center"><em>Infografía: Comunicación entre procesos.</em></p>
 
 :::hablemos-claro
 La comunicación entre procesos permite intercambiar datos o señales entre ejecuciones separadas.
@@ -696,7 +764,11 @@ Para dominar **gestión de memoria**, aplica esta regla: El sistema operativo as
 - **Incorrecto:** Todos los procesos escriben libremente en la memoria de los demás.
 - **Incorrecto:** Fragmentación de memoria y fragmentación de archivos son siempre el mismo fenómeno.
 
-<!-- VISUAL PENDIENTE: t38-18-gestion-de-memoria.webp -->
+<!-- VISUAL:t38-18-gestion-de-memoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-18-gestion-de-memoria.webp" alt="Gestión de memoria" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de memoria.</em></p>
 
 :::hablemos-claro
 El sistema operativo asigna memoria a procesos y recupera regiones cuando dejan de utilizarse.
@@ -735,7 +807,11 @@ Para dominar **memoria virtual y paginación**, aplica esta regla: La memoria vi
 - **Incorrecto:** Una falta de página demuestra siempre un fallo físico del disco.
 - **Incorrecto:** El intercambio es más rápido que la memoria RAM.
 
-<!-- VISUAL PENDIENTE: t38-il-19-memoria-virtual-y-paginacion.webp -->
+<!-- VISUAL:t38-il-19-memoria-virtual-y-paginacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-19-memoria-virtual-y-paginacion.webp" alt="Memoria virtual y paginación" width="820">
+</p>
+<p align="center"><em>Infografía: Memoria virtual y paginación.</em></p>
 
 :::hablemos-claro
 La memoria virtual proporciona a cada proceso un espacio de direcciones abstracto.
@@ -774,7 +850,11 @@ Para dominar **gestión de archivos y directorios**, aplica esta regla: El siste
 - **Incorrecto:** Un directorio contiene únicamente los bytes de todos sus archivos concatenados.
 - **Incorrecto:** Borrar un archivo garantiza por sí solo la destrucción física inmediata de todos sus datos.
 
-<!-- VISUAL PENDIENTE: t38-20-gestion-de-archivos-y-directorios.webp -->
+<!-- VISUAL:t38-20-gestion-de-archivos-y-directorios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-20-gestion-de-archivos-y-directorios.webp" alt="Gestión de archivos y directorios" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de archivos y directorios.</em></p>
 
 :::hablemos-claro
 El sistema operativo ofrece operaciones para crear, abrir, leer, escribir, renombrar y eliminar archivos.
@@ -813,7 +893,11 @@ Para dominar **dispositivos, controladores y entrada/salida**, aplica esta regla
 - **Incorrecto:** Un controlador es siempre una pieza física conectada por USB.
 - **Incorrecto:** Una interrupción obliga a reinstalar el sistema operativo.
 
-<!-- VISUAL PENDIENTE: t38-21-dispositivos-controladores-y-entrada-salida.webp -->
+<!-- VISUAL:t38-21-dispositivos-controladores-y-entrada-salida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-21-dispositivos-controladores-y-entrada-salida.webp" alt="Dispositivos, controladores y entrada/salida" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos, controladores y entrada/salida.</em></p>
 
 :::hablemos-claro
 Un controlador traduce operaciones del sistema a interacciones adecuadas con un dispositivo.
@@ -852,7 +936,11 @@ Para dominar **interfaz de línea de comandos, shell y gui**, aplica esta regla:
 - **Incorrecto:** Todo sistema con GUI carece de shell y terminal.
 - **Incorrecto:** La shell es el núcleo físico del procesador.
 
-<!-- VISUAL PENDIENTE: t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp -->
+<!-- VISUAL:t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp" alt="Interfaz de línea de comandos, shell y GUI" width="820">
+</p>
+<p align="center"><em>Infografía: Interfaz de línea de comandos, shell y GUI.</em></p>
 
 :::hablemos-claro
 Una interfaz de línea de comandos recibe instrucciones textuales.
@@ -891,7 +979,11 @@ Para dominar **usuarios, autenticación y autorización**, aplica esta regla: La
 - **Incorrecto:** Autenticación y autorización son términos idénticos.
 - **Incorrecto:** Mínimo privilegio significa conceder derechos administrativos a todas las aplicaciones.
 
-<!-- VISUAL PENDIENTE: t38-23-usuarios-autenticacion-y-autorizacion.webp -->
+<!-- VISUAL:t38-23-usuarios-autenticacion-y-autorizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-23-usuarios-autenticacion-y-autorizacion.webp" alt="Usuarios, autenticación y autorización" width="820">
+</p>
+<p align="center"><em>Infografía: Usuarios, autenticación y autorización.</em></p>
 
 :::hablemos-claro
 La autenticación comprueba una identidad declarada.
@@ -930,7 +1022,11 @@ Para dominar **protección, aislamiento y auditoría**, aplica esta regla: El ai
 - **Incorrecto:** Un registro de auditoría impide automáticamente todos los ataques.
 - **Incorrecto:** Cifrar datos hace innecesarias las actualizaciones y las copias de seguridad.
 
-<!-- VISUAL PENDIENTE: t38-24-proteccion-aislamiento-y-auditoria.webp -->
+<!-- VISUAL:t38-24-proteccion-aislamiento-y-auditoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-24-proteccion-aislamiento-y-auditoria.webp" alt="Protección, aislamiento y auditoría" width="820">
+</p>
+<p align="center"><em>Infografía: Protección, aislamiento y auditoría.</em></p>
 
 :::hablemos-claro
 El aislamiento de procesos reduce accesos directos entre aplicaciones.
@@ -969,7 +1065,11 @@ Para dominar **errores, excepciones y recuperación**, aplica esta regla: El sis
 - **Incorrecto:** Toda excepción obliga a formatear el almacenamiento.
 - **Incorrecto:** Tolerancia a fallos significa que no pueden producirse pérdidas.
 
-<!-- VISUAL PENDIENTE: t38-25-errores-excepciones-y-recuperacion.webp -->
+<!-- VISUAL:t38-25-errores-excepciones-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-25-errores-excepciones-y-recuperacion.webp" alt="Errores, excepciones y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Errores, excepciones y recuperación.</em></p>
 
 :::hablemos-claro
 El sistema operativo gestiona excepciones del procesador y errores comunicados por hardware o software.
@@ -1008,7 +1108,11 @@ Para dominar **ms-dos: naturaleza y contexto histórico**, aplica esta regla: MS
 - **Incorrecto:** MS-DOS es una distribución actual de Linux.
 - **Incorrecto:** MS-DOS fue diseñado como sistema móvil táctil.
 
-<!-- VISUAL PENDIENTE: t38-26-ms-dos-naturaleza-y-contexto-historico.webp -->
+<!-- VISUAL:t38-26-ms-dos-naturaleza-y-contexto-historico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-26-ms-dos-naturaleza-y-contexto-historico.webp" alt="MS-DOS: naturaleza y contexto histórico" width="820">
+</p>
+<p align="center"><em>Infografía: MS-DOS: naturaleza y contexto histórico.</em></p>
 
 :::hablemos-claro
 MS-DOS es una familia histórica de sistemas operativos de disco desarrollada para ordenadores personales compatibles.
@@ -1047,7 +1151,11 @@ Para dominar **arquitectura y límites clásicos de ms-dos**, aplica esta regla:
 - **Incorrecto:** MS-DOS proporcionaba aislamiento de procesos equivalente al de un sistema moderno.
 - **Incorrecto:** MS-DOS clásico exigía varios usuarios simultáneos con permisos POSIX.
 
-<!-- VISUAL PENDIENTE: t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp -->
+<!-- VISUAL:t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp" alt="Arquitectura y límites clásicos de MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura y límites clásicos de MS-DOS.</em></p>
 
 :::hablemos-claro
 El MS-DOS clásico trabajaba sobre la arquitectura x86 en modo real de sus primeras generaciones.
@@ -1086,7 +1194,11 @@ Para dominar **intérprete y comandos de ms-dos**, aplica esta regla: COMMAND.CO
 - **Incorrecto:** Todo comando de MS-DOS era un archivo externo independiente.
 - **Incorrecto:** PowerShell y COMMAND.COM son el mismo intérprete.
 
-<!-- VISUAL PENDIENTE: t38-28-interprete-y-comandos-de-ms-dos.webp -->
+<!-- VISUAL:t38-28-interprete-y-comandos-de-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-28-interprete-y-comandos-de-ms-dos.webp" alt="Intérprete y comandos de MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Intérprete y comandos de MS-DOS.</em></p>
 
 :::hablemos-claro
 COMMAND.COM actuaba como intérprete de comandos en versiones clásicas de MS-DOS.
@@ -1125,7 +1237,11 @@ Para dominar **unidades, rutas y nombres en ms-dos**, aplica esta regla: MS-DOS 
 - **Incorrecto:** La barra inclinada es el único separador de rutas aceptado por el MS-DOS clásico.
 - **Incorrecto:** El esquema 8.3 permite cualquier longitud de nombre sin extensión.
 
-<!-- VISUAL PENDIENTE: t38-29-unidades-rutas-y-nombres-en-ms-dos.webp -->
+<!-- VISUAL:t38-29-unidades-rutas-y-nombres-en-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-29-unidades-rutas-y-nombres-en-ms-dos.webp" alt="Unidades, rutas y nombres en MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades, rutas y nombres en MS-DOS.</em></p>
 
 :::hablemos-claro
 MS-DOS identifica habitualmente volúmenes mediante letras seguidas de dos puntos.
@@ -1164,7 +1280,11 @@ Para dominar **ms-dos, fat y arranque**, aplica esta regla: MS-DOS utilizó vari
 - **Incorrecto:** FAT incorpora por diseño permisos ACL y diario transaccional equivalentes a NTFS.
 - **Incorrecto:** El arranque de MS-DOS comienza ejecutando una aplicación gráfica de usuario.
 
-<!-- VISUAL PENDIENTE: t38-il-30-ms-dos-fat-y-arranque.webp -->
+<!-- VISUAL:t38-il-30-ms-dos-fat-y-arranque.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-30-ms-dos-fat-y-arranque.webp" alt="MS-DOS, FAT y arranque" width="820">
+</p>
+<p align="center"><em>Infografía: MS-DOS, FAT y arranque.</em></p>
 
 :::hablemos-claro
 MS-DOS utilizó variantes de FAT para organizar archivos en volúmenes.
@@ -1203,7 +1323,11 @@ Para dominar **unix: origen y principios**, aplica esta regla: UNIX nació como 
 - **Incorrecto:** UNIX identifica cualquier sistema que tenga una terminal.
 - **Incorrecto:** UNIX fue concebido como sistema monousuario sin procesos concurrentes.
 
-<!-- VISUAL PENDIENTE: t38-31-unix-origen-y-principios.webp -->
+<!-- VISUAL:t38-31-unix-origen-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-31-unix-origen-y-principios.webp" alt="UNIX: origen y principios" width="820">
+</p>
+<p align="center"><em>Infografía: UNIX: origen y principios.</em></p>
 
 :::hablemos-claro
 UNIX nació como una familia de sistemas multiusuario y multitarea.
@@ -1242,7 +1366,11 @@ Para dominar **núcleo, shell y utilidades unix**, aplica esta regla: El núcleo
 - **Incorrecto:** El núcleo UNIX es la ventana del terminal que escribe el usuario.
 - **Incorrecto:** Las utilidades solo pueden ejecutarse dentro del código del kernel.
 
-<!-- VISUAL PENDIENTE: t38-32-nucleo-shell-y-utilidades-unix.webp -->
+<!-- VISUAL:t38-32-nucleo-shell-y-utilidades-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-32-nucleo-shell-y-utilidades-unix.webp" alt="Núcleo, shell y utilidades UNIX" width="820">
+</p>
+<p align="center"><em>Infografía: Núcleo, shell y utilidades UNIX.</em></p>
 
 :::hablemos-claro
 El núcleo gestiona procesos, memoria, dispositivos y sistemas de archivos.
@@ -1281,7 +1409,11 @@ Para dominar **jerarquía, raíz y montaje en unix**, aplica esta regla: La barr
 - **Incorrecto:** Cada volumen UNIX necesita obligatoriamente una letra de unidad.
 - **Incorrecto:** Montar un sistema de archivos copia todos sus datos al directorio de montaje.
 
-<!-- VISUAL PENDIENTE: t38-33-jerarquia-raiz-y-montaje-en-unix.webp -->
+<!-- VISUAL:t38-33-jerarquia-raiz-y-montaje-en-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-33-jerarquia-raiz-y-montaje-en-unix.webp" alt="Jerarquía, raíz y montaje en UNIX" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía, raíz y montaje en UNIX.</em></p>
 
 :::hablemos-claro
 La barra inclinada representa la raíz y separa componentes de una ruta POSIX.
@@ -1320,7 +1452,11 @@ Para dominar **procesos unix: fork, exec y wait**, aplica esta regla: fork crea 
 - **Incorrecto:** exec duplica siempre el proceso y conserva ejecutándose el programa anterior.
 - **Incorrecto:** wait convierte un proceso hijo en hilo del padre.
 
-<!-- VISUAL PENDIENTE: t38-34-procesos-unix-fork-exec-y-wait.webp -->
+<!-- VISUAL:t38-34-procesos-unix-fork-exec-y-wait.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-34-procesos-unix-fork-exec-y-wait.webp" alt="Procesos UNIX: fork, exec y wait" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos UNIX: fork, exec y wait.</em></p>
 
 :::hablemos-claro
 fork crea un nuevo proceso a partir del contexto del proceso llamante.
@@ -1359,7 +1495,11 @@ Para dominar **usuarios, grupos y permisos posix**, aplica esta regla: Los permi
 - **Incorrecto:** El permiso de ejecución en un directorio significa reproducir su contenido multimedia.
 - **Incorrecto:** Conceder lectura a un archivo concede automáticamente administración del sistema.
 
-<!-- VISUAL PENDIENTE: t38-il-35-usuarios-grupos-y-permisos-posix.webp -->
+<!-- VISUAL:t38-il-35-usuarios-grupos-y-permisos-posix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-35-usuarios-grupos-y-permisos-posix.webp" alt="Usuarios, grupos y permisos POSIX" width="820">
+</p>
+<p align="center"><em>Infografía: Usuarios, grupos y permisos POSIX.</em></p>
 
 :::hablemos-claro
 Los permisos clásicos distinguen lectura, escritura y ejecución.
@@ -1398,7 +1538,11 @@ Para dominar **tuberías, redirecciones y descriptores**, aplica esta regla: La 
 - **Incorrecto:** Una tubería guarda permanentemente todos los datos como copia de seguridad.
 - **Incorrecto:** Entrada estándar y error estándar son siempre el mismo descriptor.
 
-<!-- VISUAL PENDIENTE: t38-il-36-tuberias-redirecciones-y-descriptores.webp -->
+<!-- VISUAL:t38-il-36-tuberias-redirecciones-y-descriptores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-36-tuberias-redirecciones-y-descriptores.webp" alt="Tuberías, redirecciones y descriptores" width="820">
+</p>
+<p align="center"><em>Infografía: Tuberías, redirecciones y descriptores.</em></p>
 
 :::hablemos-claro
 La entrada estándar, la salida estándar y el error estándar son flujos diferenciados.
@@ -1437,7 +1581,11 @@ Para dominar **posix, unix y sistemas tipo unix**, aplica esta regla: POSIX defi
 - **Incorrecto:** POSIX es un sistema operativo comercial concreto.
 - **Incorrecto:** Todo sistema tipo Unix está certificado automáticamente con la marca UNIX.
 
-<!-- VISUAL PENDIENTE: t38-37-posix-unix-y-sistemas-tipo-unix.webp -->
+<!-- VISUAL:t38-37-posix-unix-y-sistemas-tipo-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-37-posix-unix-y-sistemas-tipo-unix.webp" alt="POSIX, UNIX y sistemas tipo Unix" width="820">
+</p>
+<p align="center"><em>Infografía: POSIX, UNIX y sistemas tipo Unix.</em></p>
 
 :::hablemos-claro
 POSIX define interfaces y comportamientos portables para sistemas compatibles.
@@ -1476,7 +1624,11 @@ Para dominar **linux: núcleo y distribuciones**, aplica esta regla: Linux desig
 - **Incorrecto:** Linux es una única distribución con una sola interfaz y gestor de paquetes.
 - **Incorrecto:** El núcleo Linux incluye necesariamente todas las aplicaciones de escritorio.
 
-<!-- VISUAL PENDIENTE: t38-38-linux-nucleo-y-distribuciones.webp -->
+<!-- VISUAL:t38-38-linux-nucleo-y-distribuciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-38-linux-nucleo-y-distribuciones.webp" alt="Linux: núcleo y distribuciones" width="820">
+</p>
+<p align="center"><em>Infografía: Linux: núcleo y distribuciones.</em></p>
 
 :::hablemos-claro
 Linux designa estrictamente el núcleo iniciado por el proyecto de Linus Torvalds.
@@ -1515,7 +1667,11 @@ Para dominar **arquitectura del núcleo linux**, aplica esta regla: Linux se des
 - **Incorrecto:** Un núcleo monolítico impide cargar módulos.
 - **Incorrecto:** Todas las aplicaciones Linux se ejecutan con privilegios de kernel.
 
-<!-- VISUAL PENDIENTE: t38-39-arquitectura-del-nucleo-linux.webp -->
+<!-- VISUAL:t38-39-arquitectura-del-nucleo-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-39-arquitectura-del-nucleo-linux.webp" alt="Arquitectura del núcleo Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura del núcleo Linux.</em></p>
 
 :::hablemos-claro
 Linux se describe habitualmente como un núcleo monolítico con capacidad modular.
@@ -1554,7 +1710,11 @@ Para dominar **vfs y jerarquía linux**, aplica esta regla: VFS proporciona una 
 - **Incorrecto:** VFS obliga a formatear todos los volúmenes como ext4.
 - **Incorrecto:** El nombre de archivo se almacena siempre dentro del inodo como único identificador.
 
-<!-- VISUAL PENDIENTE: t38-40-vfs-y-jerarquia-linux.webp -->
+<!-- VISUAL:t38-40-vfs-y-jerarquia-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-40-vfs-y-jerarquia-linux.webp" alt="VFS y jerarquía Linux" width="820">
+</p>
+<p align="center"><em>Infografía: VFS y jerarquía Linux.</em></p>
 
 :::hablemos-claro
 VFS proporciona una interfaz común para que coexistan distintos sistemas de archivos.
@@ -1593,7 +1753,11 @@ Para dominar **procesos y pseudo-sistema /proc**, aplica esta regla: /proc expon
 - **Incorrecto:** Todo contenido de /proc se conserva en el disco después de apagar.
 - **Incorrecto:** /proc es una carpeta ordinaria de documentos personales.
 
-<!-- VISUAL PENDIENTE: t38-il-41-procesos-y-pseudo-sistema-proc.webp -->
+<!-- VISUAL:t38-il-41-procesos-y-pseudo-sistema-proc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-41-procesos-y-pseudo-sistema-proc.webp" alt="Procesos y pseudo-sistema /proc" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos y pseudo-sistema /proc.</em></p>
 
 :::hablemos-claro
 /proc expone información de procesos y estructuras internas mediante una interfaz de sistema de archivos.
@@ -1632,7 +1796,11 @@ Para dominar **propiedad, permisos y privilegios en linux**, aplica esta regla: 
 - **Incorrecto:** sudo concede a cualquier usuario todos los privilegios sin política.
 - **Incorrecto:** Las capacidades Linux son permisos rwx de un archivo ordinario.
 
-<!-- VISUAL PENDIENTE: t38-42-propiedad-permisos-y-privilegios-en-linux.webp -->
+<!-- VISUAL:t38-42-propiedad-permisos-y-privilegios-en-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-42-propiedad-permisos-y-privilegios-en-linux.webp" alt="Propiedad, permisos y privilegios en Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Propiedad, permisos y privilegios en Linux.</em></p>
 
 :::hablemos-claro
 Los procesos actúan con identidades y grupos que condicionan sus permisos.
@@ -1671,7 +1839,11 @@ Para dominar **servicios, demonios y arranque en linux**, aplica esta regla: Un 
 - **Incorrecto:** Todo sistema Linux utiliza obligatoriamente systemd.
 - **Incorrecto:** Un demonio es malware por definición.
 
-<!-- VISUAL PENDIENTE: t38-43-servicios-demonios-y-arranque-en-linux.webp -->
+<!-- VISUAL:t38-43-servicios-demonios-y-arranque-en-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-43-servicios-demonios-y-arranque-en-linux.webp" alt="Servicios, demonios y arranque en Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios, demonios y arranque en Linux.</em></p>
 
 :::hablemos-claro
 Un demonio es un proceso que presta servicios en segundo plano.
@@ -1710,7 +1882,11 @@ Para dominar **software libre, código abierto y licencias**, aplica esta regla:
 - **Incorrecto:** Código abierto significa que no existe licencia ni autor.
 - **Incorrecto:** Todo software gratuito permite modificar y redistribuir su código.
 
-<!-- VISUAL PENDIENTE: t38-44-software-libre-codigo-abierto-y-licencias.webp -->
+<!-- VISUAL:t38-44-software-libre-codigo-abierto-y-licencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-44-software-libre-codigo-abierto-y-licencias.webp" alt="Software libre, código abierto y licencias" width="820">
+</p>
+<p align="center"><em>Infografía: Software libre, código abierto y licencias.</em></p>
 
 :::hablemos-claro
 El código del núcleo Linux se distribuye principalmente bajo GPLv2.
@@ -1749,7 +1925,11 @@ Para dominar **windows y la familia windows nt**, aplica esta regla: Las version
 - **Incorrecto:** Windows actual se ejecuta como una interfaz gráfica sobre MS-DOS.
 - **Incorrecto:** La familia Windows NT carece de separación entre usuario y núcleo.
 
-<!-- VISUAL PENDIENTE: t38-45-windows-y-la-familia-windows-nt.webp -->
+<!-- VISUAL:t38-45-windows-y-la-familia-windows-nt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-45-windows-y-la-familia-windows-nt.webp" alt="Windows y la familia Windows NT" width="820">
+</p>
+<p align="center"><em>Infografía: Windows y la familia Windows NT.</em></p>
 
 :::hablemos-claro
 Las versiones modernas de escritorio y servidor de Windows pertenecen a la familia Windows NT.
@@ -1788,7 +1968,11 @@ Para dominar **procesos, hilos y servicios en windows**, aplica esta regla: Wind
 - **Incorrecto:** El Administrador de tareas asigna manualmente cada instrucción a la CPU.
 - **Incorrecto:** Todo servicio necesita una ventana abierta y un usuario escribiendo.
 
-<!-- VISUAL PENDIENTE: t38-46-procesos-hilos-y-servicios-en-windows.webp -->
+<!-- VISUAL:t38-46-procesos-hilos-y-servicios-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-46-procesos-hilos-y-servicios-en-windows.webp" alt="Procesos, hilos y servicios en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos, hilos y servicios en Windows.</em></p>
 
 :::hablemos-claro
 Windows planifica hilos dentro del contexto de procesos.
@@ -1827,7 +2011,11 @@ Para dominar **registro de windows**, aplica esta regla: El Registro almacena co
 - **Incorrecto:** El Registro es una carpeta NTFS que solo contiene documentos de texto.
 - **Incorrecto:** Todas las preferencias de cualquier aplicación se almacenan obligatoriamente en el Registro.
 
-<!-- VISUAL PENDIENTE: t38-il-47-registro-de-windows.webp -->
+<!-- VISUAL:t38-il-47-registro-de-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-47-registro-de-windows.webp" alt="Registro de Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Registro de Windows.</em></p>
 
 :::hablemos-claro
 El Registro almacena configuración estructurada del sistema, usuarios y aplicaciones.
@@ -1866,7 +2054,11 @@ Para dominar **explorer, cmd y powershell**, aplica esta regla: El Explorador de
 - **Incorrecto:** PowerShell es el nombre moderno de MS-DOS.
 - **Incorrecto:** El Explorador de archivos es el núcleo de Windows.
 
-<!-- VISUAL PENDIENTE: t38-il-48-explorer-cmd-y-powershell.webp -->
+<!-- VISUAL:t38-il-48-explorer-cmd-y-powershell.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-48-explorer-cmd-y-powershell.webp" alt="Explorer, CMD y PowerShell" width="820">
+</p>
+<p align="center"><em>Infografía: Explorer, CMD y PowerShell.</em></p>
 
 :::hablemos-claro
 El Explorador de archivos es una interfaz gráfica para navegar y gestionar objetos del sistema de archivos.
@@ -1905,7 +2097,11 @@ Para dominar **cuentas, uac y controles de acceso**, aplica esta regla: Windows 
 - **Incorrecto:** UAC es un antivirus que analiza cada archivo.
 - **Incorrecto:** Una ACL solo indica el tamaño máximo de un volumen.
 
-<!-- VISUAL PENDIENTE: t38-49-cuentas-uac-y-controles-de-acceso.webp -->
+<!-- VISUAL:t38-49-cuentas-uac-y-controles-de-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-49-cuentas-uac-y-controles-de-acceso.webp" alt="Cuentas, UAC y controles de acceso" width="820">
+</p>
+<p align="center"><em>Infografía: Cuentas, UAC y controles de acceso.</em></p>
 
 :::hablemos-claro
 Windows asocia procesos a tokens que recogen identidad, grupos y privilegios.
@@ -1944,7 +2140,11 @@ Para dominar **unidades, rutas y atributos en windows**, aplica esta regla: Wind
 - **Incorrecto:** Un archivo oculto no puede ser mostrado por ninguna configuración de usuario.
 - **Incorrecto:** El atributo solo lectura concede permisos de administrador.
 
-<!-- VISUAL PENDIENTE: t38-50-unidades-rutas-y-atributos-en-windows.webp -->
+<!-- VISUAL:t38-50-unidades-rutas-y-atributos-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-50-unidades-rutas-y-atributos-en-windows.webp" alt="Unidades, rutas y atributos en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades, rutas y atributos en Windows.</em></p>
 
 :::hablemos-claro
 Windows representa habitualmente volúmenes mediante letras, aunque también admite puntos de montaje en carpetas.
@@ -1983,7 +2183,11 @@ Para dominar **actualización, cifrado y recuperación en windows**, aplica esta
 - **Incorrecto:** BitLocker sustituye las copias de seguridad frente a borrado accidental.
 - **Incorrecto:** EFS y BitLocker son nombres distintos para una función idéntica en todo contexto.
 
-<!-- VISUAL PENDIENTE: t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp -->
+<!-- VISUAL:t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp" alt="Actualización, cifrado y recuperación en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Actualización, cifrado y recuperación en Windows.</em></p>
 
 :::hablemos-claro
 Windows Update distribuye correcciones y cambios, pero exige gestión de reinicios y compatibilidad.
@@ -2022,7 +2226,11 @@ Para dominar **macos, darwin y xnu**, aplica esta regla: macOS es el sistema ope
 - **Incorrecto:** macOS utiliza el núcleo de Windows NT.
 - **Incorrecto:** macOS e iOS son exactamente el mismo sistema con distinto fondo de pantalla.
 
-<!-- VISUAL PENDIENTE: t38-52-macos-darwin-y-xnu.webp -->
+<!-- VISUAL:t38-52-macos-darwin-y-xnu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-52-macos-darwin-y-xnu.webp" alt="macOS, Darwin y XNU" width="820">
+</p>
+<p align="center"><em>Infografía: macOS, Darwin y XNU.</em></p>
 
 :::hablemos-claro
 macOS es el sistema operativo de escritorio de Apple y se apoya en Darwin.
@@ -2061,7 +2269,11 @@ Para dominar **aqua, finder y terminal**, aplica esta regla: Aqua designa el ent
 - **Incorrecto:** Finder es el núcleo XNU.
 - **Incorrecto:** Abrir Terminal concede automáticamente privilegios administrativos.
 
-<!-- VISUAL PENDIENTE: t38-il-53-aqua-finder-y-terminal.webp -->
+<!-- VISUAL:t38-il-53-aqua-finder-y-terminal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-53-aqua-finder-y-terminal.webp" alt="Aqua, Finder y Terminal" width="820">
+</p>
+<p align="center"><em>Infografía: Aqua, Finder y Terminal.</em></p>
 
 :::hablemos-claro
 Aqua designa el entorno gráfico característico de macOS.
@@ -2100,7 +2312,11 @@ Para dominar **aplicaciones, paquetes y sandbox en macos**, aplica esta regla: U
 - **Incorrecto:** Un paquete de aplicación es un único byte indivisible.
 - **Incorrecto:** Una firma válida garantiza la ausencia absoluta de vulnerabilidades.
 
-<!-- VISUAL PENDIENTE: t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp -->
+<!-- VISUAL:t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp" alt="Aplicaciones, paquetes y sandbox en macOS" width="820">
+</p>
+<p align="center"><em>Infografía: Aplicaciones, paquetes y sandbox en macOS.</em></p>
 
 :::hablemos-claro
 Una aplicación macOS puede presentarse como un paquete que Finder muestra como una unidad lógica.
@@ -2139,7 +2355,11 @@ Para dominar **apfs en macos**, aplica esta regla: APFS es el sistema de archivo
 - **Incorrecto:** APFS reserva obligatoriamente una partición física fija e incomunicada para cada volumen.
 - **Incorrecto:** Clonar un archivo en APFS siempre copia inmediatamente todos sus bloques.
 
-<!-- VISUAL PENDIENTE: t38-55-apfs-en-macos.webp -->
+<!-- VISUAL:t38-55-apfs-en-macos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-55-apfs-en-macos.webp" alt="APFS en macOS" width="820">
+</p>
+<p align="center"><em>Infografía: APFS en macOS.</em></p>
 
 :::hablemos-claro
 APFS es el sistema de archivos predeterminado en macOS moderno y en otras plataformas Apple.
@@ -2178,7 +2398,11 @@ Para dominar **rutas, volúmenes y sensibilidad a mayúsculas**, aplica esta reg
 - **Incorrecto:** Todo volumen macOS se identifica exclusivamente por una letra.
 - **Incorrecto:** APFS obliga siempre a distinguir archivo de Archivo en cualquier instalación.
 
-<!-- VISUAL PENDIENTE: t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp -->
+<!-- VISUAL:t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp" alt="Rutas, volúmenes y sensibilidad a mayúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas, volúmenes y sensibilidad a mayúsculas.</em></p>
 
 :::hablemos-claro
 macOS usa una jerarquía de rutas con barra inclinada y una raíz única.
@@ -2217,7 +2441,11 @@ Para dominar **filevault y volumen de sistema firmado**, aplica esta regla: File
 - **Incorrecto:** El volumen de sistema firmado cifra automáticamente todos los documentos del usuario.
 - **Incorrecto:** FileVault permite recuperar datos sin clave ni credencial bajo cualquier circunstancia.
 
-<!-- VISUAL PENDIENTE: t38-57-filevault-y-volumen-de-sistema-firmado.webp -->
+<!-- VISUAL:t38-57-filevault-y-volumen-de-sistema-firmado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-57-filevault-y-volumen-de-sistema-firmado.webp" alt="FileVault y volumen de sistema firmado" width="820">
+</p>
+<p align="center"><em>Infografía: FileVault y volumen de sistema firmado.</em></p>
 
 :::hablemos-claro
 FileVault protege datos en reposo mediante cifrado de volumen conforme a la plataforma.
@@ -2256,7 +2484,11 @@ Para dominar **rasgos de los sistemas operativos móviles**, aplica esta regla: 
 - **Incorrecto:** Un sistema móvil mantiene todas las aplicaciones ejecutándose sin límites.
 - **Incorrecto:** La presencia de pantalla táctil convierte cualquier firmware en Android o iOS.
 
-<!-- VISUAL PENDIENTE: t38-58-rasgos-de-los-sistemas-operativos-moviles.webp -->
+<!-- VISUAL:t38-58-rasgos-de-los-sistemas-operativos-moviles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-58-rasgos-de-los-sistemas-operativos-moviles.webp" alt="Rasgos de los sistemas operativos móviles" width="820">
+</p>
+<p align="center"><em>Infografía: Rasgos de los sistemas operativos móviles.</em></p>
 
 :::hablemos-claro
 Un sistema móvil gestiona recursos limitados, batería, conectividad radio, sensores y ciclo de vida de aplicaciones.
@@ -2295,7 +2527,11 @@ Para dominar **ios: arquitectura y ecosistema**, aplica esta regla: iOS es el si
 - **Incorrecto:** iOS está basado en el núcleo Windows NT.
 - **Incorrecto:** iOS permite ejecutar cualquier binario sin firma ni política.
 
-<!-- VISUAL PENDIENTE: t38-59-ios-arquitectura-y-ecosistema.webp -->
+<!-- VISUAL:t38-59-ios-arquitectura-y-ecosistema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-59-ios-arquitectura-y-ecosistema.webp" alt="iOS: arquitectura y ecosistema" width="820">
+</p>
+<p align="center"><em>Infografía: iOS: arquitectura y ecosistema.</em></p>
 
 :::hablemos-claro
 iOS es el sistema operativo de Apple para iPhone.
@@ -2334,7 +2570,11 @@ Para dominar **sandbox, entitlements y permisos en ios**, aplica esta regla: Las
 - **Incorrecto:** Un entitlement es una contraseña escrita por el usuario.
 - **Incorrecto:** Permitir acceso a la cámara concede acceso irrestricto a todos los archivos del sistema.
 
-<!-- VISUAL PENDIENTE: t38-60-sandbox-entitlements-y-permisos-en-ios.webp -->
+<!-- VISUAL:t38-60-sandbox-entitlements-y-permisos-en-ios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-60-sandbox-entitlements-y-permisos-en-ios.webp" alt="Sandbox, entitlements y permisos en iOS" width="820">
+</p>
+<p align="center"><em>Infografía: Sandbox, entitlements y permisos en iOS.</em></p>
 
 :::hablemos-claro
 Las aplicaciones de terceros se ejecutan en sandbox con un contenedor propio.
@@ -2373,7 +2613,11 @@ Para dominar **ios, apfs y data protection**, aplica esta regla: iOS utiliza APF
 - **Incorrecto:** Todos los archivos iOS usan una única clave pública sin relación con el bloqueo.
 - **Incorrecto:** APFS impide asignar políticas de protección diferentes a los archivos.
 
-<!-- VISUAL PENDIENTE: t38-61-ios-apfs-y-data-protection.webp -->
+<!-- VISUAL:t38-61-ios-apfs-y-data-protection.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-61-ios-apfs-y-data-protection.webp" alt="iOS, APFS y Data Protection" width="820">
+</p>
+<p align="center"><em>Infografía: iOS, APFS y Data Protection.</em></p>
 
 :::hablemos-claro
 iOS utiliza APFS y mecanismos de Data Protection para proteger datos.
@@ -2412,7 +2656,11 @@ Para dominar **android: capas de arquitectura**, aplica esta regla: Android se a
 - **Incorrecto:** Android es una distribución de escritorio idéntica a cualquier GNU/Linux.
 - **Incorrecto:** La HAL sustituye completamente al kernel Linux.
 
-<!-- VISUAL PENDIENTE: t38-62-android-capas-de-arquitectura.webp -->
+<!-- VISUAL:t38-62-android-capas-de-arquitectura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-62-android-capas-de-arquitectura.webp" alt="Android: capas de arquitectura" width="820">
+</p>
+<p align="center"><em>Infografía: Android: capas de arquitectura.</em></p>
 
 :::hablemos-claro
 Android se apoya en un kernel Linux adaptado a las necesidades de la plataforma.
@@ -2451,7 +2699,11 @@ Para dominar **android runtime y binder**, aplica esta regla: Android Runtime ej
 - **Incorrecto:** Binder es un sistema de archivos para tarjetas SD.
 - **Incorrecto:** Todas las aplicaciones Android se ejecutan dentro de un único proceso común.
 
-<!-- VISUAL PENDIENTE: t38-63-android-runtime-y-binder.webp -->
+<!-- VISUAL:t38-63-android-runtime-y-binder.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-63-android-runtime-y-binder.webp" alt="Android Runtime y Binder" width="820">
+</p>
+<p align="center"><em>Infografía: Android Runtime y Binder.</em></p>
 
 :::hablemos-claro
 Android Runtime ejecuta código de aplicaciones y gestiona aspectos de su entorno.
@@ -2490,7 +2742,11 @@ Para dominar **aislamiento y permisos en android**, aplica esta regla: Android a
 - **Incorrecto:** Todas las aplicaciones Android comparten UID y directorio privado.
 - **Incorrecto:** SELinux es una tienda de aplicaciones.
 
-<!-- VISUAL PENDIENTE: t38-64-aislamiento-y-permisos-en-android.webp -->
+<!-- VISUAL:t38-64-aislamiento-y-permisos-en-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-64-aislamiento-y-permisos-en-android.webp" alt="Aislamiento y permisos en Android" width="820">
+</p>
+<p align="center"><em>Infografía: Aislamiento y permisos en Android.</em></p>
 
 :::hablemos-claro
 Android asigna identidades y aislamientos a las aplicaciones para separar sus datos y procesos.
@@ -2529,7 +2785,11 @@ Para dominar **almacenamiento y cifrado en android**, aplica esta regla: El cifr
 - **Incorrecto:** Direct Boot deja descifrados todos los datos privados antes de autenticarse.
 - **Incorrecto:** Almacenamiento compartido significa que cualquier aplicación puede leerlo todo sin control.
 
-<!-- VISUAL PENDIENTE: t38-65-almacenamiento-y-cifrado-en-android.webp -->
+<!-- VISUAL:t38-65-almacenamiento-y-cifrado-en-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-65-almacenamiento-y-cifrado-en-android.webp" alt="Almacenamiento y cifrado en Android" width="820">
+</p>
+<p align="center"><em>Infografía: Almacenamiento y cifrado en Android.</em></p>
 
 :::hablemos-claro
 El cifrado basado en archivos permite proteger archivos con claves que pueden desbloquearse de forma independiente.
@@ -2568,7 +2828,11 @@ Para dominar **comparación entre ios y android**, aplica esta regla: iOS y Andr
 - **Incorrecto:** iOS y Android comparten el mismo núcleo y sistema de archivos por definición.
 - **Incorrecto:** Todos los dispositivos Android ejecutan exactamente la misma versión sin modificaciones.
 
-<!-- VISUAL PENDIENTE: t38-il-66-comparacion-entre-ios-y-android.webp -->
+<!-- VISUAL:t38-il-66-comparacion-entre-ios-y-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-66-comparacion-entre-ios-y-android.webp" alt="Comparación entre iOS y Android" width="820">
+</p>
+<p align="center"><em>Infografía: Comparación entre iOS y Android.</em></p>
 
 :::hablemos-claro
 iOS y Android gestionan aplicaciones, memoria, dispositivos, energía, permisos y almacenamiento.
@@ -2607,7 +2871,11 @@ Para dominar **memoria y almacenamiento: clasificación**, aplica esta regla: La
 - **Incorrecto:** Toda memoria es persistente y todo almacenamiento es volátil.
 - **Incorrecto:** El dispositivo con más capacidad es necesariamente el más rápido y fiable.
 
-<!-- VISUAL PENDIENTE: t38-67-memoria-y-almacenamiento-clasificacion.webp -->
+<!-- VISUAL:t38-67-memoria-y-almacenamiento-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-67-memoria-y-almacenamiento-clasificacion.webp" alt="Memoria y almacenamiento: clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: Memoria y almacenamiento: clasificación.</em></p>
 
 :::hablemos-claro
 La memoria de trabajo y el almacenamiento persistente cumplen funciones diferentes.
@@ -2646,7 +2914,11 @@ Para dominar **discos magnéticos hdd**, aplica esta regla: Un HDD almacena dato
 - **Incorrecto:** Un HDD carece de partes móviles y usa exclusivamente memoria NAND.
 - **Incorrecto:** Desfragmentar un HDD elimina la necesidad de copias de seguridad.
 
-<!-- VISUAL PENDIENTE: t38-il-68-discos-magneticos-hdd.webp -->
+<!-- VISUAL:t38-il-68-discos-magneticos-hdd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-68-discos-magneticos-hdd.webp" alt="Discos magnéticos HDD" width="820">
+</p>
+<p align="center"><em>Infografía: Discos magnéticos HDD.</em></p>
 
 :::hablemos-claro
 Un HDD almacena datos mediante dominios magnéticos en platos giratorios.
@@ -2685,7 +2957,11 @@ Para dominar **unidades de estado sólido ssd**, aplica esta regla: Un SSD almac
 - **Incorrecto:** Un SSD no puede fallar porque no tiene piezas mecánicas.
 - **Incorrecto:** TRIM sobrescribe de forma certificada todo archivo eliminado.
 
-<!-- VISUAL PENDIENTE: t38-69-unidades-de-estado-solido-ssd.webp -->
+<!-- VISUAL:t38-69-unidades-de-estado-solido-ssd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-69-unidades-de-estado-solido-ssd.webp" alt="Unidades de estado sólido SSD" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades de estado sólido SSD.</em></p>
 
 :::hablemos-claro
 Un SSD almacena datos normalmente en memoria flash no volátil y carece de platos y cabezales.
@@ -2724,7 +3000,11 @@ Para dominar **sata, nvme y factores de forma**, aplica esta regla: SATA es una 
 - **Incorrecto:** M.2 y NVMe son términos rigurosamente sinónimos.
 - **Incorrecto:** SATA solo puede conectar discos magnéticos.
 
-<!-- VISUAL PENDIENTE: t38-70-sata-nvme-y-factores-de-forma.webp -->
+<!-- VISUAL:t38-70-sata-nvme-y-factores-de-forma.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-70-sata-nvme-y-factores-de-forma.webp" alt="SATA, NVMe y factores de forma" width="820">
+</p>
+<p align="center"><em>Infografía: SATA, NVMe y factores de forma.</em></p>
 
 :::hablemos-claro
 SATA es una interfaz y protocolo de almacenamiento usado por HDD y SSD.
@@ -2763,7 +3043,11 @@ Para dominar **medios ópticos y extraíbles**, aplica esta regla: CD, DVD y Blu
 - **Incorrecto:** Todo disco óptico es regrabable ilimitadamente.
 - **Incorrecto:** Una memoria USB es segura por el hecho de poder retirarse.
 
-<!-- VISUAL PENDIENTE: t38-71-medios-opticos-y-extraibles.webp -->
+<!-- VISUAL:t38-71-medios-opticos-y-extraibles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-71-medios-opticos-y-extraibles.webp" alt="Medios ópticos y extraíbles" width="820">
+</p>
+<p align="center"><em>Infografía: Medios ópticos y extraíbles.</em></p>
 
 :::hablemos-claro
 CD, DVD y Blu-ray almacenan información mediante estructuras ópticas leídas por una unidad compatible.
@@ -2802,7 +3086,11 @@ Para dominar **sectores, bloques y clústeres**, aplica esta regla: Un sector es
 - **Incorrecto:** Un clúster es siempre un ordenador conectado a una red.
 - **Incorrecto:** Sector, bloque y página tienen tamaño idéntico en cualquier sistema.
 
-<!-- VISUAL PENDIENTE: t38-72-sectores-bloques-y-clusteres.webp -->
+<!-- VISUAL:t38-72-sectores-bloques-y-clusteres.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-72-sectores-bloques-y-clusteres.webp" alt="Sectores, bloques y clústeres" width="820">
+</p>
+<p align="center"><em>Infografía: Sectores, bloques y clústeres.</em></p>
 
 :::hablemos-claro
 Un sector es una unidad direccionable del dispositivo o de su interfaz lógica.
@@ -2841,7 +3129,11 @@ Para dominar **particiones, volúmenes, mbr y gpt**, aplica esta regla: Una part
 - **Incorrecto:** GPT limita todos los discos a cuatro particiones primarias.
 - **Incorrecto:** Partición, volumen y sistema de archivos son exactamente la misma capa.
 
-<!-- VISUAL PENDIENTE: t38-73-particiones-volumenes-mbr-y-gpt.webp -->
+<!-- VISUAL:t38-73-particiones-volumenes-mbr-y-gpt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-73-particiones-volumenes-mbr-y-gpt.webp" alt="Particiones, volúmenes, MBR y GPT" width="820">
+</p>
+<p align="center"><em>Infografía: Particiones, volúmenes, MBR y GPT.</em></p>
 
 :::hablemos-claro
 Una partición divide lógicamente el espacio de un dispositivo conforme a una tabla.
@@ -2880,7 +3172,11 @@ Para dominar **raid, redundancia y copia de seguridad**, aplica esta regla: RAID
 - **Incorrecto:** RAID 0 conserva una copia completa en cada disco.
 - **Incorrecto:** Un espejo protege automáticamente frente a borrar por error un archivo.
 
-<!-- VISUAL PENDIENTE: t38-il-74-raid-redundancia-y-copia-de-seguridad.webp -->
+<!-- VISUAL:t38-il-74-raid-redundancia-y-copia-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-74-raid-redundancia-y-copia-de-seguridad.webp" alt="RAID, redundancia y copia de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: RAID, redundancia y copia de seguridad.</em></p>
 
 :::hablemos-claro
 RAID combina unidades para obtener rendimiento, capacidad o redundancia según el nivel.
@@ -2919,7 +3215,11 @@ Para dominar **concepto y funciones del sistema de archivos**, aplica esta regla
 - **Incorrecto:** Formatear cambia físicamente un HDD en SSD.
 - **Incorrecto:** La tabla GPT es un sistema de archivos que almacena documentos.
 
-<!-- VISUAL PENDIENTE: t38-75-concepto-y-funciones-del-sistema-de-archivos.webp -->
+<!-- VISUAL:t38-75-concepto-y-funciones-del-sistema-de-archivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-75-concepto-y-funciones-del-sistema-de-archivos.webp" alt="Concepto y funciones del sistema de archivos" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y funciones del sistema de archivos.</em></p>
 
 :::hablemos-claro
 Un sistema de archivos define cómo se organizan, nombran y localizan datos y metadatos en un soporte o espacio lógico.
@@ -2958,7 +3258,11 @@ Para dominar **archivos, directorios y metadatos**, aplica esta regla: El conten
 - **Incorrecto:** Cambiar la extensión transforma siempre el contenido al nuevo formato.
 - **Incorrecto:** Un directorio es solo una etiqueta visual sin estructura almacenada.
 
-<!-- VISUAL PENDIENTE: t38-76-archivos-directorios-y-metadatos.webp -->
+<!-- VISUAL:t38-76-archivos-directorios-y-metadatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-76-archivos-directorios-y-metadatos.webp" alt="Archivos, directorios y metadatos" width="820">
+</p>
+<p align="center"><em>Infografía: Archivos, directorios y metadatos.</em></p>
 
 :::hablemos-claro
 El contenido de un archivo se distingue de los metadatos que lo describen.
@@ -2997,7 +3301,11 @@ Para dominar **rutas absolutas, relativas y resolución de nombres**, aplica est
 - **Incorrecto:** Toda ruta relativa empieza obligatoriamente en la raíz.
 - **Incorrecto:** Windows, POSIX y macOS aplican siempre idénticas reglas de nombres.
 
-<!-- VISUAL PENDIENTE: t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp -->
+<!-- VISUAL:t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp" alt="Rutas absolutas, relativas y resolución de nombres" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas absolutas, relativas y resolución de nombres.</em></p>
 
 :::hablemos-claro
 Una ruta absoluta se resuelve desde una raíz o designador completo del sistema.
@@ -3036,7 +3344,11 @@ Para dominar **asignación de espacio y fragmentación interna**, aplica esta re
 - **Incorrecto:** Una unidad de asignación mayor siempre ahorra espacio con archivos pequeños.
 - **Incorrecto:** Fragmentación interna significa que el archivo está dividido en varios directorios.
 
-<!-- VISUAL PENDIENTE: t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp -->
+<!-- VISUAL:t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp" alt="Asignación de espacio y fragmentación interna" width="820">
+</p>
+<p align="center"><em>Infografía: Asignación de espacio y fragmentación interna.</em></p>
 
 :::hablemos-claro
 El sistema de archivos asigna espacio en unidades que pueden ser mayores que los datos finales de un archivo.
@@ -3075,7 +3387,11 @@ Para dominar **montaje, letras y puntos de montaje**, aplica esta regla: Montar 
 - **Incorrecto:** Montar copia el contenido completo del volumen a la RAM.
 - **Incorrecto:** Windows solo puede acceder a volúmenes mediante letras y nunca mediante carpetas.
 
-<!-- VISUAL PENDIENTE: t38-79-montaje-letras-y-puntos-de-montaje.webp -->
+<!-- VISUAL:t38-79-montaje-letras-y-puntos-de-montaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-79-montaje-letras-y-puntos-de-montaje.webp" alt="Montaje, letras y puntos de montaje" width="820">
+</p>
+<p align="center"><em>Infografía: Montaje, letras y puntos de montaje.</em></p>
 
 :::hablemos-claro
 Montar conecta un sistema de archivos con un punto accesible de la jerarquía.
@@ -3114,7 +3430,11 @@ Para dominar **formateo, borrado y recuperación**, aplica esta regla: Formatear
 - **Incorrecto:** Un formato rápido sobrescribe necesariamente cada celda del dispositivo.
 - **Incorrecto:** Eliminar una entrada de directorio certifica la destrucción física instantánea.
 
-<!-- VISUAL PENDIENTE: t38-80-formateo-borrado-y-recuperacion.webp -->
+<!-- VISUAL:t38-80-formateo-borrado-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-80-formateo-borrado-y-recuperacion.webp" alt="Formateo, borrado y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Formateo, borrado y recuperación.</em></p>
 
 :::hablemos-claro
 Formatear crea o renueva estructuras de un sistema de archivos en un volumen.
@@ -3153,7 +3473,11 @@ Para dominar **diario, copy-on-write y comprobaciones**, aplica esta regla: El j
 - **Incorrecto:** Journaling conserva automáticamente versiones históricas completas de todos los archivos.
 - **Incorrecto:** Un checksum corrige cualquier corrupción sin datos redundantes.
 
-<!-- VISUAL PENDIENTE: t38-81-diario-copy-on-write-y-comprobaciones.webp -->
+<!-- VISUAL:t38-81-diario-copy-on-write-y-comprobaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-81-diario-copy-on-write-y-comprobaciones.webp" alt="Diario, copy-on-write y comprobaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Diario, copy-on-write y comprobaciones.</em></p>
 
 :::hablemos-claro
 El journaling registra información de cambios para facilitar recuperación tras una interrupción.
@@ -3192,7 +3516,11 @@ Para dominar **fat12, fat16 y fat32**, aplica esta regla: Las variantes FAT se d
 - **Incorrecto:** FAT32 admite un archivo individual de cualquier tamaño.
 - **Incorrecto:** FAT32 incorpora de forma nativa ACL, cifrado EFS y journaling.
 
-<!-- VISUAL PENDIENTE: t38-82-fat12-fat16-y-fat32.webp -->
+<!-- VISUAL:t38-82-fat12-fat16-y-fat32.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-82-fat12-fat16-y-fat32.webp" alt="FAT12, FAT16 y FAT32" width="820">
+</p>
+<p align="center"><em>Infografía: FAT12, FAT16 y FAT32.</em></p>
 
 :::hablemos-claro
 Las variantes FAT se diferencian principalmente por el tamaño de sus entradas y la cantidad de clústeres direccionables.
@@ -3231,7 +3559,11 @@ Para dominar **exfat**, aplica esta regla: exFAT es sucesor de FAT32 dentro de l
 - **Incorrecto:** exFAT conserva el límite de archivo de FAT32.
 - **Incorrecto:** exFAT ofrece por diseño todos los permisos y el diario de NTFS.
 
-<!-- VISUAL PENDIENTE: t38-83-exfat.webp -->
+<!-- VISUAL:t38-83-exfat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-83-exfat.webp" alt="exFAT" width="820">
+</p>
+<p align="center"><em>Infografía: exFAT.</em></p>
 
 :::hablemos-claro
 exFAT es sucesor de FAT32 dentro de la familia FAT.
@@ -3270,7 +3602,11 @@ Para dominar **ntfs**, aplica esta regla: NTFS es el sistema de archivos predete
 - **Incorrecto:** NTFS carece de permisos y solo admite nombres 8.3.
 - **Incorrecto:** Cualquier sistema operativo escribe NTFS de forma nativa y completa sin condiciones.
 
-<!-- VISUAL PENDIENTE: t38-84-ntfs.webp -->
+<!-- VISUAL:t38-84-ntfs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-84-ntfs.webp" alt="NTFS" width="820">
+</p>
+<p align="center"><em>Infografía: NTFS.</em></p>
 
 :::hablemos-claro
 NTFS es el sistema de archivos predeterminado de Windows moderno para volúmenes del sistema.
@@ -3309,7 +3645,11 @@ Para dominar **refs y alcance comparado**, aplica esta regla: ReFS es un sistema
 - **Incorrecto:** ReFS reemplaza obligatoriamente a NTFS en toda instalación de Windows.
 - **Incorrecto:** ReFS está disponible con idénticas funciones en cualquier edición y dispositivo.
 
-<!-- VISUAL PENDIENTE: t38-85-refs-y-alcance-comparado.webp -->
+<!-- VISUAL:t38-85-refs-y-alcance-comparado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-85-refs-y-alcance-comparado.webp" alt="ReFS y alcance comparado" width="820">
+</p>
+<p align="center"><em>Infografía: ReFS y alcance comparado.</em></p>
 
 :::hablemos-claro
 ReFS es un sistema de archivos de Microsoft orientado a resiliencia, integridad y escenarios de almacenamiento determinados.
@@ -3348,7 +3688,11 @@ Para dominar **ext2, ext3 y ext4**, aplica esta regla: ext2 no incorpora el diar
 - **Incorrecto:** ext4 deriva de NTFS y usa la MFT de Windows.
 - **Incorrecto:** ext2, ext3 y ext4 son nombres distintos sin diferencias funcionales.
 
-<!-- VISUAL PENDIENTE: t38-86-ext2-ext3-y-ext4.webp -->
+<!-- VISUAL:t38-86-ext2-ext3-y-ext4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-86-ext2-ext3-y-ext4.webp" alt="ext2, ext3 y ext4" width="820">
+</p>
+<p align="center"><em>Infografía: ext2, ext3 y ext4.</em></p>
 
 :::hablemos-claro
 ext2 no incorpora el diario que caracteriza a ext3.
@@ -3387,7 +3731,11 @@ Para dominar **apfs y hfs+**, aplica esta regla: HFS+ fue el sistema principal d
 - **Incorrecto:** HFS+ es el nombre antiguo de NTFS.
 - **Incorrecto:** Instalar macOS convierte sin excepción cualquier unidad externa a APFS.
 
-<!-- VISUAL PENDIENTE: t38-87-apfs-y-hfs.webp -->
+<!-- VISUAL:t38-87-apfs-y-hfs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-87-apfs-y-hfs.webp" alt="APFS y HFS+" width="820">
+</p>
+<p align="center"><em>Infografía: APFS y HFS+.</em></p>
 
 :::hablemos-claro
 HFS+ fue el sistema principal de macOS antes de APFS.
@@ -3426,7 +3774,11 @@ Para dominar **iso 9660 y udf**, aplica esta regla: ISO 9660 se diseñó para el
 - **Incorrecto:** ISO 9660 es una interfaz física equivalente a SATA.
 - **Incorrecto:** Todo Blu-ray utiliza obligatoriamente FAT32.
 
-<!-- VISUAL PENDIENTE: t38-88-iso-9660-y-udf.webp -->
+<!-- VISUAL:t38-88-iso-9660-y-udf.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-88-iso-9660-y-udf.webp" alt="ISO 9660 y UDF" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 9660 y UDF.</em></p>
 
 :::hablemos-claro
 ISO 9660 se diseñó para el intercambio de datos en medios ópticos de solo lectura.
@@ -3465,7 +3817,11 @@ Para dominar **enlaces, permisos y sensibilidad a mayúsculas**, aplica esta reg
 - **Incorrecto:** Un enlace simbólico contiene siempre una copia completa e independiente del archivo.
 - **Incorrecto:** Todos los sistemas de archivos tratan Archivo y archivo de forma idéntica.
 
-<!-- VISUAL PENDIENTE: t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp -->
+<!-- VISUAL:t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp" alt="Enlaces, permisos y sensibilidad a mayúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Enlaces, permisos y sensibilidad a mayúsculas.</em></p>
 
 :::hablemos-claro
 Un enlace duro añade otra referencia al mismo objeto dentro de las restricciones del sistema de archivos.
@@ -3504,7 +3860,11 @@ Para dominar **elección del sistema de archivos**, aplica esta regla: La elecci
 - **Incorrecto:** Siempre existe un sistema de archivos óptimo para todos los dispositivos y usos.
 - **Incorrecto:** La compatibilidad depende únicamente de la capacidad física del disco.
 
-<!-- VISUAL PENDIENTE: t38-il-90-eleccion-del-sistema-de-archivos.webp -->
+<!-- VISUAL:t38-il-90-eleccion-del-sistema-de-archivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-90-eleccion-del-sistema-de-archivos.webp" alt="Elección del sistema de archivos" width="820">
+</p>
+<p align="center"><em>Infografía: Elección del sistema de archivos.</em></p>
 
 :::hablemos-claro
 La elección debe considerar sistema operativo, tamaño de archivos, permisos, resiliencia, rendimiento y dispositivos de destino.

@@ -4,14 +4,14 @@
   "topic": "tema-35",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 91,
-    "integrated": 0,
-    "planned": 91
+    "integrated": 91,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-15",
   "resources": [
     {
       "id": "T35-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance del Tema 35",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero separa qué significa sostenibilidad, quién coopera, cómo participa la sociedad y qué instrumentos actúan.",
+      "description": "Primero separa qué significa sostenibilidad, quién coopera, cómo participa la sociedad y qué instrumentos actúan.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Definición del Informe Brundtland",
       "type": "ilustracion_simple",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La idea cabe en una balanza temporal: necesidades de hoy sin vaciar las opciones de mañana.",
+      "description": "La idea cabe en una balanza temporal: necesidades de hoy sin vaciar las opciones de mañana.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Tres dimensiones integradas",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un trípode cae si se retira cualquiera de sus patas: economía, sociedad o medio ambiente.",
+      "description": "Un trípode cae si se retira cualquiera de sus patas: economía, sociedad o medio ambiente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Equidad intra e intergeneracional",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta siempre quién recibe el beneficio, quién soporta el coste y en qué momento.",
+      "description": "Pregunta siempre quién recibe el beneficio, quién soporta el coste y en qué momento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Necesidades, límites y tecnología",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tecnología amplía opciones; no sustituye límites, reglas ni distribución justa.",
+      "description": "Tecnología amplía opciones; no sustituye límites, reglas ni distribución justa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Prevención, precaución y corrección en la fuente",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Prevención evita; precaución gestiona incertidumbre; corrección ataca el origen.",
+      "description": "Prevención evita; precaución gestiona incertidumbre; corrección ataca el origen.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Quien contamina paga",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La factura ambiental debe acercarse a quien genera el riesgo, sin convertir el pago en permiso.",
+      "description": "La factura ambiental debe acercarse a quien genera el riesgo, sin convertir el pago en permiso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Indicadores: PIB, IDH y huella ambiental",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cada indicador ilumina una parte del cuadro; confundirlo con el cuadro entero produce errores.",
+      "description": "Cada indicador ilumina una parte del cuadro; confundirlo con el cuadro entero produce errores.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Conferencia de Estocolmo de 1972",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estocolmo abre la puerta; Río integra ambiente y desarrollo; París organiza la acción climática común.",
+      "description": "Estocolmo abre la puerta; Río integra ambiente y desarrollo; París organiza la acción climática común.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Programa de las Naciones Unidas para el Medio Ambiente",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El PNUMA coordina, informa y cataliza; no sustituye la soberanía ni los tratados.",
+      "description": "El PNUMA coordina, informa y cataliza; no sustituye la soberanía ni los tratados.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Cumbre de Río de 1992",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No memorices Río como un solo documento: declaración, programa y convenios cumplen funciones distintas.",
+      "description": "No memorices Río como un solo documento: declaración, programa y convenios cumplen funciones distintas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Declaración de Río y participación social",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Participar no es decidir automáticamente: es poder conocer, intervenir a tiempo y obtener respuesta.",
+      "description": "Participar no es decidir automáticamente: es poder conocer, intervenir a tiempo y obtener respuesta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Convención Marco sobre Cambio Climático",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La Convención construye el marco; Kioto y París desarrollan compromisos dentro de él.",
+      "description": "La Convención construye el marco; Kioto y París desarrollan compromisos dentro de él.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Conferencias de las Partes",
       "type": "ilustracion_simple",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: COP es la reunión; el tratado es el instrumento; la entrada en vigor es otro hito.",
+      "description": "COP es la reunión; el tratado es el instrumento; la entrada en vigor es otro hito.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "IPCC: función y productos",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El IPCC evalúa ciencia; la CMNUCC negocia política internacional.",
+      "description": "El IPCC evalúa ciencia; la CMNUCC negocia política internacional.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Protocolo de Kioto",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Kioto reparte compromisos desde anexos; París pide contribuciones nacionales a todas las Partes.",
+      "description": "Kioto reparte compromisos desde anexos; París pide contribuciones nacionales a todas las Partes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Adopción y entrada en vigor del Acuerdo de París",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres casillas: adopción en 2015, firma en 2016 y entrada en vigor en noviembre de 2016.",
+      "description": "Tres casillas: adopción en 2015, firma en 2016 y entrada en vigor en noviembre de 2016.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Partes del Acuerdo de París en 2026",
       "type": "ilustracion_simple",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No mezcles fotografía histórica de firmantes con estado jurídico actual de Partes.",
+      "description": "No mezcles fotografía histórica de firmantes con estado jurídico actual de Partes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Objetivos de temperatura del Acuerdo de París",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trampa está en las palabras: muy por debajo de 2 °C y esfuerzos hacia 1,5 °C.",
+      "description": "La trampa está en las palabras: muy por debajo de 2 °C y esfuerzos hacia 1,5 °C.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Contribuciones determinadas a nivel nacional",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: París combina obligación de participar en el ciclo con contenido nacionalmente determinado.",
+      "description": "París combina obligación de participar en el ciclo con contenido nacionalmente determinado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Marco reforzado de transparencia",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Promesa sin medición es opaca; transparencia conecta objetivo, datos y revisión.",
+      "description": "Promesa sin medición es opaca; transparencia conecta objetivo, datos y revisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Balance mundial del Acuerdo de París",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El balance mira al conjunto; las NDC siguen siendo nacionales.",
+      "description": "El balance mira al conjunto; las NDC siguen siendo nacionales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Adaptación, financiación y pérdidas y daños",
       "type": "ilustracion_simple",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mitigar frena causas; adaptar reduce daño; pérdidas y daños atiende impactos restantes.",
+      "description": "Mitigar frena causas; adaptar reduce daño; pérdidas y daños atiende impactos restantes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Agenda 2030: adopción y estructura",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Diecisiete objetivos forman una red: avanzar en uno puede apoyar o tensionar otros.",
+      "description": "Diecisiete objetivos forman una red: avanzar en uno puede apoyar o tensionar otros.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Las cinco P de la Agenda 2030",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cinco P ordenan el relato; diecisiete ODS contienen los objetivos concretos.",
+      "description": "Cinco P ordenan el relato; diecisiete ODS contienen los objetivos concretos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "ODS ambientales directos y transversales",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aprende los ambientales como ecosistema, no como islas: agua, energía, ciudad, consumo, clima, mar y tierra.",
+      "description": "Aprende los ambientales como ecosistema, no como islas: agua, energía, ciudad, consumo, clima, mar y tierra.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Metas, indicadores y seguimiento",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dirección, destino medible y termómetro: objetivo, meta e indicador.",
+      "description": "Dirección, destino medible y termómetro: objetivo, meta e indicador.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Agencia Europea de Medio Ambiente",
       "type": "ilustracion_simple",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: AEMA observa y explica; Comisión, Parlamento y Consejo participan en la legislación.",
+      "description": "AEMA observa y explica; Comisión, Parlamento y Consejo participan en la legislación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Ley Europea del Clima",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Distingue objetivo colectivo de la UE y reparto mediante legislación sectorial y planes nacionales.",
+      "description": "Distingue objetivo colectivo de la UE y reparto mediante legislación sectorial y planes nacionales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Principios ambientales de la Unión Europea",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cuatro anclas de examen: cautela, prevención, fuente y contaminador.",
+      "description": "Cuatro anclas de examen: cautela, prevención, fuente y contaminador.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Programa LIFE 2021-2027",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: LIFE financia acción; no concede inmunidad regulatoria.",
+      "description": "LIFE financia acción; no concede inmunidad regulatoria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Artículo 45 de la Constitución",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres peldaños: derecho y deber; mandato público; sanción y reparación según la ley.",
+      "description": "Tres peldaños: derecho y deber; mandato público; sanción y reparación según la ley.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Consejo de Desarrollo Sostenible",
       "type": "ilustracion_simple",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Consejo significa participación y propuesta; no dirección ejecutiva.",
+      "description": "Consejo significa participación y propuesta; no dirección ejecutiva.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Consejo Nacional del Clima",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Consejo participa; comisión coordina; oficina trabaja técnicamente dentro de la Administración.",
+      "description": "Consejo participa; comisión coordina; oficina trabaja técnicamente dentro de la Administración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Coordinación climática administrativa",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Para acertar, empareja verbo y órgano: participar, coordinar o ejecutar técnicamente.",
+      "description": "Para acertar, empareja verbo y órgano: participar, coordinar o ejecutar técnicamente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Distribución de competencias ambientales",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La materia es multinivel: base estatal, desarrollo y gestión autonómica, actuación local.",
+      "description": "La materia es multinivel: base estatal, desarrollo y gestión autonómica, actuación local.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Consumo, producción y externalidades",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si el precio no contiene el daño, alguien más recibe la factura.",
+      "description": "Si el precio no contiene el daño, alguien más recibe la factura.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Transición justa",
       "type": "ilustracion_simple",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cambiar el motor sin dejar a personas y territorios tirados en la carretera.",
+      "description": "Cambiar el motor sin dejar a personas y territorios tirados en la carretera.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Justicia ambiental",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres preguntas: quién carga, quién habla y a quién se reconoce.",
+      "description": "Tres preguntas: quién carga, quién habla y a quién se reconoce.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Información y alfabetización ambiental",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dato, contexto y capacidad de uso: si falta uno, la información pierde fuerza.",
+      "description": "Dato, contexto y capacidad de uso: si falta uno, la información pierde fuerza.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Participación temprana y efectiva",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Participar a tiempo puede cambiar la ruta; participar después solo describe el viaje.",
+      "description": "Participar a tiempo puede cambiar la ruta; participar después solo describe el viaje.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Compra pública verde",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Comprar no solo el objeto: también energía, mantenimiento, duración y final de vida.",
+      "description": "Comprar no solo el objeto: también energía, mantenimiento, duración y final de vida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Empresa, cumplimiento y desempeño",
       "type": "ilustracion_simple",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El certificado acredita un sistema dentro de alcance; no santifica cada producto ni resultado.",
+      "description": "El certificado acredita un sistema dentro de alcance; no santifica cada producto ni resultado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Greenwashing y alegaciones ambientales",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de creer una etiqueta, pide cuatro cosas: qué, cuánto, desde cuándo y con qué método.",
+      "description": "Antes de creer una etiqueta, pide cuatro cosas: qué, cuánto, desde cuándo y con qué método.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Objeto y principios de la Ley 42/2007",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Conservar no es congelar: es mantener diversidad, procesos y opciones de uso compatibles.",
+      "description": "Conservar no es congelar: es mantener diversidad, procesos y opciones de uso compatibles.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Conceptos de biodiversidad y patrimonio natural",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Genes, especies y ecosistemas forman la biodiversidad; rocas y procesos aportan geodiversidad.",
+      "description": "Genes, especies y ecosistemas forman la biodiversidad; rocas y procesos aportan geodiversidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Inventario Español del Patrimonio Natural y Biodiversidad",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Inventariar es saber qué existe, dónde, en qué estado y cómo cambia.",
+      "description": "Inventariar es saber qué existe, dónde, en qué estado y cómo cambia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Plan Estratégico Estatal a 2030",
       "type": "ilustracion_simple",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La fecha clave es 2030: el plan de 2011-2017 ya fue expresamente derogado.",
+      "description": "La fecha clave es 2030: el plan de 2011-2017 ya fue expresamente derogado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Planes de Ordenación de los Recursos Naturales",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El PORN lee el territorio antes de decidir qué usos caben y bajo qué límites.",
+      "description": "El PORN lee el territorio antes de decidir qué usos caben y bajo qué límites.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Espacios naturales protegidos",
       "type": "infografia",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cinco figuras no son cinco nombres decorativos: cada una protege algo y condiciona usos.",
+      "description": "Cinco figuras no son cinco nombres decorativos: cada una protege algo y condiciona usos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Red Natura 2000",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: LIC conduce a ZEC; ZEPA protege aves: dos puertas de entrada a una misma red.",
+      "description": "LIC conduce a ZEC; ZEPA protege aves: dos puertas de entrada a una misma red.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Evaluación de repercusiones en Red Natura 2000",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero evita daño; la excepción no es atajo y exige una cadena reforzada de condiciones.",
+      "description": "Primero evita daño; la excepción no es atajo y exige una cadena reforzada de condiciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Listado y Catálogo de especies amenazadas",
       "type": "ilustracion_simple",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Recuperación para peligro; conservación para vulnerable: emparejamiento clásico de examen.",
+      "description": "Recuperación para peligro; conservación para vulnerable: emparejamiento clásico de examen.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Especies exóticas invasoras",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Fuera de área no basta; invasora añade amenaza ecológica.",
+      "description": "Fuera de área no basta; invasora añade amenaza ecológica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Corredores ecológicos y conectividad",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No basta conservar islas verdes: las especies necesitan puentes funcionales.",
+      "description": "No basta conservar islas verdes: las especies necesitan puentes funcionales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Áreas protegidas por instrumentos internacionales",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La etiqueta internacional añade marco y compromiso; no borra la figura jurídica nacional concreta.",
+      "description": "La etiqueta internacional añade marco y compromiso; no borra la figura jurídica nacional concreta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Objeto de la Ley 45/2007",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Rural sostenible une actividad, población, servicios y territorio.",
+      "description": "Rural sostenible une actividad, población, servicios y territorio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Medio rural, zona rural y municipio pequeño",
       "type": "ilustracion_simple",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Espacio general, zona de actuación y municipio: tres escalas, tres definiciones.",
+      "description": "Espacio general, zona de actuación y municipio: tres escalas, tres definiciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Programa de Desarrollo Rural Sostenible",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La ley crea el instrumento; cada período y actuación necesita programación vigente.",
+      "description": "La ley crea el instrumento; cada período y actuación necesita programación vigente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Clasificación de zonas rurales",
       "type": "infografia",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aislada, mixta o próxima a ciudad: la clasificación orienta medidas diferentes.",
+      "description": "Aislada, mixta o próxima a ciudad: la clasificación orienta medidas diferentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Arquitectura de la Ley 21/2013",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: EAE mira el marco de decisiones; EIA mira el proyecto concreto.",
+      "description": "EAE mira el marco de decisiones; EIA mira el proyecto concreto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Evaluación ambiental estratégica",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estratégica produce declaración o informe ambiental estratégico, no DIA.",
+      "description": "Estratégica produce declaración o informe ambiental estratégico, no DIA.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Evaluación de impacto ambiental de proyectos",
       "type": "ilustracion_simple",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: DIA evalúa; la autorización decide dentro de sus condiciones.",
+      "description": "DIA evalúa; la autorización decide dentro de sus condiciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Órgano ambiental, sustantivo y promotor",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Promotor propone; ambiental evalúa; sustantivo decide.",
+      "description": "Promotor propone; ambiental evalúa; sustantivo decide.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Modelo de la Ley 26/2007",
       "type": "infografia",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La ley mira el recurso natural: prevenir, evitar propagación y devolverlo a su estado.",
+      "description": "La ley mira el recurso natural: prevenir, evitar propagación y devolverlo a su estado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Daño medioambiental cubierto",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El foco no es la indemnización privada: son recursos naturales y servicios protegidos.",
+      "description": "El foco no es la indemnización privada: son recursos naturales y servicios protegidos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Amenaza inminente, prevención y evitación",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Prevención va antes del daño; evitación corta su propagación después de empezar.",
+      "description": "Prevención va antes del daño; evitación corta su propagación después de empezar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Reparación primaria, complementaria y compensatoria",
       "type": "ilustracion_simple",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primaria repara el lugar; complementaria completa; compensatoria cubre el tiempo perdido.",
+      "description": "Primaria repara el lugar; complementaria completa; compensatoria cubre el tiempo perdido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Plazo temporal y exclusiones",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Treinta años limita esta ley, no borra por arte de magia todo el ordenamiento.",
+      "description": "Treinta años limita esta ley, no borra por arte de magia todo el ordenamiento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Convenio de Aarhus y tres pilares",
       "type": "infografia",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Saber, participar y recurrir: los tres pilares caben en tres verbos.",
+      "description": "Saber, participar y recurrir: los tres pilares caben en tres verbos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Acceso a información ambiental",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La puerta de información no exige explicar para qué quieres entrar.",
+      "description": "La puerta de información no exige explicar para qué quieres entrar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Participación en planes y disposiciones",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La participación útil ocurre antes del cierre y deja rastro en la motivación.",
+      "description": "La participación útil ocurre antes del cierre y deja rastro en la motivación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Acceso a la justicia y acción popular ambiental",
       "type": "ilustracion_simple",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aarhus abre la puerta judicial, pero hay que entrar con legitimación y procedimiento correctos.",
+      "description": "Aarhus abre la puerta judicial, pero hay que entrar con legitimación y procedimiento correctos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Consejo Asesor de Medio Ambiente",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: CAMA mira política ambiental general; CNC enfoca cambio climático.",
+      "description": "CAMA mira política ambiental general; CNC enfoca cambio climático.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Objeto y principios de la Ley 7/2021",
       "type": "infografia",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clima exige dos movimientos a la vez: descarbonizar y adaptarse.",
+      "description": "Clima exige dos movimientos a la vez: descarbonizar y adaptarse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "Objetivos legales y objetivos del PNIEC",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero identifica el documento: ley y plan pueden compartir horizonte y tener cifras distintas.",
+      "description": "Primero identifica el documento: ley y plan pueden compartir horizonte y tener cifras distintas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "PNIEC 2023-2030 actualizado",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Regla 32-48-43-81: emisiones, energía final renovable, eficiencia y electricidad renovable.",
+      "description": "Regla 32-48-43-81: emisiones, energía final renovable, eficiencia y electricidad renovable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "Dimensiones y estructura del PNIEC",
       "type": "ilustracion_simple",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cinco dimensiones evitan reducir energía y clima a una sola tecnología.",
+      "description": "Cinco dimensiones evitan reducir energía y clima a una sola tecnología.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Plan Nacional de Adaptación 2021-2030",
       "type": "ilustracion_simple",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mitigación cambia la causa; PNACC prepara sistemas y territorios para los impactos.",
+      "description": "Mitigación cambia la causa; PNACC prepara sistemas y territorios para los impactos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,14 +1362,15 @@
       "title": "Estrategia de Transición Justa",
       "type": "infografia",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La transición se planifica con mapa de impactos laborales y territoriales, no solo con objetivos energéticos.",
+      "description": "La transición se planifica con mapa de impactos laborales y territoriales, no solo con objetivos energéticos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1299,14 +1379,15 @@
       "title": "Mitigación y adaptación: casos límite",
       "type": "infografia",
       "placement": "bloque-81",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 81,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta qué cambia: emisiones y sumideros, o exposición y vulnerabilidad.",
+      "description": "Pregunta qué cambia: emisiones y sumideros, o exposición y vulnerabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1315,14 +1396,15 @@
       "title": "Sistema de gestión ambiental",
       "type": "infografia",
       "placement": "bloque-82",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 82,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El SGA es un circuito de mando, no una carpeta de buenas intenciones.",
+      "description": "El SGA es un circuito de mando, no una carpeta de buenas intenciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1331,14 +1413,15 @@
       "title": "ISO 14001:2026",
       "type": "ilustracion_simple",
       "placement": "bloque-83",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 83,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trampa más reciente del tema: 2015 ya no es la edición vigente.",
+      "description": "La trampa más reciente del tema: 2015 ya no es la edición vigente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1347,14 +1430,15 @@
       "title": "Aspectos, impactos y perspectiva de ciclo de vida",
       "type": "infografia",
       "placement": "bloque-84",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 84,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aspecto es la causa gestionable; impacto es el cambio que provoca.",
+      "description": "Aspecto es la causa gestionable; impacto es el cambio que provoca.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1363,14 +1447,15 @@
       "title": "Obligaciones de cumplimiento y objetivos",
       "type": "infografia",
       "placement": "bloque-85",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 85,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Obligación encontrada, aplicabilidad entendida, cumplimiento evaluado y desviación corregida.",
+      "description": "Obligación encontrada, aplicabilidad entendida, cumplimiento evaluado y desviación corregida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1379,14 +1464,15 @@
       "title": "Control operacional y emergencias",
       "type": "infografia",
       "placement": "bloque-86",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 86,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Controla lo normal y ensaya lo excepcional.",
+      "description": "Controla lo normal y ensaya lo excepcional.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1395,14 +1481,15 @@
       "title": "Seguimiento, auditoría y revisión",
       "type": "infografia",
       "placement": "bloque-87",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 87,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Medir aporta datos; auditar contrasta; dirección decide cambios.",
+      "description": "Medir aporta datos; auditar contrasta; dirección decide cambios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1411,14 +1498,15 @@
       "title": "EMAS: naturaleza y requisitos",
       "type": "infografia",
       "placement": "bloque-88",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 88,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: EMAS añade transparencia pública validada y registro a la lógica del sistema de gestión.",
+      "description": "EMAS añade transparencia pública validada y registro a la lógica del sistema de gestión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1427,14 +1515,15 @@
       "title": "ISO 14001 y EMAS",
       "type": "infografia",
       "placement": "bloque-89",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 89,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ISO certifica el sistema; EMAS registra tras añadir verificación y declaración pública.",
+      "description": "ISO certifica el sistema; EMAS registra tras añadir verificación y declaración pública.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1443,14 +1532,15 @@
       "title": "Jerarquía de residuos y economía circular",
       "type": "infografia",
       "placement": "bloque-90",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 90,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La mejor papelera es la que no hizo falta llenar: prevenir precede a reciclar.",
+      "description": "La mejor papelera es la que no hizo falta llenar: prevenir precede a reciclar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1459,1473 +1549,17 @@
       "title": "Prevención y control integrados de la contaminación",
       "type": "infografia",
       "placement": "bloque-91",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 91,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Integrado significa mirar aire, agua, suelo, residuos y energía como un solo sistema.",
+      "description": "Integrado significa mirar aire, agua, suelo, residuos y energía como un solo sistema.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T35-V01",
-      "file": "t35-01-alcance-del-tema-35.webp",
-      "title": "Alcance del Tema 35",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero separa qué significa sostenibilidad, quién coopera, cómo participa la sociedad y qué instrumentos actúan.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V02",
-      "file": "t35-il-02-definicion-del-informe-brundtland.webp",
-      "title": "Definición del Informe Brundtland",
-      "type": "ilustracion_simple",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La idea cabe en una balanza temporal: necesidades de hoy sin vaciar las opciones de mañana.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V03",
-      "file": "t35-03-tres-dimensiones-integradas.webp",
-      "title": "Tres dimensiones integradas",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un trípode cae si se retira cualquiera de sus patas: economía, sociedad o medio ambiente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V04",
-      "file": "t35-04-equidad-intra-e-intergeneracional.webp",
-      "title": "Equidad intra e intergeneracional",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta siempre quién recibe el beneficio, quién soporta el coste y en qué momento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V05",
-      "file": "t35-il-05-necesidades-limites-y-tecnologia.webp",
-      "title": "Necesidades, límites y tecnología",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tecnología amplía opciones; no sustituye límites, reglas ni distribución justa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V06",
-      "file": "t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp",
-      "title": "Prevención, precaución y corrección en la fuente",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Prevención evita; precaución gestiona incertidumbre; corrección ataca el origen.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V07",
-      "file": "t35-07-quien-contamina-paga.webp",
-      "title": "Quien contamina paga",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La factura ambiental debe acercarse a quien genera el riesgo, sin convertir el pago en permiso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V08",
-      "file": "t35-08-indicadores-pib-idh-y-huella-ambiental.webp",
-      "title": "Indicadores: PIB, IDH y huella ambiental",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cada indicador ilumina una parte del cuadro; confundirlo con el cuadro entero produce errores.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V09",
-      "file": "t35-09-conferencia-de-estocolmo-de-1972.webp",
-      "title": "Conferencia de Estocolmo de 1972",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estocolmo abre la puerta; Río integra ambiente y desarrollo; París organiza la acción climática común.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V10",
-      "file": "t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp",
-      "title": "Programa de las Naciones Unidas para el Medio Ambiente",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El PNUMA coordina, informa y cataliza; no sustituye la soberanía ni los tratados.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V11",
-      "file": "t35-11-cumbre-de-rio-de-1992.webp",
-      "title": "Cumbre de Río de 1992",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No memorices Río como un solo documento: declaración, programa y convenios cumplen funciones distintas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V12",
-      "file": "t35-12-declaracion-de-rio-y-participacion-social.webp",
-      "title": "Declaración de Río y participación social",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Participar no es decidir automáticamente: es poder conocer, intervenir a tiempo y obtener respuesta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V13",
-      "file": "t35-13-convencion-marco-sobre-cambio-climatico.webp",
-      "title": "Convención Marco sobre Cambio Climático",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La Convención construye el marco; Kioto y París desarrollan compromisos dentro de él.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V14",
-      "file": "t35-il-14-conferencias-de-las-partes.webp",
-      "title": "Conferencias de las Partes",
-      "type": "ilustracion_simple",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: COP es la reunión; el tratado es el instrumento; la entrada en vigor es otro hito.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V15",
-      "file": "t35-15-ipcc-funcion-y-productos.webp",
-      "title": "IPCC: función y productos",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El IPCC evalúa ciencia; la CMNUCC negocia política internacional.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V16",
-      "file": "t35-16-protocolo-de-kioto.webp",
-      "title": "Protocolo de Kioto",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Kioto reparte compromisos desde anexos; París pide contribuciones nacionales a todas las Partes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V17",
-      "file": "t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp",
-      "title": "Adopción y entrada en vigor del Acuerdo de París",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres casillas: adopción en 2015, firma en 2016 y entrada en vigor en noviembre de 2016.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V18",
-      "file": "t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp",
-      "title": "Partes del Acuerdo de París en 2026",
-      "type": "ilustracion_simple",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No mezcles fotografía histórica de firmantes con estado jurídico actual de Partes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V19",
-      "file": "t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp",
-      "title": "Objetivos de temperatura del Acuerdo de París",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La trampa está en las palabras: muy por debajo de 2 °C y esfuerzos hacia 1,5 °C.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V20",
-      "file": "t35-20-contribuciones-determinadas-a-nivel-nacional.webp",
-      "title": "Contribuciones determinadas a nivel nacional",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: París combina obligación de participar en el ciclo con contenido nacionalmente determinado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V21",
-      "file": "t35-21-marco-reforzado-de-transparencia.webp",
-      "title": "Marco reforzado de transparencia",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Promesa sin medición es opaca; transparencia conecta objetivo, datos y revisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V22",
-      "file": "t35-22-balance-mundial-del-acuerdo-de-paris.webp",
-      "title": "Balance mundial del Acuerdo de París",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El balance mira al conjunto; las NDC siguen siendo nacionales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V23",
-      "file": "t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp",
-      "title": "Adaptación, financiación y pérdidas y daños",
-      "type": "ilustracion_simple",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mitigar frena causas; adaptar reduce daño; pérdidas y daños atiende impactos restantes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V24",
-      "file": "t35-24-agenda-2030-adopcion-y-estructura.webp",
-      "title": "Agenda 2030: adopción y estructura",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Diecisiete objetivos forman una red: avanzar en uno puede apoyar o tensionar otros.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V25",
-      "file": "t35-25-las-cinco-p-de-la-agenda-2030.webp",
-      "title": "Las cinco P de la Agenda 2030",
-      "type": "infografia",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cinco P ordenan el relato; diecisiete ODS contienen los objetivos concretos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V26",
-      "file": "t35-26-ods-ambientales-directos-y-transversales.webp",
-      "title": "ODS ambientales directos y transversales",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aprende los ambientales como ecosistema, no como islas: agua, energía, ciudad, consumo, clima, mar y tierra.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V27",
-      "file": "t35-27-metas-indicadores-y-seguimiento.webp",
-      "title": "Metas, indicadores y seguimiento",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dirección, destino medible y termómetro: objetivo, meta e indicador.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V28",
-      "file": "t35-il-28-agencia-europea-de-medio-ambiente.webp",
-      "title": "Agencia Europea de Medio Ambiente",
-      "type": "ilustracion_simple",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: AEMA observa y explica; Comisión, Parlamento y Consejo participan en la legislación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V29",
-      "file": "t35-29-ley-europea-del-clima.webp",
-      "title": "Ley Europea del Clima",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Distingue objetivo colectivo de la UE y reparto mediante legislación sectorial y planes nacionales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V30",
-      "file": "t35-30-principios-ambientales-de-la-union-europea.webp",
-      "title": "Principios ambientales de la Unión Europea",
-      "type": "infografia",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cuatro anclas de examen: cautela, prevención, fuente y contaminador.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V31",
-      "file": "t35-31-programa-life-2021-2027.webp",
-      "title": "Programa LIFE 2021-2027",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: LIFE financia acción; no concede inmunidad regulatoria.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V32",
-      "file": "t35-32-articulo-45-de-la-constitucion.webp",
-      "title": "Artículo 45 de la Constitución",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres peldaños: derecho y deber; mandato público; sanción y reparación según la ley.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V33",
-      "file": "t35-il-33-consejo-de-desarrollo-sostenible.webp",
-      "title": "Consejo de Desarrollo Sostenible",
-      "type": "ilustracion_simple",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Consejo significa participación y propuesta; no dirección ejecutiva.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V34",
-      "file": "t35-34-consejo-nacional-del-clima.webp",
-      "title": "Consejo Nacional del Clima",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Consejo participa; comisión coordina; oficina trabaja técnicamente dentro de la Administración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V35",
-      "file": "t35-35-coordinacion-climatica-administrativa.webp",
-      "title": "Coordinación climática administrativa",
-      "type": "infografia",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Para acertar, empareja verbo y órgano: participar, coordinar o ejecutar técnicamente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V36",
-      "file": "t35-36-distribucion-de-competencias-ambientales.webp",
-      "title": "Distribución de competencias ambientales",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La materia es multinivel: base estatal, desarrollo y gestión autonómica, actuación local.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V37",
-      "file": "t35-37-consumo-produccion-y-externalidades.webp",
-      "title": "Consumo, producción y externalidades",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si el precio no contiene el daño, alguien más recibe la factura.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V38",
-      "file": "t35-il-38-transicion-justa.webp",
-      "title": "Transición justa",
-      "type": "ilustracion_simple",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cambiar el motor sin dejar a personas y territorios tirados en la carretera.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V39",
-      "file": "t35-39-justicia-ambiental.webp",
-      "title": "Justicia ambiental",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres preguntas: quién carga, quién habla y a quién se reconoce.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V40",
-      "file": "t35-40-informacion-y-alfabetizacion-ambiental.webp",
-      "title": "Información y alfabetización ambiental",
-      "type": "infografia",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dato, contexto y capacidad de uso: si falta uno, la información pierde fuerza.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V41",
-      "file": "t35-41-participacion-temprana-y-efectiva.webp",
-      "title": "Participación temprana y efectiva",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Participar a tiempo puede cambiar la ruta; participar después solo describe el viaje.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V42",
-      "file": "t35-42-compra-publica-verde.webp",
-      "title": "Compra pública verde",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Comprar no solo el objeto: también energía, mantenimiento, duración y final de vida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V43",
-      "file": "t35-il-43-empresa-cumplimiento-y-desempeno.webp",
-      "title": "Empresa, cumplimiento y desempeño",
-      "type": "ilustracion_simple",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El certificado acredita un sistema dentro de alcance; no santifica cada producto ni resultado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V44",
-      "file": "t35-44-greenwashing-y-alegaciones-ambientales.webp",
-      "title": "Greenwashing y alegaciones ambientales",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de creer una etiqueta, pide cuatro cosas: qué, cuánto, desde cuándo y con qué método.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V45",
-      "file": "t35-45-objeto-y-principios-de-la-ley-42-2007.webp",
-      "title": "Objeto y principios de la Ley 42/2007",
-      "type": "infografia",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Conservar no es congelar: es mantener diversidad, procesos y opciones de uso compatibles.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V46",
-      "file": "t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp",
-      "title": "Conceptos de biodiversidad y patrimonio natural",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Genes, especies y ecosistemas forman la biodiversidad; rocas y procesos aportan geodiversidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V47",
-      "file": "t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp",
-      "title": "Inventario Español del Patrimonio Natural y Biodiversidad",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Inventariar es saber qué existe, dónde, en qué estado y cómo cambia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V48",
-      "file": "t35-il-48-plan-estrategico-estatal-a-2030.webp",
-      "title": "Plan Estratégico Estatal a 2030",
-      "type": "ilustracion_simple",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La fecha clave es 2030: el plan de 2011-2017 ya fue expresamente derogado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V49",
-      "file": "t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp",
-      "title": "Planes de Ordenación de los Recursos Naturales",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El PORN lee el territorio antes de decidir qué usos caben y bajo qué límites.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V50",
-      "file": "t35-50-espacios-naturales-protegidos.webp",
-      "title": "Espacios naturales protegidos",
-      "type": "infografia",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cinco figuras no son cinco nombres decorativos: cada una protege algo y condiciona usos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V51",
-      "file": "t35-51-red-natura-2000.webp",
-      "title": "Red Natura 2000",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: LIC conduce a ZEC; ZEPA protege aves: dos puertas de entrada a una misma red.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V52",
-      "file": "t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp",
-      "title": "Evaluación de repercusiones en Red Natura 2000",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero evita daño; la excepción no es atajo y exige una cadena reforzada de condiciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V53",
-      "file": "t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp",
-      "title": "Listado y Catálogo de especies amenazadas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Recuperación para peligro; conservación para vulnerable: emparejamiento clásico de examen.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V54",
-      "file": "t35-54-especies-exoticas-invasoras.webp",
-      "title": "Especies exóticas invasoras",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Fuera de área no basta; invasora añade amenaza ecológica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V55",
-      "file": "t35-il-55-corredores-ecologicos-y-conectividad.webp",
-      "title": "Corredores ecológicos y conectividad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No basta conservar islas verdes: las especies necesitan puentes funcionales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V56",
-      "file": "t35-56-areas-protegidas-por-instrumentos-internacionales.webp",
-      "title": "Áreas protegidas por instrumentos internacionales",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La etiqueta internacional añade marco y compromiso; no borra la figura jurídica nacional concreta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V57",
-      "file": "t35-57-objeto-de-la-ley-45-2007.webp",
-      "title": "Objeto de la Ley 45/2007",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Rural sostenible une actividad, población, servicios y territorio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V58",
-      "file": "t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp",
-      "title": "Medio rural, zona rural y municipio pequeño",
-      "type": "ilustracion_simple",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Espacio general, zona de actuación y municipio: tres escalas, tres definiciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V59",
-      "file": "t35-59-programa-de-desarrollo-rural-sostenible.webp",
-      "title": "Programa de Desarrollo Rural Sostenible",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La ley crea el instrumento; cada período y actuación necesita programación vigente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V60",
-      "file": "t35-60-clasificacion-de-zonas-rurales.webp",
-      "title": "Clasificación de zonas rurales",
-      "type": "infografia",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aislada, mixta o próxima a ciudad: la clasificación orienta medidas diferentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V61",
-      "file": "t35-61-arquitectura-de-la-ley-21-2013.webp",
-      "title": "Arquitectura de la Ley 21/2013",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: EAE mira el marco de decisiones; EIA mira el proyecto concreto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V62",
-      "file": "t35-62-evaluacion-ambiental-estrategica.webp",
-      "title": "Evaluación ambiental estratégica",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estratégica produce declaración o informe ambiental estratégico, no DIA.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V63",
-      "file": "t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp",
-      "title": "Evaluación de impacto ambiental de proyectos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: DIA evalúa; la autorización decide dentro de sus condiciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V64",
-      "file": "t35-64-organo-ambiental-sustantivo-y-promotor.webp",
-      "title": "Órgano ambiental, sustantivo y promotor",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Promotor propone; ambiental evalúa; sustantivo decide.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V65",
-      "file": "t35-65-modelo-de-la-ley-26-2007.webp",
-      "title": "Modelo de la Ley 26/2007",
-      "type": "infografia",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La ley mira el recurso natural: prevenir, evitar propagación y devolverlo a su estado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V66",
-      "file": "t35-66-dano-medioambiental-cubierto.webp",
-      "title": "Daño medioambiental cubierto",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El foco no es la indemnización privada: son recursos naturales y servicios protegidos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V67",
-      "file": "t35-67-amenaza-inminente-prevencion-y-evitacion.webp",
-      "title": "Amenaza inminente, prevención y evitación",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Prevención va antes del daño; evitación corta su propagación después de empezar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V68",
-      "file": "t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp",
-      "title": "Reparación primaria, complementaria y compensatoria",
-      "type": "ilustracion_simple",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primaria repara el lugar; complementaria completa; compensatoria cubre el tiempo perdido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V69",
-      "file": "t35-69-plazo-temporal-y-exclusiones.webp",
-      "title": "Plazo temporal y exclusiones",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Treinta años limita esta ley, no borra por arte de magia todo el ordenamiento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V70",
-      "file": "t35-70-convenio-de-aarhus-y-tres-pilares.webp",
-      "title": "Convenio de Aarhus y tres pilares",
-      "type": "infografia",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Saber, participar y recurrir: los tres pilares caben en tres verbos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V71",
-      "file": "t35-71-acceso-a-informacion-ambiental.webp",
-      "title": "Acceso a información ambiental",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La puerta de información no exige explicar para qué quieres entrar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V72",
-      "file": "t35-72-participacion-en-planes-y-disposiciones.webp",
-      "title": "Participación en planes y disposiciones",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La participación útil ocurre antes del cierre y deja rastro en la motivación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V73",
-      "file": "t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp",
-      "title": "Acceso a la justicia y acción popular ambiental",
-      "type": "ilustracion_simple",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aarhus abre la puerta judicial, pero hay que entrar con legitimación y procedimiento correctos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V74",
-      "file": "t35-74-consejo-asesor-de-medio-ambiente.webp",
-      "title": "Consejo Asesor de Medio Ambiente",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: CAMA mira política ambiental general; CNC enfoca cambio climático.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V75",
-      "file": "t35-75-objeto-y-principios-de-la-ley-7-2021.webp",
-      "title": "Objeto y principios de la Ley 7/2021",
-      "type": "infografia",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clima exige dos movimientos a la vez: descarbonizar y adaptarse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V76",
-      "file": "t35-76-objetivos-legales-y-objetivos-del-pniec.webp",
-      "title": "Objetivos legales y objetivos del PNIEC",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero identifica el documento: ley y plan pueden compartir horizonte y tener cifras distintas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V77",
-      "file": "t35-77-pniec-2023-2030-actualizado.webp",
-      "title": "PNIEC 2023-2030 actualizado",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Regla 32-48-43-81: emisiones, energía final renovable, eficiencia y electricidad renovable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V78",
-      "file": "t35-il-78-dimensiones-y-estructura-del-pniec.webp",
-      "title": "Dimensiones y estructura del PNIEC",
-      "type": "ilustracion_simple",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cinco dimensiones evitan reducir energía y clima a una sola tecnología.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V79",
-      "file": "t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp",
-      "title": "Plan Nacional de Adaptación 2021-2030",
-      "type": "ilustracion_simple",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mitigación cambia la causa; PNACC prepara sistemas y territorios para los impactos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V80",
-      "file": "t35-80-estrategia-de-transicion-justa.webp",
-      "title": "Estrategia de Transición Justa",
-      "type": "infografia",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La transición se planifica con mapa de impactos laborales y territoriales, no solo con objetivos energéticos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V81",
-      "file": "t35-81-mitigacion-y-adaptacion-casos-limite.webp",
-      "title": "Mitigación y adaptación: casos límite",
-      "type": "infografia",
-      "placement": "bloque-81",
-      "status": "planned",
-      "block": 81,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta qué cambia: emisiones y sumideros, o exposición y vulnerabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V82",
-      "file": "t35-82-sistema-de-gestion-ambiental.webp",
-      "title": "Sistema de gestión ambiental",
-      "type": "infografia",
-      "placement": "bloque-82",
-      "status": "planned",
-      "block": 82,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El SGA es un circuito de mando, no una carpeta de buenas intenciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V83",
-      "file": "t35-il-83-iso-14001-2026.webp",
-      "title": "ISO 14001:2026",
-      "type": "ilustracion_simple",
-      "placement": "bloque-83",
-      "status": "planned",
-      "block": 83,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La trampa más reciente del tema: 2015 ya no es la edición vigente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V84",
-      "file": "t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp",
-      "title": "Aspectos, impactos y perspectiva de ciclo de vida",
-      "type": "infografia",
-      "placement": "bloque-84",
-      "status": "planned",
-      "block": 84,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aspecto es la causa gestionable; impacto es el cambio que provoca.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V85",
-      "file": "t35-85-obligaciones-de-cumplimiento-y-objetivos.webp",
-      "title": "Obligaciones de cumplimiento y objetivos",
-      "type": "infografia",
-      "placement": "bloque-85",
-      "status": "planned",
-      "block": 85,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Obligación encontrada, aplicabilidad entendida, cumplimiento evaluado y desviación corregida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V86",
-      "file": "t35-86-control-operacional-y-emergencias.webp",
-      "title": "Control operacional y emergencias",
-      "type": "infografia",
-      "placement": "bloque-86",
-      "status": "planned",
-      "block": 86,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Controla lo normal y ensaya lo excepcional.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V87",
-      "file": "t35-87-seguimiento-auditoria-y-revision.webp",
-      "title": "Seguimiento, auditoría y revisión",
-      "type": "infografia",
-      "placement": "bloque-87",
-      "status": "planned",
-      "block": 87,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Medir aporta datos; auditar contrasta; dirección decide cambios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V88",
-      "file": "t35-88-emas-naturaleza-y-requisitos.webp",
-      "title": "EMAS: naturaleza y requisitos",
-      "type": "infografia",
-      "placement": "bloque-88",
-      "status": "planned",
-      "block": 88,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: EMAS añade transparencia pública validada y registro a la lógica del sistema de gestión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V89",
-      "file": "t35-89-iso-14001-y-emas.webp",
-      "title": "ISO 14001 y EMAS",
-      "type": "infografia",
-      "placement": "bloque-89",
-      "status": "planned",
-      "block": 89,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ISO certifica el sistema; EMAS registra tras añadir verificación y declaración pública.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V90",
-      "file": "t35-90-jerarquia-de-residuos-y-economia-circular.webp",
-      "title": "Jerarquía de residuos y economía circular",
-      "type": "infografia",
-      "placement": "bloque-90",
-      "status": "planned",
-      "block": 90,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La mejor papelera es la que no hizo falta llenar: prevenir precede a reciclar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T35-V91",
-      "file": "t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp",
-      "title": "Prevención y control integrados de la contaminación",
-      "type": "infografia",
-      "placement": "bloque-91",
-      "status": "planned",
-      "block": 91,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Integrado significa mirar aire, agua, suelo, residuos y energía como un solo sistema.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

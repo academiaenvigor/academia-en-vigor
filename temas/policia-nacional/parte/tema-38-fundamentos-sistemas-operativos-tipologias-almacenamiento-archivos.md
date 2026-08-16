@@ -19,7 +19,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El epígrafe incorpora los sistemas operativos móviles iOS y Android.
 - El programa se completa con sistemas de almacenamiento y sistemas de archivos.
 
-<!-- VISUAL PENDIENTE: t38-01-alcance-oficial-del-tema-38.webp -->
+<!-- VISUAL:t38-01-alcance-oficial-del-tema-38.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-01-alcance-oficial-del-tema-38.webp" alt="Alcance oficial del Tema 38" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 38.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T38 -->
 
@@ -32,7 +36,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El firmware es software estrechamente ligado a un dispositivo y almacenado normalmente en memoria no volátil.
 - El sistema operativo coordina hardware, aplicaciones, datos y usuarios sin confundirse con ninguno de ellos.
 
-<!-- VISUAL PENDIENTE: t38-02-hardware-software-y-firmware.webp -->
+<!-- VISUAL:t38-02-hardware-software-y-firmware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-02-hardware-software-y-firmware.webp" alt="Hardware, software y firmware" width="820">
+</p>
+<p align="center"><em>Infografía: Hardware, software y firmware.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -45,7 +53,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La ALU realiza operaciones aritméticas y lógicas requeridas por las instrucciones.
 - Los buses y controladores permiten intercambiar direcciones, datos y señales de control entre componentes.
 
-<!-- VISUAL PENDIENTE: t38-03-arquitectura-de-programa-almacenado.webp -->
+<!-- VISUAL:t38-03-arquitectura-de-programa-almacenado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-03-arquitectura-de-programa-almacenado.webp" alt="Arquitectura de programa almacenado" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura de programa almacenado.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -58,7 +70,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los registros guardan operandos, direcciones y estado inmediato de la ejecución.
 - La memoria caché reduce la latencia media al conservar datos e instrucciones próximos al procesador.
 
-<!-- VISUAL PENDIENTE: t38-il-04-cpu-nucleos-hilos-y-cache.webp -->
+<!-- VISUAL:t38-il-04-cpu-nucleos-hilos-y-cache.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-04-cpu-nucleos-hilos-y-cache.webp" alt="CPU, núcleos, hilos y caché" width="820">
+</p>
+<p align="center"><em>Infografía: CPU, núcleos, hilos y caché.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -71,7 +87,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El almacenamiento secundario conserva información de forma no volátil.
 - La memoria virtual no convierte el almacenamiento en RAM física ni elimina su diferencia de velocidad.
 
-<!-- VISUAL PENDIENTE: t38-il-05-jerarquia-de-memoria.webp -->
+<!-- VISUAL:t38-il-05-jerarquia-de-memoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-05-jerarquia-de-memoria.webp" alt="Jerarquía de memoria" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de memoria.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -84,7 +104,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los prefijos SI kB, MB y GB usan potencias de mil.
 - Los prefijos binarios KiB, MiB y GiB usan potencias de 1024 y no deben confundirse con los prefijos SI.
 
-<!-- VISUAL PENDIENTE: t38-06-bit-byte-y-prefijos-de-capacidad.webp -->
+<!-- VISUAL:t38-06-bit-byte-y-prefijos-de-capacidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-06-bit-byte-y-prefijos-de-capacidad.webp" alt="Bit, byte y prefijos de capacidad" width="820">
+</p>
+<p align="center"><em>Infografía: Bit, byte y prefijos de capacidad.</em></p>
 
 <!-- FUENTE: NVME-SPEC-T38 -->
 
@@ -97,7 +121,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Un mismo dispositivo puede realizar funciones de entrada y salida.
 - El sistema operativo accede a los periféricos mediante controladores y mecanismos de entrada/salida.
 
-<!-- VISUAL PENDIENTE: t38-07-entrada-salida-y-perifericos.webp -->
+<!-- VISUAL:t38-07-entrada-salida-y-perifericos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-07-entrada-salida-y-perifericos.webp" alt="Entrada, salida y periféricos" width="820">
+</p>
+<p align="center"><em>Infografía: Entrada, salida y periféricos.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -110,7 +138,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El núcleo inicializa subsistemas como memoria, planificación, dispositivos y sistema de archivos raíz.
 - El arranque seguro añade verificaciones de integridad o autenticidad, pero no es sinónimo de cifrado de todos los datos.
 
-<!-- VISUAL PENDIENTE: t38-08-arranque-firmware-cargador-y-nucleo.webp -->
+<!-- VISUAL:t38-08-arranque-firmware-cargador-y-nucleo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-08-arranque-firmware-cargador-y-nucleo.webp" alt="Arranque: firmware, cargador y núcleo" width="820">
+</p>
+<p align="center"><em>Infografía: Arranque: firmware, cargador y núcleo.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -123,7 +155,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Arbitra recursos compartidos para reducir conflictos entre programas y usuarios.
 - Ofrece servicios comunes para ejecutar aplicaciones y conservar información.
 
-<!-- VISUAL PENDIENTE: t38-09-sistema-operativo-como-gestor-de-recursos.webp -->
+<!-- VISUAL:t38-09-sistema-operativo-como-gestor-de-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-09-sistema-operativo-como-gestor-de-recursos.webp" alt="Sistema operativo como gestor de recursos" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema operativo como gestor de recursos.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -136,7 +172,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Una llamada al sistema solicita al núcleo un servicio mediante una interfaz definida.
 - Separar privilegios limita el daño directo que puede causar un proceso de usuario defectuoso.
 
-<!-- VISUAL PENDIENTE: t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp -->
+<!-- VISUAL:t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp" alt="Núcleo, modo usuario y llamadas al sistema" width="820">
+</p>
+<p align="center"><em>Infografía: Núcleo, modo usuario y llamadas al sistema.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -149,7 +189,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Varias instancias del mismo programa pueden originar procesos distintos.
 - El sistema identifica y administra procesos sin confundirlos con el archivo ejecutable que los inició.
 
-<!-- VISUAL PENDIENTE: t38-11-programa-proceso-e-imagen-ejecutable.webp -->
+<!-- VISUAL:t38-11-programa-proceso-e-imagen-ejecutable.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-11-programa-proceso-e-imagen-ejecutable.webp" alt="Programa, proceso e imagen ejecutable" width="820">
+</p>
+<p align="center"><em>Infografía: Programa, proceso e imagen ejecutable.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -162,7 +206,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Un proceso bloqueado o en espera aguarda un evento o recurso antes de continuar.
 - La terminación libera o transfiere los recursos conforme a las reglas del sistema.
 
-<!-- VISUAL PENDIENTE: t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp -->
+<!-- VISUAL:t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp" alt="Estados y ciclo de vida de un proceso" width="820">
+</p>
+<p align="center"><em>Infografía: Estados y ciclo de vida de un proceso.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -175,7 +223,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Cada hilo conserva contexto propio, como registros y pila de ejecución.
 - Compartir memoria facilita cooperación, pero exige sincronización frente a accesos concurrentes.
 
-<!-- VISUAL PENDIENTE: t38-13-hilos-y-recursos-compartidos.webp -->
+<!-- VISUAL:t38-13-hilos-y-recursos-compartidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-13-hilos-y-recursos-compartidos.webp" alt="Hilos y recursos compartidos" width="820">
+</p>
+<p align="center"><em>Infografía: Hilos y recursos compartidos.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -188,7 +240,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El cambio de contexto sustituye el estado de ejecución de una tarea por el de otra.
 - Una mayor prioridad no implica necesariamente monopolio ilimitado del procesador.
 
-<!-- VISUAL PENDIENTE: t38-14-planificacion-de-cpu.webp -->
+<!-- VISUAL:t38-14-planificacion-de-cpu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-14-planificacion-de-cpu.webp" alt="Planificación de CPU" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de CPU.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -201,7 +257,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El multiprocesamiento utiliza más de una unidad de procesamiento.
 - La concurrencia permite progresos solapados; el paralelismo implica ejecución simultánea real.
 
-<!-- VISUAL PENDIENTE: t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp -->
+<!-- VISUAL:t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp" alt="Multiprogramación, multitarea y multiprocesamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Multiprogramación, multitarea y multiprocesamiento.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -214,7 +274,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Semáforos, mutex y otros mecanismos coordinan tareas con propiedades diferentes.
 - Un interbloqueo puede surgir cuando varias tareas esperan recursos retenidos entre sí.
 
-<!-- VISUAL PENDIENTE: t38-il-16-sincronizacion-y-condiciones-de-carrera.webp -->
+<!-- VISUAL:t38-il-16-sincronizacion-y-condiciones-de-carrera.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-16-sincronizacion-y-condiciones-de-carrera.webp" alt="Sincronización y condiciones de carrera" width="820">
+</p>
+<p align="center"><em>Infografía: Sincronización y condiciones de carrera.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -227,7 +291,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La memoria compartida puede ser eficiente, pero requiere coordinación de acceso.
 - Un socket puede comunicar procesos del mismo equipo o de equipos distintos según su dominio y protocolo.
 
-<!-- VISUAL PENDIENTE: t38-17-comunicacion-entre-procesos.webp -->
+<!-- VISUAL:t38-17-comunicacion-entre-procesos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-17-comunicacion-entre-procesos.webp" alt="Comunicación entre procesos" width="820">
+</p>
+<p align="center"><em>Infografía: Comunicación entre procesos.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -240,7 +308,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La traducción de direcciones permite separar la visión virtual del proceso de la ubicación física.
 - La fragmentación puede ser interna o externa y no describe necesariamente archivos del disco.
 
-<!-- VISUAL PENDIENTE: t38-18-gestion-de-memoria.webp -->
+<!-- VISUAL:t38-18-gestion-de-memoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-18-gestion-de-memoria.webp" alt="Gestión de memoria" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de memoria.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -253,7 +325,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Una falta de página ocurre cuando la traducción o el contenido requerido no está disponible como necesita la CPU.
 - El intercambio con almacenamiento es mucho más lento que acceder a RAM y su uso excesivo degrada el rendimiento.
 
-<!-- VISUAL PENDIENTE: t38-il-19-memoria-virtual-y-paginacion.webp -->
+<!-- VISUAL:t38-il-19-memoria-virtual-y-paginacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-19-memoria-virtual-y-paginacion.webp" alt="Memoria virtual y paginación" width="820">
+</p>
+<p align="center"><em>Infografía: Memoria virtual y paginación.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -266,7 +342,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los metadatos describen propiedades como tipo, tamaño, marcas temporales, propietario o permisos.
 - Eliminar una referencia de directorio no equivale necesariamente a sobrescribir de inmediato los datos físicos.
 
-<!-- VISUAL PENDIENTE: t38-20-gestion-de-archivos-y-directorios.webp -->
+<!-- VISUAL:t38-20-gestion-de-archivos-y-directorios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-20-gestion-de-archivos-y-directorios.webp" alt="Gestión de archivos y directorios" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de archivos y directorios.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -279,7 +359,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El almacenamiento en búfer suaviza diferencias de velocidad entre productores y consumidores.
 - La cola de entrada/salida permite ordenar y combinar peticiones según la política del sistema.
 
-<!-- VISUAL PENDIENTE: t38-21-dispositivos-controladores-y-entrada-salida.webp -->
+<!-- VISUAL:t38-21-dispositivos-controladores-y-entrada-salida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-21-dispositivos-controladores-y-entrada-salida.webp" alt="Dispositivos, controladores y entrada/salida" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos, controladores y entrada/salida.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -292,7 +376,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Una interfaz gráfica utiliza ventanas, iconos, menús y otros controles visuales.
 - CLI y GUI pueden coexistir y utilizar los mismos servicios del sistema operativo.
 
-<!-- VISUAL PENDIENTE: t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp -->
+<!-- VISUAL:t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp" alt="Interfaz de línea de comandos, shell y GUI" width="820">
+</p>
+<p align="center"><em>Infografía: Interfaz de línea de comandos, shell y GUI.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -305,7 +393,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las cuentas, grupos y roles permiten asignar privilegios sin concederlos de forma indiscriminada.
 - El principio de mínimo privilegio limita cada usuario o proceso a los permisos necesarios.
 
-<!-- VISUAL PENDIENTE: t38-23-usuarios-autenticacion-y-autorizacion.webp -->
+<!-- VISUAL:t38-23-usuarios-autenticacion-y-autorizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-23-usuarios-autenticacion-y-autorizacion.webp" alt="Usuarios, autenticación y autorización" width="820">
+</p>
+<p align="center"><em>Infografía: Usuarios, autenticación y autorización.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -318,7 +410,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El registro de eventos permite reconstruir actividad, aunque no evita por sí solo un incidente.
 - Actualizaciones, firma de código, cifrado y copias de seguridad resuelven riesgos distintos y se complementan.
 
-<!-- VISUAL PENDIENTE: t38-24-proteccion-aislamiento-y-auditoria.webp -->
+<!-- VISUAL:t38-24-proteccion-aislamiento-y-auditoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-24-proteccion-aislamiento-y-auditoria.webp" alt="Protección, aislamiento y auditoría" width="820">
+</p>
+<p align="center"><em>Infografía: Protección, aislamiento y auditoría.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -331,7 +427,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La recuperación puede incluir reintentos, terminación controlada, reparación del sistema de archivos o restauración.
 - La tolerancia a fallos reduce impacto, pero no convierte ningún sistema en infalible.
 
-<!-- VISUAL PENDIENTE: t38-25-errores-excepciones-y-recuperacion.webp -->
+<!-- VISUAL:t38-25-errores-excepciones-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-25-errores-excepciones-y-recuperacion.webp" alt="Errores, excepciones y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Errores, excepciones y recuperación.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -344,7 +444,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las versiones clásicas fueron diseñadas para entornos de recursos muy limitados frente a sistemas actuales.
 - Estudiar MS-DOS sirve para comprender rutas, unidades, comandos y FAT, no para presentarlo como plataforma moderna segura.
 
-<!-- VISUAL PENDIENTE: t38-26-ms-dos-naturaleza-y-contexto-historico.webp -->
+<!-- VISUAL:t38-26-ms-dos-naturaleza-y-contexto-historico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-26-ms-dos-naturaleza-y-contexto-historico.webp" alt="MS-DOS: naturaleza y contexto histórico" width="820">
+</p>
+<p align="center"><em>Infografía: MS-DOS: naturaleza y contexto histórico.</em></p>
 
 <!-- FUENTE: MS-DOS-SOURCE-T38 -->
 
@@ -357,7 +461,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Su modelo habitual era monousuario y de una tarea principal, aunque existieron técnicas y extensiones residentes.
 - Los programas accedían al sistema mediante servicios de DOS, BIOS y, en ciertos casos, acceso directo al hardware.
 
-<!-- VISUAL PENDIENTE: t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp -->
+<!-- VISUAL:t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp" alt="Arquitectura y límites clásicos de MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura y límites clásicos de MS-DOS.</em></p>
 
 <!-- FUENTE: MS-DOS-SOURCE-T38 -->
 
@@ -370,7 +478,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - DIR, CD, COPY, DEL y REN representan operaciones habituales sobre archivos y directorios.
 - La existencia histórica de un comando no garantiza idéntica sintaxis o comportamiento en la consola de Windows actual.
 
-<!-- VISUAL PENDIENTE: t38-28-interprete-y-comandos-de-ms-dos.webp -->
+<!-- VISUAL:t38-28-interprete-y-comandos-de-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-28-interprete-y-comandos-de-ms-dos.webp" alt="Intérprete y comandos de MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Intérprete y comandos de MS-DOS.</em></p>
 
 <!-- FUENTE: MS-DOS-SOURCE-T38 -->
 
@@ -383,7 +495,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El directorio actual puede ser distinto en cada unidad según el entorno DOS.
 - Las primeras convenciones FAT usaron nombres cortos 8.3; las extensiones posteriores no deben proyectarse sin fecha sobre todas las versiones.
 
-<!-- VISUAL PENDIENTE: t38-29-unidades-rutas-y-nombres-en-ms-dos.webp -->
+<!-- VISUAL:t38-29-unidades-rutas-y-nombres-en-ms-dos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-29-unidades-rutas-y-nombres-en-ms-dos.webp" alt="Unidades, rutas y nombres en MS-DOS" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades, rutas y nombres en MS-DOS.</em></p>
 
 <!-- FUENTE: MS-DOS-SOURCE-T38 -->
 
@@ -396,7 +512,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La tabla FAT registra cadenas de clústeres y estado de asignación.
 - FAT aporta compatibilidad y sencillez, pero no ofrece el modelo de permisos y diario de NTFS o ext4.
 
-<!-- VISUAL PENDIENTE: t38-il-30-ms-dos-fat-y-arranque.webp -->
+<!-- VISUAL:t38-il-30-ms-dos-fat-y-arranque.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-30-ms-dos-fat-y-arranque.webp" alt="MS-DOS, FAT y arranque" width="820">
+</p>
+<p align="center"><em>Infografía: MS-DOS, FAT y arranque.</em></p>
 
 <!-- FUENTE: MS-DOS-SOURCE-T38 -->
 
@@ -409,7 +529,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La jerarquía de archivos parte de una raíz única.
 - El término UNIX no debe usarse como sinónimo automático de cualquier sistema parecido a Unix.
 
-<!-- VISUAL PENDIENTE: t38-31-unix-origen-y-principios.webp -->
+<!-- VISUAL:t38-31-unix-origen-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-31-unix-origen-y-principios.webp" alt="UNIX: origen y principios" width="820">
+</p>
+<p align="center"><em>Infografía: UNIX: origen y principios.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -422,7 +546,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las utilidades realizan tareas concretas y se coordinan mediante archivos, argumentos, tuberías y redirecciones.
 - La shell es un programa de usuario y no debe confundirse con el núcleo.
 
-<!-- VISUAL PENDIENTE: t38-32-nucleo-shell-y-utilidades-unix.webp -->
+<!-- VISUAL:t38-32-nucleo-shell-y-utilidades-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-32-nucleo-shell-y-utilidades-unix.webp" alt="Núcleo, shell y utilidades UNIX" width="820">
+</p>
+<p align="center"><em>Infografía: Núcleo, shell y utilidades UNIX.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -435,7 +563,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Montar incorpora un sistema de archivos en un punto de la jerarquía.
 - Los dispositivos pueden exponerse mediante archivos especiales sin que dispositivo y archivo ordinario sean idénticos.
 
-<!-- VISUAL PENDIENTE: t38-33-jerarquia-raiz-y-montaje-en-unix.webp -->
+<!-- VISUAL:t38-33-jerarquia-raiz-y-montaje-en-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-33-jerarquia-raiz-y-montaje-en-unix.webp" alt="Jerarquía, raíz y montaje en UNIX" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía, raíz y montaje en UNIX.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -448,7 +580,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - wait permite recoger el estado de terminación de procesos hijos.
 - La combinación fork y exec explica un patrón clásico de lanzamiento de programas en sistemas UNIX.
 
-<!-- VISUAL PENDIENTE: t38-34-procesos-unix-fork-exec-y-wait.webp -->
+<!-- VISUAL:t38-34-procesos-unix-fork-exec-y-wait.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-34-procesos-unix-fork-exec-y-wait.webp" alt="Procesos UNIX: fork, exec y wait" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos UNIX: fork, exec y wait.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -461,7 +597,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - En un directorio, lectura, escritura y ejecución tienen efectos diferentes de los que tienen sobre un archivo ordinario.
 - El usuario con privilegios administrativos no elimina la necesidad de aplicar mínimo privilegio.
 
-<!-- VISUAL PENDIENTE: t38-il-35-usuarios-grupos-y-permisos-posix.webp -->
+<!-- VISUAL:t38-il-35-usuarios-grupos-y-permisos-posix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-35-usuarios-grupos-y-permisos-posix.webp" alt="Usuarios, grupos y permisos POSIX" width="820">
+</p>
+<p align="center"><em>Infografía: Usuarios, grupos y permisos POSIX.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -474,7 +614,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La redirección cambia el origen o destino de un flujo sin modificar necesariamente el programa.
 - Un descriptor de archivo es un identificador de proceso para un archivo abierto u otro objeto de entrada/salida.
 
-<!-- VISUAL PENDIENTE: t38-il-36-tuberias-redirecciones-y-descriptores.webp -->
+<!-- VISUAL:t38-il-36-tuberias-redirecciones-y-descriptores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-36-tuberias-redirecciones-y-descriptores.webp" alt="Tuberías, redirecciones y descriptores" width="820">
+</p>
+<p align="center"><em>Infografía: Tuberías, redirecciones y descriptores.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -487,7 +631,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Un sistema tipo Unix puede compartir diseño e interfaces sin estar certificado como UNIX.
 - IBM AIX es un sistema operativo UNIX orientado principalmente a servidores y entornos empresariales.
 
-<!-- VISUAL PENDIENTE: t38-37-posix-unix-y-sistemas-tipo-unix.webp -->
+<!-- VISUAL:t38-37-posix-unix-y-sistemas-tipo-unix.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-37-posix-unix-y-sistemas-tipo-unix.webp" alt="POSIX, UNIX y sistemas tipo Unix" width="820">
+</p>
+<p align="center"><em>Infografía: POSIX, UNIX y sistemas tipo Unix.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -500,7 +648,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Distintas distribuciones pueden usar el mismo núcleo con componentes y ciclos de soporte diferentes.
 - GNU/Linux es una denominación usada cuando se destaca la combinación del núcleo Linux con herramientas GNU.
 
-<!-- VISUAL PENDIENTE: t38-38-linux-nucleo-y-distribuciones.webp -->
+<!-- VISUAL:t38-38-linux-nucleo-y-distribuciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-38-linux-nucleo-y-distribuciones.webp" alt="Linux: núcleo y distribuciones" width="820">
+</p>
+<p align="center"><em>Infografía: Linux: núcleo y distribuciones.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -513,7 +665,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los módulos permiten incorporar funcionalidad al núcleo sin recompilarlo íntegramente en muchos casos.
 - Monolítico no significa que todo el software del sistema se ejecute en modo núcleo.
 
-<!-- VISUAL PENDIENTE: t38-39-arquitectura-del-nucleo-linux.webp -->
+<!-- VISUAL:t38-39-arquitectura-del-nucleo-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-39-arquitectura-del-nucleo-linux.webp" alt="Arquitectura del núcleo Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura del núcleo Linux.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -526,7 +682,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los inodos representan objetos y metadatos en sistemas que usan ese modelo.
 - Una entrada de directorio relaciona un nombre con un objeto; nombre e inodo no son la misma cosa.
 
-<!-- VISUAL PENDIENTE: t38-40-vfs-y-jerarquia-linux.webp -->
+<!-- VISUAL:t38-40-vfs-y-jerarquia-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-40-vfs-y-jerarquia-linux.webp" alt="VFS y jerarquía Linux" width="820">
+</p>
+<p align="center"><em>Infografía: VFS y jerarquía Linux.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -539,7 +699,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los identificadores numéricos de proceso aparecen como directorios bajo /proc cuando procede.
 - Modificar parámetros mediante interfaces de /proc o sysctl exige conocer permisos, alcance y riesgo.
 
-<!-- VISUAL PENDIENTE: t38-il-41-procesos-y-pseudo-sistema-proc.webp -->
+<!-- VISUAL:t38-il-41-procesos-y-pseudo-sistema-proc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-41-procesos-y-pseudo-sistema-proc.webp" alt="Procesos y pseudo-sistema /proc" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos y pseudo-sistema /proc.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -552,7 +716,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - sudo ejecuta una orden conforme a una política; no convierte toda la sesión en root necesariamente.
 - Las capacidades de Linux pueden dividir privilegios tradicionalmente concentrados en root.
 
-<!-- VISUAL PENDIENTE: t38-42-propiedad-permisos-y-privilegios-en-linux.webp -->
+<!-- VISUAL:t38-42-propiedad-permisos-y-privilegios-en-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-42-propiedad-permisos-y-privilegios-en-linux.webp" alt="Propiedad, permisos y privilegios en Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Propiedad, permisos y privilegios en Linux.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -565,7 +733,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - systemd es común en muchas distribuciones, pero no define por sí solo a Linux.
 - El núcleo inicia el primer proceso de espacio de usuario conforme al sistema configurado.
 
-<!-- VISUAL PENDIENTE: t38-43-servicios-demonios-y-arranque-en-linux.webp -->
+<!-- VISUAL:t38-43-servicios-demonios-y-arranque-en-linux.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-43-servicios-demonios-y-arranque-en-linux.webp" alt="Servicios, demonios y arranque en Linux" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios, demonios y arranque en Linux.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -578,7 +750,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Software libre se refiere a libertades de uso, estudio, modificación y redistribución conforme a la licencia.
 - Gratuidad, código abierto y software libre son conceptos relacionados, pero no equivalentes.
 
-<!-- VISUAL PENDIENTE: t38-44-software-libre-codigo-abierto-y-licencias.webp -->
+<!-- VISUAL:t38-44-software-libre-codigo-abierto-y-licencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-44-software-libre-codigo-abierto-y-licencias.webp" alt="Software libre, código abierto y licencias" width="820">
+</p>
+<p align="center"><em>Infografía: Software libre, código abierto y licencias.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -591,7 +767,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El ejecutivo y el núcleo cooperan con controladores y la capa de abstracción de hardware.
 - La compatibilidad con aplicaciones históricas no convierte Windows actual en MS-DOS.
 
-<!-- VISUAL PENDIENTE: t38-45-windows-y-la-familia-windows-nt.webp -->
+<!-- VISUAL:t38-45-windows-y-la-familia-windows-nt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-45-windows-y-la-familia-windows-nt.webp" alt="Windows y la familia Windows NT" width="820">
+</p>
+<p align="center"><em>Infografía: Windows y la familia Windows NT.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -604,7 +784,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El Administrador de tareas permite observar aplicaciones, procesos y consumo, pero no sustituye al planificador.
 - Finalizar un proceso puede perder trabajo o afectar servicios dependientes.
 
-<!-- VISUAL PENDIENTE: t38-46-procesos-hilos-y-servicios-en-windows.webp -->
+<!-- VISUAL:t38-46-procesos-hilos-y-servicios-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-46-procesos-hilos-y-servicios-en-windows.webp" alt="Procesos, hilos y servicios en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos, hilos y servicios en Windows.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -617,7 +801,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Editar el Registro puede afectar al funcionamiento y requiere copia o procedimiento de recuperación adecuado.
 - No toda configuración de Windows vive en el Registro: también existen archivos, bases y servicios de configuración.
 
-<!-- VISUAL PENDIENTE: t38-il-47-registro-de-windows.webp -->
+<!-- VISUAL:t38-il-47-registro-de-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-47-registro-de-windows.webp" alt="Registro de Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Registro de Windows.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -630,7 +818,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - PowerShell trabaja con comandos y objetos y no es una simple copia de COMMAND.COM.
 - Las tres interfaces pueden realizar operaciones semejantes mediante modelos y sintaxis diferentes.
 
-<!-- VISUAL PENDIENTE: t38-il-48-explorer-cmd-y-powershell.webp -->
+<!-- VISUAL:t38-il-48-explorer-cmd-y-powershell.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-48-explorer-cmd-y-powershell.webp" alt="Explorer, CMD y PowerShell" width="820">
+</p>
+<p align="center"><em>Infografía: Explorer, CMD y PowerShell.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -643,7 +835,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - UAC ayuda a separar el uso ordinario de las operaciones que requieren elevación.
 - Aceptar una elevación no concede permisos permanentes e ilimitados a todos los procesos.
 
-<!-- VISUAL PENDIENTE: t38-49-cuentas-uac-y-controles-de-acceso.webp -->
+<!-- VISUAL:t38-49-cuentas-uac-y-controles-de-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-49-cuentas-uac-y-controles-de-acceso.webp" alt="Cuentas, UAC y controles de acceso" width="820">
+</p>
+<p align="center"><em>Infografía: Cuentas, UAC y controles de acceso.</em></p>
 
 <!-- FUENTE: MS-WINDOWS-INTERNALS-T38 -->
 
@@ -656,7 +852,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Oculto, sistema y solo lectura son atributos; no equivalen por sí solos a permisos de acceso.
 - Mostrar archivos ocultos es una opción de visualización y no elimina automáticamente sus restricciones de acceso.
 
-<!-- VISUAL PENDIENTE: t38-50-unidades-rutas-y-atributos-en-windows.webp -->
+<!-- VISUAL:t38-50-unidades-rutas-y-atributos-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-50-unidades-rutas-y-atributos-en-windows.webp" alt="Unidades, rutas y atributos en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades, rutas y atributos en Windows.</em></p>
 
 <!-- FUENTE: MS-NTFS-T38 -->
 
@@ -669,7 +869,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - EFS cifra archivos compatibles en NTFS y no es lo mismo que cifrar todo el volumen.
 - Los puntos de restauración, copias de seguridad y recuperación de archivos cubren supuestos diferentes.
 
-<!-- VISUAL PENDIENTE: t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp -->
+<!-- VISUAL:t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp" alt="Actualización, cifrado y recuperación en Windows" width="820">
+</p>
+<p align="center"><em>Infografía: Actualización, cifrado y recuperación en Windows.</em></p>
 
 <!-- FUENTE: MS-NTFS-T38 -->
 
@@ -682,7 +886,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - macOS ofrece interfaces UNIX y una interfaz gráfica propia.
 - Compartir componentes con iOS no convierte ambos sistemas en productos idénticos.
 
-<!-- VISUAL PENDIENTE: t38-52-macos-darwin-y-xnu.webp -->
+<!-- VISUAL:t38-52-macos-darwin-y-xnu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-52-macos-darwin-y-xnu.webp" alt="macOS, Darwin y XNU" width="820">
+</p>
+<p align="center"><em>Infografía: macOS, Darwin y XNU.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -695,7 +903,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Terminal proporciona acceso a una shell y utilidades de línea de comandos.
 - Usar Finder o Terminal no cambia por sí solo los permisos efectivos del usuario.
 
-<!-- VISUAL PENDIENTE: t38-il-53-aqua-finder-y-terminal.webp -->
+<!-- VISUAL:t38-il-53-aqua-finder-y-terminal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-53-aqua-finder-y-terminal.webp" alt="Aqua, Finder y Terminal" width="820">
+</p>
+<p align="center"><em>Infografía: Aqua, Finder y Terminal.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -708,7 +920,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El sandbox restringe recursos accesibles a una aplicación según sus permisos y entitlements.
 - La firma de código aporta autenticidad e integridad, pero no demuestra que una aplicación sea segura en cualquier circunstancia.
 
-<!-- VISUAL PENDIENTE: t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp -->
+<!-- VISUAL:t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp" alt="Aplicaciones, paquetes y sandbox en macOS" width="820">
+</p>
+<p align="center"><em>Infografía: Aplicaciones, paquetes y sandbox en macOS.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -721,7 +937,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Sus contenedores permiten compartir espacio entre varios volúmenes.
 - Copy-on-write, clonación y snapshots son funciones distintas aunque relacionadas.
 
-<!-- VISUAL PENDIENTE: t38-55-apfs-en-macos.webp -->
+<!-- VISUAL:t38-55-apfs-en-macos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-55-apfs-en-macos.webp" alt="APFS en macOS" width="820">
+</p>
+<p align="center"><em>Infografía: APFS en macOS.</em></p>
 
 <!-- FUENTE: APPLE-APFS-T38 -->
 
@@ -734,7 +954,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - APFS admite variantes sensibles y no sensibles a mayúsculas según el formato elegido.
 - No debe suponerse una misma sensibilidad a mayúsculas para todos los volúmenes macOS.
 
-<!-- VISUAL PENDIENTE: t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp -->
+<!-- VISUAL:t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp" alt="Rutas, volúmenes y sensibilidad a mayúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas, volúmenes y sensibilidad a mayúsculas.</em></p>
 
 <!-- FUENTE: APPLE-APFS-T38 -->
 
@@ -747,7 +971,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Cifrado e integridad responden a amenazas diferentes.
 - Perder una clave o credencial de recuperación puede impedir acceder a datos cifrados.
 
-<!-- VISUAL PENDIENTE: t38-57-filevault-y-volumen-de-sistema-firmado.webp -->
+<!-- VISUAL:t38-57-filevault-y-volumen-de-sistema-firmado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-57-filevault-y-volumen-de-sistema-firmado.webp" alt="FileVault y volumen de sistema firmado" width="820">
+</p>
+<p align="center"><em>Infografía: FileVault y volumen de sistema firmado.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -760,7 +988,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las aplicaciones se aíslan y reciben permisos conforme al modelo de la plataforma.
 - Suspender o terminar procesos en segundo plano permite gestionar energía y memoria.
 
-<!-- VISUAL PENDIENTE: t38-58-rasgos-de-los-sistemas-operativos-moviles.webp -->
+<!-- VISUAL:t38-58-rasgos-de-los-sistemas-operativos-moviles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-58-rasgos-de-los-sistemas-operativos-moviles.webp" alt="Rasgos de los sistemas operativos móviles" width="820">
+</p>
+<p align="center"><em>Infografía: Rasgos de los sistemas operativos móviles.</em></p>
 
 <!-- FUENTE: ANDROID-ARCH-T38 -->
 
@@ -773,7 +1005,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El sistema integra frameworks de alto nivel sobre servicios y núcleo protegidos.
 - El ecosistema controla instalación, firma y ejecución de aplicaciones mediante políticas de plataforma.
 
-<!-- VISUAL PENDIENTE: t38-59-ios-arquitectura-y-ecosistema.webp -->
+<!-- VISUAL:t38-59-ios-arquitectura-y-ecosistema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-59-ios-arquitectura-y-ecosistema.webp" alt="iOS: arquitectura y ecosistema" width="820">
+</p>
+<p align="center"><em>Infografía: iOS: arquitectura y ecosistema.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -786,7 +1022,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El acceso a datos sensibles se media mediante servicios y permisos del sistema.
 - Conceder un permiso concreto no elimina el resto de límites del sandbox.
 
-<!-- VISUAL PENDIENTE: t38-60-sandbox-entitlements-y-permisos-en-ios.webp -->
+<!-- VISUAL:t38-60-sandbox-entitlements-y-permisos-en-ios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-60-sandbox-entitlements-y-permisos-en-ios.webp" alt="Sandbox, entitlements y permisos en iOS" width="820">
+</p>
+<p align="center"><em>Infografía: Sandbox, entitlements y permisos en iOS.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -799,7 +1039,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las claves por archivo o extensión se integran con la jerarquía criptográfica del dispositivo.
 - El estado bloqueado del dispositivo y la disponibilidad de credenciales influyen en el acceso según la clase.
 
-<!-- VISUAL PENDIENTE: t38-61-ios-apfs-y-data-protection.webp -->
+<!-- VISUAL:t38-61-ios-apfs-y-data-protection.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-61-ios-apfs-y-data-protection.webp" alt="iOS, APFS y Data Protection" width="820">
+</p>
+<p align="center"><em>Infografía: iOS, APFS y Data Protection.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -812,7 +1056,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El runtime y las bibliotecas nativas prestan servicios de ejecución y funciones básicas.
 - El framework de aplicaciones expone servicios de alto nivel a las aplicaciones.
 
-<!-- VISUAL PENDIENTE: t38-62-android-capas-de-arquitectura.webp -->
+<!-- VISUAL:t38-62-android-capas-de-arquitectura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-62-android-capas-de-arquitectura.webp" alt="Android: capas de arquitectura" width="820">
+</p>
+<p align="center"><em>Infografía: Android: capas de arquitectura.</em></p>
 
 <!-- FUENTE: ANDROID-ARCH-T38 -->
 
@@ -825,7 +1073,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los servicios del sistema exponen operaciones a procesos clientes mediante interfaces controladas.
 - IPC no significa que todas las aplicaciones compartan el mismo proceso o memoria.
 
-<!-- VISUAL PENDIENTE: t38-63-android-runtime-y-binder.webp -->
+<!-- VISUAL:t38-63-android-runtime-y-binder.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-63-android-runtime-y-binder.webp" alt="Android Runtime y Binder" width="820">
+</p>
+<p align="center"><em>Infografía: Android Runtime y Binder.</em></p>
 
 <!-- FUENTE: ANDROID-ARCH-T38 -->
 
@@ -838,7 +1090,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - SELinux refuerza el control de acceso obligatorio en la plataforma.
 - Instalar una aplicación no concede necesariamente todos los permisos sensibles solicitados.
 
-<!-- VISUAL PENDIENTE: t38-64-aislamiento-y-permisos-en-android.webp -->
+<!-- VISUAL:t38-64-aislamiento-y-permisos-en-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-64-aislamiento-y-permisos-en-android.webp" alt="Aislamiento y permisos en Android" width="820">
+</p>
+<p align="center"><em>Infografía: Aislamiento y permisos en Android.</em></p>
 
 <!-- FUENTE: ANDROID-ARCH-T38 -->
 
@@ -851,7 +1107,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El almacenamiento interno privado de una aplicación no equivale al almacenamiento compartido.
 - El acceso al almacenamiento compartido está condicionado por versión, permisos y políticas como scoped storage.
 
-<!-- VISUAL PENDIENTE: t38-65-almacenamiento-y-cifrado-en-android.webp -->
+<!-- VISUAL:t38-65-almacenamiento-y-cifrado-en-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-65-almacenamiento-y-cifrado-en-android.webp" alt="Almacenamiento y cifrado en Android" width="820">
+</p>
+<p align="center"><em>Infografía: Almacenamiento y cifrado en Android.</em></p>
 
 <!-- FUENTE: ANDROID-STORAGE-T38 -->
 
@@ -864,7 +1124,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Ambos aíslan aplicaciones, aunque sus mecanismos, distribución y políticas no son idénticos.
 - Las diferencias de versión y fabricante impiden convertir una observación concreta en regla universal de Android.
 
-<!-- VISUAL PENDIENTE: t38-il-66-comparacion-entre-ios-y-android.webp -->
+<!-- VISUAL:t38-il-66-comparacion-entre-ios-y-android.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-66-comparacion-entre-ios-y-android.webp" alt="Comparación entre iOS y Android" width="820">
+</p>
+<p align="center"><em>Infografía: Comparación entre iOS y Android.</em></p>
 
 <!-- FUENTE: APPLE-PLATFORM-SECURITY-T38 -->
 
@@ -877,7 +1141,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Almacenamiento local, extraíble y remoto describen ubicación o conexión, no un único tipo físico.
 - Capacidad, latencia, rendimiento, durabilidad, coste y disponibilidad son compromisos distintos.
 
-<!-- VISUAL PENDIENTE: t38-67-memoria-y-almacenamiento-clasificacion.webp -->
+<!-- VISUAL:t38-67-memoria-y-almacenamiento-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-67-memoria-y-almacenamiento-clasificacion.webp" alt="Memoria y almacenamiento: clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: Memoria y almacenamiento: clasificación.</em></p>
 
 <!-- FUENTE: NVME-SPEC-T38 -->
 
@@ -890,7 +1158,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - El acceso secuencial suele resultar menos costoso que muchos accesos aleatorios dispersos.
 - Golpes, vibración y desgaste mecánico son riesgos relevantes, aunque no los únicos.
 
-<!-- VISUAL PENDIENTE: t38-il-68-discos-magneticos-hdd.webp -->
+<!-- VISUAL:t38-il-68-discos-magneticos-hdd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-68-discos-magneticos-hdd.webp" alt="Discos magnéticos HDD" width="820">
+</p>
+<p align="center"><em>Infografía: Discos magnéticos HDD.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -903,7 +1175,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La amplificación de escritura y el desgaste condicionan la vida útil de la flash.
 - TRIM permite al sistema informar de bloques que ya no contienen datos útiles, si toda la cadena lo admite.
 
-<!-- VISUAL PENDIENTE: t38-69-unidades-de-estado-solido-ssd.webp -->
+<!-- VISUAL:t38-69-unidades-de-estado-solido-ssd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-69-unidades-de-estado-solido-ssd.webp" alt="Unidades de estado sólido SSD" width="820">
+</p>
+<p align="center"><em>Infografía: Unidades de estado sólido SSD.</em></p>
 
 <!-- FUENTE: NVME-SPEC-T38 -->
 
@@ -916,7 +1192,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - M.2 describe un factor de forma y conector; una unidad M.2 puede usar protocolos diferentes.
 - Un SSD no es automáticamente NVMe y una unidad NVMe no se define únicamente por su forma física.
 
-<!-- VISUAL PENDIENTE: t38-70-sata-nvme-y-factores-de-forma.webp -->
+<!-- VISUAL:t38-70-sata-nvme-y-factores-de-forma.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-70-sata-nvme-y-factores-de-forma.webp" alt="SATA, NVMe y factores de forma" width="820">
+</p>
+<p align="center"><em>Infografía: SATA, NVMe y factores de forma.</em></p>
 
 <!-- FUENTE: NVME-SPEC-T38 -->
 
@@ -929,7 +1209,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Una memoria USB integra almacenamiento flash y un controlador mediante una interfaz USB.
 - Extraíble no significa inmune a corrupción, pérdida física o malware.
 
-<!-- VISUAL PENDIENTE: t38-71-medios-opticos-y-extraibles.webp -->
+<!-- VISUAL:t38-71-medios-opticos-y-extraibles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-71-medios-opticos-y-extraibles.webp" alt="Medios ópticos y extraíbles" width="820">
+</p>
+<p align="center"><em>Infografía: Medios ópticos y extraíbles.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -942,7 +1226,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Un clúster o unidad de asignación agrupa sectores para asignar espacio a archivos en determinados sistemas.
 - Sector, bloque, página y clúster no deben usarse como sinónimos universales.
 
-<!-- VISUAL PENDIENTE: t38-72-sectores-bloques-y-clusteres.webp -->
+<!-- VISUAL:t38-72-sectores-bloques-y-clusteres.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-72-sectores-bloques-y-clusteres.webp" alt="Sectores, bloques y clústeres" width="820">
+</p>
+<p align="center"><em>Infografía: Sectores, bloques y clústeres.</em></p>
 
 <!-- FUENTE: LINUX-EXT4-T38 -->
 
@@ -955,7 +1243,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - MBR es un esquema histórico con limitaciones de tamaño y número de particiones primarias.
 - GPT usa identificadores GUID, admite más particiones y se asocia habitualmente con UEFI.
 
-<!-- VISUAL PENDIENTE: t38-73-particiones-volumenes-mbr-y-gpt.webp -->
+<!-- VISUAL:t38-73-particiones-volumenes-mbr-y-gpt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-73-particiones-volumenes-mbr-y-gpt.webp" alt="Particiones, volúmenes, MBR y GPT" width="820">
+</p>
+<p align="center"><em>Infografía: Particiones, volúmenes, MBR y GPT.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -968,7 +1260,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - RAID 1 mantiene copias espejo y sacrifica capacidad útil.
 - RAID no sustituye una copia de seguridad independiente frente a borrado, corrupción o ataque.
 
-<!-- VISUAL PENDIENTE: t38-il-74-raid-redundancia-y-copia-de-seguridad.webp -->
+<!-- VISUAL:t38-il-74-raid-redundancia-y-copia-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-74-raid-redundancia-y-copia-de-seguridad.webp" alt="RAID, redundancia y copia de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: RAID, redundancia y copia de seguridad.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -981,7 +1277,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Puede incorporar permisos, diario, compresión, cifrado, cuotas o instantáneas según su diseño.
 - El sistema de archivos no es el dispositivo físico ni la tabla de particiones.
 
-<!-- VISUAL PENDIENTE: t38-75-concepto-y-funciones-del-sistema-de-archivos.webp -->
+<!-- VISUAL:t38-75-concepto-y-funciones-del-sistema-de-archivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-75-concepto-y-funciones-del-sistema-de-archivos.webp" alt="Concepto y funciones del sistema de archivos" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y funciones del sistema de archivos.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -994,7 +1294,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las marcas temporales pueden registrar distintos eventos y su significado depende del sistema.
 - Extensión, tipo real y aplicación asociada son conceptos relacionados, pero no idénticos.
 
-<!-- VISUAL PENDIENTE: t38-76-archivos-directorios-y-metadatos.webp -->
+<!-- VISUAL:t38-76-archivos-directorios-y-metadatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-76-archivos-directorios-y-metadatos.webp" alt="Archivos, directorios y metadatos" width="820">
+</p>
+<p align="center"><em>Infografía: Archivos, directorios y metadatos.</em></p>
 
 <!-- FUENTE: LINUX-KERNEL-T38 -->
 
@@ -1007,7 +1311,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los componentes especiales punto y doble punto representan respectivamente el directorio actual y su padre en entornos compatibles.
 - Los separadores, nombres reservados y sensibilidad a mayúsculas dependen del sistema y de su configuración.
 
-<!-- VISUAL PENDIENTE: t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp -->
+<!-- VISUAL:t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp" alt="Rutas absolutas, relativas y resolución de nombres" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas absolutas, relativas y resolución de nombres.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -1020,7 +1328,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Unidades mayores reducen ciertas estructuras de gestión, pero pueden desperdiciar más espacio con archivos pequeños.
 - La elección de tamaño de unidad depende del sistema, volumen y carga de trabajo.
 
-<!-- VISUAL PENDIENTE: t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp -->
+<!-- VISUAL:t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp" alt="Asignación de espacio y fragmentación interna" width="820">
+</p>
+<p align="center"><em>Infografía: Asignación de espacio y fragmentación interna.</em></p>
 
 <!-- FUENTE: LINUX-EXT4-T38 -->
 
@@ -1033,7 +1345,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Windows usa habitualmente letras, pero también puede montar volúmenes en carpetas.
 - Desmontar de forma segura permite completar escrituras pendientes antes de retirar un medio.
 
-<!-- VISUAL PENDIENTE: t38-79-montaje-letras-y-puntos-de-montaje.webp -->
+<!-- VISUAL:t38-79-montaje-letras-y-puntos-de-montaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-79-montaje-letras-y-puntos-de-montaje.webp" alt="Montaje, letras y puntos de montaje" width="820">
+</p>
+<p align="center"><em>Infografía: Montaje, letras y puntos de montaje.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -1046,7 +1362,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Eliminar o formatear no garantiza por sí solo un borrado irrecuperable.
 - El borrado seguro depende del medio, cifrado, controlador y procedimiento de sanitización.
 
-<!-- VISUAL PENDIENTE: t38-80-formateo-borrado-y-recuperacion.webp -->
+<!-- VISUAL:t38-80-formateo-borrado-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-80-formateo-borrado-y-recuperacion.webp" alt="Formateo, borrado y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Formateo, borrado y recuperación.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -1059,7 +1379,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los checksums detectan determinadas alteraciones, pero no reparan cualquier daño por sí solos.
 - Ninguno de estos mecanismos sustituye una copia de seguridad independiente.
 
-<!-- VISUAL PENDIENTE: t38-81-diario-copy-on-write-y-comprobaciones.webp -->
+<!-- VISUAL:t38-81-diario-copy-on-write-y-comprobaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-81-diario-copy-on-write-y-comprobaciones.webp" alt="Diario, copy-on-write y comprobaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Diario, copy-on-write y comprobaciones.</em></p>
 
 <!-- FUENTE: LINUX-EXT4-T38 -->
 
@@ -1072,7 +1396,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - FAT32 no admite archivos de tamaño igual o superior a 4 GiB por el campo de tamaño de 32 bits.
 - El límite práctico de creación de volúmenes puede depender de la herramienta y no solo del formato FAT32.
 
-<!-- VISUAL PENDIENTE: t38-82-fat12-fat16-y-fat32.webp -->
+<!-- VISUAL:t38-82-fat12-fat16-y-fat32.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-82-fat12-fat16-y-fat32.webp" alt="FAT12, FAT16 y FAT32" width="820">
+</p>
+<p align="center"><em>Infografía: FAT12, FAT16 y FAT32.</em></p>
 
 <!-- FUENTE: MS-EXFAT-T38 -->
 
@@ -1085,7 +1413,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Mantiene una estructura relativamente simple y orientada a medios extraíbles y flash.
 - La compatibilidad real depende de la versión del sistema y del dispositivo, no solo del nombre exFAT.
 
-<!-- VISUAL PENDIENTE: t38-83-exfat.webp -->
+<!-- VISUAL:t38-83-exfat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-83-exfat.webp" alt="exFAT" width="820">
+</p>
+<p align="center"><em>Infografía: exFAT.</em></p>
 
 <!-- FUENTE: MS-EXFAT-T38 -->
 
@@ -1098,7 +1430,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Incluye diario de metadatos y funciones como compresión, cuotas y cifrado EFS.
 - La compatibilidad de escritura desde otros sistemas debe comprobarse por versión y software; no es universal por definición.
 
-<!-- VISUAL PENDIENTE: t38-84-ntfs.webp -->
+<!-- VISUAL:t38-84-ntfs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-84-ntfs.webp" alt="NTFS" width="820">
+</p>
+<p align="center"><em>Infografía: NTFS.</em></p>
 
 <!-- FUENTE: MS-NTFS-T38 -->
 
@@ -1111,7 +1447,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - La disponibilidad de ReFS depende de la edición, versión y tipo de volumen de Windows.
 - Que ReFS sea más reciente no lo convierte automáticamente en la mejor elección para cualquier equipo.
 
-<!-- VISUAL PENDIENTE: t38-85-refs-y-alcance-comparado.webp -->
+<!-- VISUAL:t38-85-refs-y-alcance-comparado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-85-refs-y-alcance-comparado.webp" alt="ReFS y alcance comparado" width="820">
+</p>
+<p align="center"><em>Infografía: ReFS y alcance comparado.</em></p>
 
 <!-- FUENTE: MS-NTFS-T38 -->
 
@@ -1124,7 +1464,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - ext4 amplió capacidad y rendimiento mediante extents, asignación diferida y otras mejoras.
 - ext4 utiliza inodos, grupos de bloques y un diario gestionado con JBD2 cuando está habilitado.
 
-<!-- VISUAL PENDIENTE: t38-86-ext2-ext3-y-ext4.webp -->
+<!-- VISUAL:t38-86-ext2-ext3-y-ext4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-86-ext2-ext3-y-ext4.webp" alt="ext2, ext3 y ext4" width="820">
+</p>
+<p align="center"><em>Infografía: ext2, ext3 y ext4.</em></p>
 
 <!-- FUENTE: LINUX-EXT4-T38 -->
 
@@ -1137,7 +1481,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - APFS ofrece cifrado, snapshots, clonación y espacio compartido entre volúmenes.
 - La transición no significa que todos los soportes antiguos o externos se conviertan automáticamente a APFS.
 
-<!-- VISUAL PENDIENTE: t38-87-apfs-y-hfs.webp -->
+<!-- VISUAL:t38-87-apfs-y-hfs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-87-apfs-y-hfs.webp" alt="APFS y HFS+" width="820">
+</p>
+<p align="center"><em>Infografía: APFS y HFS+.</em></p>
 
 <!-- FUENTE: APPLE-APFS-T38 -->
 
@@ -1150,7 +1498,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Las extensiones de ISO 9660 pueden ampliar nombres y metadatos para plataformas concretas.
 - El sistema de archivos del medio y el tipo físico de disco son capas distintas.
 
-<!-- VISUAL PENDIENTE: t38-88-iso-9660-y-udf.webp -->
+<!-- VISUAL:t38-88-iso-9660-y-udf.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-88-iso-9660-y-udf.webp" alt="ISO 9660 y UDF" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 9660 y UDF.</em></p>
 
 <!-- FUENTE: MS-STORAGE-T38 -->
 
@@ -1163,7 +1515,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - Los permisos pueden expresarse mediante bits clásicos, ACL u otros modelos.
 - La distinción entre mayúsculas y minúsculas depende del sistema de archivos, su formato y la capa que resuelve nombres.
 
-<!-- VISUAL PENDIENTE: t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp -->
+<!-- VISUAL:t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp" alt="Enlaces, permisos y sensibilidad a mayúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Enlaces, permisos y sensibilidad a mayúsculas.</em></p>
 
 <!-- FUENTE: POSIX-2024-T38 -->
 
@@ -1176,7 +1532,11 @@ El Tema 38 se estudia en diez partes: fundamentos; funciones; MS-DOS; UNIX/POSIX
 - NTFS y FAT, ext4 y APFS son ejemplos reales de sistemas de archivos de los ecosistemas Windows, Linux y Apple.
 - Ninguna tabla de compatibilidad es eterna: debe fecharse y comprobarse en las versiones concretas implicadas.
 
-<!-- VISUAL PENDIENTE: t38-il-90-eleccion-del-sistema-de-archivos.webp -->
+<!-- VISUAL:t38-il-90-eleccion-del-sistema-de-archivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-38/t38-il-90-eleccion-del-sistema-de-archivos.webp" alt="Elección del sistema de archivos" width="820">
+</p>
+<p align="center"><em>Infografía: Elección del sistema de archivos.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T38 -->
 

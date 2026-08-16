@@ -28,7 +28,11 @@ Para dominar **alcance oficial del tema 36**, aplica esta regla: Primero separa 
 - **Incorrecto:** El tema oficial se reduce a ortografía y puntuación.
 - **Incorrecto:** Categoría gramatical y función sintáctica son siempre la misma noción.
 
-<!-- VISUAL PENDIENTE: t36-01-alcance-oficial-del-tema-36.webp -->
+<!-- VISUAL:t36-01-alcance-oficial-del-tema-36.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-01-alcance-oficial-del-tema-36.webp" alt="Alcance oficial del Tema 36" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 36.</em></p>
 
 :::hablemos-claro
 Primero separa cuatro planos: forma de la palabra, clase, grupo y función en la oración.
@@ -62,7 +66,11 @@ Para dominar **gramática, morfología y sintaxis**, aplica esta regla: Morfolog
 - **Incorrecto:** La sintaxis estudia exclusivamente sonidos.
 - **Incorrecto:** La morfología solo clasifica oraciones por modalidad.
 
-<!-- VISUAL PENDIENTE: t36-il-02-gramatica-morfologia-y-sintaxis.webp -->
+<!-- VISUAL:t36-il-02-gramatica-morfologia-y-sintaxis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-02-gramatica-morfologia-y-sintaxis.webp" alt="Gramática, morfología y sintaxis" width="820">
+</p>
+<p align="center"><em>Infografía: Gramática, morfología y sintaxis.</em></p>
 
 :::hablemos-claro
 Morfología mira dentro de la palabra; sintaxis mira cómo se combina con otras unidades.
@@ -96,7 +104,11 @@ Para dominar **palabra, lexema y morfema**, aplica esta regla: Imagina una palab
 - **Incorrecto:** Todo morfema puede aparecer como palabra independiente.
 - **Incorrecto:** El lexema expresa siempre persona, número y tiempo.
 
-<!-- VISUAL PENDIENTE: t36-03-palabra-lexema-y-morfema.webp -->
+<!-- VISUAL:t36-03-palabra-lexema-y-morfema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-03-palabra-lexema-y-morfema.webp" alt="Palabra, lexema y morfema" width="820">
+</p>
+<p align="center"><em>Infografía: Palabra, lexema y morfema.</em></p>
 
 :::hablemos-claro
 Imagina una palabra como una pieza central léxica a la que pueden añadirse marcas gramaticales.
@@ -130,7 +142,11 @@ Para dominar **morfología flexiva y derivativa**, aplica esta regla: Flexionar 
 - **Incorrecto:** La flexión convierte siempre un sustantivo en verbo.
 - **Incorrecto:** Toda derivación conserva obligatoriamente la categoría de la base.
 
-<!-- VISUAL PENDIENTE: t36-il-04-morfologia-flexiva-y-derivativa.webp -->
+<!-- VISUAL:t36-il-04-morfologia-flexiva-y-derivativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-04-morfologia-flexiva-y-derivativa.webp" alt="Morfología flexiva y derivativa" width="820">
+</p>
+<p align="center"><em>Infografía: Morfología flexiva y derivativa.</em></p>
 
 :::hablemos-claro
 Flexionar es cambiar el uniforme de la misma palabra; derivar es crear otra entrada léxica.
@@ -164,7 +180,11 @@ Para dominar **palabras simples, derivadas y compuestas**, aplica esta regla: Cl
 - **Incorrecto:** Toda palabra larga es compuesta.
 - **Incorrecto:** Una palabra simple carece necesariamente de morfemas flexivos.
 
-<!-- VISUAL PENDIENTE: t36-05-palabras-simples-derivadas-y-compuestas.webp -->
+<!-- VISUAL:t36-05-palabras-simples-derivadas-y-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-05-palabras-simples-derivadas-y-compuestas.webp" alt="Palabras simples, derivadas y compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Palabras simples, derivadas y compuestas.</em></p>
 
 :::hablemos-claro
 Clasifica por piezas reconocibles, no por el número de letras ni por una etimología remota.
@@ -198,7 +218,11 @@ Para dominar **prefijación, sufijación y composición**, aplica esta regla: La
 - **Incorrecto:** Un prefijo se coloca siempre después de la base.
 - **Incorrecto:** Componer equivale a añadir cualquier terminación flexiva.
 
-<!-- VISUAL PENDIENTE: t36-06-prefijacion-sufijacion-y-composicion.webp -->
+<!-- VISUAL:t36-06-prefijacion-sufijacion-y-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-06-prefijacion-sufijacion-y-composicion.webp" alt="Prefijación, sufijación y composición" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijación, sufijación y composición.</em></p>
 
 :::hablemos-claro
 La posición orienta, pero la función decide: delante prefijo, detrás sufijo, base con base compuesto.
@@ -232,7 +256,11 @@ Para dominar **el sufijo derivativo**, aplica esta regla: Para reconocer un sufi
 - **Incorrecto:** Toda terminación de palabra es un sufijo.
 - **Incorrecto:** Los sufijos solo se añaden a sustantivos.
 
-<!-- VISUAL PENDIENTE: t36-07-el-sufijo-derivativo.webp -->
+<!-- VISUAL:t36-07-el-sufijo-derivativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-07-el-sufijo-derivativo.webp" alt="El sufijo derivativo" width="820">
+</p>
+<p align="center"><em>Infografía: El sufijo derivativo.</em></p>
 
 :::hablemos-claro
 Para reconocer un sufijo exige tres pruebas: posición final, base identificable y aporte de significado.
@@ -266,7 +294,11 @@ Para dominar **sufijos nominales, adjetivales y verbales**, aplica esta regla: N
 - **Incorrecto:** Un sufijo nominal exige siempre una base nominal.
 - **Incorrecto:** La categoría del derivado la decide la primera palabra de la familia.
 
-<!-- VISUAL PENDIENTE: t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp -->
+<!-- VISUAL:t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp" alt="Sufijos nominales, adjetivales y verbales" width="820">
+</p>
+<p align="center"><em>Infografía: Sufijos nominales, adjetivales y verbales.</em></p>
 
 :::hablemos-claro
 Nombra el sufijo por la puerta de salida: nominal si el resultado es nombre, verbal si es verbo.
@@ -300,7 +332,11 @@ Para dominar **sufijos apreciativos**, aplica esta regla: El sufijo apreciativo 
 - **Incorrecto:** Todo diminutivo expresa exclusivamente tamaño pequeño.
 - **Incorrecto:** Los apreciativos cambian siempre un sustantivo en adjetivo.
 
-<!-- VISUAL PENDIENTE: t36-09-sufijos-apreciativos.webp -->
+<!-- VISUAL:t36-09-sufijos-apreciativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-09-sufijos-apreciativos.webp" alt="Sufijos apreciativos" width="820">
+</p>
+<p align="center"><em>Infografía: Sufijos apreciativos.</em></p>
 
 :::hablemos-claro
 El sufijo apreciativo lleva termómetro emocional: el contexto decide si mide tamaño, afecto o ironía.
@@ -334,7 +370,11 @@ Para dominar **interfijos y parasíntesis**, aplica esta regla: En la parasínte
 - **Incorrecto:** Todo segmento interior de una palabra es un interfijo.
 - **Incorrecto:** Basta con que haya prefijo y sufijo para que siempre exista parasíntesis.
 
-<!-- VISUAL PENDIENTE: t36-il-10-interfijos-y-parasintesis.webp -->
+<!-- VISUAL:t36-il-10-interfijos-y-parasintesis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-10-interfijos-y-parasintesis.webp" alt="Interfijos y parasíntesis" width="820">
+</p>
+<p align="center"><em>Infografía: Interfijos y parasíntesis.</em></p>
 
 :::hablemos-claro
 En la parasíntesis las dos puertas se abren a la vez: sin una de ellas no existe la palabra intermedia.
@@ -368,7 +408,11 @@ Para dominar **el sustantivo: propiedades básicas**, aplica esta regla: Sustant
 - **Incorrecto:** Todo sustantivo designa exclusivamente objetos materiales.
 - **Incorrecto:** Ser sustantivo implica desempeñar siempre la función de sujeto.
 
-<!-- VISUAL PENDIENTE: t36-11-el-sustantivo-propiedades-basicas.webp -->
+<!-- VISUAL:t36-11-el-sustantivo-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-11-el-sustantivo-propiedades-basicas.webp" alt="El sustantivo: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El sustantivo: propiedades básicas.</em></p>
 
 :::hablemos-claro
 Sustantivo es categoría; sujeto es función. Un mismo nombre puede ocupar puestos distintos.
@@ -402,7 +446,11 @@ Para dominar **sustantivos comunes y propios**, aplica esta regla: El común abr
 - **Incorrecto:** Los nombres propios nunca admiten artículo.
 - **Incorrecto:** Todo nombre escrito con mayúscula es gramaticalmente propio en cualquier contexto.
 
-<!-- VISUAL PENDIENTE: t36-12-sustantivos-comunes-y-propios.webp -->
+<!-- VISUAL:t36-12-sustantivos-comunes-y-propios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-12-sustantivos-comunes-y-propios.webp" alt="Sustantivos comunes y propios" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos comunes y propios.</em></p>
 
 :::hablemos-claro
 El común abre una carpeta de clase; el propio señala una ficha concreta.
@@ -436,7 +484,11 @@ Para dominar **sustantivos concretos y abstractos**, aplica esta regla: No uses 
 - **Incorrecto:** Todo sustantivo abstracto carece de plural.
 - **Incorrecto:** Concreto equivale exactamente a visible.
 
-<!-- VISUAL PENDIENTE: t36-il-13-sustantivos-concretos-y-abstractos.webp -->
+<!-- VISUAL:t36-il-13-sustantivos-concretos-y-abstractos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-13-sustantivos-concretos-y-abstractos.webp" alt="Sustantivos concretos y abstractos" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos concretos y abstractos.</em></p>
 
 :::hablemos-claro
 No uses solo los cinco sentidos: pregunta si se nombra una entidad o se conceptualiza una cualidad o proceso.
@@ -470,7 +522,11 @@ Para dominar **sustantivos contables y no contables**, aplica esta regla: Contab
 - **Incorrecto:** Un sustantivo no contable nunca aparece en plural.
 - **Incorrecto:** La presencia de un numeral convierte cualquier secuencia en gramatical.
 
-<!-- VISUAL PENDIENTE: t36-14-sustantivos-contables-y-no-contables.webp -->
+<!-- VISUAL:t36-14-sustantivos-contables-y-no-contables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-14-sustantivos-contables-y-no-contables.webp" alt="Sustantivos contables y no contables" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos contables y no contables.</em></p>
 
 :::hablemos-claro
 Contable usa contador; no contable necesita báscula o recipiente, salvo que el contexto cambie la lectura.
@@ -504,7 +560,11 @@ Para dominar **sustantivos individuales y colectivos**, aplica esta regla: Colec
 - **Incorrecto:** Todo colectivo exige verbo en plural.
 - **Incorrecto:** Un sustantivo individual no puede formar plural.
 
-<!-- VISUAL PENDIENTE: t36-15-sustantivos-individuales-y-colectivos.webp -->
+<!-- VISUAL:t36-15-sustantivos-individuales-y-colectivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-15-sustantivos-individuales-y-colectivos.webp" alt="Sustantivos individuales y colectivos" width="820">
+</p>
+<p align="center"><em>Infografía: Sustantivos individuales y colectivos.</em></p>
 
 :::hablemos-claro
 Colectivo es una caja con muchos elementos, pero la caja puede seguir en singular.
@@ -538,7 +598,11 @@ Para dominar **género del sustantivo**, aplica esta regla: El género se compru
 - **Incorrecto:** Todo sustantivo acabado en -a es femenino.
 - **Incorrecto:** Los nombres epicenos cambian de género al cambiar el sexo del referente.
 
-<!-- VISUAL PENDIENTE: t36-16-genero-del-sustantivo.webp -->
+<!-- VISUAL:t36-16-genero-del-sustantivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-16-genero-del-sustantivo.webp" alt="Género del sustantivo" width="820">
+</p>
+<p align="center"><em>Infografía: Género del sustantivo.</em></p>
 
 :::hablemos-claro
 El género se comprueba por concordancia, no por mirar únicamente la última letra.
@@ -572,7 +636,11 @@ Para dominar **comunes en cuanto al género y heterónimos**, aplica esta regla:
 - **Incorrecto:** Un nombre común en cuanto al género carece de género gramatical.
 - **Incorrecto:** Heterónimo significa una misma forma con dos artículos.
 
-<!-- VISUAL PENDIENTE: t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp -->
+<!-- VISUAL:t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp" alt="Comunes en cuanto al género y heterónimos" width="820">
+</p>
+<p align="center"><em>Infografía: Comunes en cuanto al género y heterónimos.</em></p>
 
 :::hablemos-claro
 Separa cuatro cajones: una forma con concordancia, un género fijo, dos géneros posibles o dos raíces.
@@ -606,7 +674,11 @@ Para dominar **número: singular y plural**, aplica esta regla: Número es una m
 - **Incorrecto:** Singular y unidad real son siempre equivalentes.
 - **Incorrecto:** Todo sustantivo posee dos formas numéricas de uso normal.
 
-<!-- VISUAL PENDIENTE: t36-18-numero-singular-y-plural.webp -->
+<!-- VISUAL:t36-18-numero-singular-y-plural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-18-numero-singular-y-plural.webp" alt="Número: singular y plural" width="820">
+</p>
+<p align="center"><em>Infografía: Número: singular y plural.</em></p>
 
 :::hablemos-claro
 Número es una marca gramatical; el mundo real puede contar de otra manera.
@@ -640,7 +712,11 @@ Para dominar **formación regular del plural**, aplica esta regla: Antes de aña
 - **Incorrecto:** Todas las palabras forman plural añadiendo -s.
 - **Incorrecto:** La grafía final basta siempre para decidir el plural.
 
-<!-- VISUAL PENDIENTE: t36-19-formacion-regular-del-plural.webp -->
+<!-- VISUAL:t36-19-formacion-regular-del-plural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-19-formacion-regular-del-plural.webp" alt="Formación regular del plural" width="820">
+</p>
+<p align="center"><em>Infografía: Formación regular del plural.</em></p>
 
 :::hablemos-claro
 Antes de añadir la marca, escucha la terminación: vocal átona y consonante siguen rutas distintas.
@@ -674,7 +750,11 @@ Para dominar **plurales especiales e invariables**, aplica esta regla: Si la for
 - **Incorrecto:** Toda palabra terminada en -s está ya en plural.
 - **Incorrecto:** Los préstamos conservan obligatoriamente el plural de la lengua de origen.
 
-<!-- VISUAL PENDIENTE: t36-20-plurales-especiales-e-invariables.webp -->
+<!-- VISUAL:t36-20-plurales-especiales-e-invariables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-20-plurales-especiales-e-invariables.webp" alt="Plurales especiales e invariables" width="820">
+</p>
+<p align="center"><em>Infografía: Plurales especiales e invariables.</em></p>
 
 :::hablemos-claro
 Si la forma no cambia, mira el entorno: artículo, adjetivo y verbo revelan el número.
@@ -708,7 +788,11 @@ Para dominar **el grupo nominal**, aplica esta regla: El núcleo es el motor y l
 - **Incorrecto:** Grupo nominal significa necesariamente varias palabras.
 - **Incorrecto:** Cada modificador del nombre desempeña por separado la función oracional del grupo.
 
-<!-- VISUAL PENDIENTE: t36-il-21-el-grupo-nominal.webp -->
+<!-- VISUAL:t36-il-21-el-grupo-nominal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-21-el-grupo-nominal.webp" alt="El grupo nominal" width="820">
+</p>
+<p align="center"><em>Infografía: El grupo nominal.</em></p>
 
 :::hablemos-claro
 El núcleo es el motor y los demás elementos forman el vehículo que entra entero en la oración.
@@ -742,7 +826,11 @@ Para dominar **determinación y artículo**, aplica esta regla: El artículo no 
 - **Incorrecto:** El artículo neutro lo determina sustantivos masculinos singulares.
 - **Incorrecto:** Determinado e indeterminado equivalen siempre a conocido y desconocido para toda persona.
 
-<!-- VISUAL PENDIENTE: t36-22-determinacion-y-articulo.webp -->
+<!-- VISUAL:t36-22-determinacion-y-articulo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-22-determinacion-y-articulo.webp" alt="Determinación y artículo" width="820">
+</p>
+<p align="center"><em>Infografía: Determinación y artículo.</em></p>
 
 :::hablemos-claro
 El artículo no solo cuenta: orienta al oyente sobre cómo localizar el referente.
@@ -776,7 +864,11 @@ Para dominar **pronombre y determinante**, aplica esta regla: Si acompaña al no
 - **Incorrecto:** Pronombre y determinante son siempre intercambiables.
 - **Incorrecto:** Todo pronombre exige un antecedente nominal explícito.
 
-<!-- VISUAL PENDIENTE: t36-23-pronombre-y-determinante.webp -->
+<!-- VISUAL:t36-23-pronombre-y-determinante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-23-pronombre-y-determinante.webp" alt="Pronombre y determinante" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombre y determinante.</em></p>
 
 :::hablemos-claro
 Si acompaña al nombre, determina; si ocupa autónomamente el hueco nominal, funciona como pronombre.
@@ -810,7 +902,11 @@ Para dominar **pronombres personales tónicos**, aplica esta regla: Los pronombr
 - **Incorrecto:** Mí y ti son las formas ordinarias de sujeto.
 - **Incorrecto:** Consigo puede referirse libremente a cualquier persona gramatical.
 
-<!-- VISUAL PENDIENTE: t36-24-pronombres-personales-tonicos.webp -->
+<!-- VISUAL:t36-24-pronombres-personales-tonicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-24-pronombres-personales-tonicos.webp" alt="Pronombres personales tónicos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres personales tónicos.</em></p>
 
 :::hablemos-claro
 Los pronombres tónicos llevan voz propia; el caso decide qué forma ocupa cada puesto.
@@ -844,7 +940,11 @@ Para dominar **pronombres átonos y clíticos**, aplica esta regla: Los clítico
 - **Incorrecto:** Los clíticos pueden colocarse en cualquier orden.
 - **Incorrecto:** Se ante lo mantiene necesariamente valor reflexivo.
 
-<!-- VISUAL PENDIENTE: t36-il-25-pronombres-atonos-y-cliticos.webp -->
+<!-- VISUAL:t36-il-25-pronombres-atonos-y-cliticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-25-pronombres-atonos-y-cliticos.webp" alt="Pronombres átonos y clíticos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres átonos y clíticos.</em></p>
 
 :::hablemos-claro
 Los clíticos viajan pegados al verbo y guardan un orden: no son vagones intercambiables.
@@ -878,7 +978,11 @@ Para dominar **leísmo, laísmo y loísmo**, aplica esta regla: Diagnostica prim
 - **Incorrecto:** Leísmo, laísmo y loísmo son tres nombres de la misma sustitución.
 - **Incorrecto:** Todo uso de le como complemento directo es rechazado sin excepción.
 
-<!-- VISUAL PENDIENTE: t36-26-leismo-laismo-y-loismo.webp -->
+<!-- VISUAL:t36-26-leismo-laismo-y-loismo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-26-leismo-laismo-y-loismo.webp" alt="Leísmo, laísmo y loísmo" width="820">
+</p>
+<p align="center"><em>Infografía: Leísmo, laísmo y loísmo.</em></p>
 
 :::hablemos-claro
 Diagnostica primero CD o CI; después elige el clítico y solo entonces valora las excepciones admitidas.
@@ -912,7 +1016,11 @@ Para dominar **pronombres reflexivos y recíprocos**, aplica esta regla: Reflexi
 - **Incorrecto:** Toda aparición de se es reflexiva.
 - **Incorrecto:** La reciprocidad puede darse con un único participante.
 
-<!-- VISUAL PENDIENTE: t36-27-pronombres-reflexivos-y-reciprocos.webp -->
+<!-- VISUAL:t36-27-pronombres-reflexivos-y-reciprocos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-27-pronombres-reflexivos-y-reciprocos.webp" alt="Pronombres reflexivos y recíprocos" width="820">
+</p>
+<p align="center"><em>Infografía: Pronombres reflexivos y recíprocos.</em></p>
 
 :::hablemos-claro
 Reflexivo vuelve al mismo participante; recíproco dibuja flechas en ambos sentidos.
@@ -946,7 +1054,11 @@ Para dominar **valores gramaticales de se**, aplica esta regla: Se es una navaja
 - **Incorrecto:** Se desempeña siempre complemento indirecto.
 - **Incorrecto:** Pasiva refleja e impersonal con se tienen idéntica estructura y concordancia.
 
-<!-- VISUAL PENDIENTE: t36-28-valores-gramaticales-de-se.webp -->
+<!-- VISUAL:t36-28-valores-gramaticales-de-se.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-28-valores-gramaticales-de-se.webp" alt="Valores gramaticales de se" width="820">
+</p>
+<p align="center"><em>Infografía: Valores gramaticales de se.</em></p>
 
 :::hablemos-claro
 Se es una navaja con varias hojas: identifica la construcción antes de asignarle función.
@@ -980,7 +1092,11 @@ Para dominar **demostrativos**, aplica esta regla: Los demostrativos son coorden
 - **Incorrecto:** Esto puede determinar un sustantivo masculino singular.
 - **Incorrecto:** Los demostrativos solo expresan distancia física.
 
-<!-- VISUAL PENDIENTE: t36-29-demostrativos.webp -->
+<!-- VISUAL:t36-29-demostrativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-29-demostrativos.webp" alt="Demostrativos" width="820">
+</p>
+<p align="center"><em>Infografía: Demostrativos.</em></p>
 
 :::hablemos-claro
 Los demostrativos son coordenadas: cerca, intermedio o lejos del hablante y del discurso.
@@ -1014,7 +1130,11 @@ Para dominar **posesivos**, aplica esta regla: Mira el objeto poseído para conc
 - **Incorrecto:** El posesivo concuerda siempre con quien posee.
 - **Incorrecto:** Su distingue por su forma un poseedor de varios poseedores.
 
-<!-- VISUAL PENDIENTE: t36-il-30-posesivos.webp -->
+<!-- VISUAL:t36-il-30-posesivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-30-posesivos.webp" alt="Posesivos" width="820">
+</p>
+<p align="center"><em>Infografía: Posesivos.</em></p>
 
 :::hablemos-claro
 Mira el objeto poseído para concordar; mira el contexto para saber quién posee.
@@ -1048,7 +1168,11 @@ Para dominar **cuantificadores indefinidos**, aplica esta regla: El indefinido c
 - **Incorrecto:** Todos los indefinidos son pronombres invariables.
 - **Incorrecto:** La doble negación española es siempre una afirmación lógica.
 
-<!-- VISUAL PENDIENTE: t36-31-cuantificadores-indefinidos.webp -->
+<!-- VISUAL:t36-31-cuantificadores-indefinidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-31-cuantificadores-indefinidos.webp" alt="Cuantificadores indefinidos" width="820">
+</p>
+<p align="center"><em>Infografía: Cuantificadores indefinidos.</em></p>
 
 :::hablemos-claro
 El indefinido cuantifica sin dar matrícula exacta; su categoría depende del puesto que ocupe.
@@ -1082,7 +1206,11 @@ Para dominar **numerales**, aplica esta regla: Cardinal cuenta, ordinal ordena, 
 - **Incorrecto:** Los cardinales expresan siempre orden.
 - **Incorrecto:** Medio es únicamente ordinal.
 
-<!-- VISUAL PENDIENTE: t36-32-numerales.webp -->
+<!-- VISUAL:t36-32-numerales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-32-numerales.webp" alt="Numerales" width="820">
+</p>
+<p align="center"><em>Infografía: Numerales.</em></p>
 
 :::hablemos-claro
 Cardinal cuenta, ordinal ordena, multiplicativo multiplica y fraccionario reparte.
@@ -1116,7 +1244,11 @@ Para dominar **relativos**, aplica esta regla: El relativo es puente doble: enla
 - **Incorrecto:** El relativo carece siempre de función dentro de la subordinada.
 - **Incorrecto:** Cuyo concuerda con el antecedente poseedor.
 
-<!-- VISUAL PENDIENTE: t36-33-relativos.webp -->
+<!-- VISUAL:t36-33-relativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-33-relativos.webp" alt="Relativos" width="820">
+</p>
+<p align="center"><em>Infografía: Relativos.</em></p>
 
 :::hablemos-claro
 El relativo es puente doble: enlaza con el antecedente y trabaja dentro de la subordinada.
@@ -1150,7 +1282,11 @@ Para dominar **interrogativos y exclamativos**, aplica esta regla: La pregunta p
 - **Incorrecto:** Solo llevan tilde dentro de signos de interrogación.
 - **Incorrecto:** Qué funciona siempre como pronombre.
 
-<!-- VISUAL PENDIENTE: t36-34-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t36-34-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-34-interrogativos-y-exclamativos.webp" alt="Interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogativos y exclamativos.</em></p>
 
 :::hablemos-claro
 La pregunta puede ir escondida dentro de otra oración: la tonicidad, no los signos, manda.
@@ -1184,7 +1320,11 @@ Para dominar **el adjetivo: propiedades básicas**, aplica esta regla: Adjetivo 
 - **Incorrecto:** Todo adjetivo funciona como atributo.
 - **Incorrecto:** El adjetivo carece de complementos propios.
 
-<!-- VISUAL PENDIENTE: t36-35-el-adjetivo-propiedades-basicas.webp -->
+<!-- VISUAL:t36-35-el-adjetivo-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-35-el-adjetivo-propiedades-basicas.webp" alt="El adjetivo: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El adjetivo: propiedades básicas.</em></p>
 
 :::hablemos-claro
 Adjetivo es la herramienta; modificador, atributo o predicativo son trabajos que puede desempeñar.
@@ -1218,7 +1358,11 @@ Para dominar **adjetivos calificativos y relacionales**, aplica esta regla: Cali
 - **Incorrecto:** Todo adjetivo relacional admite muy sin cambio de lectura.
 - **Incorrecto:** Calificativo significa necesariamente antepuesto al sustantivo.
 
-<!-- VISUAL PENDIENTE: t36-36-adjetivos-calificativos-y-relacionales.webp -->
+<!-- VISUAL:t36-36-adjetivos-calificativos-y-relacionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-36-adjetivos-calificativos-y-relacionales.webp" alt="Adjetivos calificativos y relacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Adjetivos calificativos y relacionales.</em></p>
 
 :::hablemos-claro
 Calificativo pinta una propiedad; relacional coloca una etiqueta de clasificación.
@@ -1252,7 +1396,11 @@ Para dominar **adjetivos especificativos y explicativos**, aplica esta regla: Es
 - **Incorrecto:** Todo adjetivo pospuesto es especificativo.
 - **Incorrecto:** El explicativo nunca añade información.
 
-<!-- VISUAL PENDIENTE: t36-il-37-adjetivos-especificativos-y-explicativos.webp -->
+<!-- VISUAL:t36-il-37-adjetivos-especificativos-y-explicativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-37-adjetivos-especificativos-y-explicativos.webp" alt="Adjetivos especificativos y explicativos" width="820">
+</p>
+<p align="center"><em>Infografía: Adjetivos especificativos y explicativos.</em></p>
 
 :::hablemos-claro
 Especificativo filtra; explicativo comenta. No decidas solo por dónde aparece.
@@ -1286,7 +1434,11 @@ Para dominar **posición del adjetivo**, aplica esta regla: Mover el adjetivo pu
 - **Incorrecto:** Anteponer un adjetivo nunca cambia su interpretación.
 - **Incorrecto:** Los relacionales se anteponen libremente en su lectura clasificatoria.
 
-<!-- VISUAL PENDIENTE: t36-38-posicion-del-adjetivo.webp -->
+<!-- VISUAL:t36-38-posicion-del-adjetivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-38-posicion-del-adjetivo.webp" alt="Posición del adjetivo" width="820">
+</p>
+<p align="center"><em>Infografía: Posición del adjetivo.</em></p>
 
 :::hablemos-claro
 Mover el adjetivo puede mover el significado: analiza la lectura, no solo el orden.
@@ -1320,7 +1472,11 @@ Para dominar **flexión y apócope del adjetivo**, aplica esta regla: Una termin
 - **Incorrecto:** Los adjetivos de una terminación no concuerdan en número.
 - **Incorrecto:** La apócope puede aplicarse a cualquier adjetivo antepuesto.
 
-<!-- VISUAL PENDIENTE: t36-39-flexion-y-apocope-del-adjetivo.webp -->
+<!-- VISUAL:t36-39-flexion-y-apocope-del-adjetivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-39-flexion-y-apocope-del-adjetivo.webp" alt="Flexión y apócope del adjetivo" width="820">
+</p>
+<p align="center"><em>Infografía: Flexión y apócope del adjetivo.</em></p>
 
 :::hablemos-claro
 Una terminación no significa sin concordancia; la marca puede verse solo en el número y en el entorno.
@@ -1354,7 +1510,11 @@ Para dominar **grado positivo**, aplica esta regla: Positivo es el punto de part
 - **Incorrecto:** Grado positivo significa cualidad buena.
 - **Incorrecto:** Cualquier modificación por muy convierte el adjetivo en comparativo.
 
-<!-- VISUAL PENDIENTE: t36-40-grado-positivo.webp -->
+<!-- VISUAL:t36-40-grado-positivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-40-grado-positivo.webp" alt="Grado positivo" width="820">
+</p>
+<p align="center"><em>Infografía: Grado positivo.</em></p>
 
 :::hablemos-claro
 Positivo es el punto de partida del termómetro, no un juicio favorable.
@@ -1388,7 +1548,11 @@ Para dominar **grado comparativo**, aplica esta regla: Tres carriles: más que, 
 - **Incorrecto:** Más mejor es la forma general del comparativo de bueno.
 - **Incorrecto:** Tan... que expresa por sí solo comparación de igualdad.
 
-<!-- VISUAL PENDIENTE: t36-il-41-grado-comparativo.webp -->
+<!-- VISUAL:t36-il-41-grado-comparativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-41-grado-comparativo.webp" alt="Grado comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Grado comparativo.</em></p>
 
 :::hablemos-claro
 Tres carriles: más que, tan como y menos que; vigila los comparativos irregulares.
@@ -1422,7 +1586,11 @@ Para dominar **superlativo absoluto y relativo**, aplica esta regla: Absoluto su
 - **Incorrecto:** Todo superlativo exige un complemento introducido por de.
 - **Incorrecto:** Muy alto es comparativo de superioridad.
 
-<!-- VISUAL PENDIENTE: t36-42-superlativo-absoluto-y-relativo.webp -->
+<!-- VISUAL:t36-42-superlativo-absoluto-y-relativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-42-superlativo-absoluto-y-relativo.webp" alt="Superlativo absoluto y relativo" width="820">
+</p>
+<p align="center"><em>Infografía: Superlativo absoluto y relativo.</em></p>
 
 :::hablemos-claro
 Absoluto sube el volumen; relativo gana una competición dentro de un grupo.
@@ -1456,7 +1624,11 @@ Para dominar **el adverbio: propiedades básicas**, aplica esta regla: El adverb
 - **Incorrecto:** El adverbio concuerda en género y número con el verbo.
 - **Incorrecto:** Todo adverbio modifica exclusivamente un verbo.
 
-<!-- VISUAL PENDIENTE: t36-43-el-adverbio-propiedades-basicas.webp -->
+<!-- VISUAL:t36-43-el-adverbio-propiedades-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-43-el-adverbio-propiedades-basicas.webp" alt="El adverbio: propiedades básicas" width="820">
+</p>
+<p align="center"><em>Infografía: El adverbio: propiedades básicas.</em></p>
 
 :::hablemos-claro
 El adverbio es una pieza móvil e invariable: observa qué unidad modifica.
@@ -1490,7 +1662,11 @@ Para dominar **adverbios de lugar y tiempo**, aplica esta regla: Lugar responde 
 - **Incorrecto:** Todo adverbio de tiempo expresa fecha exacta.
 - **Incorrecto:** Los adverbios de lugar carecen de referencia contextual.
 
-<!-- VISUAL PENDIENTE: t36-44-adverbios-de-lugar-y-tiempo.webp -->
+<!-- VISUAL:t36-44-adverbios-de-lugar-y-tiempo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-44-adverbios-de-lugar-y-tiempo.webp" alt="Adverbios de lugar y tiempo" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios de lugar y tiempo.</em></p>
 
 :::hablemos-claro
 Lugar responde al mapa; tiempo puede responder al reloj, a la duración o a la repetición.
@@ -1524,7 +1700,11 @@ Para dominar **adverbios de modo, cantidad y grado**, aplica esta regla: Modo ex
 - **Incorrecto:** Muy y mucho son intercambiables en todos los contextos.
 - **Incorrecto:** Todo adverbio de modo termina en -mente.
 
-<!-- VISUAL PENDIENTE: t36-45-adverbios-de-modo-cantidad-y-grado.webp -->
+<!-- VISUAL:t36-45-adverbios-de-modo-cantidad-y-grado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-45-adverbios-de-modo-cantidad-y-grado.webp" alt="Adverbios de modo, cantidad y grado" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios de modo, cantidad y grado.</em></p>
 
 :::hablemos-claro
 Modo explica cómo; grado mueve la intensidad. La forma aislada no basta para clasificar.
@@ -1558,7 +1738,11 @@ Para dominar **afirmación, negación y duda**, aplica esta regla: Afirmación y
 - **Incorrecto:** No es siempre complemento circunstancial de modo.
 - **Incorrecto:** Probablemente expresa certeza absoluta.
 
-<!-- VISUAL PENDIENTE: t36-46-afirmacion-negacion-y-duda.webp -->
+<!-- VISUAL:t36-46-afirmacion-negacion-y-duda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-46-afirmacion-negacion-y-duda.webp" alt="Afirmación, negación y duda" width="820">
+</p>
+<p align="center"><em>Infografía: Afirmación, negación y duda.</em></p>
 
 :::hablemos-claro
 Afirmación y negación cambian el interruptor; duda regula la intensidad de compromiso.
@@ -1592,7 +1776,11 @@ Para dominar **adverbios relativos, interrogativos y exclamativos**, aplica esta
 - **Incorrecto:** La tilde depende únicamente de que existan signos de interrogación.
 - **Incorrecto:** Los adverbios relativos no desempeñan función en su subordinada.
 
-<!-- VISUAL PENDIENTE: t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp" alt="Adverbios relativos, interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios relativos, interrogativos y exclamativos.</em></p>
 
 :::hablemos-claro
 La tilde marca la voz tónica interrogativa o exclamativa, incluso cuando la pregunta va dentro.
@@ -1626,7 +1814,11 @@ Para dominar **adverbios terminados en -mente**, aplica esta regla: La fábrica 
 - **Incorrecto:** El sufijo -mente elimina siempre la tilde de la base.
 - **Incorrecto:** Todo adverbio en -mente es complemento circunstancial de modo.
 
-<!-- VISUAL PENDIENTE: t36-48-adverbios-terminados-en-mente.webp -->
+<!-- VISUAL:t36-48-adverbios-terminados-en-mente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-48-adverbios-terminados-en-mente.webp" alt="Adverbios terminados en -mente" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios terminados en -mente.</em></p>
 
 :::hablemos-claro
 La fábrica -mente parte del femenino singular, pero el producto puede modificar el evento o toda la oración.
@@ -1660,7 +1852,11 @@ Para dominar **locuciones y grupos adverbiales**, aplica esta regla: Locución e
 - **Incorrecto:** Toda secuencia que funciona como circunstancial es locución adverbial.
 - **Incorrecto:** Un grupo adverbial debe contener varios adverbios coordinados.
 
-<!-- VISUAL PENDIENTE: t36-49-locuciones-y-grupos-adverbiales.webp -->
+<!-- VISUAL:t36-49-locuciones-y-grupos-adverbiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-49-locuciones-y-grupos-adverbiales.webp" alt="Locuciones y grupos adverbiales" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones y grupos adverbiales.</em></p>
 
 :::hablemos-claro
 Locución es una pieza fijada; grupo es una estructura con núcleo y componentes analizables.
@@ -1694,7 +1890,11 @@ Para dominar **el verbo: propiedades y estructura**, aplica esta regla: El verbo
 - **Incorrecto:** El predicado se reduce siempre a la forma verbal aislada.
 - **Incorrecto:** Los verbos carecen de rasgos de número.
 
-<!-- VISUAL PENDIENTE: t36-50-el-verbo-propiedades-y-estructura.webp -->
+<!-- VISUAL:t36-50-el-verbo-propiedades-y-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-50-el-verbo-propiedades-y-estructura.webp" alt="El verbo: propiedades y estructura" width="820">
+</p>
+<p align="center"><em>Infografía: El verbo: propiedades y estructura.</em></p>
 
 :::hablemos-claro
 El verbo es el centro de mando: flexiona y decide qué participantes necesita la escena.
@@ -1728,7 +1928,11 @@ Para dominar **las tres conjugaciones**, aplica esta regla: Mira el infinitivo p
 - **Incorrecto:** Los verbos en -ir pertenecen a la segunda conjugación.
 - **Incorrecto:** Todos los verbos de la primera conjugación son regulares.
 
-<!-- VISUAL PENDIENTE: t36-51-las-tres-conjugaciones.webp -->
+<!-- VISUAL:t36-51-las-tres-conjugaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-51-las-tres-conjugaciones.webp" alt="Las tres conjugaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Las tres conjugaciones.</em></p>
 
 :::hablemos-claro
 Mira el infinitivo para la familia; mira el paradigma para saber si es regular.
@@ -1762,7 +1966,11 @@ Para dominar **verbos regulares e irregulares**, aplica esta regla: Compara con 
 - **Incorrecto:** Irregular significa que todas las formas del verbo cambian.
 - **Incorrecto:** Cualquier cambio de letra convierte necesariamente el verbo en irregular.
 
-<!-- VISUAL PENDIENTE: t36-il-52-verbos-regulares-e-irregulares.webp -->
+<!-- VISUAL:t36-il-52-verbos-regulares-e-irregulares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-52-verbos-regulares-e-irregulares.webp" alt="Verbos regulares e irregulares" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos regulares e irregulares.</em></p>
 
 :::hablemos-claro
 Compara con el modelo completo: una irregularidad puede esconderse en una sola zona del paradigma.
@@ -1796,7 +2004,11 @@ Para dominar **persona y número verbal**, aplica esta regla: La terminación ve
 - **Incorrecto:** La persona verbal depende del complemento directo.
 - **Incorrecto:** Toda oración española exige pronombre sujeto expreso.
 
-<!-- VISUAL PENDIENTE: t36-53-persona-y-numero-verbal.webp -->
+<!-- VISUAL:t36-53-persona-y-numero-verbal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-53-persona-y-numero-verbal.webp" alt="Persona y número verbal" width="820">
+</p>
+<p align="center"><em>Infografía: Persona y número verbal.</em></p>
 
 :::hablemos-claro
 La terminación verbal lleva la matrícula del sujeto: persona y número.
@@ -1830,7 +2042,11 @@ Para dominar **tiempo verbal y referencia temporal**, aplica esta regla: El tiem
 - **Incorrecto:** El presente solo describe el instante exacto del habla.
 - **Incorrecto:** Cada tiempo verbal corresponde a una única fecha cronológica.
 
-<!-- VISUAL PENDIENTE: t36-54-tiempo-verbal-y-referencia-temporal.webp -->
+<!-- VISUAL:t36-54-tiempo-verbal-y-referencia-temporal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-54-tiempo-verbal-y-referencia-temporal.webp" alt="Tiempo verbal y referencia temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Tiempo verbal y referencia temporal.</em></p>
 
 :::hablemos-claro
 El tiempo verbal no es un reloj aislado: contexto y aspecto ajustan la lectura.
@@ -1864,7 +2080,11 @@ Para dominar **aspecto léxico y gramatical**, aplica esta regla: Tiempo coloca 
 - **Incorrecto:** Perfectivo significa necesariamente presente.
 - **Incorrecto:** Aspecto y tiempo son dos nombres de la misma categoría.
 
-<!-- VISUAL PENDIENTE: t36-il-55-aspecto-lexico-y-gramatical.webp -->
+<!-- VISUAL:t36-il-55-aspecto-lexico-y-gramatical.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-55-aspecto-lexico-y-gramatical.webp" alt="Aspecto léxico y gramatical" width="820">
+</p>
+<p align="center"><em>Infografía: Aspecto léxico y gramatical.</em></p>
 
 :::hablemos-claro
 Tiempo coloca la escena en el calendario; aspecto muestra si la vemos entera, en curso o por fases.
@@ -1898,7 +2118,11 @@ Para dominar **modo indicativo**, aplica esta regla: Indicativo presenta informa
 - **Incorrecto:** Indicativo significa certeza científica.
 - **Incorrecto:** El indicativo carece de formas compuestas.
 
-<!-- VISUAL PENDIENTE: t36-56-modo-indicativo.webp -->
+<!-- VISUAL:t36-56-modo-indicativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-56-modo-indicativo.webp" alt="Modo indicativo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo indicativo.</em></p>
 
 :::hablemos-claro
 Indicativo presenta información; no expide un certificado de verdad.
@@ -1932,7 +2156,11 @@ Para dominar **modo subjuntivo**, aplica esta regla: El subjuntivo no niega la r
 - **Incorrecto:** Subjuntivo equivale siempre a acción imposible.
 - **Incorrecto:** El subjuntivo solo se usa en oraciones independientes.
 
-<!-- VISUAL PENDIENTE: t36-57-modo-subjuntivo.webp -->
+<!-- VISUAL:t36-57-modo-subjuntivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-57-modo-subjuntivo.webp" alt="Modo subjuntivo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo subjuntivo.</em></p>
 
 :::hablemos-claro
 El subjuntivo no niega la realidad: marca cómo se integra el contenido en la actitud o dependencia.
@@ -1966,7 +2194,11 @@ Para dominar **modo imperativo**, aplica esta regla: Imperativo afirmativo engan
 - **Incorrecto:** El imperativo posee primera persona singular ordinaria.
 - **Incorrecto:** En una orden negativa los clíticos se posponen siempre.
 
-<!-- VISUAL PENDIENTE: t36-58-modo-imperativo.webp -->
+<!-- VISUAL:t36-58-modo-imperativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-58-modo-imperativo.webp" alt="Modo imperativo" width="820">
+</p>
+<p align="center"><em>Infografía: Modo imperativo.</em></p>
 
 :::hablemos-claro
 Imperativo afirmativo engancha clíticos detrás; la negación los coloca delante con subjuntivo.
@@ -2000,7 +2232,11 @@ Para dominar **formas no personales**, aplica esta regla: Son verbos sin matríc
 - **Incorrecto:** Las formas no personales carecen de naturaleza verbal.
 - **Incorrecto:** El gerundio expresa persona mediante su terminación.
 
-<!-- VISUAL PENDIENTE: t36-59-formas-no-personales.webp -->
+<!-- VISUAL:t36-59-formas-no-personales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-59-formas-no-personales.webp" alt="Formas no personales" width="820">
+</p>
+<p align="center"><em>Infografía: Formas no personales.</em></p>
 
 :::hablemos-claro
 Son verbos sin matrícula personal: conservan capacidad verbal, pero no flexión de persona.
@@ -2034,7 +2270,11 @@ Para dominar **gerundio simple y compuesto**, aplica esta regla: El gerundio aco
 - **Incorrecto:** El gerundio compuesto expresa siempre posterioridad.
 - **Incorrecto:** Todo gerundio situado después del verbo principal es incorrecto.
 
-<!-- VISUAL PENDIENTE: t36-60-gerundio-simple-y-compuesto.webp -->
+<!-- VISUAL:t36-60-gerundio-simple-y-compuesto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-60-gerundio-simple-y-compuesto.webp" alt="Gerundio simple y compuesto" width="820">
+</p>
+<p align="center"><em>Infografía: Gerundio simple y compuesto.</em></p>
 
 :::hablemos-claro
 El gerundio acompaña o mira hacia atrás; sospecha cuando intenta narrar una acción posterior independiente.
@@ -2068,7 +2308,11 @@ Para dominar **participio y construcciones de perfecto**, aplica esta regla: Con
 - **Incorrecto:** Con haber, el participio concuerda siempre con el complemento directo.
 - **Incorrecto:** Todo participio irregular excluye cualquier forma regular relacionada.
 
-<!-- VISUAL PENDIENTE: t36-61-participio-y-construcciones-de-perfecto.webp -->
+<!-- VISUAL:t36-61-participio-y-construcciones-de-perfecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-61-participio-y-construcciones-de-perfecto.webp" alt="Participio y construcciones de perfecto" width="820">
+</p>
+<p align="center"><em>Infografía: Participio y construcciones de perfecto.</em></p>
 
 :::hablemos-claro
 Con haber, el participio queda fijo; como adjetivo o pasivo, puede concordar.
@@ -2102,7 +2346,11 @@ Para dominar **presente y pretérito imperfecto**, aplica esta regla: El imperfe
 - **Incorrecto:** El imperfecto expresa siempre una acción breve y concluida.
 - **Incorrecto:** El presente histórico es un tiempo pasado morfológico.
 
-<!-- VISUAL PENDIENTE: t36-62-presente-y-preterito-imperfecto.webp -->
+<!-- VISUAL:t36-62-presente-y-preterito-imperfecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-62-presente-y-preterito-imperfecto.webp" alt="Presente y pretérito imperfecto" width="820">
+</p>
+<p align="center"><em>Infografía: Presente y pretérito imperfecto.</em></p>
 
 :::hablemos-claro
 El imperfecto abre una ventana dentro del pasado; el perfecto simple suele mostrar el hecho cerrado.
@@ -2136,7 +2384,11 @@ Para dominar **pretérito perfecto simple y compuesto**, aplica esta regla: Amba
 - **Incorrecto:** He cantado es una forma simple.
 - **Incorrecto:** Canté expresa obligatoriamente un pasado sin ninguna consecuencia presente.
 
-<!-- VISUAL PENDIENTE: t36-63-preterito-perfecto-simple-y-compuesto.webp -->
+<!-- VISUAL:t36-63-preterito-perfecto-simple-y-compuesto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-63-preterito-perfecto-simple-y-compuesto.webp" alt="Pretérito perfecto simple y compuesto" width="820">
+</p>
+<p align="center"><em>Infografía: Pretérito perfecto simple y compuesto.</em></p>
 
 :::hablemos-claro
 Ambas miran al pasado, pero el compuesto crea un puente con el marco presente en muchos usos.
@@ -2170,7 +2422,11 @@ Para dominar **pluscuamperfecto y pretérito anterior**, aplica esta regla: En l
 - **Incorrecto:** El pluscuamperfecto se forma con presente de haber.
 - **Incorrecto:** El pretérito anterior es la forma de pasado más frecuente en conversación.
 
-<!-- VISUAL PENDIENTE: t36-il-64-pluscuamperfecto-y-preterito-anterior.webp -->
+<!-- VISUAL:t36-il-64-pluscuamperfecto-y-preterito-anterior.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-64-pluscuamperfecto-y-preterito-anterior.webp" alt="Pluscuamperfecto y pretérito anterior" width="820">
+</p>
+<p align="center"><em>Infografía: Pluscuamperfecto y pretérito anterior.</em></p>
 
 :::hablemos-claro
 En la línea del pasado, el pluscuamperfecto coloca un hecho detrás de otro hecho ya pasado.
@@ -2204,7 +2460,11 @@ Para dominar **futuro y condicional**, aplica esta regla: Futuro y condicional t
 - **Incorrecto:** El futuro solo expresa tiempo posterior.
 - **Incorrecto:** El condicional es únicamente un modo independiente ajeno al indicativo en toda tradición.
 
-<!-- VISUAL PENDIENTE: t36-65-futuro-y-condicional.webp -->
+<!-- VISUAL:t36-65-futuro-y-condicional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-65-futuro-y-condicional.webp" alt="Futuro y condicional" width="820">
+</p>
+<p align="center"><em>Infografía: Futuro y condicional.</em></p>
 
 :::hablemos-claro
 Futuro y condicional tienen doble vida: colocan hechos en el tiempo y expresan distancia modal.
@@ -2238,7 +2498,11 @@ Para dominar **tiempos del subjuntivo**, aplica esta regla: Haya más participio
 - **Incorrecto:** Haya investigado es pluscuamperfecto de subjuntivo.
 - **Incorrecto:** Hubiera investigado es pretérito perfecto de subjuntivo.
 
-<!-- VISUAL PENDIENTE: t36-66-tiempos-del-subjuntivo.webp -->
+<!-- VISUAL:t36-66-tiempos-del-subjuntivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-66-tiempos-del-subjuntivo.webp" alt="Tiempos del subjuntivo" width="820">
+</p>
+<p align="center"><em>Infografía: Tiempos del subjuntivo.</em></p>
 
 :::hablemos-claro
 Haya más participio es perfecto; hubiera o hubiese más participio es pluscuamperfecto.
@@ -2272,7 +2536,11 @@ Para dominar **perífrasis verbales**, aplica esta regla: En la perífrasis los 
 - **Incorrecto:** Cualquier verbo seguido de infinitivo forma perífrasis.
 - **Incorrecto:** Las perífrasis carecen de significado modal o aspectual.
 
-<!-- VISUAL PENDIENTE: t36-67-perifrasis-verbales.webp -->
+<!-- VISUAL:t36-67-perifrasis-verbales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-67-perifrasis-verbales.webp" alt="Perífrasis verbales" width="820">
+</p>
+<p align="center"><em>Infografía: Perífrasis verbales.</em></p>
 
 :::hablemos-claro
 En la perífrasis los dos verbos conducen un solo vehículo predicativo.
@@ -2306,7 +2574,11 @@ Para dominar **verbos copulativos y predicativos**, aplica esta regla: Copulativ
 - **Incorrecto:** Todo uso de ser es auxiliar de pasiva.
 - **Incorrecto:** Los verbos copulativos forman siempre predicados sin atributo.
 
-<!-- VISUAL PENDIENTE: t36-68-verbos-copulativos-y-predicativos.webp -->
+<!-- VISUAL:t36-68-verbos-copulativos-y-predicativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-68-verbos-copulativos-y-predicativos.webp" alt="Verbos copulativos y predicativos" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos copulativos y predicativos.</em></p>
 
 :::hablemos-claro
 Copulativo enlaza sujeto y atributo; predicativo aporta por sí mismo la escena principal.
@@ -2340,7 +2612,11 @@ Para dominar **transitividad e intransitividad**, aplica esta regla: Clasifica l
 - **Incorrecto:** Un verbo transitivo debe llevar siempre complemento directo expreso.
 - **Incorrecto:** Cada verbo pertenece sin excepciones a una sola clase de transitividad.
 
-<!-- VISUAL PENDIENTE: t36-69-transitividad-e-intransitividad.webp -->
+<!-- VISUAL:t36-69-transitividad-e-intransitividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-69-transitividad-e-intransitividad.webp" alt="Transitividad e intransitividad" width="820">
+</p>
+<p align="center"><em>Infografía: Transitividad e intransitividad.</em></p>
 
 :::hablemos-claro
 Clasifica la acepción y la construcción, no una palabra aislada ni la presencia visible de un CD.
@@ -2374,7 +2650,11 @@ Para dominar **verbos pronominales e impersonales**, aplica esta regla: Pronomin
 - **Incorrecto:** Todo verbo con se es reflexivo.
 - **Incorrecto:** En había muchas personas, muchas personas es sujeto plural.
 
-<!-- VISUAL PENDIENTE: t36-70-verbos-pronominales-e-impersonales.webp -->
+<!-- VISUAL:t36-70-verbos-pronominales-e-impersonales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-70-verbos-pronominales-e-impersonales.webp" alt="Verbos pronominales e impersonales" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos pronominales e impersonales.</em></p>
 
 :::hablemos-claro
 Pronominal lleva clítico; impersonal no lleva sujeto. Son diagnósticos distintos.
@@ -2408,7 +2688,11 @@ Para dominar **verbos incoativos, causativos y frecuentativos**, aplica esta reg
 - **Incorrecto:** Incoativo significa acción repetida.
 - **Incorrecto:** Causativo es sinónimo de verbo sin complemento directo.
 
-<!-- VISUAL PENDIENTE: t36-71-verbos-incoativos-causativos-y-frecuentativos.webp -->
+<!-- VISUAL:t36-71-verbos-incoativos-causativos-y-frecuentativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-71-verbos-incoativos-causativos-y-frecuentativos.webp" alt="Verbos incoativos, causativos y frecuentativos" width="820">
+</p>
+<p align="center"><em>Infografía: Verbos incoativos, causativos y frecuentativos.</em></p>
 
 :::hablemos-claro
 Incoativo enciende la acción, causativo la provoca y frecuentativo la repite.
@@ -2442,7 +2726,11 @@ Para dominar **la preposición**, aplica esta regla: La preposición abre una re
 - **Incorrecto:** La preposición concuerda con su término.
 - **Incorrecto:** Toda preposición introduce únicamente sustantivos aislados.
 
-<!-- VISUAL PENDIENTE: t36-72-la-preposicion.webp -->
+<!-- VISUAL:t36-72-la-preposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-72-la-preposicion.webp" alt="La preposición" width="820">
+</p>
+<p align="center"><em>Infografía: La preposición.</em></p>
 
 :::hablemos-claro
 La preposición abre una relación y exige mirar qué término introduce y de qué núcleo depende.
@@ -2476,7 +2764,11 @@ Para dominar **inventario de preposiciones**, aplica esta regla: Aprende el inve
 - **Incorrecto:** Durante y mediante son siempre participios y nunca preposiciones.
 - **Incorrecto:** Cabe y so son las preposiciones más frecuentes del español actual.
 
-<!-- VISUAL PENDIENTE: t36-il-73-inventario-de-preposiciones.webp -->
+<!-- VISUAL:t36-il-73-inventario-de-preposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-73-inventario-de-preposiciones.webp" alt="Inventario de preposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: Inventario de preposiciones.</em></p>
 
 :::hablemos-claro
 Aprende el inventario vigente, pero distingue presencia en la lista y frecuencia real de uso.
@@ -2510,7 +2802,11 @@ Para dominar **contracciones al y del**, aplica esta regla: Comprueba si el es a
 - **Incorrecto:** Al puede proceder de a más él.
 - **Incorrecto:** Toda secuencia de más el debe escribirse del incluso ante nombres propios.
 
-<!-- VISUAL PENDIENTE: t36-74-contracciones-al-y-del.webp -->
+<!-- VISUAL:t36-74-contracciones-al-y-del.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-74-contracciones-al-y-del.webp" alt="Contracciones al y del" width="820">
+</p>
+<p align="center"><em>Infografía: Contracciones al y del.</em></p>
 
 :::hablemos-claro
 Comprueba si el es artículo común, artículo de nombre propio o pronombre él antes de contraer.
@@ -2544,7 +2840,11 @@ Para dominar **locuciones preposicionales**, aplica esta regla: Locución es pue
 - **Incorrecto:** Toda expresión de varias palabras es locución preposicional.
 - **Incorrecto:** Las locuciones preposicionales carecen de término.
 
-<!-- VISUAL PENDIENTE: t36-75-locuciones-preposicionales.webp -->
+<!-- VISUAL:t36-75-locuciones-preposicionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-75-locuciones-preposicionales.webp" alt="Locuciones preposicionales" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones preposicionales.</em></p>
 
 :::hablemos-claro
 Locución es puente fijo de varias piezas: debe funcionar globalmente y conservar un término.
@@ -2578,7 +2878,11 @@ Para dominar **la conjunción**, aplica esta regla: Conjunción es enlace; relat
 - **Incorrecto:** Toda conjunción introduce subordinación.
 - **Incorrecto:** Que conjunción desempeña siempre complemento directo dentro de la subordinada.
 
-<!-- VISUAL PENDIENTE: t36-76-la-conjuncion.webp -->
+<!-- VISUAL:t36-76-la-conjuncion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-76-la-conjuncion.webp" alt="La conjunción" width="820">
+</p>
+<p align="center"><em>Infografía: La conjunción.</em></p>
 
 :::hablemos-claro
 Conjunción es enlace; relativo es enlace y además ocupa un puesto dentro de su oración.
@@ -2612,7 +2916,11 @@ Para dominar **conjunciones coordinantes**, aplica esta regla: Coordinar es pone
 - **Incorrecto:** E y u forman una clase coordinante distinta de y y o.
 - **Incorrecto:** Sino y si no son siempre grafías intercambiables.
 
-<!-- VISUAL PENDIENTE: t36-77-conjunciones-coordinantes.webp -->
+<!-- VISUAL:t36-77-conjunciones-coordinantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-77-conjunciones-coordinantes.webp" alt="Conjunciones coordinantes" width="820">
+</p>
+<p align="center"><em>Infografía: Conjunciones coordinantes.</em></p>
 
 :::hablemos-claro
 Coordinar es poner unidades al mismo nivel: suma, alternativa o contraste.
@@ -2646,7 +2954,11 @@ Para dominar **conjunciones subordinantes**, aplica esta regla: Primero identifi
 - **Incorrecto:** Si introduce exclusivamente condicionales.
 - **Incorrecto:** Aunque es siempre coordinante adversativa.
 
-<!-- VISUAL PENDIENTE: t36-78-conjunciones-subordinantes.webp -->
+<!-- VISUAL:t36-78-conjunciones-subordinantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-78-conjunciones-subordinantes.webp" alt="Conjunciones subordinantes" width="820">
+</p>
+<p align="center"><em>Infografía: Conjunciones subordinantes.</em></p>
 
 :::hablemos-claro
 Primero identifica si la oración depende; después nombra la relación de significado.
@@ -2680,7 +2992,11 @@ Para dominar **locuciones conjuntivas y enlaces complejos**, aplica esta regla: 
 - **Incorrecto:** Toda expresión terminada en que es locución conjuntiva.
 - **Incorrecto:** Los conectores discursivos y las conjunciones ocupan siempre el mismo lugar sintáctico.
 
-<!-- VISUAL PENDIENTE: t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp -->
+<!-- VISUAL:t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp" alt="Locuciones conjuntivas y enlaces complejos" width="820">
+</p>
+<p align="center"><em>Infografía: Locuciones conjuntivas y enlaces complejos.</em></p>
 
 :::hablemos-claro
 Una locución conjuntiva actúa como una bisagra fija; el conector organiza el discurso en otro nivel.
@@ -2714,7 +3030,11 @@ Para dominar **la sintaxis y sus unidades**, aplica esta regla: No leas la oraci
 - **Incorrecto:** Analizar sintaxis consiste solo en etiquetar palabras una a una.
 - **Incorrecto:** El orden lineal demuestra por sí mismo todas las dependencias.
 
-<!-- VISUAL PENDIENTE: t36-80-la-sintaxis-y-sus-unidades.webp -->
+<!-- VISUAL:t36-80-la-sintaxis-y-sus-unidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-80-la-sintaxis-y-sus-unidades.webp" alt="La sintaxis y sus unidades" width="820">
+</p>
+<p align="center"><em>Infografía: La sintaxis y sus unidades.</em></p>
 
 :::hablemos-claro
 No leas la oración como una fila plana: agrupa piezas y descubre quién depende de quién.
@@ -2748,7 +3068,11 @@ Para dominar **grupos sintácticos y núcleo**, aplica esta regla: Busca el núc
 - **Incorrecto:** Un grupo exige al menos dos palabras.
 - **Incorrecto:** Un grupo que funciona como sujeto se denomina siempre grupo sujeto.
 
-<!-- VISUAL PENDIENTE: t36-81-grupos-sintacticos-y-nucleo.webp -->
+<!-- VISUAL:t36-81-grupos-sintacticos-y-nucleo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-81-grupos-sintacticos-y-nucleo.webp" alt="Grupos sintácticos y núcleo" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos sintácticos y núcleo.</em></p>
 
 :::hablemos-claro
 Busca el núcleo para nombrar el grupo; busca la relación con el verbo para nombrar la función.
@@ -2782,7 +3106,11 @@ Para dominar **sujeto y predicado**, aplica esta regla: La concordancia es la pr
 - **Incorrecto:** El sujeto es siempre la primera palabra.
 - **Incorrecto:** Toda oración debe contener sujeto expreso.
 
-<!-- VISUAL PENDIENTE: t36-82-sujeto-y-predicado.webp -->
+<!-- VISUAL:t36-82-sujeto-y-predicado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-82-sujeto-y-predicado.webp" alt="Sujeto y predicado" width="820">
+</p>
+<p align="center"><em>Infografía: Sujeto y predicado.</em></p>
 
 :::hablemos-claro
 La concordancia es la prueba principal; el orden y la pregunta quién pueden engañar.
@@ -2816,7 +3144,11 @@ Para dominar **complemento directo**, aplica esta regla: Usa varias pruebas: cl�
 - **Incorrecto:** Todo grupo con a es complemento indirecto.
 - **Incorrecto:** El complemento directo nunca puede referirse a persona.
 
-<!-- VISUAL PENDIENTE: t36-83-complemento-directo.webp -->
+<!-- VISUAL:t36-83-complemento-directo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-83-complemento-directo.webp" alt="Complemento directo" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento directo.</em></p>
 
 :::hablemos-claro
 Usa varias pruebas: clítico acusativo, pasiva posible y selección del verbo; ninguna pregunta aislada basta.
@@ -2850,7 +3182,11 @@ Para dominar **complemento indirecto**, aplica esta regla: El dativo le/les es l
 - **Incorrecto:** El complemento indirecto se sustituye por lo o la.
 - **Incorrecto:** Cualquier grupo introducido por para es CI.
 
-<!-- VISUAL PENDIENTE: t36-84-complemento-indirecto.webp -->
+<!-- VISUAL:t36-84-complemento-indirecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-84-complemento-indirecto.webp" alt="Complemento indirecto" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento indirecto.</em></p>
 
 :::hablemos-claro
 El dativo le/les es la huella más estable; a y para por sí solas no resuelven el análisis.
@@ -2884,7 +3220,11 @@ Para dominar **complemento de régimen**, aplica esta regla: Pregunta si la prep
 - **Incorrecto:** Todo grupo preposicional es complemento de régimen.
 - **Incorrecto:** Un verbo con complemento de régimen nunca admite complemento directo.
 
-<!-- VISUAL PENDIENTE: t36-85-complemento-de-regimen.webp -->
+<!-- VISUAL:t36-85-complemento-de-regimen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-85-complemento-de-regimen.webp" alt="Complemento de régimen" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento de régimen.</em></p>
 
 :::hablemos-claro
 Pregunta si la preposición viene impuesta por el núcleo, no si la frase responde a una pregunta memorizada.
@@ -2918,7 +3258,11 @@ Para dominar **atributo y verbos copulativos**, aplica esta regla: El atributo c
 - **Incorrecto:** El atributo es siempre un adjetivo.
 - **Incorrecto:** El atributo concuerda siempre en género y número sin excepción.
 
-<!-- VISUAL PENDIENTE: t36-86-atributo-y-verbos-copulativos.webp -->
+<!-- VISUAL:t36-86-atributo-y-verbos-copulativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-86-atributo-y-verbos-copulativos.webp" alt="Atributo y verbos copulativos" width="820">
+</p>
+<p align="center"><em>Infografía: Atributo y verbos copulativos.</em></p>
 
 :::hablemos-claro
 El atributo completa la predicación copulativa; no lo identifiques solo por su categoría.
@@ -2952,7 +3296,11 @@ Para dominar **complemento predicativo**, aplica esta regla: Predicativo lanza d
 - **Incorrecto:** Todo adjetivo tras un verbo es atributo.
 - **Incorrecto:** El predicativo nunca concuerda con ningún sustantivo.
 
-<!-- VISUAL PENDIENTE: t36-87-complemento-predicativo.webp -->
+<!-- VISUAL:t36-87-complemento-predicativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-87-complemento-predicativo.webp" alt="Complemento predicativo" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento predicativo.</em></p>
 
 :::hablemos-claro
 Predicativo lanza dos flechas: hacia el verbo y hacia el participante descrito.
@@ -2986,7 +3334,11 @@ Para dominar **complementos circunstanciales y adjuntos**, aplica esta regla: Un
 - **Incorrecto:** Todo elemento opcional es circunstancial de modo.
 - **Incorrecto:** Los circunstanciales solo pueden ser adverbios.
 
-<!-- VISUAL PENDIENTE: t36-il-88-complementos-circunstanciales-y-adjuntos.webp -->
+<!-- VISUAL:t36-il-88-complementos-circunstanciales-y-adjuntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-88-complementos-circunstanciales-y-adjuntos.webp" alt="Complementos circunstanciales y adjuntos" width="820">
+</p>
+<p align="center"><em>Infografía: Complementos circunstanciales y adjuntos.</em></p>
 
 :::hablemos-claro
 Un circunstancial añade marco a la escena; antes de etiquetarlo, comprueba a qué nivel se une.
@@ -3020,7 +3372,11 @@ Para dominar **complemento agente y pasiva**, aplica esta regla: Solo hay agente
 - **Incorrecto:** Todo grupo introducido por por es complemento agente.
 - **Incorrecto:** La pasiva exige complemento agente expreso.
 
-<!-- VISUAL PENDIENTE: t36-89-complemento-agente-y-pasiva.webp -->
+<!-- VISUAL:t36-89-complemento-agente-y-pasiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-89-complemento-agente-y-pasiva.webp" alt="Complemento agente y pasiva" width="820">
+</p>
+<p align="center"><em>Infografía: Complemento agente y pasiva.</em></p>
 
 :::hablemos-claro
 Solo hay agente si hay pasiva: por no entrega automáticamente esa función.
@@ -3054,7 +3410,11 @@ Para dominar **enunciado, oración y proposición**, aplica esta regla: Enunciad
 - **Incorrecto:** Todo enunciado es necesariamente una oración con verbo.
 - **Incorrecto:** Proposición tiene una única definición universal en todas las gramáticas.
 
-<!-- VISUAL PENDIENTE: t36-90-enunciado-oracion-y-proposicion.webp -->
+<!-- VISUAL:t36-90-enunciado-oracion-y-proposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-90-enunciado-oracion-y-proposicion.webp" alt="Enunciado, oración y proposición" width="820">
+</p>
+<p align="center"><em>Infografía: Enunciado, oración y proposición.</em></p>
 
 :::hablemos-claro
 Enunciado mira la comunicación; oración mira la estructura predicativa.
@@ -3088,7 +3448,11 @@ Para dominar **modalidad oracional**, aplica esta regla: La modalidad es la inte
 - **Incorrecto:** Modalidad y tipo de predicado son la misma clasificación.
 - **Incorrecto:** Toda interrogativa funciona necesariamente como petición real de información.
 
-<!-- VISUAL PENDIENTE: t36-91-modalidad-oracional.webp -->
+<!-- VISUAL:t36-91-modalidad-oracional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-91-modalidad-oracional.webp" alt="Modalidad oracional" width="820">
+</p>
+<p align="center"><em>Infografía: Modalidad oracional.</em></p>
 
 :::hablemos-claro
 La modalidad es la intención con uniforme gramatical; el contexto puede cambiar la misión.
@@ -3122,7 +3486,11 @@ Para dominar **oraciones personales e impersonales**, aplica esta regla: Sujeto 
 - **Incorrecto:** Sujeto tácito e impersonalidad son sinónimos.
 - **Incorrecto:** En hay problemas, problemas es sujeto.
 
-<!-- VISUAL PENDIENTE: t36-92-oraciones-personales-e-impersonales.webp -->
+<!-- VISUAL:t36-92-oraciones-personales-e-impersonales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-92-oraciones-personales-e-impersonales.webp" alt="Oraciones personales e impersonales" width="820">
+</p>
+<p align="center"><em>Infografía: Oraciones personales e impersonales.</em></p>
 
 :::hablemos-claro
 Sujeto oculto existe; en la impersonal no hay sujeto que recuperar.
@@ -3156,7 +3524,11 @@ Para dominar **activas, pasivas y medias**, aplica esta regla: Pasiva perifrást
 - **Incorrecto:** Toda oración con se es pasiva refleja.
 - **Incorrecto:** La pasiva perifrástica se forma con estar más gerundio.
 
-<!-- VISUAL PENDIENTE: t36-93-activas-pasivas-y-medias.webp -->
+<!-- VISUAL:t36-93-activas-pasivas-y-medias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-93-activas-pasivas-y-medias.webp" alt="Activas, pasivas y medias" width="820">
+</p>
+<p align="center"><em>Infografía: Activas, pasivas y medias.</em></p>
 
 :::hablemos-claro
 Pasiva perifrástica usa ser; pasiva refleja usa se y concordancia; impersonal con se no tiene sujeto.
@@ -3190,7 +3562,11 @@ Para dominar **oraciones simples y compuestas**, aplica esta regla: Cuenta predi
 - **Incorrecto:** Cada forma verbal equivale automáticamente a una oración independiente.
 - **Incorrecto:** Una oración con perífrasis es siempre coordinada.
 
-<!-- VISUAL PENDIENTE: t36-94-oraciones-simples-y-compuestas.webp -->
+<!-- VISUAL:t36-94-oraciones-simples-y-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-94-oraciones-simples-y-compuestas.webp" alt="Oraciones simples y compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Oraciones simples y compuestas.</em></p>
 
 :::hablemos-claro
 Cuenta predicaciones y relaciones, no verbos gráficos sin analizar.
@@ -3224,7 +3600,11 @@ Para dominar **coordinación y yuxtaposición**, aplica esta regla: Coordinació
 - **Incorrecto:** En toda coordinación un miembro funciona como complemento del otro.
 - **Incorrecto:** Yuxtaposición significa ausencia de relación semántica.
 
-<!-- VISUAL PENDIENTE: t36-95-coordinacion-y-yuxtaposicion.webp -->
+<!-- VISUAL:t36-95-coordinacion-y-yuxtaposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-95-coordinacion-y-yuxtaposicion.webp" alt="Coordinación y yuxtaposición" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación y yuxtaposición.</em></p>
 
 :::hablemos-claro
 Coordinación pone dos vagones al mismo nivel; yuxtaposición elimina la pieza de enlace visible.
@@ -3258,7 +3638,11 @@ Para dominar **subordinadas sustantivas**, aplica esta regla: Sustituye el bloqu
 - **Incorrecto:** Toda subordinada sustantiva funciona como complemento directo.
 - **Incorrecto:** Que conjuntivo es siempre sujeto de su subordinada.
 
-<!-- VISUAL PENDIENTE: t36-96-subordinadas-sustantivas.webp -->
+<!-- VISUAL:t36-96-subordinadas-sustantivas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-96-subordinadas-sustantivas.webp" alt="Subordinadas sustantivas" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas sustantivas.</em></p>
 
 :::hablemos-claro
 Sustituye el bloque por eso como prueba inicial, pero confirma luego la función exacta.
@@ -3292,7 +3676,11 @@ Para dominar **subordinadas de relativo**, aplica esta regla: Localiza dos cosas
 - **Incorrecto:** El relativo carece de función dentro de su oración.
 - **Incorrecto:** Toda relativa se escribe entre comas.
 
-<!-- VISUAL PENDIENTE: t36-97-subordinadas-de-relativo.webp -->
+<!-- VISUAL:t36-97-subordinadas-de-relativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-97-subordinadas-de-relativo.webp" alt="Subordinadas de relativo" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas de relativo.</em></p>
 
 :::hablemos-claro
 Localiza dos cosas: qué antecedente modifica y qué puesto ocupa el relativo dentro.
@@ -3326,7 +3714,11 @@ Para dominar **subordinadas adverbiales y construcciones circunstanciales**, apl
 - **Incorrecto:** Todas las adverbiales pueden sustituirse por un adverbio simple.
 - **Incorrecto:** Causa, condición y concesión poseen idéntica estructura y significado.
 
-<!-- VISUAL PENDIENTE: t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp -->
+<!-- VISUAL:t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp" alt="Subordinadas adverbiales y construcciones circunstanciales" width="820">
+</p>
+<p align="center"><em>Infografía: Subordinadas adverbiales y construcciones circunstanciales.</em></p>
 
 :::hablemos-claro
 La etiqueta tradicional sirve de mapa, pero cada relación necesita su propio análisis.
@@ -3360,7 +3752,11 @@ Para dominar **método de análisis sintáctico**, aplica esta regla: Analiza co
 - **Incorrecto:** La pregunta quién identifica siempre el sujeto.
 - **Incorrecto:** Una sola prueba mecánica basta para demostrar cualquier función.
 
-<!-- VISUAL PENDIENTE: t36-il-99-metodo-de-analisis-sintactico.webp -->
+<!-- VISUAL:t36-il-99-metodo-de-analisis-sintactico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-36/t36-il-99-metodo-de-analisis-sintactico.webp" alt="Método de análisis sintáctico" width="820">
+</p>
+<p align="center"><em>Infografía: Método de análisis sintáctico.</em></p>
 
 :::hablemos-claro
 Analiza como un atestado: localiza hechos, agrupa indicios, contrasta varias pruebas y justifica la conclusión.

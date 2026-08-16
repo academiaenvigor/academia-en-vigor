@@ -28,7 +28,11 @@ Para dominar **alcance del tema 35**, aplica esta regla: Primero separa qué sig
 - **Incorrecto:** El tema oficial se limita a enumerar leyes españolas.
 - **Incorrecto:** Toda cifra ambiental conserva validez indefinida.
 
-<!-- VISUAL PENDIENTE: t35-01-alcance-del-tema-35.webp -->
+<!-- VISUAL:t35-01-alcance-del-tema-35.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-01-alcance-del-tema-35.webp" alt="Alcance del Tema 35" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance del Tema 35.</em></p>
 
 :::hablemos-claro
 Primero separa qué significa sostenibilidad, quién coopera, cómo participa la sociedad y qué instrumentos actúan.
@@ -62,7 +66,11 @@ Para dominar **definición del informe brundtland**, aplica esta regla: La idea 
 - **Incorrecto:** Brundtland define sostenibilidad como crecimiento económico sin límites.
 - **Incorrecto:** La definición elimina las necesidades de la generación presente.
 
-<!-- VISUAL PENDIENTE: t35-il-02-definicion-del-informe-brundtland.webp -->
+<!-- VISUAL:t35-il-02-definicion-del-informe-brundtland.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-02-definicion-del-informe-brundtland.webp" alt="Definición del Informe Brundtland" width="820">
+</p>
+<p align="center"><em>Infografía: Definición del Informe Brundtland.</em></p>
 
 :::hablemos-claro
 La idea cabe en una balanza temporal: necesidades de hoy sin vaciar las opciones de mañana.
@@ -96,7 +104,11 @@ Para dominar **tres dimensiones integradas**, aplica esta regla: Un trípode cae
 - **Incorrecto:** Los tres pilares son pasado, presente y futuro.
 - **Incorrecto:** La dimensión económica prevalece siempre sobre las otras dos.
 
-<!-- VISUAL PENDIENTE: t35-03-tres-dimensiones-integradas.webp -->
+<!-- VISUAL:t35-03-tres-dimensiones-integradas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-03-tres-dimensiones-integradas.webp" alt="Tres dimensiones integradas" width="820">
+</p>
+<p align="center"><em>Infografía: Tres dimensiones integradas.</em></p>
 
 :::hablemos-claro
 Un trípode cae si se retira cualquiera de sus patas: economía, sociedad o medio ambiente.
@@ -130,7 +142,11 @@ Para dominar **equidad intra e intergeneracional**, aplica esta regla: Pregunta 
 - **Incorrecto:** Equidad intergeneracional solo compara países actuales.
 - **Incorrecto:** Una carga desplazada geográficamente deja de contar.
 
-<!-- VISUAL PENDIENTE: t35-04-equidad-intra-e-intergeneracional.webp -->
+<!-- VISUAL:t35-04-equidad-intra-e-intergeneracional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-04-equidad-intra-e-intergeneracional.webp" alt="Equidad intra e intergeneracional" width="820">
+</p>
+<p align="center"><em>Infografía: Equidad intra e intergeneracional.</em></p>
 
 :::hablemos-claro
 Pregunta siempre quién recibe el beneficio, quién soporta el coste y en qué momento.
@@ -164,7 +180,11 @@ Para dominar **necesidades, límites y tecnología**, aplica esta regla: Tecnolo
 - **Incorrecto:** La tecnología elimina automáticamente todos los límites ecológicos.
 - **Incorrecto:** Las necesidades esenciales ocupan un lugar secundario en la definición.
 
-<!-- VISUAL PENDIENTE: t35-il-05-necesidades-limites-y-tecnologia.webp -->
+<!-- VISUAL:t35-il-05-necesidades-limites-y-tecnologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-05-necesidades-limites-y-tecnologia.webp" alt="Necesidades, límites y tecnología" width="820">
+</p>
+<p align="center"><em>Infografía: Necesidades, límites y tecnología.</em></p>
 
 :::hablemos-claro
 Tecnología amplía opciones; no sustituye límites, reglas ni distribución justa.
@@ -198,7 +218,11 @@ Para dominar **prevención, precaución y corrección en la fuente**, aplica est
 - **Incorrecto:** Precaución exige certeza científica absoluta antes de actuar.
 - **Incorrecto:** Corregir en la fuente significa trasladar el residuo a otro territorio.
 
-<!-- VISUAL PENDIENTE: t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp -->
+<!-- VISUAL:t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-06-prevencion-precaucion-y-correccion-en-la-fuente.webp" alt="Prevención, precaución y corrección en la fuente" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención, precaución y corrección en la fuente.</em></p>
 
 :::hablemos-claro
 Prevención evita; precaución gestiona incertidumbre; corrección ataca el origen.
@@ -232,7 +256,11 @@ Para dominar **quien contamina paga**, aplica esta regla: La factura ambiental d
 - **Incorrecto:** Pagar una tasa autoriza cualquier nivel de contaminación.
 - **Incorrecto:** El principio obliga siempre al consumidor final aunque no cause el daño.
 
-<!-- VISUAL PENDIENTE: t35-07-quien-contamina-paga.webp -->
+<!-- VISUAL:t35-07-quien-contamina-paga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-07-quien-contamina-paga.webp" alt="Quien contamina paga" width="820">
+</p>
+<p align="center"><em>Infografía: Quien contamina paga.</em></p>
 
 :::hablemos-claro
 La factura ambiental debe acercarse a quien genera el riesgo, sin convertir el pago en permiso.
@@ -266,7 +294,11 @@ Para dominar **indicadores: pib, idh y huella ambiental**, aplica esta regla: Ca
 - **Incorrecto:** El IDH incluye directamente todas las variables ambientales.
 - **Incorrecto:** Un PIB mayor demuestra automáticamente mayor sostenibilidad.
 
-<!-- VISUAL PENDIENTE: t35-08-indicadores-pib-idh-y-huella-ambiental.webp -->
+<!-- VISUAL:t35-08-indicadores-pib-idh-y-huella-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-08-indicadores-pib-idh-y-huella-ambiental.webp" alt="Indicadores: PIB, IDH y huella ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores: PIB, IDH y huella ambiental.</em></p>
 
 :::hablemos-claro
 Cada indicador ilumina una parte del cuadro; confundirlo con el cuadro entero produce errores.
@@ -300,7 +332,11 @@ Para dominar **conferencia de estocolmo de 1972**, aplica esta regla: Estocolmo 
 - **Incorrecto:** Estocolmo aprobó el Acuerdo de París.
 - **Incorrecto:** La conferencia se celebró en 1992 en Río de Janeiro.
 
-<!-- VISUAL PENDIENTE: t35-09-conferencia-de-estocolmo-de-1972.webp -->
+<!-- VISUAL:t35-09-conferencia-de-estocolmo-de-1972.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-09-conferencia-de-estocolmo-de-1972.webp" alt="Conferencia de Estocolmo de 1972" width="820">
+</p>
+<p align="center"><em>Infografía: Conferencia de Estocolmo de 1972.</em></p>
 
 :::hablemos-claro
 Estocolmo abre la puerta; Río integra ambiente y desarrollo; París organiza la acción climática común.
@@ -334,7 +370,11 @@ Para dominar **programa de las naciones unidas para el medio ambiente**, aplica 
 - **Incorrecto:** El PNUMA tiene sede en Copenhague.
 - **Incorrecto:** El PNUMA dicta leyes directamente aplicables en todos los países.
 
-<!-- VISUAL PENDIENTE: t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp -->
+<!-- VISUAL:t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-10-programa-de-las-naciones-unidas-para-el-medio-ambiente.webp" alt="Programa de las Naciones Unidas para el Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Programa de las Naciones Unidas para el Medio Ambiente.</em></p>
 
 :::hablemos-claro
 El PNUMA coordina, informa y cataliza; no sustituye la soberanía ni los tratados.
@@ -368,7 +408,11 @@ Para dominar **cumbre de río de 1992**, aplica esta regla: No memorices Río co
 - **Incorrecto:** Río de 1992 adoptó los 17 ODS.
 - **Incorrecto:** Todos los documentos de Río tienen idéntica fuerza vinculante.
 
-<!-- VISUAL PENDIENTE: t35-11-cumbre-de-rio-de-1992.webp -->
+<!-- VISUAL:t35-11-cumbre-de-rio-de-1992.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-11-cumbre-de-rio-de-1992.webp" alt="Cumbre de Río de 1992" width="820">
+</p>
+<p align="center"><em>Infografía: Cumbre de Río de 1992.</em></p>
 
 :::hablemos-claro
 No memorices Río como un solo documento: declaración, programa y convenios cumplen funciones distintas.
@@ -402,7 +446,11 @@ Para dominar **declaración de río y participación social**, aplica esta regla
 - **Incorrecto:** La participación ambiental nació en el Protocolo de Kioto.
 - **Incorrecto:** Participar significa que cualquier alegación obliga a la Administración.
 
-<!-- VISUAL PENDIENTE: t35-12-declaracion-de-rio-y-participacion-social.webp -->
+<!-- VISUAL:t35-12-declaracion-de-rio-y-participacion-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-12-declaracion-de-rio-y-participacion-social.webp" alt="Declaración de Río y participación social" width="820">
+</p>
+<p align="center"><em>Infografía: Declaración de Río y participación social.</em></p>
 
 :::hablemos-claro
 Participar no es decidir automáticamente: es poder conocer, intervenir a tiempo y obtener respuesta.
@@ -436,7 +484,11 @@ Para dominar **convención marco sobre cambio climático**, aplica esta regla: L
 - **Incorrecto:** La CMNUCC fue adoptada en la COP21 de 2015.
 - **Incorrecto:** La Convención fija una sanción penal mundial uniforme.
 
-<!-- VISUAL PENDIENTE: t35-13-convencion-marco-sobre-cambio-climatico.webp -->
+<!-- VISUAL:t35-13-convencion-marco-sobre-cambio-climatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-13-convencion-marco-sobre-cambio-climatico.webp" alt="Convención Marco sobre Cambio Climático" width="820">
+</p>
+<p align="center"><em>Infografía: Convención Marco sobre Cambio Climático.</em></p>
 
 :::hablemos-claro
 La Convención construye el marco; Kioto y París desarrollan compromisos dentro de él.
@@ -470,7 +522,11 @@ Para dominar **conferencias de las partes**, aplica esta regla: COP es la reuni�
 - **Incorrecto:** COP significa Comité Operativo Permanente.
 - **Incorrecto:** Toda decisión de una COP modifica automáticamente las leyes nacionales.
 
-<!-- VISUAL PENDIENTE: t35-il-14-conferencias-de-las-partes.webp -->
+<!-- VISUAL:t35-il-14-conferencias-de-las-partes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-14-conferencias-de-las-partes.webp" alt="Conferencias de las Partes" width="820">
+</p>
+<p align="center"><em>Infografía: Conferencias de las Partes.</em></p>
 
 :::hablemos-claro
 COP es la reunión; el tratado es el instrumento; la entrada en vigor es otro hito.
@@ -504,7 +560,11 @@ Para dominar **ipcc: función y productos**, aplica esta regla: El IPCC evalúa 
 - **Incorrecto:** El IPCC negocia y ratifica tratados climáticos.
 - **Incorrecto:** Sus informes son leyes vinculantes para los Estados.
 
-<!-- VISUAL PENDIENTE: t35-15-ipcc-funcion-y-productos.webp -->
+<!-- VISUAL:t35-15-ipcc-funcion-y-productos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-15-ipcc-funcion-y-productos.webp" alt="IPCC: función y productos" width="820">
+</p>
+<p align="center"><em>Infografía: IPCC: función y productos.</em></p>
 
 :::hablemos-claro
 El IPCC evalúa ciencia; la CMNUCC negocia política internacional.
@@ -538,7 +598,11 @@ Para dominar **protocolo de kioto**, aplica esta regla: Kioto reparte compromiso
 - **Incorrecto:** Kioto entró en vigor el día de su adopción en 1997.
 - **Incorrecto:** Kioto impuso el mismo objetivo numérico a todos los países.
 
-<!-- VISUAL PENDIENTE: t35-16-protocolo-de-kioto.webp -->
+<!-- VISUAL:t35-16-protocolo-de-kioto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-16-protocolo-de-kioto.webp" alt="Protocolo de Kioto" width="820">
+</p>
+<p align="center"><em>Infografía: Protocolo de Kioto.</em></p>
 
 :::hablemos-claro
 Kioto reparte compromisos desde anexos; París pide contribuciones nacionales a todas las Partes.
@@ -572,7 +636,11 @@ Para dominar **adopción y entrada en vigor del acuerdo de parís**, aplica esta
 - **Incorrecto:** El Acuerdo fue aprobado el 22 de abril de 2016.
 - **Incorrecto:** La firma hace automáticamente parte al Estado sin trámite ulterior.
 
-<!-- VISUAL PENDIENTE: t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-17-adopcion-y-entrada-en-vigor-del-acuerdo-de-paris.webp" alt="Adopción y entrada en vigor del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Adopción y entrada en vigor del Acuerdo de París.</em></p>
 
 :::hablemos-claro
 Tres casillas: adopción en 2015, firma en 2016 y entrada en vigor en noviembre de 2016.
@@ -606,7 +674,11 @@ Para dominar **partes del acuerdo de parís en 2026**, aplica esta regla: No mez
 - **Incorrecto:** La lista de firmantes de 2016 y la de Partes de 2026 son idénticas por definición.
 - **Incorrecto:** Una retirada borra el hecho histórico de una firma anterior.
 
-<!-- VISUAL PENDIENTE: t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp -->
+<!-- VISUAL:t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-18-partes-del-acuerdo-de-paris-en-2026.webp" alt="Partes del Acuerdo de París en 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Partes del Acuerdo de París en 2026.</em></p>
 
 :::hablemos-claro
 No mezcles fotografía histórica de firmantes con estado jurídico actual de Partes.
@@ -640,7 +712,11 @@ Para dominar **objetivos de temperatura del acuerdo de parís**, aplica esta reg
 - **Incorrecto:** El único objetivo es exactamente 2 °C.
 - **Incorrecto:** El Acuerdo asigna el mismo porcentaje de reducción a todos los Estados.
 
-<!-- VISUAL PENDIENTE: t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-19-objetivos-de-temperatura-del-acuerdo-de-paris.webp" alt="Objetivos de temperatura del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivos de temperatura del Acuerdo de París.</em></p>
 
 :::hablemos-claro
 La trampa está en las palabras: muy por debajo de 2 °C y esfuerzos hacia 1,5 °C.
@@ -674,7 +750,11 @@ Para dominar **contribuciones determinadas a nivel nacional**, aplica esta regla
 - **Incorrecto:** La secretaría de la CMNUCC impone una NDC idéntica a cada país.
 - **Incorrecto:** Una NDC se presenta una sola vez y queda congelada.
 
-<!-- VISUAL PENDIENTE: t35-20-contribuciones-determinadas-a-nivel-nacional.webp -->
+<!-- VISUAL:t35-20-contribuciones-determinadas-a-nivel-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-20-contribuciones-determinadas-a-nivel-nacional.webp" alt="Contribuciones determinadas a nivel nacional" width="820">
+</p>
+<p align="center"><em>Infografía: Contribuciones determinadas a nivel nacional.</em></p>
 
 :::hablemos-claro
 París combina obligación de participar en el ciclo con contenido nacionalmente determinado.
@@ -708,7 +788,11 @@ Para dominar **marco reforzado de transparencia**, aplica esta regla: Promesa si
 - **Incorrecto:** Transparencia se limita a publicar el texto inicial de la NDC.
 - **Incorrecto:** La revisión técnica impone automáticamente multas internacionales.
 
-<!-- VISUAL PENDIENTE: t35-21-marco-reforzado-de-transparencia.webp -->
+<!-- VISUAL:t35-21-marco-reforzado-de-transparencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-21-marco-reforzado-de-transparencia.webp" alt="Marco reforzado de transparencia" width="820">
+</p>
+<p align="center"><em>Infografía: Marco reforzado de transparencia.</em></p>
 
 :::hablemos-claro
 Promesa sin medición es opaca; transparencia conecta objetivo, datos y revisión.
@@ -742,7 +826,11 @@ Para dominar **balance mundial del acuerdo de parís**, aplica esta regla: El ba
 - **Incorrecto:** El balance mundial sustituye a todas las NDC nacionales.
 - **Incorrecto:** Evalúa únicamente a un Estado cada vez.
 
-<!-- VISUAL PENDIENTE: t35-22-balance-mundial-del-acuerdo-de-paris.webp -->
+<!-- VISUAL:t35-22-balance-mundial-del-acuerdo-de-paris.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-22-balance-mundial-del-acuerdo-de-paris.webp" alt="Balance mundial del Acuerdo de París" width="820">
+</p>
+<p align="center"><em>Infografía: Balance mundial del Acuerdo de París.</em></p>
 
 :::hablemos-claro
 El balance mira al conjunto; las NDC siguen siendo nacionales.
@@ -776,7 +864,11 @@ Para dominar **adaptación, financiación y pérdidas y daños**, aplica esta re
 - **Incorrecto:** Adaptación significa únicamente reducir emisiones.
 - **Incorrecto:** Pérdidas y daños es otro nombre de la NDC.
 
-<!-- VISUAL PENDIENTE: t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp -->
+<!-- VISUAL:t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-23-adaptacion-financiacion-y-perdidas-y-danos.webp" alt="Adaptación, financiación y pérdidas y daños" width="820">
+</p>
+<p align="center"><em>Infografía: Adaptación, financiación y pérdidas y daños.</em></p>
 
 :::hablemos-claro
 Mitigar frena causas; adaptar reduce daño; pérdidas y daños atiende impactos restantes.
@@ -810,7 +902,11 @@ Para dominar **agenda 2030: adopción y estructura**, aplica esta regla: Diecisi
 - **Incorrecto:** La Agenda 2030 contiene 15 objetivos.
 - **Incorrecto:** Los ODS solo se aplican a países en desarrollo.
 
-<!-- VISUAL PENDIENTE: t35-24-agenda-2030-adopcion-y-estructura.webp -->
+<!-- VISUAL:t35-24-agenda-2030-adopcion-y-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-24-agenda-2030-adopcion-y-estructura.webp" alt="Agenda 2030: adopción y estructura" width="820">
+</p>
+<p align="center"><em>Infografía: Agenda 2030: adopción y estructura.</em></p>
 
 :::hablemos-claro
 Diecisiete objetivos forman una red: avanzar en uno puede apoyar o tensionar otros.
@@ -844,7 +940,11 @@ Para dominar **las cinco p de la agenda 2030**, aplica esta regla: Cinco P orden
 - **Incorrecto:** Las cinco P son prevención, precaución, pago, planeta y policía.
 - **Incorrecto:** Las alianzas eliminan la responsabilidad de los poderes públicos.
 
-<!-- VISUAL PENDIENTE: t35-25-las-cinco-p-de-la-agenda-2030.webp -->
+<!-- VISUAL:t35-25-las-cinco-p-de-la-agenda-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-25-las-cinco-p-de-la-agenda-2030.webp" alt="Las cinco P de la Agenda 2030" width="820">
+</p>
+<p align="center"><em>Infografía: Las cinco P de la Agenda 2030.</em></p>
 
 :::hablemos-claro
 Cinco P ordenan el relato; diecisiete ODS contienen los objetivos concretos.
@@ -878,7 +978,11 @@ Para dominar **ods ambientales directos y transversales**, aplica esta regla: Ap
 - **Incorrecto:** Educación en el voluntariado es uno de los 17 ODS.
 - **Incorrecto:** Solo el ODS 13 tiene relación ambiental.
 
-<!-- VISUAL PENDIENTE: t35-26-ods-ambientales-directos-y-transversales.webp -->
+<!-- VISUAL:t35-26-ods-ambientales-directos-y-transversales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-26-ods-ambientales-directos-y-transversales.webp" alt="ODS ambientales directos y transversales" width="820">
+</p>
+<p align="center"><em>Infografía: ODS ambientales directos y transversales.</em></p>
 
 :::hablemos-claro
 Aprende los ambientales como ecosistema, no como islas: agua, energía, ciudad, consumo, clima, mar y tierra.
@@ -912,7 +1016,11 @@ Para dominar **metas, indicadores y seguimiento**, aplica esta regla: Dirección
 - **Incorrecto:** Objetivo, meta e indicador son tres nombres de la misma unidad.
 - **Incorrecto:** Un dato aislado sin metodología basta para certificar un ODS.
 
-<!-- VISUAL PENDIENTE: t35-27-metas-indicadores-y-seguimiento.webp -->
+<!-- VISUAL:t35-27-metas-indicadores-y-seguimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-27-metas-indicadores-y-seguimiento.webp" alt="Metas, indicadores y seguimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Metas, indicadores y seguimiento.</em></p>
 
 :::hablemos-claro
 Dirección, destino medible y termómetro: objetivo, meta e indicador.
@@ -946,7 +1054,11 @@ Para dominar **agencia europea de medio ambiente**, aplica esta regla: AEMA obse
 - **Incorrecto:** La AEMA tiene sede en Dublín.
 - **Incorrecto:** La AEMA aprueba reglamentos obligatorios por sí sola.
 
-<!-- VISUAL PENDIENTE: t35-il-28-agencia-europea-de-medio-ambiente.webp -->
+<!-- VISUAL:t35-il-28-agencia-europea-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-28-agencia-europea-de-medio-ambiente.webp" alt="Agencia Europea de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Agencia Europea de Medio Ambiente.</em></p>
 
 :::hablemos-claro
 AEMA observa y explica; Comisión, Parlamento y Consejo participan en la legislación.
@@ -980,7 +1092,11 @@ Para dominar **ley europea del clima**, aplica esta regla: Distingue objetivo co
 - **Incorrecto:** La neutralidad climática de la UE está fijada para 2030.
 - **Incorrecto:** Cada Estado debe reducir exactamente un 55 % por aplicación directa del objetivo colectivo.
 
-<!-- VISUAL PENDIENTE: t35-29-ley-europea-del-clima.webp -->
+<!-- VISUAL:t35-29-ley-europea-del-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-29-ley-europea-del-clima.webp" alt="Ley Europea del Clima" width="820">
+</p>
+<p align="center"><em>Infografía: Ley Europea del Clima.</em></p>
 
 :::hablemos-claro
 Distingue objetivo colectivo de la UE y reparto mediante legislación sectorial y planes nacionales.
@@ -1014,7 +1130,11 @@ Para dominar **principios ambientales de la unión europea**, aplica esta regla:
 - **Incorrecto:** La política ambiental de la UE exige protección idéntica sin atender regiones.
 - **Incorrecto:** Quien contamina paga elimina prevención y precaución.
 
-<!-- VISUAL PENDIENTE: t35-30-principios-ambientales-de-la-union-europea.webp -->
+<!-- VISUAL:t35-30-principios-ambientales-de-la-union-europea.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-30-principios-ambientales-de-la-union-europea.webp" alt="Principios ambientales de la Unión Europea" width="820">
+</p>
+<p align="center"><em>Infografía: Principios ambientales de la Unión Europea.</em></p>
 
 :::hablemos-claro
 Cuatro anclas de examen: cautela, prevención, fuente y contaminador.
@@ -1048,7 +1168,11 @@ Para dominar **programa life 2021-2027**, aplica esta regla: LIFE financia acci�
 - **Incorrecto:** LIFE es una norma ISO de certificación ambiental.
 - **Incorrecto:** Recibir financiación LIFE exime de cumplir legislación nacional.
 
-<!-- VISUAL PENDIENTE: t35-31-programa-life-2021-2027.webp -->
+<!-- VISUAL:t35-31-programa-life-2021-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-31-programa-life-2021-2027.webp" alt="Programa LIFE 2021-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Programa LIFE 2021-2027.</em></p>
 
 :::hablemos-claro
 LIFE financia acción; no concede inmunidad regulatoria.
@@ -1082,7 +1206,11 @@ Para dominar **artículo 45 de la constitución**, aplica esta regla: Tres pelda
 - **Incorrecto:** El artículo 45 reconoce un derecho sin deber correlativo.
 - **Incorrecto:** Toda infracción ambiental es necesariamente delito.
 
-<!-- VISUAL PENDIENTE: t35-32-articulo-45-de-la-constitucion.webp -->
+<!-- VISUAL:t35-32-articulo-45-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-32-articulo-45-de-la-constitucion.webp" alt="Artículo 45 de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Artículo 45 de la Constitución.</em></p>
 
 :::hablemos-claro
 Tres peldaños: derecho y deber; mandato público; sanción y reparación según la ley.
@@ -1116,7 +1244,11 @@ Para dominar **consejo de desarrollo sostenible**, aplica esta regla: Consejo si
 - **Incorrecto:** El Consejo aprueba leyes y sanciona incumplimientos de ODS.
 - **Incorrecto:** Es un órgano exclusivo de administraciones sin sociedad civil.
 
-<!-- VISUAL PENDIENTE: t35-il-33-consejo-de-desarrollo-sostenible.webp -->
+<!-- VISUAL:t35-il-33-consejo-de-desarrollo-sostenible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-33-consejo-de-desarrollo-sostenible.webp" alt="Consejo de Desarrollo Sostenible" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Desarrollo Sostenible.</em></p>
 
 :::hablemos-claro
 Consejo significa participación y propuesta; no dirección ejecutiva.
@@ -1150,7 +1282,11 @@ Para dominar **consejo nacional del clima**, aplica esta regla: Consejo particip
 - **Incorrecto:** La Oficina Española de Cambio Climático es el foro plural de participación.
 - **Incorrecto:** El Consejo Nacional del Clima es un tribunal especializado.
 
-<!-- VISUAL PENDIENTE: t35-34-consejo-nacional-del-clima.webp -->
+<!-- VISUAL:t35-34-consejo-nacional-del-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-34-consejo-nacional-del-clima.webp" alt="Consejo Nacional del Clima" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Nacional del Clima.</em></p>
 
 :::hablemos-claro
 Consejo participa; comisión coordina; oficina trabaja técnicamente dentro de la Administración.
@@ -1184,7 +1320,11 @@ Para dominar **coordinación climática administrativa**, aplica esta regla: Par
 - **Incorrecto:** Todos los órganos climáticos tienen idéntica composición y función.
 - **Incorrecto:** La coordinación territorial corresponde exclusivamente al Consejo Nacional del Clima.
 
-<!-- VISUAL PENDIENTE: t35-35-coordinacion-climatica-administrativa.webp -->
+<!-- VISUAL:t35-35-coordinacion-climatica-administrativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-35-coordinacion-climatica-administrativa.webp" alt="Coordinación climática administrativa" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación climática administrativa.</em></p>
 
 :::hablemos-claro
 Para acertar, empareja verbo y órgano: participar, coordinar o ejecutar técnicamente.
@@ -1218,7 +1358,11 @@ Para dominar **distribución de competencias ambientales**, aplica esta regla: L
 - **Incorrecto:** La protección ambiental es competencia exclusiva y total de un único nivel territorial.
 - **Incorrecto:** La legislación básica impide toda norma autonómica adicional de protección.
 
-<!-- VISUAL PENDIENTE: t35-36-distribucion-de-competencias-ambientales.webp -->
+<!-- VISUAL:t35-36-distribucion-de-competencias-ambientales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-36-distribucion-de-competencias-ambientales.webp" alt="Distribución de competencias ambientales" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de competencias ambientales.</em></p>
 
 :::hablemos-claro
 La materia es multinivel: base estatal, desarrollo y gestión autonómica, actuación local.
@@ -1252,7 +1396,11 @@ Para dominar **consumo, producción y externalidades**, aplica esta regla: Si el
 - **Incorrecto:** Una externalidad siempre beneficia a quien no participa.
 - **Incorrecto:** La única respuesta posible a toda externalidad es prohibir la actividad.
 
-<!-- VISUAL PENDIENTE: t35-37-consumo-produccion-y-externalidades.webp -->
+<!-- VISUAL:t35-37-consumo-produccion-y-externalidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-37-consumo-produccion-y-externalidades.webp" alt="Consumo, producción y externalidades" width="820">
+</p>
+<p align="center"><em>Infografía: Consumo, producción y externalidades.</em></p>
 
 :::hablemos-claro
 Si el precio no contiene el daño, alguien más recibe la factura.
@@ -1286,7 +1434,11 @@ Para dominar **transición justa**, aplica esta regla: Cambiar el motor sin deja
 - **Incorrecto:** Transición justa significa aplazar toda reducción de emisiones.
 - **Incorrecto:** Solo se refiere a compensar a empresas energéticas.
 
-<!-- VISUAL PENDIENTE: t35-il-38-transicion-justa.webp -->
+<!-- VISUAL:t35-il-38-transicion-justa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-38-transicion-justa.webp" alt="Transición justa" width="820">
+</p>
+<p align="center"><em>Infografía: Transición justa.</em></p>
 
 :::hablemos-claro
 Cambiar el motor sin dejar a personas y territorios tirados en la carretera.
@@ -1320,7 +1472,11 @@ Para dominar **justicia ambiental**, aplica esta regla: Tres preguntas: quién c
 - **Incorrecto:** Justicia ambiental se limita a calcular multas.
 - **Incorrecto:** Participación y distribución son cuestiones completamente ajenas.
 
-<!-- VISUAL PENDIENTE: t35-39-justicia-ambiental.webp -->
+<!-- VISUAL:t35-39-justicia-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-39-justicia-ambiental.webp" alt="Justicia ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Justicia ambiental.</em></p>
 
 :::hablemos-claro
 Tres preguntas: quién carga, quién habla y a quién se reconoce.
@@ -1354,7 +1510,11 @@ Para dominar **información y alfabetización ambiental**, aplica esta regla: Da
 - **Incorrecto:** Cualquier volcado de datos garantiza comprensión pública.
 - **Incorrecto:** La educación ambiental reemplaza toda regulación obligatoria.
 
-<!-- VISUAL PENDIENTE: t35-40-informacion-y-alfabetizacion-ambiental.webp -->
+<!-- VISUAL:t35-40-informacion-y-alfabetizacion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-40-informacion-y-alfabetizacion-ambiental.webp" alt="Información y alfabetización ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Información y alfabetización ambiental.</em></p>
 
 :::hablemos-claro
 Dato, contexto y capacidad de uso: si falta uno, la información pierde fuerza.
@@ -1388,7 +1548,11 @@ Para dominar **participación temprana y efectiva**, aplica esta regla: Particip
 - **Incorrecto:** La participación puede abrirse después de adoptar definitivamente el plan.
 - **Incorrecto:** Toda observación ciudadana tiene poder de veto.
 
-<!-- VISUAL PENDIENTE: t35-41-participacion-temprana-y-efectiva.webp -->
+<!-- VISUAL:t35-41-participacion-temprana-y-efectiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-41-participacion-temprana-y-efectiva.webp" alt="Participación temprana y efectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Participación temprana y efectiva.</em></p>
 
 :::hablemos-claro
 Participar a tiempo puede cambiar la ruta; participar después solo describe el viaje.
@@ -1422,7 +1586,11 @@ Para dominar **compra pública verde**, aplica esta regla: Comprar no solo el ob
 - **Incorrecto:** Compra verde permite exigir cualquier marca concreta sin justificación.
 - **Incorrecto:** El precio de adquisición es siempre el único coste relevante.
 
-<!-- VISUAL PENDIENTE: t35-42-compra-publica-verde.webp -->
+<!-- VISUAL:t35-42-compra-publica-verde.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-42-compra-publica-verde.webp" alt="Compra pública verde" width="820">
+</p>
+<p align="center"><em>Infografía: Compra pública verde.</em></p>
 
 :::hablemos-claro
 Comprar no solo el objeto: también energía, mantenimiento, duración y final de vida.
@@ -1456,7 +1624,11 @@ Para dominar **empresa, cumplimiento y desempeño**, aplica esta regla: El certi
 - **Incorrecto:** Tener un certificado prueba que la organización nunca contamina.
 - **Incorrecto:** La gestión ambiental voluntaria sustituye permisos y límites legales.
 
-<!-- VISUAL PENDIENTE: t35-il-43-empresa-cumplimiento-y-desempeno.webp -->
+<!-- VISUAL:t35-il-43-empresa-cumplimiento-y-desempeno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-43-empresa-cumplimiento-y-desempeno.webp" alt="Empresa, cumplimiento y desempeño" width="820">
+</p>
+<p align="center"><em>Infografía: Empresa, cumplimiento y desempeño.</em></p>
 
 :::hablemos-claro
 El certificado acredita un sistema dentro de alcance; no santifica cada producto ni resultado.
@@ -1490,7 +1662,11 @@ Para dominar **greenwashing y alegaciones ambientales**, aplica esta regla: Ante
 - **Incorrecto:** Una alegación ambiental es fiable por usar color verde.
 - **Incorrecto:** Reducir un impacto permite afirmar impacto ambiental cero.
 
-<!-- VISUAL PENDIENTE: t35-44-greenwashing-y-alegaciones-ambientales.webp -->
+<!-- VISUAL:t35-44-greenwashing-y-alegaciones-ambientales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-44-greenwashing-y-alegaciones-ambientales.webp" alt="Greenwashing y alegaciones ambientales" width="820">
+</p>
+<p align="center"><em>Infografía: Greenwashing y alegaciones ambientales.</em></p>
 
 :::hablemos-claro
 Antes de creer una etiqueta, pide cuatro cosas: qué, cuánto, desde cuándo y con qué método.
@@ -1524,7 +1700,11 @@ Para dominar **objeto y principios de la ley 42/2007**, aplica esta regla: Conse
 - **Incorrecto:** La Ley 42/2007 prohíbe todo uso humano de recursos naturales.
 - **Incorrecto:** La geodiversidad queda fuera de su objeto.
 
-<!-- VISUAL PENDIENTE: t35-45-objeto-y-principios-de-la-ley-42-2007.webp -->
+<!-- VISUAL:t35-45-objeto-y-principios-de-la-ley-42-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-45-objeto-y-principios-de-la-ley-42-2007.webp" alt="Objeto y principios de la Ley 42/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y principios de la Ley 42/2007.</em></p>
 
 :::hablemos-claro
 Conservar no es congelar: es mantener diversidad, procesos y opciones de uso compatibles.
@@ -1558,7 +1738,11 @@ Para dominar **conceptos de biodiversidad y patrimonio natural**, aplica esta re
 - **Incorrecto:** Biodiversidad significa únicamente número de especies.
 - **Incorrecto:** Conservación ex situ se realiza siempre dentro del hábitat natural.
 
-<!-- VISUAL PENDIENTE: t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp -->
+<!-- VISUAL:t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-46-conceptos-de-biodiversidad-y-patrimonio-natural.webp" alt="Conceptos de biodiversidad y patrimonio natural" width="820">
+</p>
+<p align="center"><em>Infografía: Conceptos de biodiversidad y patrimonio natural.</em></p>
 
 :::hablemos-claro
 Genes, especies y ecosistemas forman la biodiversidad; rocas y procesos aportan geodiversidad.
@@ -1592,7 +1776,11 @@ Para dominar **inventario español del patrimonio natural y biodiversidad**, apl
 - **Incorrecto:** El Inventario declara por sí solo todos los espacios protegidos.
 - **Incorrecto:** Solo contiene mapas geológicos y excluye especies.
 
-<!-- VISUAL PENDIENTE: t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp -->
+<!-- VISUAL:t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-47-inventario-espanol-del-patrimonio-natural-y-biodiversidad.webp" alt="Inventario Español del Patrimonio Natural y Biodiversidad" width="820">
+</p>
+<p align="center"><em>Infografía: Inventario Español del Patrimonio Natural y Biodiversidad.</em></p>
 
 :::hablemos-claro
 Inventariar es saber qué existe, dónde, en qué estado y cómo cambia.
@@ -1626,7 +1814,11 @@ Para dominar **plan estratégico estatal a 2030**, aplica esta regla: La fecha c
 - **Incorrecto:** El plan estatal vigente sigue siendo el de 2011-2017.
 - **Incorrecto:** El Plan a 2030 fue aprobado por una norma ISO.
 
-<!-- VISUAL PENDIENTE: t35-il-48-plan-estrategico-estatal-a-2030.webp -->
+<!-- VISUAL:t35-il-48-plan-estrategico-estatal-a-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-48-plan-estrategico-estatal-a-2030.webp" alt="Plan Estratégico Estatal a 2030" width="820">
+</p>
+<p align="center"><em>Infografía: Plan Estratégico Estatal a 2030.</em></p>
 
 :::hablemos-claro
 La fecha clave es 2030: el plan de 2011-2017 ya fue expresamente derogado.
@@ -1660,7 +1852,11 @@ Para dominar **planes de ordenación de los recursos naturales**, aplica esta re
 - **Incorrecto:** PORN significa Programa Operativo de Residuos Nacionales.
 - **Incorrecto:** Un plan urbanístico incompatible prevalece siempre sobre el PORN.
 
-<!-- VISUAL PENDIENTE: t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp -->
+<!-- VISUAL:t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-49-planes-de-ordenacion-de-los-recursos-naturales.webp" alt="Planes de Ordenación de los Recursos Naturales" width="820">
+</p>
+<p align="center"><em>Infografía: Planes de Ordenación de los Recursos Naturales.</em></p>
 
 :::hablemos-claro
 El PORN lee el territorio antes de decidir qué usos caben y bajo qué límites.
@@ -1694,7 +1890,11 @@ Para dominar **espacios naturales protegidos**, aplica esta regla: Cinco figuras
 - **Incorrecto:** Todos los espacios protegidos se denominan parques nacionales.
 - **Incorrecto:** La declaración carece de efectos sobre usos y actividades.
 
-<!-- VISUAL PENDIENTE: t35-50-espacios-naturales-protegidos.webp -->
+<!-- VISUAL:t35-50-espacios-naturales-protegidos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-50-espacios-naturales-protegidos.webp" alt="Espacios naturales protegidos" width="820">
+</p>
+<p align="center"><em>Infografía: Espacios naturales protegidos.</em></p>
 
 :::hablemos-claro
 Cinco figuras no son cinco nombres decorativos: cada una protege algo y condiciona usos.
@@ -1728,7 +1928,11 @@ Para dominar **red natura 2000**, aplica esta regla: LIC conduce a ZEC; ZEPA pro
 - **Incorrecto:** Red Natura 2000 está formada solo por parques nacionales.
 - **Incorrecto:** Un LIC y una ZEPA son términos idénticos.
 
-<!-- VISUAL PENDIENTE: t35-51-red-natura-2000.webp -->
+<!-- VISUAL:t35-51-red-natura-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-51-red-natura-2000.webp" alt="Red Natura 2000" width="820">
+</p>
+<p align="center"><em>Infografía: Red Natura 2000.</em></p>
 
 :::hablemos-claro
 LIC conduce a ZEC; ZEPA protege aves: dos puertas de entrada a una misma red.
@@ -1762,7 +1966,11 @@ Para dominar **evaluación de repercusiones en red natura 2000**, aplica esta re
 - **Incorrecto:** Todo proyecto dentro de Red Natura está prohibido sin evaluación.
 - **Incorrecto:** Las medidas compensatorias sustituyen siempre el análisis de alternativas.
 
-<!-- VISUAL PENDIENTE: t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp -->
+<!-- VISUAL:t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-52-evaluacion-de-repercusiones-en-red-natura-2000.webp" alt="Evaluación de repercusiones en Red Natura 2000" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de repercusiones en Red Natura 2000.</em></p>
 
 :::hablemos-claro
 Primero evita daño; la excepción no es atajo y exige una cadena reforzada de condiciones.
@@ -1796,7 +2004,11 @@ Para dominar **listado y catálogo de especies amenazadas**, aplica esta regla: 
 - **Incorrecto:** Vulnerable exige plan de recuperación y en peligro plan de conservación.
 - **Incorrecto:** El Catálogo incluye toda especie silvestre existente en España.
 
-<!-- VISUAL PENDIENTE: t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp -->
+<!-- VISUAL:t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-53-listado-y-catalogo-de-especies-amenazadas.webp" alt="Listado y Catálogo de especies amenazadas" width="820">
+</p>
+<p align="center"><em>Infografía: Listado y Catálogo de especies amenazadas.</em></p>
 
 :::hablemos-claro
 Recuperación para peligro; conservación para vulnerable: emparejamiento clásico de examen.
@@ -1830,7 +2042,11 @@ Para dominar **especies exóticas invasoras**, aplica esta regla: Fuera de área
 - **Incorrecto:** Toda especie exótica es invasora por definición.
 - **Incorrecto:** Una especie autóctona puede incluirse como exótica por aumentar su población.
 
-<!-- VISUAL PENDIENTE: t35-54-especies-exoticas-invasoras.webp -->
+<!-- VISUAL:t35-54-especies-exoticas-invasoras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-54-especies-exoticas-invasoras.webp" alt="Especies exóticas invasoras" width="820">
+</p>
+<p align="center"><em>Infografía: Especies exóticas invasoras.</em></p>
 
 :::hablemos-claro
 Fuera de área no basta; invasora añade amenaza ecológica.
@@ -1864,7 +2080,11 @@ Para dominar **corredores ecológicos y conectividad**, aplica esta regla: No ba
 - **Incorrecto:** Un corredor es una carretera destinada a visitar espacios protegidos.
 - **Incorrecto:** Conectar dos áreas compensa cualquier destrucción de sus núcleos.
 
-<!-- VISUAL PENDIENTE: t35-il-55-corredores-ecologicos-y-conectividad.webp -->
+<!-- VISUAL:t35-il-55-corredores-ecologicos-y-conectividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-55-corredores-ecologicos-y-conectividad.webp" alt="Corredores ecológicos y conectividad" width="820">
+</p>
+<p align="center"><em>Infografía: Corredores ecológicos y conectividad.</em></p>
 
 :::hablemos-claro
 No basta conservar islas verdes: las especies necesitan puentes funcionales.
@@ -1898,7 +2118,11 @@ Para dominar **áreas protegidas por instrumentos internacionales**, aplica esta
 - **Incorrecto:** Ramsar protege exclusivamente bosques de montaña.
 - **Incorrecto:** Toda Reserva de Biosfera es automáticamente parque nacional.
 
-<!-- VISUAL PENDIENTE: t35-56-areas-protegidas-por-instrumentos-internacionales.webp -->
+<!-- VISUAL:t35-56-areas-protegidas-por-instrumentos-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-56-areas-protegidas-por-instrumentos-internacionales.webp" alt="Áreas protegidas por instrumentos internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Áreas protegidas por instrumentos internacionales.</em></p>
 
 :::hablemos-claro
 La etiqueta internacional añade marco y compromiso; no borra la figura jurídica nacional concreta.
@@ -1932,7 +2156,11 @@ Para dominar **objeto de la ley 45/2007**, aplica esta regla: Rural sostenible u
 - **Incorrecto:** La Ley 45/2007 regula solo subvenciones agrícolas.
 - **Incorrecto:** Su objeto excluye servicios públicos y cohesión territorial.
 
-<!-- VISUAL PENDIENTE: t35-57-objeto-de-la-ley-45-2007.webp -->
+<!-- VISUAL:t35-57-objeto-de-la-ley-45-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-57-objeto-de-la-ley-45-2007.webp" alt="Objeto de la Ley 45/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la Ley 45/2007.</em></p>
 
 :::hablemos-claro
 Rural sostenible une actividad, población, servicios y territorio.
@@ -1966,7 +2194,11 @@ Para dominar **medio rural, zona rural y municipio pequeño**, aplica esta regla
 - **Incorrecto:** Medio rural, zona rural y municipio pequeño son sinónimos jurídicos.
 - **Incorrecto:** Una zona rural debe coincidir siempre con una provincia completa.
 
-<!-- VISUAL PENDIENTE: t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp -->
+<!-- VISUAL:t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-58-medio-rural-zona-rural-y-municipio-pequeno.webp" alt="Medio rural, zona rural y municipio pequeño" width="820">
+</p>
+<p align="center"><em>Infografía: Medio rural, zona rural y municipio pequeño.</em></p>
 
 :::hablemos-claro
 Espacio general, zona de actuación y municipio: tres escalas, tres definiciones.
@@ -2000,7 +2232,11 @@ Para dominar **programa de desarrollo rural sostenible**, aplica esta regla: La 
 - **Incorrecto:** El Programa lo aprueba cada ayuntamiento mediante ordenanza.
 - **Incorrecto:** El primer período conocido continúa automáticamente sin actualización.
 
-<!-- VISUAL PENDIENTE: t35-59-programa-de-desarrollo-rural-sostenible.webp -->
+<!-- VISUAL:t35-59-programa-de-desarrollo-rural-sostenible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-59-programa-de-desarrollo-rural-sostenible.webp" alt="Programa de Desarrollo Rural Sostenible" width="820">
+</p>
+<p align="center"><em>Infografía: Programa de Desarrollo Rural Sostenible.</em></p>
 
 :::hablemos-claro
 La ley crea el instrumento; cada período y actuación necesita programación vigente.
@@ -2034,7 +2270,11 @@ Para dominar **clasificación de zonas rurales**, aplica esta regla: Aislada, mi
 - **Incorrecto:** Periurbana significa necesariamente despoblada y aislada.
 - **Incorrecto:** Todas las zonas rurales tienen idénticas necesidades y prioridad.
 
-<!-- VISUAL PENDIENTE: t35-60-clasificacion-de-zonas-rurales.webp -->
+<!-- VISUAL:t35-60-clasificacion-de-zonas-rurales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-60-clasificacion-de-zonas-rurales.webp" alt="Clasificación de zonas rurales" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de zonas rurales.</em></p>
 
 :::hablemos-claro
 Aislada, mixta o próxima a ciudad: la clasificación orienta medidas diferentes.
@@ -2068,7 +2308,11 @@ Para dominar **arquitectura de la ley 21/2013**, aplica esta regla: EAE mira el 
 - **Incorrecto:** La evaluación estratégica se reserva a proyectos de obras.
 - **Incorrecto:** Puede evaluarse después de ejecutar el proyecto para convalidarlo.
 
-<!-- VISUAL PENDIENTE: t35-61-arquitectura-de-la-ley-21-2013.webp -->
+<!-- VISUAL:t35-61-arquitectura-de-la-ley-21-2013.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-61-arquitectura-de-la-ley-21-2013.webp" alt="Arquitectura de la Ley 21/2013" width="820">
+</p>
+<p align="center"><em>Infografía: Arquitectura de la Ley 21/2013.</em></p>
 
 :::hablemos-claro
 EAE mira el marco de decisiones; EIA mira el proyecto concreto.
@@ -2102,7 +2346,11 @@ Para dominar **evaluación ambiental estratégica**, aplica esta regla: Estraté
 - **Incorrecto:** La EAE ordinaria termina con declaración de impacto ambiental.
 - **Incorrecto:** El órgano ambiental aprueba siempre el plan en lugar del órgano sustantivo.
 
-<!-- VISUAL PENDIENTE: t35-62-evaluacion-ambiental-estrategica.webp -->
+<!-- VISUAL:t35-62-evaluacion-ambiental-estrategica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-62-evaluacion-ambiental-estrategica.webp" alt="Evaluación ambiental estratégica" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación ambiental estratégica.</em></p>
 
 :::hablemos-claro
 Estratégica produce declaración o informe ambiental estratégico, no DIA.
@@ -2136,7 +2384,11 @@ Para dominar **evaluación de impacto ambiental de proyectos**, aplica esta regl
 - **Incorrecto:** La EIA ordinaria termina con declaración ambiental estratégica.
 - **Incorrecto:** Una DIA favorable autoriza por sí sola cualquier proyecto.
 
-<!-- VISUAL PENDIENTE: t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp -->
+<!-- VISUAL:t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-63-evaluacion-de-impacto-ambiental-de-proyectos.webp" alt="Evaluación de impacto ambiental de proyectos" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de impacto ambiental de proyectos.</em></p>
 
 :::hablemos-claro
 DIA evalúa; la autorización decide dentro de sus condiciones.
@@ -2170,7 +2422,11 @@ Para dominar **órgano ambiental, sustantivo y promotor**, aplica esta regla: Pr
 - **Incorrecto:** El promotor formula la declaración ambiental vinculante para sí mismo.
 - **Incorrecto:** Órgano ambiental y promotor son siempre la misma persona.
 
-<!-- VISUAL PENDIENTE: t35-64-organo-ambiental-sustantivo-y-promotor.webp -->
+<!-- VISUAL:t35-64-organo-ambiental-sustantivo-y-promotor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-64-organo-ambiental-sustantivo-y-promotor.webp" alt="Órgano ambiental, sustantivo y promotor" width="820">
+</p>
+<p align="center"><em>Infografía: Órgano ambiental, sustantivo y promotor.</em></p>
 
 :::hablemos-claro
 Promotor propone; ambiental evalúa; sustantivo decide.
@@ -2204,7 +2460,11 @@ Para dominar **modelo de la ley 26/2007**, aplica esta regla: La ley mira el rec
 - **Incorrecto:** Toda responsabilidad de la ley exige probar culpa.
 - **Incorrecto:** Pagar la sanción sustituye siempre la reparación.
 
-<!-- VISUAL PENDIENTE: t35-65-modelo-de-la-ley-26-2007.webp -->
+<!-- VISUAL:t35-65-modelo-de-la-ley-26-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-65-modelo-de-la-ley-26-2007.webp" alt="Modelo de la Ley 26/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de la Ley 26/2007.</em></p>
 
 :::hablemos-claro
 La ley mira el recurso natural: prevenir, evitar propagación y devolverlo a su estado.
@@ -2238,7 +2498,11 @@ Para dominar **daño medioambiental cubierto**, aplica esta regla: El foco no es
 - **Incorrecto:** La ley cubre cualquier arañazo en un bien privado como daño ambiental.
 - **Incorrecto:** El suelo solo cuenta si se destruye por completo.
 
-<!-- VISUAL PENDIENTE: t35-66-dano-medioambiental-cubierto.webp -->
+<!-- VISUAL:t35-66-dano-medioambiental-cubierto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-66-dano-medioambiental-cubierto.webp" alt="Daño medioambiental cubierto" width="820">
+</p>
+<p align="center"><em>Infografía: Daño medioambiental cubierto.</em></p>
 
 :::hablemos-claro
 El foco no es la indemnización privada: son recursos naturales y servicios protegidos.
@@ -2272,7 +2536,11 @@ Para dominar **amenaza inminente, prevención y evitación**, aplica esta regla:
 - **Incorrecto:** Solo se actúa cuando el daño ya es irreversible.
 - **Incorrecto:** Avisar a la autoridad exime siempre de contener el daño.
 
-<!-- VISUAL PENDIENTE: t35-67-amenaza-inminente-prevencion-y-evitacion.webp -->
+<!-- VISUAL:t35-67-amenaza-inminente-prevencion-y-evitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-67-amenaza-inminente-prevencion-y-evitacion.webp" alt="Amenaza inminente, prevención y evitación" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza inminente, prevención y evitación.</em></p>
 
 :::hablemos-claro
 Prevención va antes del daño; evitación corta su propagación después de empezar.
@@ -2306,7 +2574,11 @@ Para dominar **reparación primaria, complementaria y compensatoria**, aplica es
 - **Incorrecto:** La reparación compensatoria reemplaza siempre la primaria.
 - **Incorrecto:** Complementaria es una multa añadida a favor del Tesoro.
 
-<!-- VISUAL PENDIENTE: t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp -->
+<!-- VISUAL:t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-68-reparacion-primaria-complementaria-y-compensatoria.webp" alt="Reparación primaria, complementaria y compensatoria" width="820">
+</p>
+<p align="center"><em>Infografía: Reparación primaria, complementaria y compensatoria.</em></p>
 
 :::hablemos-claro
 Primaria repara el lugar; complementaria completa; compensatoria cubre el tiempo perdido.
@@ -2340,7 +2612,11 @@ Para dominar **plazo temporal y exclusiones**, aplica esta regla: Treinta años 
 - **Incorrecto:** El plazo máximo general es de cinco años.
 - **Incorrecto:** Quedar fuera de esta ley elimina cualquier otra responsabilidad.
 
-<!-- VISUAL PENDIENTE: t35-69-plazo-temporal-y-exclusiones.webp -->
+<!-- VISUAL:t35-69-plazo-temporal-y-exclusiones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-69-plazo-temporal-y-exclusiones.webp" alt="Plazo temporal y exclusiones" width="820">
+</p>
+<p align="center"><em>Infografía: Plazo temporal y exclusiones.</em></p>
 
 :::hablemos-claro
 Treinta años limita esta ley, no borra por arte de magia todo el ordenamiento.
@@ -2374,7 +2650,11 @@ Para dominar **convenio de aarhus y tres pilares**, aplica esta regla: Saber, pa
 - **Incorrecto:** Los tres pilares son prevención, sanción y auditoría.
 - **Incorrecto:** Aarhus regula únicamente evaluación de proyectos.
 
-<!-- VISUAL PENDIENTE: t35-70-convenio-de-aarhus-y-tres-pilares.webp -->
+<!-- VISUAL:t35-70-convenio-de-aarhus-y-tres-pilares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-70-convenio-de-aarhus-y-tres-pilares.webp" alt="Convenio de Aarhus y tres pilares" width="820">
+</p>
+<p align="center"><em>Infografía: Convenio de Aarhus y tres pilares.</em></p>
 
 :::hablemos-claro
 Saber, participar y recurrir: los tres pilares caben en tres verbos.
@@ -2408,7 +2688,11 @@ Para dominar **acceso a información ambiental**, aplica esta regla: La puerta d
 - **Incorrecto:** Solo puede pedir información quien pruebe un derecho afectado.
 - **Incorrecto:** Toda excepción se aplica automáticamente sin ponderación.
 
-<!-- VISUAL PENDIENTE: t35-71-acceso-a-informacion-ambiental.webp -->
+<!-- VISUAL:t35-71-acceso-a-informacion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-71-acceso-a-informacion-ambiental.webp" alt="Acceso a información ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a información ambiental.</em></p>
 
 :::hablemos-claro
 La puerta de información no exige explicar para qué quieres entrar.
@@ -2442,7 +2726,11 @@ Para dominar **participación en planes y disposiciones**, aplica esta regla: La
 - **Incorrecto:** La audiencia se abre tras la aprobación definitiva.
 - **Incorrecto:** Tener en cuenta significa aceptar literalmente cada alegación.
 
-<!-- VISUAL PENDIENTE: t35-72-participacion-en-planes-y-disposiciones.webp -->
+<!-- VISUAL:t35-72-participacion-en-planes-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-72-participacion-en-planes-y-disposiciones.webp" alt="Participación en planes y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: Participación en planes y disposiciones.</em></p>
 
 :::hablemos-claro
 La participación útil ocurre antes del cierre y deja rastro en la motivación.
@@ -2476,7 +2764,11 @@ Para dominar **acceso a la justicia y acción popular ambiental**, aplica esta r
 - **Incorrecto:** Cualquier sociedad mercantil ejerce acción popular sin requisitos.
 - **Incorrecto:** El acceso a justicia elimina todos los plazos de recurso.
 
-<!-- VISUAL PENDIENTE: t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp -->
+<!-- VISUAL:t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-73-acceso-a-la-justicia-y-accion-popular-ambiental.webp" alt="Acceso a la justicia y acción popular ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a la justicia y acción popular ambiental.</em></p>
 
 :::hablemos-claro
 Aarhus abre la puerta judicial, pero hay que entrar con legitimación y procedimiento correctos.
@@ -2510,7 +2802,11 @@ Para dominar **consejo asesor de medio ambiente**, aplica esta regla: CAMA mira 
 - **Incorrecto:** El Consejo Asesor es un órgano judicial ambiental.
 - **Incorrecto:** Consejo Asesor y Consejo Nacional del Clima son nombres intercambiables.
 
-<!-- VISUAL PENDIENTE: t35-74-consejo-asesor-de-medio-ambiente.webp -->
+<!-- VISUAL:t35-74-consejo-asesor-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-74-consejo-asesor-de-medio-ambiente.webp" alt="Consejo Asesor de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Asesor de Medio Ambiente.</em></p>
 
 :::hablemos-claro
 CAMA mira política ambiental general; CNC enfoca cambio climático.
@@ -2544,7 +2840,11 @@ Para dominar **objeto y principios de la ley 7/2021**, aplica esta regla: Clima 
 - **Incorrecto:** La ley se limita a regular parques eólicos.
 - **Incorrecto:** Su texto inicial de 2021 puede usarse siempre sin revisar modificaciones.
 
-<!-- VISUAL PENDIENTE: t35-75-objeto-y-principios-de-la-ley-7-2021.webp -->
+<!-- VISUAL:t35-75-objeto-y-principios-de-la-ley-7-2021.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-75-objeto-y-principios-de-la-ley-7-2021.webp" alt="Objeto y principios de la Ley 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y principios de la Ley 7/2021.</em></p>
 
 :::hablemos-claro
 Clima exige dos movimientos a la vez: descarbonizar y adaptarse.
@@ -2578,7 +2878,11 @@ Para dominar **objetivos legales y objetivos del pniec**, aplica esta regla: Pri
 - **Incorrecto:** Los porcentajes del PNIEC y del artículo 3 son necesariamente idénticos.
 - **Incorrecto:** Un plan anterior prevalece sobre una ley posterior.
 
-<!-- VISUAL PENDIENTE: t35-76-objetivos-legales-y-objetivos-del-pniec.webp -->
+<!-- VISUAL:t35-76-objetivos-legales-y-objetivos-del-pniec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-76-objetivos-legales-y-objetivos-del-pniec.webp" alt="Objetivos legales y objetivos del PNIEC" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivos legales y objetivos del PNIEC.</em></p>
 
 :::hablemos-claro
 Primero identifica el documento: ley y plan pueden compartir horizonte y tener cifras distintas.
@@ -2612,7 +2916,11 @@ Para dominar **pniec 2023-2030 actualizado**, aplica esta regla: Regla 32-48-43-
 - **Incorrecto:** Los objetivos vigentes siguen siendo 23 %, 42 %, 39,5 % y 74 %.
 - **Incorrecto:** El 81 % se refiere al uso final total de energía.
 
-<!-- VISUAL PENDIENTE: t35-77-pniec-2023-2030-actualizado.webp -->
+<!-- VISUAL:t35-77-pniec-2023-2030-actualizado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-77-pniec-2023-2030-actualizado.webp" alt="PNIEC 2023-2030 actualizado" width="820">
+</p>
+<p align="center"><em>Infografía: PNIEC 2023-2030 actualizado.</em></p>
 
 :::hablemos-claro
 Regla 32-48-43-81: emisiones, energía final renovable, eficiencia y electricidad renovable.
@@ -2646,7 +2954,11 @@ Para dominar **dimensiones y estructura del pniec**, aplica esta regla: Cinco di
 - **Incorrecto:** El PNIEC solo contiene un objetivo de electricidad renovable.
 - **Incorrecto:** La evaluación ambiental estratégica se aplica únicamente a proyectos.
 
-<!-- VISUAL PENDIENTE: t35-il-78-dimensiones-y-estructura-del-pniec.webp -->
+<!-- VISUAL:t35-il-78-dimensiones-y-estructura-del-pniec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-78-dimensiones-y-estructura-del-pniec.webp" alt="Dimensiones y estructura del PNIEC" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensiones y estructura del PNIEC.</em></p>
 
 :::hablemos-claro
 Cinco dimensiones evitan reducir energía y clima a una sola tecnología.
@@ -2680,7 +2992,11 @@ Para dominar **plan nacional de adaptación 2021-2030**, aplica esta regla: Miti
 - **Incorrecto:** El PNACC es el plan de reducción de emisiones del sector eléctrico.
 - **Incorrecto:** Adaptación significa mantener sin cambios todos los sistemas actuales.
 
-<!-- VISUAL PENDIENTE: t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp -->
+<!-- VISUAL:t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-79-plan-nacional-de-adaptacion-2021-2030.webp" alt="Plan Nacional de Adaptación 2021-2030" width="820">
+</p>
+<p align="center"><em>Infografía: Plan Nacional de Adaptación 2021-2030.</em></p>
 
 :::hablemos-claro
 Mitigación cambia la causa; PNACC prepara sistemas y territorios para los impactos.
@@ -2714,7 +3030,11 @@ Para dominar **estrategia de transición justa**, aplica esta regla: La transici
 - **Incorrecto:** La Estrategia sustituye el PNACC.
 - **Incorrecto:** Todo cierre genera por sí solo una indemnización ilimitada.
 
-<!-- VISUAL PENDIENTE: t35-80-estrategia-de-transicion-justa.webp -->
+<!-- VISUAL:t35-80-estrategia-de-transicion-justa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-80-estrategia-de-transicion-justa.webp" alt="Estrategia de Transición Justa" width="820">
+</p>
+<p align="center"><em>Infografía: Estrategia de Transición Justa.</em></p>
 
 :::hablemos-claro
 La transición se planifica con mapa de impactos laborales y territoriales, no solo con objetivos energéticos.
@@ -2748,7 +3068,11 @@ Para dominar **mitigación y adaptación: casos límite**, aplica esta regla: Pr
 - **Incorrecto:** Toda plantación es automáticamente mitigación eficaz.
 - **Incorrecto:** Adaptación y mitigación nunca coinciden en una misma medida.
 
-<!-- VISUAL PENDIENTE: t35-81-mitigacion-y-adaptacion-casos-limite.webp -->
+<!-- VISUAL:t35-81-mitigacion-y-adaptacion-casos-limite.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-81-mitigacion-y-adaptacion-casos-limite.webp" alt="Mitigación y adaptación: casos límite" width="820">
+</p>
+<p align="center"><em>Infografía: Mitigación y adaptación: casos límite.</em></p>
 
 :::hablemos-claro
 Pregunta qué cambia: emisiones y sumideros, o exposición y vulnerabilidad.
@@ -2782,7 +3106,11 @@ Para dominar **sistema de gestión ambiental**, aplica esta regla: El SGA es un 
 - **Incorrecto:** Un SGA es una declaración publicitaria sin procedimientos.
 - **Incorrecto:** El alcance certificado se extiende automáticamente a todas las filiales.
 
-<!-- VISUAL PENDIENTE: t35-82-sistema-de-gestion-ambiental.webp -->
+<!-- VISUAL:t35-82-sistema-de-gestion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-82-sistema-de-gestion-ambiental.webp" alt="Sistema de gestión ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema de gestión ambiental.</em></p>
 
 :::hablemos-claro
 El SGA es un circuito de mando, no una carpeta de buenas intenciones.
@@ -2816,7 +3144,11 @@ Para dominar **iso 14001:2026**, aplica esta regla: La trampa más reciente del 
 - **Incorrecto:** ISO 14001:2015 sigue siendo la edición más reciente en agosto de 2026.
 - **Incorrecto:** ISO 14001 es una ley de la Unión Europea.
 
-<!-- VISUAL PENDIENTE: t35-il-83-iso-14001-2026.webp -->
+<!-- VISUAL:t35-il-83-iso-14001-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-il-83-iso-14001-2026.webp" alt="ISO 14001:2026" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 14001:2026.</em></p>
 
 :::hablemos-claro
 La trampa más reciente del tema: 2015 ya no es la edición vigente.
@@ -2850,7 +3182,11 @@ Para dominar **aspectos, impactos y perspectiva de ciclo de vida**, aplica esta 
 - **Incorrecto:** Aspecto e impacto son sinónimos exactos.
 - **Incorrecto:** Perspectiva de ciclo de vida obliga siempre a realizar un ACV certificado completo.
 
-<!-- VISUAL PENDIENTE: t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp -->
+<!-- VISUAL:t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-84-aspectos-impactos-y-perspectiva-de-ciclo-de-vida.webp" alt="Aspectos, impactos y perspectiva de ciclo de vida" width="820">
+</p>
+<p align="center"><em>Infografía: Aspectos, impactos y perspectiva de ciclo de vida.</em></p>
 
 :::hablemos-claro
 Aspecto es la causa gestionable; impacto es el cambio que provoca.
@@ -2884,7 +3220,11 @@ Para dominar **obligaciones de cumplimiento y objetivos**, aplica esta regla: Ob
 - **Incorrecto:** El certificado sustituye la identificación de requisitos legales.
 - **Incorrecto:** Un objetivo ambiental no necesita responsable, recursos ni seguimiento.
 
-<!-- VISUAL PENDIENTE: t35-85-obligaciones-de-cumplimiento-y-objetivos.webp -->
+<!-- VISUAL:t35-85-obligaciones-de-cumplimiento-y-objetivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-85-obligaciones-de-cumplimiento-y-objetivos.webp" alt="Obligaciones de cumplimiento y objetivos" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de cumplimiento y objetivos.</em></p>
 
 :::hablemos-claro
 Obligación encontrada, aplicabilidad entendida, cumplimiento evaluado y desviación corregida.
@@ -2918,7 +3258,11 @@ Para dominar **control operacional y emergencias**, aplica esta regla: Controla 
 - **Incorrecto:** Externalizar un proceso elimina toda responsabilidad de gestión.
 - **Incorrecto:** Preparación ante emergencias consiste solo en llamar después del incidente.
 
-<!-- VISUAL PENDIENTE: t35-86-control-operacional-y-emergencias.webp -->
+<!-- VISUAL:t35-86-control-operacional-y-emergencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-86-control-operacional-y-emergencias.webp" alt="Control operacional y emergencias" width="820">
+</p>
+<p align="center"><em>Infografía: Control operacional y emergencias.</em></p>
 
 :::hablemos-claro
 Controla lo normal y ensaya lo excepcional.
@@ -2952,7 +3296,11 @@ Para dominar **seguimiento, auditoría y revisión**, aplica esta regla: Medir a
 - **Incorrecto:** La auditoría interna solo puede realizarla la entidad certificadora.
 - **Incorrecto:** La revisión por la dirección se limita a firmar la política inicial.
 
-<!-- VISUAL PENDIENTE: t35-87-seguimiento-auditoria-y-revision.webp -->
+<!-- VISUAL:t35-87-seguimiento-auditoria-y-revision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-87-seguimiento-auditoria-y-revision.webp" alt="Seguimiento, auditoría y revisión" width="820">
+</p>
+<p align="center"><em>Infografía: Seguimiento, auditoría y revisión.</em></p>
 
 :::hablemos-claro
 Medir aporta datos; auditar contrasta; dirección decide cambios.
@@ -2986,7 +3334,11 @@ Para dominar **emas: naturaleza y requisitos**, aplica esta regla: EMAS añade t
 - **Incorrecto:** EMAS es una directiva policial sobre control de masas.
 - **Incorrecto:** EMAS exige solo una declaración publicitaria sin auditoría.
 
-<!-- VISUAL PENDIENTE: t35-88-emas-naturaleza-y-requisitos.webp -->
+<!-- VISUAL:t35-88-emas-naturaleza-y-requisitos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-88-emas-naturaleza-y-requisitos.webp" alt="EMAS: naturaleza y requisitos" width="820">
+</p>
+<p align="center"><em>Infografía: EMAS: naturaleza y requisitos.</em></p>
 
 :::hablemos-claro
 EMAS añade transparencia pública validada y registro a la lógica del sistema de gestión.
@@ -3020,7 +3372,11 @@ Para dominar **iso 14001 y emas**, aplica esta regla: ISO certifica el sistema; 
 - **Incorrecto:** ISO y EMAS son dos nombres del mismo registro europeo.
 - **Incorrecto:** Inscribirse en EMAS elimina la necesidad de cumplir legislación.
 
-<!-- VISUAL PENDIENTE: t35-89-iso-14001-y-emas.webp -->
+<!-- VISUAL:t35-89-iso-14001-y-emas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-89-iso-14001-y-emas.webp" alt="ISO 14001 y EMAS" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 14001 y EMAS.</em></p>
 
 :::hablemos-claro
 ISO certifica el sistema; EMAS registra tras añadir verificación y declaración pública.
@@ -3054,7 +3410,11 @@ Para dominar **jerarquía de residuos y economía circular**, aplica esta regla:
 - **Incorrecto:** La eliminación ocupa el primer lugar de la jerarquía.
 - **Incorrecto:** Economía circular significa únicamente separar residuos domésticos.
 
-<!-- VISUAL PENDIENTE: t35-90-jerarquia-de-residuos-y-economia-circular.webp -->
+<!-- VISUAL:t35-90-jerarquia-de-residuos-y-economia-circular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-90-jerarquia-de-residuos-y-economia-circular.webp" alt="Jerarquía de residuos y economía circular" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de residuos y economía circular.</em></p>
 
 :::hablemos-claro
 La mejor papelera es la que no hizo falta llenar: prevenir precede a reciclar.
@@ -3088,7 +3448,11 @@ Para dominar **prevención y control integrados de la contaminación**, aplica e
 - **Incorrecto:** La autorización integrada solo controla emisiones al aire.
 - **Incorrecto:** Mejor técnica disponible significa la máquina más cara del mercado.
 
-<!-- VISUAL PENDIENTE: t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp -->
+<!-- VISUAL:t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-35/t35-91-prevencion-y-control-integrados-de-la-contaminacion.webp" alt="Prevención y control integrados de la contaminación" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención y control integrados de la contaminación.</em></p>
 
 :::hablemos-claro
 Integrado significa mirar aire, agua, suelo, residuos y energía como un solo sistema.

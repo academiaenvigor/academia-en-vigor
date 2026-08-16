@@ -19,7 +19,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - OSINT constituye un núcleo propio y no una mera lista de buscadores.
 - Surface Web, Deep Web, Dark Web y Dark Net deben diferenciarse por indexación, acceso, contenido e infraestructura.
 
-<!-- VISUAL PENDIENTE: t40-01-alcance-oficial-del-tema-40.webp -->
+<!-- VISUAL:t40-01-alcance-oficial-del-tema-40.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-01-alcance-oficial-del-tema-40.webp" alt="Alcance oficial del Tema 40" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 40.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T40 -->
 
@@ -32,7 +36,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Texto, número, imagen, señal, fecha o coordenada pueden actuar como datos.
 - El valor de un dato depende de su contexto, procedencia, actualidad y relación con una necesidad.
 
-<!-- VISUAL PENDIENTE: t40-02-concepto-de-dato.webp -->
+<!-- VISUAL:t40-02-concepto-de-dato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-02-concepto-de-dato.webp" alt="Concepto de dato" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de dato.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -45,7 +53,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Organizar datos no garantiza que sean verdaderos, completos o relevantes.
 - La información sigue necesitando evaluación y análisis antes de sostener una decisión compleja.
 
-<!-- VISUAL PENDIENTE: t40-03-concepto-de-informacion.webp -->
+<!-- VISUAL:t40-03-concepto-de-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-03-concepto-de-informacion.webp" alt="Concepto de información" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de información.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -58,7 +70,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La inteligencia debe responder a una necesidad o requisito definido.
 - Acumular información sin propósito ni elaboración no produce por sí solo inteligencia.
 
-<!-- VISUAL PENDIENTE: t40-04-concepto-de-inteligencia.webp -->
+<!-- VISUAL:t40-04-concepto-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-04-concepto-de-inteligencia.webp" alt="Concepto de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de inteligencia.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -71,7 +87,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Cada transformación puede descubrir lagunas y exigir nueva obtención.
 - La escalera no convierte una fuente débil en sólida por repetir sus datos.
 
-<!-- VISUAL PENDIENTE: t40-il-05-escalera-dato-informacion-inteligencia.webp -->
+<!-- VISUAL:t40-il-05-escalera-dato-informacion-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-05-escalera-dato-informacion-inteligencia.webp" alt="Escalera dato-información-inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Escalera dato-información-inteligencia.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -84,7 +104,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - No se limita a información secreta ni a delitos organizados.
 - Un producto de inteligencia criminal no sustituye por sí mismo los requisitos de la prueba procesal.
 
-<!-- VISUAL PENDIENTE: t40-06-inteligencia-criminal.webp -->
+<!-- VISUAL:t40-06-inteligencia-criminal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-06-inteligencia-criminal.webp" alt="Inteligencia criminal" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia criminal.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -97,7 +121,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El producto comunica juicios, hallazgos, incertidumbres e implicaciones al destinatario.
 - Confundir proceso y producto oculta dónde se produjo un error o una pérdida de calidad.
 
-<!-- VISUAL PENDIENTE: t40-07-proceso-y-producto-de-inteligencia.webp -->
+<!-- VISUAL:t40-07-proceso-y-producto-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-07-proceso-y-producto-de-inteligencia.webp" alt="Proceso y producto de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Proceso y producto de inteligencia.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -110,7 +138,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El destinatario condiciona profundidad, lenguaje, plazo y formato del producto.
 - Una pregunta mal definida favorece recolección indiscriminada y conclusiones irrelevantes.
 
-<!-- VISUAL PENDIENTE: t40-08-necesidad-requisito-y-destinatario.webp -->
+<!-- VISUAL:t40-08-necesidad-requisito-y-destinatario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-08-necesidad-requisito-y-destinatario.webp" alt="Necesidad, requisito y destinatario" width="820">
+</p>
+<p align="center"><em>Infografía: Necesidad, requisito y destinatario.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -123,7 +155,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una misma fuente puede aportar contenidos de calidad desigual.
 - Varios canales no convierten en independientes dos contenidos que nacen de la misma fuente.
 
-<!-- VISUAL PENDIENTE: t40-09-fuente-dato-y-canal.webp -->
+<!-- VISUAL:t40-09-fuente-dato-y-canal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-09-fuente-dato-y-canal.webp" alt="Fuente, dato y canal" width="820">
+</p>
+<p align="center"><em>Infografía: Fuente, dato y canal.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -136,7 +172,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La confianza depende de la calidad, cantidad, coherencia y actualidad de la base informativa.
 - La ausencia de información no demuestra por sí sola la ausencia del fenómeno investigado.
 
-<!-- VISUAL PENDIENTE: t40-il-10-limites-e-incertidumbre.webp -->
+<!-- VISUAL:t40-il-10-limites-e-incertidumbre.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-10-limites-e-incertidumbre.webp" alt="Límites e incertidumbre" width="820">
+</p>
+<p align="center"><em>Infografía: Límites e incertidumbre.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -149,7 +189,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un producto estratégico puede integrar OSINT, HUMINT, SIGINT y GEOINT.
 - La etiqueta utilizada no sustituye la descripción del alcance real del producto.
 
-<!-- VISUAL PENDIENTE: t40-11-criterios-para-clasificar-inteligencia.webp -->
+<!-- VISUAL:t40-11-criterios-para-clasificar-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-11-criterios-para-clasificar-inteligencia.webp" alt="Criterios para clasificar inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios para clasificar inteligencia.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -162,7 +206,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La cercanía de una persona a los hechos no elimina errores, intereses ni sesgos.
 - La evaluación debe separar fiabilidad de la fuente y validez concreta del contenido.
 
-<!-- VISUAL PENDIENTE: t40-12-humint.webp -->
+<!-- VISUAL:t40-12-humint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-12-humint.webp" alt="HUMINT" width="820">
+</p>
+<p align="center"><em>Infografía: HUMINT.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -175,7 +223,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - OSINT incluye proceso analítico; no equivale a una búsqueda informal.
 - Abierto describe la disponibilidad de la información, no la ausencia de límites legales.
 
-<!-- VISUAL PENDIENTE: t40-13-osint-como-tipologia.webp -->
+<!-- VISUAL:t40-13-osint-como-tipologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-13-osint-como-tipologia.webp" alt="OSINT como tipología" width="820">
+</p>
+<p align="center"><em>Infografía: OSINT como tipología.</em></p>
 
 <!-- FUENTE: ODNI-OSINT-STRATEGY-T40 -->
 
@@ -188,7 +240,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - SIGINT no es sinónimo de OSINT ni de cualquier archivo digital.
 - Su obtención está sujeta al marco competencial y jurídico correspondiente.
 
-<!-- VISUAL PENDIENTE: t40-14-sigint.webp -->
+<!-- VISUAL:t40-14-sigint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-14-sigint.webp" alt="SIGINT" width="820">
+</p>
+<p align="center"><em>Infografía: SIGINT.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -201,7 +257,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una coordenada aislada es un dato; su interpretación dentro de un patrón puede aportar inteligencia.
 - GEOINT puede combinar material abierto con otras fuentes autorizadas.
 
-<!-- VISUAL PENDIENTE: t40-il-15-geoint.webp -->
+<!-- VISUAL:t40-il-15-geoint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-15-geoint.webp" alt="GEOINT" width="820">
+</p>
+<p align="center"><em>Infografía: GEOINT.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -214,7 +274,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Puede orientar prioridades, políticas y distribución de recursos.
 - No se define solo por el volumen del informe, sino por la decisión que apoya.
 
-<!-- VISUAL PENDIENTE: t40-16-inteligencia-estrategica.webp -->
+<!-- VISUAL:t40-16-inteligencia-estrategica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-16-inteligencia-estrategica.webp" alt="Inteligencia estratégica" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia estratégica.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -227,7 +291,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Su horizonte suele ser más próximo que el estratégico sin reducirse al instante táctico.
 - Puede integrar análisis de redes, patrones, riesgos y recursos disponibles.
 
-<!-- VISUAL PENDIENTE: t40-17-inteligencia-operativa.webp -->
+<!-- VISUAL:t40-17-inteligencia-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-17-inteligencia-operativa.webp" alt="Inteligencia operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia operativa.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -240,7 +308,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Lo táctico, operativo y estratégico forman un continuo y pueden retroalimentarse.
 - Un dato urgente no es táctico útil si no se evalúa y contextualiza.
 
-<!-- VISUAL PENDIENTE: t40-18-inteligencia-tactica.webp -->
+<!-- VISUAL:t40-18-inteligencia-tactica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-18-inteligencia-tactica.webp" alt="Inteligencia táctica" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia táctica.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -253,7 +325,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Sus fases interactúan y pueden solaparse o provocar retornos a etapas anteriores.
 - La retroalimentación permite ajustar requisitos, obtención, análisis y difusión.
 
-<!-- VISUAL PENDIENTE: t40-19-que-es-el-ciclo-de-inteligencia.webp -->
+<!-- VISUAL:t40-19-que-es-el-ciclo-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-19-que-es-el-ciclo-de-inteligencia.webp" alt="Qué es el ciclo de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Qué es el ciclo de inteligencia.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -266,7 +342,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un modelo puede integrar tareas que otro representa como fases separadas.
 - En examen debe identificarse primero qué modelo cita el enunciado.
 
-<!-- VISUAL PENDIENTE: t40-il-20-modelos-de-cuatro-y-seis-fases.webp -->
+<!-- VISUAL:t40-il-20-modelos-de-cuatro-y-seis-fases.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-20-modelos-de-cuatro-y-seis-fases.webp" alt="Modelos de cuatro y seis fases" width="820">
+</p>
+<p align="center"><em>Infografía: Modelos de cuatro y seis fases.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -279,7 +359,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Prioriza preguntas según relevancia, urgencia, riesgo y recursos.
 - Un cambio de necesidad puede obligar a revisar el plan durante el ciclo.
 
-<!-- VISUAL PENDIENTE: t40-21-direccion.webp -->
+<!-- VISUAL:t40-21-direccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-21-direccion.webp" alt="Dirección" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -292,7 +376,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un plan de obtención asigna qué buscar, dónde, cómo y con qué prioridad.
 - Planificar incluye prever lagunas y vías alternativas de corroboración.
 
-<!-- VISUAL PENDIENTE: t40-22-planificacion.webp -->
+<!-- VISUAL:t40-22-planificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-22-planificacion.webp" alt="Planificación" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -305,7 +393,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La cantidad recogida no compensa la irrelevancia o baja calidad.
 - La recolección puede revelar nuevos requisitos o exigir volver a planificar.
 
-<!-- VISUAL PENDIENTE: t40-23-obtencion-o-recoleccion.webp -->
+<!-- VISUAL:t40-23-obtencion-o-recoleccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-23-obtencion-o-recoleccion.webp" alt="Obtención o recolección" width="820">
+</p>
+<p align="center"><em>Infografía: Obtención o recolección.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -318,7 +410,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Procesar no equivale todavía a interpretar el significado del fenómeno.
 - Toda transformación relevante debe preservar procedencia y evitar alterar el contenido sin registro.
 
-<!-- VISUAL PENDIENTE: t40-24-transformacion-y-procesamiento.webp -->
+<!-- VISUAL:t40-24-transformacion-y-procesamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-24-transformacion-y-procesamiento.webp" alt="Transformación y procesamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Transformación y procesamiento.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -331,7 +427,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una fuente nueva o desconocida puede aportar información corroborada por otros medios.
 - La calificación orienta el peso analítico; no convierte el contenido en verdad automática.
 
-<!-- VISUAL PENDIENTE: t40-il-25-evaluacion-de-fuente-e-informacion.webp -->
+<!-- VISUAL:t40-il-25-evaluacion-de-fuente-e-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-25-evaluacion-de-fuente-e-informacion.webp" alt="Evaluación de fuente e información" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de fuente e información.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -344,7 +444,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Los números 1 a 4 expresan grados de validez o corroboración del contenido.
 - Una combinación como A1 resume dos valoraciones y no una probabilidad matemática exacta.
 
-<!-- VISUAL PENDIENTE: t40-26-sistema-4-4-de-evaluacion.webp -->
+<!-- VISUAL:t40-26-sistema-4-4-de-evaluacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-26-sistema-4-4-de-evaluacion.webp" alt="Sistema 4×4 de evaluación" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema 4×4 de evaluación.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -357,7 +461,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La deduplicación debe conservar la posibilidad de reconocer fuentes realmente independientes.
 - Una base ordenada facilita análisis, pero no sustituye el razonamiento.
 
-<!-- VISUAL PENDIENTE: t40-27-registro-y-ordenacion.webp -->
+<!-- VISUAL:t40-27-registro-y-ordenacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-27-registro-y-ordenacion.webp" alt="Registro y ordenación" width="820">
+</p>
+<p align="center"><em>Infografía: Registro y ordenación.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -370,7 +478,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Debe separar correlación, coincidencia y causalidad.
 - Una conclusión analítica debe poder rastrearse hasta evidencia y razonamiento explícito.
 
-<!-- VISUAL PENDIENTE: t40-28-analisis.webp -->
+<!-- VISUAL:t40-28-analisis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-28-analisis.webp" alt="Análisis" width="820">
+</p>
+<p align="center"><em>Infografía: Análisis.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -383,7 +495,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La convergencia de fuentes independientes puede aumentar la confianza.
 - La repetición derivada de un mismo origen no equivale a corroboración independiente.
 
-<!-- VISUAL PENDIENTE: t40-29-integracion.webp -->
+<!-- VISUAL:t40-29-integracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-29-integracion.webp" alt="Integración" width="820">
+</p>
+<p align="center"><em>Infografía: Integración.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -396,7 +512,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El contexto temporal, geográfico, cultural y operativo puede modificar una lectura.
 - Interpretar no autoriza a rellenar lagunas con intuiciones no declaradas.
 
-<!-- VISUAL PENDIENTE: t40-il-30-interpretacion.webp -->
+<!-- VISUAL:t40-il-30-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-30-interpretacion.webp" alt="Interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: Interpretación.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -409,7 +529,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La conclusión principal debe apoyarse en razonamiento y fuentes relevantes.
 - El formato se adapta a la decisión sin ocultar limitaciones importantes.
 
-<!-- VISUAL PENDIENTE: t40-31-elaboracion-del-producto.webp -->
+<!-- VISUAL:t40-31-elaboracion-del-producto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-31-elaboracion-del-producto.webp" alt="Elaboración del producto" width="820">
+</p>
+<p align="center"><em>Infografía: Elaboración del producto.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -422,7 +546,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La distribución respeta necesidad de conocer, seguridad y reglas de manejo.
 - Difundir no significa publicar universalmente ni entregar datos sin contexto.
 
-<!-- VISUAL PENDIENTE: t40-32-difusion.webp -->
+<!-- VISUAL:t40-32-difusion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-32-difusion.webp" alt="Difusión" width="820">
+</p>
+<p align="center"><em>Infografía: Difusión.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -435,7 +563,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Puede provocar una nueva dirección, obtención o revisión analítica.
 - Evaluar el producto no se limita a comprobar su formato técnico.
 
-<!-- VISUAL PENDIENTE: t40-33-evaluacion-y-retroalimentacion.webp -->
+<!-- VISUAL:t40-33-evaluacion-y-retroalimentacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-33-evaluacion-y-retroalimentacion.webp" alt="Evaluación y retroalimentación" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación y retroalimentación.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -448,7 +580,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una hipótesis descartada puede cambiar las prioridades de recolección.
 - La secuencia gráfica ayuda a estudiar, pero la práctica no siempre es lineal.
 
-<!-- VISUAL PENDIENTE: t40-34-caracter-dinamico-del-ciclo.webp -->
+<!-- VISUAL:t40-34-caracter-dinamico-del-ciclo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-34-caracter-dinamico-del-ciclo.webp" alt="Carácter dinámico del ciclo" width="820">
+</p>
+<p align="center"><em>Infografía: Carácter dinámico del ciclo.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -461,7 +597,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un producto puede exponer riesgos y alternativas sin ordenar una actuación concreta.
 - La independencia analítica impide moldear el juicio para agradar a una preferencia política u operativa.
 
-<!-- VISUAL PENDIENTE: t40-il-35-ciclo-y-toma-de-decisiones.webp -->
+<!-- VISUAL:t40-il-35-ciclo-y-toma-de-decisiones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-35-ciclo-y-toma-de-decisiones.webp" alt="Ciclo y toma de decisiones" width="820">
+</p>
+<p align="center"><em>Infografía: Ciclo y toma de decisiones.</em></p>
 
 <!-- FUENTE: CNI-CICLO-T40 -->
 
@@ -474,7 +614,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La información contraria relevante debe analizarse y no ocultarse.
 - Objetividad no significa ausencia de juicio, sino juicio sustentado y revisable.
 
-<!-- VISUAL PENDIENTE: t40-36-objetividad-analitica.webp -->
+<!-- VISUAL:t40-36-objetividad-analitica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-36-objetividad-analitica.webp" alt="Objetividad analítica" width="820">
+</p>
+<p align="center"><em>Infografía: Objetividad analítica.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -487,7 +631,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Los juicios son conclusiones basadas en información, análisis y supuestos.
 - Un supuesto decisivo debe declararse y explicar qué ocurriría si fuese falso.
 
-<!-- VISUAL PENDIENTE: t40-37-hechos-supuestos-y-juicios.webp -->
+<!-- VISUAL:t40-37-hechos-supuestos-y-juicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-37-hechos-supuestos-y-juicios.webp" alt="Hechos, supuestos y juicios" width="820">
+</p>
+<p align="center"><em>Infografía: Hechos, supuestos y juicios.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -500,7 +648,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El producto debe explicar debilidades importantes de la base informativa.
 - Una fuente prestigiosa puede reproducir un dato de origen no identificado.
 
-<!-- VISUAL PENDIENTE: t40-38-calidad-y-credibilidad-de-fuentes.webp -->
+<!-- VISUAL:t40-38-calidad-y-credibilidad-de-fuentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-38-calidad-y-credibilidad-de-fuentes.webp" alt="Calidad y credibilidad de fuentes" width="820">
+</p>
+<p align="center"><em>Infografía: Calidad y credibilidad de fuentes.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -513,7 +665,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Alta confianza no significa que un evento sea muy probable.
 - Los términos de incertidumbre deben usarse de forma coherente y explicada.
 
-<!-- VISUAL PENDIENTE: t40-39-incertidumbre-probabilidad-y-confianza.webp -->
+<!-- VISUAL:t40-39-incertidumbre-probabilidad-y-confianza.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-39-incertidumbre-probabilidad-y-confianza.webp" alt="Incertidumbre, probabilidad y confianza" width="820">
+</p>
+<p align="center"><em>Infografía: Incertidumbre, probabilidad y confianza.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -526,7 +682,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La explicación más intuitiva no es necesariamente la mejor sustentada.
 - Los indicadores futuros permiten revisar el peso de cada alternativa.
 
-<!-- VISUAL PENDIENTE: t40-il-40-hipotesis-alternativas.webp -->
+<!-- VISUAL:t40-il-40-hipotesis-alternativas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-40-hipotesis-alternativas.webp" alt="Hipótesis alternativas" width="820">
+</p>
+<p align="center"><em>Infografía: Hipótesis alternativas.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -539,7 +699,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Explicitar alternativas y revisar supuestos ayuda a reducir este sesgo.
 - Cambiar de conclusión ante evidencia mejor no es debilidad, sino corrección analítica.
 
-<!-- VISUAL PENDIENTE: t40-41-sesgo-de-anclaje.webp -->
+<!-- VISUAL:t40-41-sesgo-de-anclaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-41-sesgo-de-anclaje.webp" alt="Sesgo de anclaje" width="820">
+</p>
+<p align="center"><em>Infografía: Sesgo de anclaje.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -552,7 +716,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Registrar criterios antes de buscar ayuda a limitar selecciones oportunistas.
 - Una muestra visible en redes sociales no representa necesariamente al conjunto.
 
-<!-- VISUAL PENDIENTE: t40-42-sesgos-de-confirmacion-y-disponibilidad.webp -->
+<!-- VISUAL:t40-42-sesgos-de-confirmacion-y-disponibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-42-sesgos-de-confirmacion-y-disponibilidad.webp" alt="Sesgos de confirmación y disponibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Sesgos de confirmación y disponibilidad.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -565,7 +733,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La existencia de un vínculo no demuestra por sí sola dirección, intensidad ni ilicitud.
 - Toda relación gráfica debe conservar la fuente que la sustenta.
 
-<!-- VISUAL PENDIENTE: t40-43-cronologias-y-analisis-de-vinculos.webp -->
+<!-- VISUAL:t40-43-cronologias-y-analisis-de-vinculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-43-cronologias-y-analisis-de-vinculos.webp" alt="Cronologías y análisis de vínculos" width="820">
+</p>
+<p align="center"><em>Infografía: Cronologías y análisis de vínculos.</em></p>
 
 <!-- FUENTE: UNODC-CI-ANALYSTS-T40 -->
 
@@ -578,7 +750,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - No todas las lagunas justifican el mismo coste o intrusión para cerrarlas.
 - El producto debe señalar qué datos cambiarían materialmente el juicio.
 
-<!-- VISUAL PENDIENTE: t40-44-indicadores-y-lagunas.webp -->
+<!-- VISUAL:t40-44-indicadores-y-lagunas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-44-indicadores-y-lagunas.webp" alt="Indicadores y lagunas" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores y lagunas.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -591,7 +767,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El lenguaje debe distinguir certeza observada de estimación.
 - La concisión es útil solo si no elimina contexto, contradicciones o límites esenciales.
 
-<!-- VISUAL PENDIENTE: t40-il-45-argumentacion-y-mensaje-principal.webp -->
+<!-- VISUAL:t40-il-45-argumentacion-y-mensaje-principal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-45-argumentacion-y-mensaje-principal.webp" alt="Argumentación y mensaje principal" width="820">
+</p>
+<p align="center"><em>Infografía: Argumentación y mensaje principal.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -604,7 +784,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Minimizar datos reduce exposición de personas no relacionadas con la investigación.
 - La difusión debe limitar datos personales al alcance necesario para el producto.
 
-<!-- VISUAL PENDIENTE: t40-46-privacidad-finalidad-y-minimizacion.webp -->
+<!-- VISUAL:t40-46-privacidad-finalidad-y-minimizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-46-privacidad-finalidad-y-minimizacion.webp" alt="Privacidad, finalidad y minimización" width="820">
+</p>
+<p align="center"><em>Infografía: Privacidad, finalidad y minimización.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -617,7 +801,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La obtención es solo una parte: procesamiento, análisis y difusión completan el producto.
 - OSINT puede apoyar decisiones policiales sin convertir cualquier navegación en inteligencia.
 
-<!-- VISUAL PENDIENTE: t40-47-definicion-operativa-de-osint.webp -->
+<!-- VISUAL:t40-47-definicion-operativa-de-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-47-definicion-operativa-de-osint.webp" alt="Definición operativa de OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Definición operativa de OSINT.</em></p>
 
 <!-- FUENTE: ODNI-OSINT-STRATEGY-T40 -->
 
@@ -630,7 +818,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una captura pública sin evaluación continúa siendo información, no inteligencia acabada.
 - El valor añadido procede de selección, verificación, análisis, contexto y comunicación.
 
-<!-- VISUAL PENDIENTE: t40-48-osinf-frente-a-osint.webp -->
+<!-- VISUAL:t40-48-osinf-frente-a-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-48-osinf-frente-a-osint.webp" alt="OSINF frente a OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: OSINF frente a OSINT.</em></p>
 
 <!-- FUENTE: ODNI-OSINT-STRATEGY-T40 -->
 
@@ -643,7 +835,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Las condiciones de acceso, licencia y uso siguen siendo relevantes.
 - Saltar controles técnicos o suplantar una identidad no se justifica por perseguir OSINT.
 
-<!-- VISUAL PENDIENTE: t40-49-fuentes-publicas-y-comerciales.webp -->
+<!-- VISUAL:t40-49-fuentes-publicas-y-comerciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-49-fuentes-publicas-y-comerciales.webp" alt="Fuentes públicas y comerciales" width="820">
+</p>
+<p align="center"><em>Infografía: Fuentes públicas y comerciales.</em></p>
 
 <!-- FUENTE: ODNI-OSINT-STRATEGY-T40 -->
 
@@ -656,7 +852,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La literatura gris incluye trabajos técnicos o institucionales fuera de circuitos editoriales ordinarios.
 - Imágenes, vídeos, mapas y observación abierta también pueden alimentar OSINT.
 
-<!-- VISUAL PENDIENTE: t40-il-50-categorias-de-fuentes-osint.webp -->
+<!-- VISUAL:t40-il-50-categorias-de-fuentes-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-50-categorias-de-fuentes-osint.webp" alt="Categorías de fuentes OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías de fuentes OSINT.</em></p>
 
 <!-- FUENTE: CCN-STIC-425-T40 -->
 
@@ -669,7 +869,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - No aparecer en un buscador no demuestra que un recurso no exista.
 - Contrastar consultas y motores reduce, pero no elimina, sesgos de cobertura.
 
-<!-- VISUAL PENDIENTE: t40-51-motores-de-busqueda.webp -->
+<!-- VISUAL:t40-51-motores-de-busqueda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-51-motores-de-busqueda.webp" alt="Motores de búsqueda" width="820">
+</p>
+<p align="center"><em>Infografía: Motores de búsqueda.</em></p>
 
 <!-- FUENTE: RFC9309-ROBOTS-T40 -->
 
@@ -682,7 +886,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Refinar una consulta debe documentarse para poder reproducir la búsqueda.
 - Una coincidencia textual no demuestra identidad, autoría ni veracidad.
 
-<!-- VISUAL PENDIENTE: t40-52-consultas-y-operadores.webp -->
+<!-- VISUAL:t40-52-consultas-y-operadores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-52-consultas-y-operadores.webp" alt="Consultas y operadores" width="820">
+</p>
+<p align="center"><em>Infografía: Consultas y operadores.</em></p>
 
 <!-- FUENTE: RFC3986-URI-T40 -->
 
@@ -695,7 +903,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un enlace generado por la herramienta necesita interpretación y verificación.
 - La visualización ayuda a explorar, pero no convierte correlación en prueba.
 
-<!-- VISUAL PENDIENTE: t40-53-maltego-y-analisis-grafico.webp -->
+<!-- VISUAL:t40-53-maltego-y-analisis-grafico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-53-maltego-y-analisis-grafico.webp" alt="Maltego y análisis gráfico" width="820">
+</p>
+<p align="center"><em>Infografía: Maltego y análisis gráfico.</em></p>
 
 <!-- FUENTE: MALTEGO-DOCS-T40 -->
 
@@ -708,7 +920,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un banner puede estar desactualizado, ser incompleto o no identificar al responsable real.
 - Localizar un servicio no autoriza a interactuar con él fuera del marco legal.
 
-<!-- VISUAL PENDIENTE: t40-54-shodan-y-servicios-expuestos.webp -->
+<!-- VISUAL:t40-54-shodan-y-servicios-expuestos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-54-shodan-y-servicios-expuestos.webp" alt="Shodan y servicios expuestos" width="820">
+</p>
+<p align="center"><em>Infografía: Shodan y servicios expuestos.</em></p>
 
 <!-- FUENTE: SHODAN-HELP-T40 -->
 
@@ -721,7 +937,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Dos herramientas pueden repetir el mismo origen y aparentar falsa corroboración.
 - La conclusión debe apoyarse en evidencia verificable, no en la autoridad del software.
 
-<!-- VISUAL PENDIENTE: t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp -->
+<!-- VISUAL:t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp" alt="Herramientas como apoyo, no como fuente de verdad" width="820">
+</p>
+<p align="center"><em>Infografía: Herramientas como apoyo, no como fuente de verdad.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -734,7 +954,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Entre ambos extremos existen técnicas con distinto grado de exposición.
 - La elección depende de finalidad, autorización, riesgo, necesidad y proporcionalidad.
 
-<!-- VISUAL PENDIENTE: t40-56-obtencion-pasiva-y-activa.webp -->
+<!-- VISUAL:t40-56-obtencion-pasiva-y-activa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-56-obtencion-pasiva-y-activa.webp" alt="Obtención pasiva y activa" width="820">
+</p>
+<p align="center"><em>Infografía: Obtención pasiva y activa.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -747,7 +971,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un metadato aislado requiere contraste con el contenido y otras fuentes.
 - Conservar el original y documentar la extracción mejora la trazabilidad.
 
-<!-- VISUAL PENDIENTE: t40-57-metadatos.webp -->
+<!-- VISUAL:t40-57-metadatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-57-metadatos.webp" alt="Metadatos" width="820">
+</p>
+<p align="center"><em>Infografía: Metadatos.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -760,7 +988,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Rótulos, relieve, arquitectura y posiciones relativas pueden actuar como pistas geográficas.
 - La conclusión debe expresar margen de error y alternativas plausibles.
 
-<!-- VISUAL PENDIENTE: t40-58-geolocalizacion-y-cronolocalizacion.webp -->
+<!-- VISUAL:t40-58-geolocalizacion-y-cronolocalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-58-geolocalizacion-y-cronolocalizacion.webp" alt="Geolocalización y cronolocalización" width="820">
+</p>
+<p align="center"><em>Infografía: Geolocalización y cronolocalización.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -773,7 +1005,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Coincidencia de nombre o alias no basta para atribuir cuentas a una misma persona.
 - La atribución requiere varios indicios independientes y valoración de explicaciones alternativas.
 
-<!-- VISUAL PENDIENTE: t40-59-identidades-y-pivotes.webp -->
+<!-- VISUAL:t40-59-identidades-y-pivotes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-59-identidades-y-pivotes.webp" alt="Identidades y pivotes" width="820">
+</p>
+<p align="center"><em>Infografía: Identidades y pivotes.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -786,7 +1022,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una pregunta demasiado amplia aumenta ruido, coste y exposición de terceros.
 - Los criterios de inclusión y exclusión reducen selección sesgada posterior.
 
-<!-- VISUAL PENDIENTE: t40-il-60-pregunta-de-investigacion-osint.webp -->
+<!-- VISUAL:t40-il-60-pregunta-de-investigacion-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-60-pregunta-de-investigacion-osint.webp" alt="Pregunta de investigación OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Pregunta de investigación OSINT.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -799,7 +1039,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Las consultas se ajustan conforme aparecen hallazgos sin perder el registro inicial.
 - Planificar evita depender de una sola plataforma o proveedor.
 
-<!-- VISUAL PENDIENTE: t40-61-plan-de-fuentes-y-consultas.webp -->
+<!-- VISUAL:t40-61-plan-de-fuentes-y-consultas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-61-plan-de-fuentes-y-consultas.webp" alt="Plan de fuentes y consultas" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de fuentes y consultas.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -812,7 +1056,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La reproducibilidad permite que otra persona comprenda y evalúe el proceso.
 - Registrar no significa publicar indiscriminadamente datos sensibles.
 
-<!-- VISUAL PENDIENTE: t40-62-diario-de-investigacion.webp -->
+<!-- VISUAL:t40-62-diario-de-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-62-diario-de-investigacion.webp" alt="Diario de investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Diario de investigación.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -825,7 +1073,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Una huella criptográfica ayuda a detectar alteraciones posteriores del archivo preservado.
 - La captura de pantalla sola puede omitir metadatos, enlaces o contenido dinámico.
 
-<!-- VISUAL PENDIENTE: t40-63-captura-y-preservacion.webp -->
+<!-- VISUAL:t40-63-captura-y-preservacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-63-captura-y-preservacion.webp" alt="Captura y preservación" width="820">
+</p>
+<p align="center"><em>Infografía: Captura y preservación.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -838,7 +1090,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Autenticidad valora si el contenido procede realmente del origen atribuido.
 - Un archivo íntegro puede conservar una falsificación original.
 
-<!-- VISUAL PENDIENTE: t40-64-autenticidad-e-integridad.webp -->
+<!-- VISUAL:t40-64-autenticidad-e-integridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-64-autenticidad-e-integridad.webp" alt="Autenticidad e integridad" width="820">
+</p>
+<p align="center"><em>Infografía: Autenticidad e integridad.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -851,7 +1107,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La corroboración debe buscar fuentes realmente independientes.
 - Una pieza no verificada puede orientar, pero debe declararse su estado.
 
-<!-- VISUAL PENDIENTE: t40-il-65-verificacion-de-contenido-digital.webp -->
+<!-- VISUAL:t40-il-65-verificacion-de-contenido-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-65-verificacion-de-contenido-digital.webp" alt="Verificación de contenido digital" width="820">
+</p>
+<p align="center"><em>Infografía: Verificación de contenido digital.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -864,7 +1124,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Documentar transformaciones permite distinguir original, copia de trabajo y producto derivado.
 - La trazabilidad aumenta auditabilidad, pero no sustituye la valoración jurídica de admisibilidad.
 
-<!-- VISUAL PENDIENTE: t40-66-procedencia-y-cadena-de-custodia.webp -->
+<!-- VISUAL:t40-66-procedencia-y-cadena-de-custodia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-66-procedencia-y-cadena-de-custodia.webp" alt="Procedencia y cadena de custodia" width="820">
+</p>
+<p align="center"><em>Infografía: Procedencia y cadena de custodia.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -877,7 +1141,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La proporcionalidad exige valorar utilidad frente a impacto y riesgo.
 - Las decisiones éticas y legales relevantes deben documentarse.
 
-<!-- VISUAL PENDIENTE: t40-67-legalidad-y-etica.webp -->
+<!-- VISUAL:t40-67-legalidad-y-etica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-67-legalidad-y-etica.webp" alt="Legalidad y ética" width="820">
+</p>
+<p align="center"><em>Infografía: Legalidad y ética.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -890,7 +1158,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La navegación puede dejar registros en servicios, redes y dispositivos.
 - Ninguna herramienta garantiza anonimato absoluto frente a todos los adversarios.
 
-<!-- VISUAL PENDIENTE: t40-68-seguridad-operacional-del-investigador.webp -->
+<!-- VISUAL:t40-68-seguridad-operacional-del-investigador.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-68-seguridad-operacional-del-investigador.webp" alt="Seguridad operacional del investigador" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad operacional del investigador.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -903,7 +1175,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Los datos irrelevantes deben excluirse, protegerse o eliminarse conforme a la política aplicable.
 - Publicar el informe no exige exponer toda la materia prima recopilada.
 
-<!-- VISUAL PENDIENTE: t40-69-minimizacion-y-terceros.webp -->
+<!-- VISUAL:t40-69-minimizacion-y-terceros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-69-minimizacion-y-terceros.webp" alt="Minimización y terceros" width="820">
+</p>
+<p align="center"><em>Infografía: Minimización y terceros.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -916,7 +1192,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Los niveles de confianza y las hipótesis alternativas evitan certeza aparente.
 - Los anexos deben permitir auditoría sin sobrecargar el mensaje principal.
 
-<!-- VISUAL PENDIENTE: t40-il-70-informe-osint.webp -->
+<!-- VISUAL:t40-il-70-informe-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-70-informe-osint.webp" alt="Informe OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Informe OSINT.</em></p>
 
 <!-- FUENTE: OHCHR-BERKELEY-T40 -->
 
@@ -929,7 +1209,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Correo, DNS o mensajería pueden usar Internet sin ser páginas web.
 - Surface, Deep y Dark Web clasifican contenido web, no todo Internet de forma exhaustiva.
 
-<!-- VISUAL PENDIENTE: t40-71-internet-y-world-wide-web.webp -->
+<!-- VISUAL:t40-71-internet-y-world-wide-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-71-internet-y-world-wide-web.webp" alt="Internet y World Wide Web" width="820">
+</p>
+<p align="center"><em>Infografía: Internet y World Wide Web.</em></p>
 
 <!-- FUENTE: RFC3986-URI-T40 -->
 
@@ -942,7 +1226,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - HTTP define semántica de solicitudes y respuestas entre componentes.
 - Conocer una URL no garantiza autorización ni disponibilidad del recurso.
 
-<!-- VISUAL PENDIENTE: t40-72-uri-navegador-y-http.webp -->
+<!-- VISUAL:t40-72-uri-navegador-y-http.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-72-uri-navegador-y-http.webp" alt="URI, navegador y HTTP" width="820">
+</p>
+<p align="center"><em>Infografía: URI, navegador y HTTP.</em></p>
 
 <!-- FUENTE: RFC9110-HTTP-T40 -->
 
@@ -955,7 +1243,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La búsqueda consulta ese índice y ordena resultados según criterios del servicio.
 - Un recurso accesible puede no estar rastreado o indexado.
 
-<!-- VISUAL PENDIENTE: t40-73-rastreo-indexacion-y-busqueda.webp -->
+<!-- VISUAL:t40-73-rastreo-indexacion-y-busqueda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-73-rastreo-indexacion-y-busqueda.webp" alt="Rastreo, indexación y búsqueda" width="820">
+</p>
+<p align="center"><em>Infografía: Rastreo, indexación y búsqueda.</em></p>
 
 <!-- FUENTE: RFC9309-ROBOTS-T40 -->
 
@@ -968,7 +1260,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un recurso de Surface Web puede ser lícito o ilícito; la capa no determina legalidad.
 - La pertenencia puede variar cuando un buscador incorpora o retira el recurso de su índice.
 
-<!-- VISUAL PENDIENTE: t40-74-surface-web.webp -->
+<!-- VISUAL:t40-74-surface-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-74-surface-web.webp" alt="Surface Web" width="820">
+</p>
+<p align="center"><em>Infografía: Surface Web.</em></p>
 
 <!-- FUENTE: EUROPOL-DARKNET-2017-T40 -->
 
@@ -981,7 +1277,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La mayor parte de sus ejemplos ordinarios son servicios legítimos como correo, banca o bases de datos.
 - Deep Web no exige por definición Tor ni una red anónima.
 
-<!-- VISUAL PENDIENTE: t40-il-75-deep-web.webp -->
+<!-- VISUAL:t40-il-75-deep-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-75-deep-web.webp" alt="Deep Web" width="820">
+</p>
+<p align="center"><em>Infografía: Deep Web.</em></p>
 
 <!-- FUENTE: EUROPOL-DARKNET-2017-T40 -->
 
@@ -994,7 +1294,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Autenticación controla acceso; no debe confundirse con una instrucción para crawlers.
 - No indexado no significa técnicamente cifrado, secreto ni anónimo.
 
-<!-- VISUAL PENDIENTE: t40-76-contenido-autenticado-y-dinamico.webp -->
+<!-- VISUAL:t40-76-contenido-autenticado-y-dinamico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-76-contenido-autenticado-y-dinamico.webp" alt="Contenido autenticado y dinámico" width="820">
+</p>
+<p align="center"><em>Infografía: Contenido autenticado y dinámico.</em></p>
 
 <!-- FUENTE: RFC9110-HTTP-T40 -->
 
@@ -1007,7 +1311,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un recurso bloqueado al crawler puede seguir siendo accesible por URL.
 - La exclusión de rastreo no garantiza que el recurso desaparezca de todos los índices.
 
-<!-- VISUAL PENDIENTE: t40-77-robots-exclusion-protocol.webp -->
+<!-- VISUAL:t40-77-robots-exclusion-protocol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-77-robots-exclusion-protocol.webp" alt="Robots Exclusion Protocol" width="820">
+</p>
+<p align="center"><em>Infografía: Robots Exclusion Protocol.</em></p>
 
 <!-- FUENTE: RFC9309-ROBOTS-T40 -->
 
@@ -1020,7 +1328,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Cifras como 4 % frente a 96 % no deben tratarse como constantes técnicas.
 - En examen es más seguro dominar criterios de acceso e indexación que memorizar porcentajes no oficiales.
 
-<!-- VISUAL PENDIENTE: t40-78-no-existen-porcentajes-universales-fiables.webp -->
+<!-- VISUAL:t40-78-no-existen-porcentajes-universales-fiables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-78-no-existen-porcentajes-universales-fiables.webp" alt="No existen porcentajes universales fiables" width="820">
+</p>
+<p align="center"><em>Infografía: No existen porcentajes universales fiables.</em></p>
 
 <!-- FUENTE: ODNI-ICD203-T40 -->
 
@@ -1033,7 +1345,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Puede alojar usos legítimos e ilícitos.
 - La ocultación técnica no vuelve invisible toda conducta del usuario.
 
-<!-- VISUAL PENDIENTE: t40-79-dark-web.webp -->
+<!-- VISUAL:t40-79-dark-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-79-dark-web.webp" alt="Dark Web" width="820">
+</p>
+<p align="center"><em>Infografía: Dark Web.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2024-T40 -->
 
@@ -1046,7 +1362,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La darknet es infraestructura; la Dark Web son servicios web alojados o accesibles sobre ella.
 - No todo tráfico de una darknet corresponde necesariamente a páginas web.
 
-<!-- VISUAL PENDIENTE: t40-il-80-dark-net.webp -->
+<!-- VISUAL:t40-il-80-dark-net.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-80-dark-net.webp" alt="Dark Net" width="820">
+</p>
+<p align="center"><em>Infografía: Dark Net.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2024-T40 -->
 
@@ -1059,7 +1379,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Dark Web es la parte especializada de la Deep Web accesible mediante darknets.
 - Dark Net nombra la infraestructura y no una subcategoría de páginas por su contenido.
 
-<!-- VISUAL PENDIENTE: t40-81-relacion-surface-deep-dark.webp -->
+<!-- VISUAL:t40-81-relacion-surface-deep-dark.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-81-relacion-surface-deep-dark.webp" alt="Relación Surface-Deep-Dark" width="820">
+</p>
+<p align="center"><em>Infografía: Relación Surface-Deep-Dark.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2024-T40 -->
 
@@ -1072,7 +1396,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El diseño busca separar conocimiento de origen y destino entre relés.
 - Tor reduce ciertos vínculos de red, pero no corrige filtraciones de identidad en la aplicación.
 
-<!-- VISUAL PENDIENTE: t40-82-tor-como-red-de-anonimato.webp -->
+<!-- VISUAL:t40-82-tor-como-red-de-anonimato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-82-tor-como-red-de-anonimato.webp" alt="Tor como red de anonimato" width="820">
+</p>
+<p align="center"><em>Infografía: Tor como red de anonimato.</em></p>
 
 <!-- FUENTE: TOR-CIRCUITS-T40 -->
 
@@ -1085,7 +1413,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El relé de salida conecta con el destino externo y no conoce directamente la IP originaria del cliente.
 - El cifrado extremo a extremo de la aplicación sigue siendo necesario para proteger contenido frente a la salida.
 
-<!-- VISUAL PENDIENTE: t40-83-circuito-tor-hacia-la-web-ordinaria.webp -->
+<!-- VISUAL:t40-83-circuito-tor-hacia-la-web-ordinaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-83-circuito-tor-hacia-la-web-ordinaria.webp" alt="Circuito Tor hacia la web ordinaria" width="820">
+</p>
+<p align="center"><em>Infografía: Circuito Tor hacia la web ordinaria.</em></p>
 
 <!-- FUENTE: TOR-CIRCUITS-T40 -->
 
@@ -1098,7 +1430,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Cliente y servicio construyen circuitos hacia el rendezvous.
 - La comunicación con un servicio onion no necesita un relé de salida a Internet abierto.
 
-<!-- VISUAL PENDIENTE: t40-84-servicios-onion.webp -->
+<!-- VISUAL:t40-84-servicios-onion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-84-servicios-onion.webp" alt="Servicios onion" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios onion.</em></p>
 
 <!-- FUENTE: TOR-ONION-T40 -->
 
@@ -1111,7 +1447,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - El control de la clave correspondiente fundamenta el control del nombre.
 - Los nombres actuales de servicios onion v3 contienen una etiqueta larga no pensada para significado humano.
 
-<!-- VISUAL PENDIENTE: t40-il-85-nombres-onion.webp -->
+<!-- VISUAL:t40-il-85-nombres-onion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-85-nombres-onion.webp" alt="Nombres .onion" width="820">
+</p>
+<p align="center"><em>Infografía: Nombres .onion.</em></p>
 
 <!-- FUENTE: RFC7686-ONION-T40 -->
 
@@ -1124,7 +1464,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La legalidad depende de la conducta, el contenido y el marco aplicable, no del mero uso de Tor.
 - No existe un porcentaje eterno que describa la proporción ilícita de toda la Dark Web.
 
-<!-- VISUAL PENDIENTE: t40-86-usos-legitimos-e-ilicitos.webp -->
+<!-- VISUAL:t40-86-usos-legitimos-e-ilicitos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-86-usos-legitimos-e-ilicitos.webp" alt="Usos legítimos e ilícitos" width="820">
+</p>
+<p align="center"><em>Infografía: Usos legítimos e ilícitos.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2024-T40 -->
 
@@ -1137,7 +1481,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Un adversario con amplia observación puede plantear riesgos distintos a los de un relé aislado.
 - La seguridad depende del modelo de amenaza y de la disciplina operacional.
 
-<!-- VISUAL PENDIENTE: t40-87-limites-del-anonimato.webp -->
+<!-- VISUAL:t40-87-limites-del-anonimato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-87-limites-del-anonimato.webp" alt="Límites del anonimato" width="820">
+</p>
+<p align="center"><em>Infografía: Límites del anonimato.</em></p>
 
 <!-- FUENTE: TOR-CIRCUITS-T40 -->
 
@@ -1150,7 +1498,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - La inclusión en una lista no demuestra idéntico diseño, mantenimiento, seguridad ni uso.
 - Las respuestas deben distinguir una familia de ejemplos de una equivalencia técnica absoluta.
 
-<!-- VISUAL PENDIENTE: t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp -->
+<!-- VISUAL:t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp" alt="Tor, I2P, Freenet y ZeroNet en examen" width="820">
+</p>
+<p align="center"><em>Infografía: Tor, I2P, Freenet y ZeroNet en examen.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2024-T40 -->
 
@@ -1163,7 +1515,11 @@ El Tema 40 se estudia en siete partes: dato, información e inteligencia; tipolo
 - Dark Web: servicios ocultos accesibles mediante software o redes específicas.
 - Dark Net: infraestructura de red superpuesta que puede alojar o transportar esos servicios.
 
-<!-- VISUAL PENDIENTE: t40-89-matriz-final-de-las-cuatro-capas.webp -->
+<!-- VISUAL:t40-89-matriz-final-de-las-cuatro-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-89-matriz-final-de-las-cuatro-capas.webp" alt="Matriz final de las cuatro capas" width="820">
+</p>
+<p align="center"><em>Infografía: Matriz final de las cuatro capas.</em></p>
 
 <!-- FUENTE: EUROPOL-DARKNET-2017-T40 -->
 

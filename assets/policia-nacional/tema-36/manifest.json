@@ -4,14 +4,14 @@
   "topic": "tema-36",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 99,
-    "integrated": 0,
-    "planned": 99
+    "integrated": 99,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-15",
   "resources": [
     {
       "id": "T36-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial del Tema 36",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero separa cuatro planos: forma de la palabra, clase, grupo y función en la oración.",
+      "description": "Primero separa cuatro planos: forma de la palabra, clase, grupo y función en la oración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Gramática, morfología y sintaxis",
       "type": "ilustracion_simple",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Morfología mira dentro de la palabra; sintaxis mira cómo se combina con otras unidades.",
+      "description": "Morfología mira dentro de la palabra; sintaxis mira cómo se combina con otras unidades.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Palabra, lexema y morfema",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Imagina una palabra como una pieza central léxica a la que pueden añadirse marcas gramaticales.",
+      "description": "Imagina una palabra como una pieza central léxica a la que pueden añadirse marcas gramaticales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Morfología flexiva y derivativa",
       "type": "ilustracion_simple",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Flexionar es cambiar el uniforme de la misma palabra; derivar es crear otra entrada léxica.",
+      "description": "Flexionar es cambiar el uniforme de la misma palabra; derivar es crear otra entrada léxica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Palabras simples, derivadas y compuestas",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clasifica por piezas reconocibles, no por el número de letras ni por una etimología remota.",
+      "description": "Clasifica por piezas reconocibles, no por el número de letras ni por una etimología remota.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Prefijación, sufijación y composición",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La posición orienta, pero la función decide: delante prefijo, detrás sufijo, base con base compuesto.",
+      "description": "La posición orienta, pero la función decide: delante prefijo, detrás sufijo, base con base compuesto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "El sufijo derivativo",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Para reconocer un sufijo exige tres pruebas: posición final, base identificable y aporte de significado.",
+      "description": "Para reconocer un sufijo exige tres pruebas: posición final, base identificable y aporte de significado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Sufijos nominales, adjetivales y verbales",
       "type": "ilustracion_simple",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Nombra el sufijo por la puerta de salida: nominal si el resultado es nombre, verbal si es verbo.",
+      "description": "Nombra el sufijo por la puerta de salida: nominal si el resultado es nombre, verbal si es verbo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Sufijos apreciativos",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El sufijo apreciativo lleva termómetro emocional: el contexto decide si mide tamaño, afecto o ironía.",
+      "description": "El sufijo apreciativo lleva termómetro emocional: el contexto decide si mide tamaño, afecto o ironía.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Interfijos y parasíntesis",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En la parasíntesis las dos puertas se abren a la vez: sin una de ellas no existe la palabra intermedia.",
+      "description": "En la parasíntesis las dos puertas se abren a la vez: sin una de ellas no existe la palabra intermedia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "El sustantivo: propiedades básicas",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sustantivo es categoría; sujeto es función. Un mismo nombre puede ocupar puestos distintos.",
+      "description": "Sustantivo es categoría; sujeto es función. Un mismo nombre puede ocupar puestos distintos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Sustantivos comunes y propios",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El común abre una carpeta de clase; el propio señala una ficha concreta.",
+      "description": "El común abre una carpeta de clase; el propio señala una ficha concreta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Sustantivos concretos y abstractos",
       "type": "ilustracion_simple",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No uses solo los cinco sentidos: pregunta si se nombra una entidad o se conceptualiza una cualidad o proceso.",
+      "description": "No uses solo los cinco sentidos: pregunta si se nombra una entidad o se conceptualiza una cualidad o proceso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Sustantivos contables y no contables",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Contable usa contador; no contable necesita báscula o recipiente, salvo que el contexto cambie la lectura.",
+      "description": "Contable usa contador; no contable necesita báscula o recipiente, salvo que el contexto cambie la lectura.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Sustantivos individuales y colectivos",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Colectivo es una caja con muchos elementos, pero la caja puede seguir en singular.",
+      "description": "Colectivo es una caja con muchos elementos, pero la caja puede seguir en singular.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Género del sustantivo",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El género se comprueba por concordancia, no por mirar únicamente la última letra.",
+      "description": "El género se comprueba por concordancia, no por mirar únicamente la última letra.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Comunes en cuanto al género y heterónimos",
       "type": "ilustracion_simple",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa cuatro cajones: una forma con concordancia, un género fijo, dos géneros posibles o dos raíces.",
+      "description": "Separa cuatro cajones: una forma con concordancia, un género fijo, dos géneros posibles o dos raíces.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Número: singular y plural",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Número es una marca gramatical; el mundo real puede contar de otra manera.",
+      "description": "Número es una marca gramatical; el mundo real puede contar de otra manera.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Formación regular del plural",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de añadir la marca, escucha la terminación: vocal átona y consonante siguen rutas distintas.",
+      "description": "Antes de añadir la marca, escucha la terminación: vocal átona y consonante siguen rutas distintas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Plurales especiales e invariables",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si la forma no cambia, mira el entorno: artículo, adjetivo y verbo revelan el número.",
+      "description": "Si la forma no cambia, mira el entorno: artículo, adjetivo y verbo revelan el número.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "El grupo nominal",
       "type": "ilustracion_simple",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El núcleo es el motor y los demás elementos forman el vehículo que entra entero en la oración.",
+      "description": "El núcleo es el motor y los demás elementos forman el vehículo que entra entero en la oración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Determinación y artículo",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo no solo cuenta: orienta al oyente sobre cómo localizar el referente.",
+      "description": "El artículo no solo cuenta: orienta al oyente sobre cómo localizar el referente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Pronombre y determinante",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si acompaña al nombre, determina; si ocupa autónomamente el hueco nominal, funciona como pronombre.",
+      "description": "Si acompaña al nombre, determina; si ocupa autónomamente el hueco nominal, funciona como pronombre.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Pronombres personales tónicos",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los pronombres tónicos llevan voz propia; el caso decide qué forma ocupa cada puesto.",
+      "description": "Los pronombres tónicos llevan voz propia; el caso decide qué forma ocupa cada puesto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Pronombres átonos y clíticos",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los clíticos viajan pegados al verbo y guardan un orden: no son vagones intercambiables.",
+      "description": "Los clíticos viajan pegados al verbo y guardan un orden: no son vagones intercambiables.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Leísmo, laísmo y loísmo",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Diagnostica primero CD o CI; después elige el clítico y solo entonces valora las excepciones admitidas.",
+      "description": "Diagnostica primero CD o CI; después elige el clítico y solo entonces valora las excepciones admitidas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Pronombres reflexivos y recíprocos",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Reflexivo vuelve al mismo participante; recíproco dibuja flechas en ambos sentidos.",
+      "description": "Reflexivo vuelve al mismo participante; recíproco dibuja flechas en ambos sentidos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Valores gramaticales de se",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Se es una navaja con varias hojas: identifica la construcción antes de asignarle función.",
+      "description": "Se es una navaja con varias hojas: identifica la construcción antes de asignarle función.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Demostrativos",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los demostrativos son coordenadas: cerca, intermedio o lejos del hablante y del discurso.",
+      "description": "Los demostrativos son coordenadas: cerca, intermedio o lejos del hablante y del discurso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Posesivos",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mira el objeto poseído para concordar; mira el contexto para saber quién posee.",
+      "description": "Mira el objeto poseído para concordar; mira el contexto para saber quién posee.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Cuantificadores indefinidos",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El indefinido cuantifica sin dar matrícula exacta; su categoría depende del puesto que ocupe.",
+      "description": "El indefinido cuantifica sin dar matrícula exacta; su categoría depende del puesto que ocupe.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Numerales",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cardinal cuenta, ordinal ordena, multiplicativo multiplica y fraccionario reparte.",
+      "description": "Cardinal cuenta, ordinal ordena, multiplicativo multiplica y fraccionario reparte.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Relativos",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El relativo es puente doble: enlaza con el antecedente y trabaja dentro de la subordinada.",
+      "description": "El relativo es puente doble: enlaza con el antecedente y trabaja dentro de la subordinada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Interrogativos y exclamativos",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La pregunta puede ir escondida dentro de otra oración: la tonicidad, no los signos, manda.",
+      "description": "La pregunta puede ir escondida dentro de otra oración: la tonicidad, no los signos, manda.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "El adjetivo: propiedades básicas",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Adjetivo es la herramienta; modificador, atributo o predicativo son trabajos que puede desempeñar.",
+      "description": "Adjetivo es la herramienta; modificador, atributo o predicativo son trabajos que puede desempeñar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Adjetivos calificativos y relacionales",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Calificativo pinta una propiedad; relacional coloca una etiqueta de clasificación.",
+      "description": "Calificativo pinta una propiedad; relacional coloca una etiqueta de clasificación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Adjetivos especificativos y explicativos",
       "type": "ilustracion_simple",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Especificativo filtra; explicativo comenta. No decidas solo por dónde aparece.",
+      "description": "Especificativo filtra; explicativo comenta. No decidas solo por dónde aparece.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Posición del adjetivo",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mover el adjetivo puede mover el significado: analiza la lectura, no solo el orden.",
+      "description": "Mover el adjetivo puede mover el significado: analiza la lectura, no solo el orden.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Flexión y apócope del adjetivo",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una terminación no significa sin concordancia; la marca puede verse solo en el número y en el entorno.",
+      "description": "Una terminación no significa sin concordancia; la marca puede verse solo en el número y en el entorno.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Grado positivo",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Positivo es el punto de partida del termómetro, no un juicio favorable.",
+      "description": "Positivo es el punto de partida del termómetro, no un juicio favorable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Grado comparativo",
       "type": "ilustracion_simple",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres carriles: más que, tan como y menos que; vigila los comparativos irregulares.",
+      "description": "Tres carriles: más que, tan como y menos que; vigila los comparativos irregulares.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Superlativo absoluto y relativo",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Absoluto sube el volumen; relativo gana una competición dentro de un grupo.",
+      "description": "Absoluto sube el volumen; relativo gana una competición dentro de un grupo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "El adverbio: propiedades básicas",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El adverbio es una pieza móvil e invariable: observa qué unidad modifica.",
+      "description": "El adverbio es una pieza móvil e invariable: observa qué unidad modifica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Adverbios de lugar y tiempo",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Lugar responde al mapa; tiempo puede responder al reloj, a la duración o a la repetición.",
+      "description": "Lugar responde al mapa; tiempo puede responder al reloj, a la duración o a la repetición.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Adverbios de modo, cantidad y grado",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Modo explica cómo; grado mueve la intensidad. La forma aislada no basta para clasificar.",
+      "description": "Modo explica cómo; grado mueve la intensidad. La forma aislada no basta para clasificar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Afirmación, negación y duda",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Afirmación y negación cambian el interruptor; duda regula la intensidad de compromiso.",
+      "description": "Afirmación y negación cambian el interruptor; duda regula la intensidad de compromiso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Adverbios relativos, interrogativos y exclamativos",
       "type": "ilustracion_simple",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La tilde marca la voz tónica interrogativa o exclamativa, incluso cuando la pregunta va dentro.",
+      "description": "La tilde marca la voz tónica interrogativa o exclamativa, incluso cuando la pregunta va dentro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Adverbios terminados en -mente",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La fábrica -mente parte del femenino singular, pero el producto puede modificar el evento o toda la oración.",
+      "description": "La fábrica -mente parte del femenino singular, pero el producto puede modificar el evento o toda la oración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Locuciones y grupos adverbiales",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Locución es una pieza fijada; grupo es una estructura con núcleo y componentes analizables.",
+      "description": "Locución es una pieza fijada; grupo es una estructura con núcleo y componentes analizables.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "El verbo: propiedades y estructura",
       "type": "infografia",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El verbo es el centro de mando: flexiona y decide qué participantes necesita la escena.",
+      "description": "El verbo es el centro de mando: flexiona y decide qué participantes necesita la escena.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Las tres conjugaciones",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mira el infinitivo para la familia; mira el paradigma para saber si es regular.",
+      "description": "Mira el infinitivo para la familia; mira el paradigma para saber si es regular.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Verbos regulares e irregulares",
       "type": "ilustracion_simple",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Compara con el modelo completo: una irregularidad puede esconderse en una sola zona del paradigma.",
+      "description": "Compara con el modelo completo: una irregularidad puede esconderse en una sola zona del paradigma.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Persona y número verbal",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La terminación verbal lleva la matrícula del sujeto: persona y número.",
+      "description": "La terminación verbal lleva la matrícula del sujeto: persona y número.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Tiempo verbal y referencia temporal",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El tiempo verbal no es un reloj aislado: contexto y aspecto ajustan la lectura.",
+      "description": "El tiempo verbal no es un reloj aislado: contexto y aspecto ajustan la lectura.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Aspecto léxico y gramatical",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tiempo coloca la escena en el calendario; aspecto muestra si la vemos entera, en curso o por fases.",
+      "description": "Tiempo coloca la escena en el calendario; aspecto muestra si la vemos entera, en curso o por fases.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Modo indicativo",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Indicativo presenta información; no expide un certificado de verdad.",
+      "description": "Indicativo presenta información; no expide un certificado de verdad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Modo subjuntivo",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El subjuntivo no niega la realidad: marca cómo se integra el contenido en la actitud o dependencia.",
+      "description": "El subjuntivo no niega la realidad: marca cómo se integra el contenido en la actitud o dependencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Modo imperativo",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Imperativo afirmativo engancha clíticos detrás; la negación los coloca delante con subjuntivo.",
+      "description": "Imperativo afirmativo engancha clíticos detrás; la negación los coloca delante con subjuntivo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Formas no personales",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Son verbos sin matrícula personal: conservan capacidad verbal, pero no flexión de persona.",
+      "description": "Son verbos sin matrícula personal: conservan capacidad verbal, pero no flexión de persona.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Gerundio simple y compuesto",
       "type": "infografia",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El gerundio acompaña o mira hacia atrás; sospecha cuando intenta narrar una acción posterior independiente.",
+      "description": "El gerundio acompaña o mira hacia atrás; sospecha cuando intenta narrar una acción posterior independiente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Participio y construcciones de perfecto",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Con haber, el participio queda fijo; como adjetivo o pasivo, puede concordar.",
+      "description": "Con haber, el participio queda fijo; como adjetivo o pasivo, puede concordar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Presente y pretérito imperfecto",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El imperfecto abre una ventana dentro del pasado; el perfecto simple suele mostrar el hecho cerrado.",
+      "description": "El imperfecto abre una ventana dentro del pasado; el perfecto simple suele mostrar el hecho cerrado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Pretérito perfecto simple y compuesto",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ambas miran al pasado, pero el compuesto crea un puente con el marco presente en muchos usos.",
+      "description": "Ambas miran al pasado, pero el compuesto crea un puente con el marco presente en muchos usos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Pluscuamperfecto y pretérito anterior",
       "type": "ilustracion_simple",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En la línea del pasado, el pluscuamperfecto coloca un hecho detrás de otro hecho ya pasado.",
+      "description": "En la línea del pasado, el pluscuamperfecto coloca un hecho detrás de otro hecho ya pasado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Futuro y condicional",
       "type": "infografia",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Futuro y condicional tienen doble vida: colocan hechos en el tiempo y expresan distancia modal.",
+      "description": "Futuro y condicional tienen doble vida: colocan hechos en el tiempo y expresan distancia modal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Tiempos del subjuntivo",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Haya más participio es perfecto; hubiera o hubiese más participio es pluscuamperfecto.",
+      "description": "Haya más participio es perfecto; hubiera o hubiese más participio es pluscuamperfecto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Perífrasis verbales",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En la perífrasis los dos verbos conducen un solo vehículo predicativo.",
+      "description": "En la perífrasis los dos verbos conducen un solo vehículo predicativo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Verbos copulativos y predicativos",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Copulativo enlaza sujeto y atributo; predicativo aporta por sí mismo la escena principal.",
+      "description": "Copulativo enlaza sujeto y atributo; predicativo aporta por sí mismo la escena principal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Transitividad e intransitividad",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clasifica la acepción y la construcción, no una palabra aislada ni la presencia visible de un CD.",
+      "description": "Clasifica la acepción y la construcción, no una palabra aislada ni la presencia visible de un CD.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Verbos pronominales e impersonales",
       "type": "infografia",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pronominal lleva clítico; impersonal no lleva sujeto. Son diagnósticos distintos.",
+      "description": "Pronominal lleva clítico; impersonal no lleva sujeto. Son diagnósticos distintos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Verbos incoativos, causativos y frecuentativos",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Incoativo enciende la acción, causativo la provoca y frecuentativo la repite.",
+      "description": "Incoativo enciende la acción, causativo la provoca y frecuentativo la repite.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "La preposición",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La preposición abre una relación y exige mirar qué término introduce y de qué núcleo depende.",
+      "description": "La preposición abre una relación y exige mirar qué término introduce y de qué núcleo depende.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Inventario de preposiciones",
       "type": "ilustracion_simple",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aprende el inventario vigente, pero distingue presencia en la lista y frecuencia real de uso.",
+      "description": "Aprende el inventario vigente, pero distingue presencia en la lista y frecuencia real de uso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Contracciones al y del",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Comprueba si el es artículo común, artículo de nombre propio o pronombre él antes de contraer.",
+      "description": "Comprueba si el es artículo común, artículo de nombre propio o pronombre él antes de contraer.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Locuciones preposicionales",
       "type": "infografia",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Locución es puente fijo de varias piezas: debe funcionar globalmente y conservar un término.",
+      "description": "Locución es puente fijo de varias piezas: debe funcionar globalmente y conservar un término.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "La conjunción",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Conjunción es enlace; relativo es enlace y además ocupa un puesto dentro de su oración.",
+      "description": "Conjunción es enlace; relativo es enlace y además ocupa un puesto dentro de su oración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "Conjunciones coordinantes",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Coordinar es poner unidades al mismo nivel: suma, alternativa o contraste.",
+      "description": "Coordinar es poner unidades al mismo nivel: suma, alternativa o contraste.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "Conjunciones subordinantes",
       "type": "infografia",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero identifica si la oración depende; después nombra la relación de significado.",
+      "description": "Primero identifica si la oración depende; después nombra la relación de significado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Locuciones conjuntivas y enlaces complejos",
       "type": "infografia",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una locución conjuntiva actúa como una bisagra fija; el conector organiza el discurso en otro nivel.",
+      "description": "Una locución conjuntiva actúa como una bisagra fija; el conector organiza el discurso en otro nivel.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,14 +1362,15 @@
       "title": "La sintaxis y sus unidades",
       "type": "infografia",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No leas la oración como una fila plana: agrupa piezas y descubre quién depende de quién.",
+      "description": "No leas la oración como una fila plana: agrupa piezas y descubre quién depende de quién.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1299,14 +1379,15 @@
       "title": "Grupos sintácticos y núcleo",
       "type": "infografia",
       "placement": "bloque-81",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 81,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Busca el núcleo para nombrar el grupo; busca la relación con el verbo para nombrar la función.",
+      "description": "Busca el núcleo para nombrar el grupo; busca la relación con el verbo para nombrar la función.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1315,14 +1396,15 @@
       "title": "Sujeto y predicado",
       "type": "infografia",
       "placement": "bloque-82",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 82,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La concordancia es la prueba principal; el orden y la pregunta quién pueden engañar.",
+      "description": "La concordancia es la prueba principal; el orden y la pregunta quién pueden engañar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1331,14 +1413,15 @@
       "title": "Complemento directo",
       "type": "infografia",
       "placement": "bloque-83",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 83,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Usa varias pruebas: clítico acusativo, pasiva posible y selección del verbo; ninguna pregunta aislada basta.",
+      "description": "Usa varias pruebas: clítico acusativo, pasiva posible y selección del verbo; ninguna pregunta aislada basta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1347,14 +1430,15 @@
       "title": "Complemento indirecto",
       "type": "infografia",
       "placement": "bloque-84",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 84,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El dativo le/les es la huella más estable; a y para por sí solas no resuelven el análisis.",
+      "description": "El dativo le/les es la huella más estable; a y para por sí solas no resuelven el análisis.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1363,14 +1447,15 @@
       "title": "Complemento de régimen",
       "type": "infografia",
       "placement": "bloque-85",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 85,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta si la preposición viene impuesta por el núcleo, no si la frase responde a una pregunta memorizada.",
+      "description": "Pregunta si la preposición viene impuesta por el núcleo, no si la frase responde a una pregunta memorizada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1379,14 +1464,15 @@
       "title": "Atributo y verbos copulativos",
       "type": "infografia",
       "placement": "bloque-86",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 86,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El atributo completa la predicación copulativa; no lo identifiques solo por su categoría.",
+      "description": "El atributo completa la predicación copulativa; no lo identifiques solo por su categoría.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1395,14 +1481,15 @@
       "title": "Complemento predicativo",
       "type": "infografia",
       "placement": "bloque-87",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 87,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Predicativo lanza dos flechas: hacia el verbo y hacia el participante descrito.",
+      "description": "Predicativo lanza dos flechas: hacia el verbo y hacia el participante descrito.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1411,14 +1498,15 @@
       "title": "Complementos circunstanciales y adjuntos",
       "type": "ilustracion_simple",
       "placement": "bloque-88",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 88,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un circunstancial añade marco a la escena; antes de etiquetarlo, comprueba a qué nivel se une.",
+      "description": "Un circunstancial añade marco a la escena; antes de etiquetarlo, comprueba a qué nivel se une.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1427,14 +1515,15 @@
       "title": "Complemento agente y pasiva",
       "type": "infografia",
       "placement": "bloque-89",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 89,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Solo hay agente si hay pasiva: por no entrega automáticamente esa función.",
+      "description": "Solo hay agente si hay pasiva: por no entrega automáticamente esa función.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1443,14 +1532,15 @@
       "title": "Enunciado, oración y proposición",
       "type": "infografia",
       "placement": "bloque-90",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 90,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Enunciado mira la comunicación; oración mira la estructura predicativa.",
+      "description": "Enunciado mira la comunicación; oración mira la estructura predicativa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1459,14 +1549,15 @@
       "title": "Modalidad oracional",
       "type": "infografia",
       "placement": "bloque-91",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 91,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La modalidad es la intención con uniforme gramatical; el contexto puede cambiar la misión.",
+      "description": "La modalidad es la intención con uniforme gramatical; el contexto puede cambiar la misión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1475,14 +1566,15 @@
       "title": "Oraciones personales e impersonales",
       "type": "infografia",
       "placement": "bloque-92",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 92,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sujeto oculto existe; en la impersonal no hay sujeto que recuperar.",
+      "description": "Sujeto oculto existe; en la impersonal no hay sujeto que recuperar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1491,14 +1583,15 @@
       "title": "Activas, pasivas y medias",
       "type": "infografia",
       "placement": "bloque-93",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 93,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pasiva perifrástica usa ser; pasiva refleja usa se y concordancia; impersonal con se no tiene sujeto.",
+      "description": "Pasiva perifrástica usa ser; pasiva refleja usa se y concordancia; impersonal con se no tiene sujeto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1507,14 +1600,15 @@
       "title": "Oraciones simples y compuestas",
       "type": "infografia",
       "placement": "bloque-94",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 94,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cuenta predicaciones y relaciones, no verbos gráficos sin analizar.",
+      "description": "Cuenta predicaciones y relaciones, no verbos gráficos sin analizar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1523,14 +1617,15 @@
       "title": "Coordinación y yuxtaposición",
       "type": "infografia",
       "placement": "bloque-95",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 95,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Coordinación pone dos vagones al mismo nivel; yuxtaposición elimina la pieza de enlace visible.",
+      "description": "Coordinación pone dos vagones al mismo nivel; yuxtaposición elimina la pieza de enlace visible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1539,14 +1634,15 @@
       "title": "Subordinadas sustantivas",
       "type": "infografia",
       "placement": "bloque-96",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 96,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sustituye el bloque por eso como prueba inicial, pero confirma luego la función exacta.",
+      "description": "Sustituye el bloque por eso como prueba inicial, pero confirma luego la función exacta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1555,14 +1651,15 @@
       "title": "Subordinadas de relativo",
       "type": "infografia",
       "placement": "bloque-97",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 97,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Localiza dos cosas: qué antecedente modifica y qué puesto ocupa el relativo dentro.",
+      "description": "Localiza dos cosas: qué antecedente modifica y qué puesto ocupa el relativo dentro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1571,14 +1668,15 @@
       "title": "Subordinadas adverbiales y construcciones circunstanciales",
       "type": "infografia",
       "placement": "bloque-98",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 98,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La etiqueta tradicional sirve de mapa, pero cada relación necesita su propio análisis.",
+      "description": "La etiqueta tradicional sirve de mapa, pero cada relación necesita su propio análisis.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1587,1601 +1685,17 @@
       "title": "Método de análisis sintáctico",
       "type": "ilustracion_simple",
       "placement": "bloque-99",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 99,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Analiza como un atestado: localiza hechos, agrupa indicios, contrasta varias pruebas y justifica la conclusión.",
+      "description": "Analiza como un atestado: localiza hechos, agrupa indicios, contrasta varias pruebas y justifica la conclusión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T36-V01",
-      "file": "t36-01-alcance-oficial-del-tema-36.webp",
-      "title": "Alcance oficial del Tema 36",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero separa cuatro planos: forma de la palabra, clase, grupo y función en la oración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V02",
-      "file": "t36-il-02-gramatica-morfologia-y-sintaxis.webp",
-      "title": "Gramática, morfología y sintaxis",
-      "type": "ilustracion_simple",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Morfología mira dentro de la palabra; sintaxis mira cómo se combina con otras unidades.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V03",
-      "file": "t36-03-palabra-lexema-y-morfema.webp",
-      "title": "Palabra, lexema y morfema",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Imagina una palabra como una pieza central léxica a la que pueden añadirse marcas gramaticales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V04",
-      "file": "t36-il-04-morfologia-flexiva-y-derivativa.webp",
-      "title": "Morfología flexiva y derivativa",
-      "type": "ilustracion_simple",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Flexionar es cambiar el uniforme de la misma palabra; derivar es crear otra entrada léxica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V05",
-      "file": "t36-05-palabras-simples-derivadas-y-compuestas.webp",
-      "title": "Palabras simples, derivadas y compuestas",
-      "type": "infografia",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clasifica por piezas reconocibles, no por el número de letras ni por una etimología remota.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V06",
-      "file": "t36-06-prefijacion-sufijacion-y-composicion.webp",
-      "title": "Prefijación, sufijación y composición",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La posición orienta, pero la función decide: delante prefijo, detrás sufijo, base con base compuesto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V07",
-      "file": "t36-07-el-sufijo-derivativo.webp",
-      "title": "El sufijo derivativo",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Para reconocer un sufijo exige tres pruebas: posición final, base identificable y aporte de significado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V08",
-      "file": "t36-il-08-sufijos-nominales-adjetivales-y-verbales.webp",
-      "title": "Sufijos nominales, adjetivales y verbales",
-      "type": "ilustracion_simple",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Nombra el sufijo por la puerta de salida: nominal si el resultado es nombre, verbal si es verbo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V09",
-      "file": "t36-09-sufijos-apreciativos.webp",
-      "title": "Sufijos apreciativos",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El sufijo apreciativo lleva termómetro emocional: el contexto decide si mide tamaño, afecto o ironía.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V10",
-      "file": "t36-il-10-interfijos-y-parasintesis.webp",
-      "title": "Interfijos y parasíntesis",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En la parasíntesis las dos puertas se abren a la vez: sin una de ellas no existe la palabra intermedia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V11",
-      "file": "t36-11-el-sustantivo-propiedades-basicas.webp",
-      "title": "El sustantivo: propiedades básicas",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sustantivo es categoría; sujeto es función. Un mismo nombre puede ocupar puestos distintos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V12",
-      "file": "t36-12-sustantivos-comunes-y-propios.webp",
-      "title": "Sustantivos comunes y propios",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El común abre una carpeta de clase; el propio señala una ficha concreta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V13",
-      "file": "t36-il-13-sustantivos-concretos-y-abstractos.webp",
-      "title": "Sustantivos concretos y abstractos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No uses solo los cinco sentidos: pregunta si se nombra una entidad o se conceptualiza una cualidad o proceso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V14",
-      "file": "t36-14-sustantivos-contables-y-no-contables.webp",
-      "title": "Sustantivos contables y no contables",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Contable usa contador; no contable necesita báscula o recipiente, salvo que el contexto cambie la lectura.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V15",
-      "file": "t36-15-sustantivos-individuales-y-colectivos.webp",
-      "title": "Sustantivos individuales y colectivos",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Colectivo es una caja con muchos elementos, pero la caja puede seguir en singular.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V16",
-      "file": "t36-16-genero-del-sustantivo.webp",
-      "title": "Género del sustantivo",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El género se comprueba por concordancia, no por mirar únicamente la última letra.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V17",
-      "file": "t36-il-17-comunes-en-cuanto-al-genero-y-heteronimos.webp",
-      "title": "Comunes en cuanto al género y heterónimos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Separa cuatro cajones: una forma con concordancia, un género fijo, dos géneros posibles o dos raíces.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V18",
-      "file": "t36-18-numero-singular-y-plural.webp",
-      "title": "Número: singular y plural",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Número es una marca gramatical; el mundo real puede contar de otra manera.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V19",
-      "file": "t36-19-formacion-regular-del-plural.webp",
-      "title": "Formación regular del plural",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de añadir la marca, escucha la terminación: vocal átona y consonante siguen rutas distintas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V20",
-      "file": "t36-20-plurales-especiales-e-invariables.webp",
-      "title": "Plurales especiales e invariables",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si la forma no cambia, mira el entorno: artículo, adjetivo y verbo revelan el número.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V21",
-      "file": "t36-il-21-el-grupo-nominal.webp",
-      "title": "El grupo nominal",
-      "type": "ilustracion_simple",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El núcleo es el motor y los demás elementos forman el vehículo que entra entero en la oración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V22",
-      "file": "t36-22-determinacion-y-articulo.webp",
-      "title": "Determinación y artículo",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo no solo cuenta: orienta al oyente sobre cómo localizar el referente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V23",
-      "file": "t36-23-pronombre-y-determinante.webp",
-      "title": "Pronombre y determinante",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si acompaña al nombre, determina; si ocupa autónomamente el hueco nominal, funciona como pronombre.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V24",
-      "file": "t36-24-pronombres-personales-tonicos.webp",
-      "title": "Pronombres personales tónicos",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los pronombres tónicos llevan voz propia; el caso decide qué forma ocupa cada puesto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V25",
-      "file": "t36-il-25-pronombres-atonos-y-cliticos.webp",
-      "title": "Pronombres átonos y clíticos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los clíticos viajan pegados al verbo y guardan un orden: no son vagones intercambiables.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V26",
-      "file": "t36-26-leismo-laismo-y-loismo.webp",
-      "title": "Leísmo, laísmo y loísmo",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Diagnostica primero CD o CI; después elige el clítico y solo entonces valora las excepciones admitidas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V27",
-      "file": "t36-27-pronombres-reflexivos-y-reciprocos.webp",
-      "title": "Pronombres reflexivos y recíprocos",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Reflexivo vuelve al mismo participante; recíproco dibuja flechas en ambos sentidos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V28",
-      "file": "t36-28-valores-gramaticales-de-se.webp",
-      "title": "Valores gramaticales de se",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Se es una navaja con varias hojas: identifica la construcción antes de asignarle función.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V29",
-      "file": "t36-29-demostrativos.webp",
-      "title": "Demostrativos",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los demostrativos son coordenadas: cerca, intermedio o lejos del hablante y del discurso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V30",
-      "file": "t36-il-30-posesivos.webp",
-      "title": "Posesivos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mira el objeto poseído para concordar; mira el contexto para saber quién posee.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V31",
-      "file": "t36-31-cuantificadores-indefinidos.webp",
-      "title": "Cuantificadores indefinidos",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El indefinido cuantifica sin dar matrícula exacta; su categoría depende del puesto que ocupe.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V32",
-      "file": "t36-32-numerales.webp",
-      "title": "Numerales",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cardinal cuenta, ordinal ordena, multiplicativo multiplica y fraccionario reparte.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V33",
-      "file": "t36-33-relativos.webp",
-      "title": "Relativos",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El relativo es puente doble: enlaza con el antecedente y trabaja dentro de la subordinada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V34",
-      "file": "t36-34-interrogativos-y-exclamativos.webp",
-      "title": "Interrogativos y exclamativos",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La pregunta puede ir escondida dentro de otra oración: la tonicidad, no los signos, manda.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V35",
-      "file": "t36-35-el-adjetivo-propiedades-basicas.webp",
-      "title": "El adjetivo: propiedades básicas",
-      "type": "infografia",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Adjetivo es la herramienta; modificador, atributo o predicativo son trabajos que puede desempeñar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V36",
-      "file": "t36-36-adjetivos-calificativos-y-relacionales.webp",
-      "title": "Adjetivos calificativos y relacionales",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Calificativo pinta una propiedad; relacional coloca una etiqueta de clasificación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V37",
-      "file": "t36-il-37-adjetivos-especificativos-y-explicativos.webp",
-      "title": "Adjetivos especificativos y explicativos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Especificativo filtra; explicativo comenta. No decidas solo por dónde aparece.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V38",
-      "file": "t36-38-posicion-del-adjetivo.webp",
-      "title": "Posición del adjetivo",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mover el adjetivo puede mover el significado: analiza la lectura, no solo el orden.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V39",
-      "file": "t36-39-flexion-y-apocope-del-adjetivo.webp",
-      "title": "Flexión y apócope del adjetivo",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una terminación no significa sin concordancia; la marca puede verse solo en el número y en el entorno.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V40",
-      "file": "t36-40-grado-positivo.webp",
-      "title": "Grado positivo",
-      "type": "infografia",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Positivo es el punto de partida del termómetro, no un juicio favorable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V41",
-      "file": "t36-il-41-grado-comparativo.webp",
-      "title": "Grado comparativo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres carriles: más que, tan como y menos que; vigila los comparativos irregulares.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V42",
-      "file": "t36-42-superlativo-absoluto-y-relativo.webp",
-      "title": "Superlativo absoluto y relativo",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Absoluto sube el volumen; relativo gana una competición dentro de un grupo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V43",
-      "file": "t36-43-el-adverbio-propiedades-basicas.webp",
-      "title": "El adverbio: propiedades básicas",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El adverbio es una pieza móvil e invariable: observa qué unidad modifica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V44",
-      "file": "t36-44-adverbios-de-lugar-y-tiempo.webp",
-      "title": "Adverbios de lugar y tiempo",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Lugar responde al mapa; tiempo puede responder al reloj, a la duración o a la repetición.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V45",
-      "file": "t36-45-adverbios-de-modo-cantidad-y-grado.webp",
-      "title": "Adverbios de modo, cantidad y grado",
-      "type": "infografia",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Modo explica cómo; grado mueve la intensidad. La forma aislada no basta para clasificar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V46",
-      "file": "t36-46-afirmacion-negacion-y-duda.webp",
-      "title": "Afirmación, negación y duda",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Afirmación y negación cambian el interruptor; duda regula la intensidad de compromiso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V47",
-      "file": "t36-il-47-adverbios-relativos-interrogativos-y-exclamativos.webp",
-      "title": "Adverbios relativos, interrogativos y exclamativos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La tilde marca la voz tónica interrogativa o exclamativa, incluso cuando la pregunta va dentro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V48",
-      "file": "t36-48-adverbios-terminados-en-mente.webp",
-      "title": "Adverbios terminados en -mente",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La fábrica -mente parte del femenino singular, pero el producto puede modificar el evento o toda la oración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V49",
-      "file": "t36-49-locuciones-y-grupos-adverbiales.webp",
-      "title": "Locuciones y grupos adverbiales",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Locución es una pieza fijada; grupo es una estructura con núcleo y componentes analizables.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V50",
-      "file": "t36-50-el-verbo-propiedades-y-estructura.webp",
-      "title": "El verbo: propiedades y estructura",
-      "type": "infografia",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El verbo es el centro de mando: flexiona y decide qué participantes necesita la escena.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V51",
-      "file": "t36-51-las-tres-conjugaciones.webp",
-      "title": "Las tres conjugaciones",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mira el infinitivo para la familia; mira el paradigma para saber si es regular.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V52",
-      "file": "t36-il-52-verbos-regulares-e-irregulares.webp",
-      "title": "Verbos regulares e irregulares",
-      "type": "ilustracion_simple",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Compara con el modelo completo: una irregularidad puede esconderse en una sola zona del paradigma.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V53",
-      "file": "t36-53-persona-y-numero-verbal.webp",
-      "title": "Persona y número verbal",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La terminación verbal lleva la matrícula del sujeto: persona y número.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V54",
-      "file": "t36-54-tiempo-verbal-y-referencia-temporal.webp",
-      "title": "Tiempo verbal y referencia temporal",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El tiempo verbal no es un reloj aislado: contexto y aspecto ajustan la lectura.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V55",
-      "file": "t36-il-55-aspecto-lexico-y-gramatical.webp",
-      "title": "Aspecto léxico y gramatical",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tiempo coloca la escena en el calendario; aspecto muestra si la vemos entera, en curso o por fases.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V56",
-      "file": "t36-56-modo-indicativo.webp",
-      "title": "Modo indicativo",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Indicativo presenta información; no expide un certificado de verdad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V57",
-      "file": "t36-57-modo-subjuntivo.webp",
-      "title": "Modo subjuntivo",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El subjuntivo no niega la realidad: marca cómo se integra el contenido en la actitud o dependencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V58",
-      "file": "t36-58-modo-imperativo.webp",
-      "title": "Modo imperativo",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Imperativo afirmativo engancha clíticos detrás; la negación los coloca delante con subjuntivo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V59",
-      "file": "t36-59-formas-no-personales.webp",
-      "title": "Formas no personales",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Son verbos sin matrícula personal: conservan capacidad verbal, pero no flexión de persona.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V60",
-      "file": "t36-60-gerundio-simple-y-compuesto.webp",
-      "title": "Gerundio simple y compuesto",
-      "type": "infografia",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El gerundio acompaña o mira hacia atrás; sospecha cuando intenta narrar una acción posterior independiente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V61",
-      "file": "t36-61-participio-y-construcciones-de-perfecto.webp",
-      "title": "Participio y construcciones de perfecto",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Con haber, el participio queda fijo; como adjetivo o pasivo, puede concordar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V62",
-      "file": "t36-62-presente-y-preterito-imperfecto.webp",
-      "title": "Presente y pretérito imperfecto",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El imperfecto abre una ventana dentro del pasado; el perfecto simple suele mostrar el hecho cerrado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V63",
-      "file": "t36-63-preterito-perfecto-simple-y-compuesto.webp",
-      "title": "Pretérito perfecto simple y compuesto",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ambas miran al pasado, pero el compuesto crea un puente con el marco presente en muchos usos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V64",
-      "file": "t36-il-64-pluscuamperfecto-y-preterito-anterior.webp",
-      "title": "Pluscuamperfecto y pretérito anterior",
-      "type": "ilustracion_simple",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En la línea del pasado, el pluscuamperfecto coloca un hecho detrás de otro hecho ya pasado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V65",
-      "file": "t36-65-futuro-y-condicional.webp",
-      "title": "Futuro y condicional",
-      "type": "infografia",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Futuro y condicional tienen doble vida: colocan hechos en el tiempo y expresan distancia modal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V66",
-      "file": "t36-66-tiempos-del-subjuntivo.webp",
-      "title": "Tiempos del subjuntivo",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Haya más participio es perfecto; hubiera o hubiese más participio es pluscuamperfecto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V67",
-      "file": "t36-67-perifrasis-verbales.webp",
-      "title": "Perífrasis verbales",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En la perífrasis los dos verbos conducen un solo vehículo predicativo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V68",
-      "file": "t36-68-verbos-copulativos-y-predicativos.webp",
-      "title": "Verbos copulativos y predicativos",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Copulativo enlaza sujeto y atributo; predicativo aporta por sí mismo la escena principal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V69",
-      "file": "t36-69-transitividad-e-intransitividad.webp",
-      "title": "Transitividad e intransitividad",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clasifica la acepción y la construcción, no una palabra aislada ni la presencia visible de un CD.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V70",
-      "file": "t36-70-verbos-pronominales-e-impersonales.webp",
-      "title": "Verbos pronominales e impersonales",
-      "type": "infografia",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pronominal lleva clítico; impersonal no lleva sujeto. Son diagnósticos distintos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V71",
-      "file": "t36-71-verbos-incoativos-causativos-y-frecuentativos.webp",
-      "title": "Verbos incoativos, causativos y frecuentativos",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Incoativo enciende la acción, causativo la provoca y frecuentativo la repite.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V72",
-      "file": "t36-72-la-preposicion.webp",
-      "title": "La preposición",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La preposición abre una relación y exige mirar qué término introduce y de qué núcleo depende.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V73",
-      "file": "t36-il-73-inventario-de-preposiciones.webp",
-      "title": "Inventario de preposiciones",
-      "type": "ilustracion_simple",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aprende el inventario vigente, pero distingue presencia en la lista y frecuencia real de uso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V74",
-      "file": "t36-74-contracciones-al-y-del.webp",
-      "title": "Contracciones al y del",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Comprueba si el es artículo común, artículo de nombre propio o pronombre él antes de contraer.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V75",
-      "file": "t36-75-locuciones-preposicionales.webp",
-      "title": "Locuciones preposicionales",
-      "type": "infografia",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Locución es puente fijo de varias piezas: debe funcionar globalmente y conservar un término.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V76",
-      "file": "t36-76-la-conjuncion.webp",
-      "title": "La conjunción",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Conjunción es enlace; relativo es enlace y además ocupa un puesto dentro de su oración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V77",
-      "file": "t36-77-conjunciones-coordinantes.webp",
-      "title": "Conjunciones coordinantes",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Coordinar es poner unidades al mismo nivel: suma, alternativa o contraste.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V78",
-      "file": "t36-78-conjunciones-subordinantes.webp",
-      "title": "Conjunciones subordinantes",
-      "type": "infografia",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero identifica si la oración depende; después nombra la relación de significado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V79",
-      "file": "t36-79-locuciones-conjuntivas-y-enlaces-complejos.webp",
-      "title": "Locuciones conjuntivas y enlaces complejos",
-      "type": "infografia",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una locución conjuntiva actúa como una bisagra fija; el conector organiza el discurso en otro nivel.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V80",
-      "file": "t36-80-la-sintaxis-y-sus-unidades.webp",
-      "title": "La sintaxis y sus unidades",
-      "type": "infografia",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No leas la oración como una fila plana: agrupa piezas y descubre quién depende de quién.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V81",
-      "file": "t36-81-grupos-sintacticos-y-nucleo.webp",
-      "title": "Grupos sintácticos y núcleo",
-      "type": "infografia",
-      "placement": "bloque-81",
-      "status": "planned",
-      "block": 81,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Busca el núcleo para nombrar el grupo; busca la relación con el verbo para nombrar la función.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V82",
-      "file": "t36-82-sujeto-y-predicado.webp",
-      "title": "Sujeto y predicado",
-      "type": "infografia",
-      "placement": "bloque-82",
-      "status": "planned",
-      "block": 82,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La concordancia es la prueba principal; el orden y la pregunta quién pueden engañar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V83",
-      "file": "t36-83-complemento-directo.webp",
-      "title": "Complemento directo",
-      "type": "infografia",
-      "placement": "bloque-83",
-      "status": "planned",
-      "block": 83,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Usa varias pruebas: clítico acusativo, pasiva posible y selección del verbo; ninguna pregunta aislada basta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V84",
-      "file": "t36-84-complemento-indirecto.webp",
-      "title": "Complemento indirecto",
-      "type": "infografia",
-      "placement": "bloque-84",
-      "status": "planned",
-      "block": 84,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El dativo le/les es la huella más estable; a y para por sí solas no resuelven el análisis.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V85",
-      "file": "t36-85-complemento-de-regimen.webp",
-      "title": "Complemento de régimen",
-      "type": "infografia",
-      "placement": "bloque-85",
-      "status": "planned",
-      "block": 85,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta si la preposición viene impuesta por el núcleo, no si la frase responde a una pregunta memorizada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V86",
-      "file": "t36-86-atributo-y-verbos-copulativos.webp",
-      "title": "Atributo y verbos copulativos",
-      "type": "infografia",
-      "placement": "bloque-86",
-      "status": "planned",
-      "block": 86,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El atributo completa la predicación copulativa; no lo identifiques solo por su categoría.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V87",
-      "file": "t36-87-complemento-predicativo.webp",
-      "title": "Complemento predicativo",
-      "type": "infografia",
-      "placement": "bloque-87",
-      "status": "planned",
-      "block": 87,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Predicativo lanza dos flechas: hacia el verbo y hacia el participante descrito.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V88",
-      "file": "t36-il-88-complementos-circunstanciales-y-adjuntos.webp",
-      "title": "Complementos circunstanciales y adjuntos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-88",
-      "status": "planned",
-      "block": 88,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un circunstancial añade marco a la escena; antes de etiquetarlo, comprueba a qué nivel se une.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V89",
-      "file": "t36-89-complemento-agente-y-pasiva.webp",
-      "title": "Complemento agente y pasiva",
-      "type": "infografia",
-      "placement": "bloque-89",
-      "status": "planned",
-      "block": 89,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Solo hay agente si hay pasiva: por no entrega automáticamente esa función.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V90",
-      "file": "t36-90-enunciado-oracion-y-proposicion.webp",
-      "title": "Enunciado, oración y proposición",
-      "type": "infografia",
-      "placement": "bloque-90",
-      "status": "planned",
-      "block": 90,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Enunciado mira la comunicación; oración mira la estructura predicativa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V91",
-      "file": "t36-91-modalidad-oracional.webp",
-      "title": "Modalidad oracional",
-      "type": "infografia",
-      "placement": "bloque-91",
-      "status": "planned",
-      "block": 91,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La modalidad es la intención con uniforme gramatical; el contexto puede cambiar la misión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V92",
-      "file": "t36-92-oraciones-personales-e-impersonales.webp",
-      "title": "Oraciones personales e impersonales",
-      "type": "infografia",
-      "placement": "bloque-92",
-      "status": "planned",
-      "block": 92,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sujeto oculto existe; en la impersonal no hay sujeto que recuperar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V93",
-      "file": "t36-93-activas-pasivas-y-medias.webp",
-      "title": "Activas, pasivas y medias",
-      "type": "infografia",
-      "placement": "bloque-93",
-      "status": "planned",
-      "block": 93,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pasiva perifrástica usa ser; pasiva refleja usa se y concordancia; impersonal con se no tiene sujeto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V94",
-      "file": "t36-94-oraciones-simples-y-compuestas.webp",
-      "title": "Oraciones simples y compuestas",
-      "type": "infografia",
-      "placement": "bloque-94",
-      "status": "planned",
-      "block": 94,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cuenta predicaciones y relaciones, no verbos gráficos sin analizar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V95",
-      "file": "t36-95-coordinacion-y-yuxtaposicion.webp",
-      "title": "Coordinación y yuxtaposición",
-      "type": "infografia",
-      "placement": "bloque-95",
-      "status": "planned",
-      "block": 95,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Coordinación pone dos vagones al mismo nivel; yuxtaposición elimina la pieza de enlace visible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V96",
-      "file": "t36-96-subordinadas-sustantivas.webp",
-      "title": "Subordinadas sustantivas",
-      "type": "infografia",
-      "placement": "bloque-96",
-      "status": "planned",
-      "block": 96,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sustituye el bloque por eso como prueba inicial, pero confirma luego la función exacta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V97",
-      "file": "t36-97-subordinadas-de-relativo.webp",
-      "title": "Subordinadas de relativo",
-      "type": "infografia",
-      "placement": "bloque-97",
-      "status": "planned",
-      "block": 97,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Localiza dos cosas: qué antecedente modifica y qué puesto ocupa el relativo dentro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V98",
-      "file": "t36-98-subordinadas-adverbiales-y-construcciones-circunstanciales.webp",
-      "title": "Subordinadas adverbiales y construcciones circunstanciales",
-      "type": "infografia",
-      "placement": "bloque-98",
-      "status": "planned",
-      "block": 98,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La etiqueta tradicional sirve de mapa, pero cada relación necesita su propio análisis.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T36-V99",
-      "file": "t36-il-99-metodo-de-analisis-sintactico.webp",
-      "title": "Método de análisis sintáctico",
-      "type": "ilustracion_simple",
-      "placement": "bloque-99",
-      "status": "planned",
-      "block": 99,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Analiza como un atestado: localiza hechos, agrupa indicios, contrasta varias pruebas y justifica la conclusión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

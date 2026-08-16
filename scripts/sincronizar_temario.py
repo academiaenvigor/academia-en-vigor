@@ -68,6 +68,24 @@ def derived_values(opposition: str, topic: dict) -> dict:
     }
 
 
+def bank_values(bank: dict) -> dict:
+    """Cifras derivadas del manifest de exámenes oficiales de una oposición.
+
+    `active_ha_caido` NO se deriva aquí, por la misma razón que en los temas:
+    activar un badge 📅 es una decisión editorial, no un recuento.
+    """
+    manifest_path = ROOT / bank["manifest"]
+    if not manifest_path.exists():
+        return {}
+    manifest = read_json(manifest_path)
+    return {
+        "exams": manifest.get("exam_count", 0),
+        "questions": manifest.get("question_count", 0),
+        "proposed_answers": manifest.get("proposed_answers", 0),
+        "verified_questions": manifest.get("verified_questions", 0),
+    }
+
+
 def sync(write: bool) -> int:
     data = read_json(INDEX)
     drift: list[str] = []
@@ -80,6 +98,14 @@ def sync(write: bool) -> int:
                 if current != expected:
                     drift.append(f"{label}: {field}: {current!r} -> {expected!r}")
                     topic[field] = expected
+
+    for opposition, bank in data.get("official_exam_banks", {}).items():
+        label = f"{opposition}/oficiales"
+        for field, expected in bank_values(bank).items():
+            current = bank.get(field)
+            if current != expected:
+                drift.append(f"{label}: {field}: {current!r} -> {expected!r}")
+                bank[field] = expected
 
     if not drift:
         print("temario.json sincronizado: 0 desvíos")

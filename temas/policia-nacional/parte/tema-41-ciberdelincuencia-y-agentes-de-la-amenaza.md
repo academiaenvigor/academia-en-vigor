@@ -19,7 +19,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El epígrafe no convierte toda conducta en delito ni sustituye la calificación penal de los temas jurídicos.
 - Los ejemplos coyunturales se usan solo para comprender y no como definiciones universales.
 
-<!-- VISUAL PENDIENTE: t41-01-alcance-oficial-del-tema-41.webp -->
+<!-- VISUAL:t41-01-alcance-oficial-del-tema-41.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-01-alcance-oficial-del-tema-41.webp" alt="Alcance oficial del Tema 41" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 41.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T41 -->
 
@@ -32,7 +36,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El componente digital puede aparecer en preparación, ejecución, beneficio, ocultación o blanqueo.
 - La dimensión transfronteriza y la automatización aumentan escala, velocidad y dificultad investigadora.
 
-<!-- VISUAL PENDIENTE: t41-02-ciberdelincuencia.webp -->
+<!-- VISUAL:t41-02-ciberdelincuencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-02-ciberdelincuencia.webp" alt="Ciberdelincuencia" width="820">
+</p>
+<p align="center"><em>Infografía: Ciberdelincuencia.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2025-T41 -->
 
@@ -45,7 +53,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La distinción describe dependencia del medio, no gravedad ni competencia judicial.
 - Una misma campaña puede combinar intrusión ciberdependiente con fraude o extorsión cibermediados.
 
-<!-- VISUAL PENDIENTE: t41-03-delitos-ciberdependientes-y-cibermediados.webp -->
+<!-- VISUAL:t41-03-delitos-ciberdependientes-y-cibermediados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-03-delitos-ciberdependientes-y-cibermediados.webp" alt="Delitos ciberdependientes y cibermediados" width="820">
+</p>
+<p align="center"><em>Infografía: Delitos ciberdependientes y cibermediados.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2025-T41 -->
 
@@ -58,7 +70,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La disponibilidad permite acceso y uso oportunos por entidades autorizadas.
 - Una campaña puede afectar simultáneamente a varias propiedades, como robo, cifrado y caída del servicio.
 
-<!-- VISUAL PENDIENTE: t41-04-confidencialidad-integridad-y-disponibilidad.webp -->
+<!-- VISUAL:t41-04-confidencialidad-integridad-y-disponibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-04-confidencialidad-integridad-y-disponibilidad.webp" alt="Confidencialidad, integridad y disponibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Confidencialidad, integridad y disponibilidad.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -71,7 +87,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El riesgo combina probabilidad y consecuencias en un contexto determinado.
 - Una vulnerabilidad sin actor observado sigue siendo una debilidad, pero no garantiza explotación.
 
-<!-- VISUAL PENDIENTE: t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp -->
+<!-- VISUAL:t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp" alt="Amenaza, vulnerabilidad y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza, vulnerabilidad y riesgo.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -84,7 +104,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La carga útil es la función ejecutada después o como parte del compromiso.
 - Correo, servicio expuesto y dispositivo extraíble pueden ser vectores distintos para una misma carga.
 
-<!-- VISUAL PENDIENTE: t41-06-exploit-vector-y-carga-util.webp -->
+<!-- VISUAL:t41-06-exploit-vector-y-carga-util.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-06-exploit-vector-y-carga-util.webp" alt="Exploit, vector y carga útil" width="820">
+</p>
+<p align="center"><em>Infografía: Exploit, vector y carga útil.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -97,7 +121,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un incidente implica una afectación real o inminente de políticas, operaciones o seguridad.
 - No toda alerta confirma un ataque; requiere contexto, correlación y validación.
 
-<!-- VISUAL PENDIENTE: t41-07-evento-alerta-e-incidente.webp -->
+<!-- VISUAL:t41-07-evento-alerta-e-incidente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-07-evento-alerta-e-incidente.webp" alt="Evento, alerta e incidente" width="820">
+</p>
+<p align="center"><em>Infografía: Evento, alerta e incidente.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -110,7 +138,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Los indicadores concretos pueden caducar más rápido que los patrones de comportamiento.
 - Ningún indicador aislado prueba por sí solo autoría o intención.
 
-<!-- VISUAL PENDIENTE: t41-08-indicadores-y-ttp.webp -->
+<!-- VISUAL:t41-08-indicadores-y-ttp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-08-indicadores-y-ttp.webp" alt="Indicadores y TTP" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores y TTP.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -123,7 +155,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Botnet describe la red y su control; el malware es uno de los medios para reclutarla.
 - El propietario puede desconocer que su dispositivo participa en la red.
 
-<!-- VISUAL PENDIENTE: t41-09-concepto-de-botnet.webp -->
+<!-- VISUAL:t41-09-concepto-de-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-09-concepto-de-botnet.webp" alt="Concepto de botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de botnet.</em></p>
 
 <!-- FUENTE: INCIBE-BOTNET-T41 -->
 
@@ -136,7 +172,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El bot ejecuta instrucciones a través de un canal o mecanismo de mando.
 - La titularidad del equipo y el control efectivo pueden corresponder a personas distintas.
 
-<!-- VISUAL PENDIENTE: t41-il-10-bot-zombi-y-operador.webp -->
+<!-- VISUAL:t41-il-10-bot-zombi-y-operador.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-10-bot-zombi-y-operador.webp" alt="Bot, zombi y operador" width="820">
+</p>
+<p align="center"><em>Infografía: Bot, zombi y operador.</em></p>
 
 <!-- FUENTE: INCIBE-BOTNET-T41 -->
 
@@ -149,7 +189,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La infección silenciosa permite conservar el nodo durante más tiempo.
 - Una botnet puede incorporar varios métodos de propagación en una campaña.
 
-<!-- VISUAL PENDIENTE: t41-11-reclutamiento-de-una-botnet.webp -->
+<!-- VISUAL:t41-11-reclutamiento-de-una-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-11-reclutamiento-de-una-botnet.webp" alt="Reclutamiento de una botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Reclutamiento de una botnet.</em></p>
 
 <!-- FUENTE: INCIBE-BOTNET-T41 -->
 
@@ -162,7 +206,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Una arquitectura entre pares distribuye funciones de control y puede aumentar resiliencia.
 - Cambiar de canal o dominio dificulta la interrupción, pero no garantiza anonimato.
 
-<!-- VISUAL PENDIENTE: t41-12-mando-y-control-de-botnets.webp -->
+<!-- VISUAL:t41-12-mando-y-control-de-botnets.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-12-mando-y-control-de-botnets.webp" alt="Mando y control de botnets" width="820">
+</p>
+<p align="center"><em>Infografía: Mando y control de botnets.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -175,7 +223,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La función depende de las órdenes y capacidades desplegadas, no del nombre botnet.
 - Un mismo conjunto de bots puede cambiar de tarea durante su ciclo de vida.
 
-<!-- VISUAL PENDIENTE: t41-13-funciones-maliciosas-de-una-botnet.webp -->
+<!-- VISUAL:t41-13-funciones-maliciosas-de-una-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-13-funciones-maliciosas-de-una-botnet.webp" alt="Funciones maliciosas de una botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones maliciosas de una botnet.</em></p>
 
 <!-- FUENTE: INCIBE-BOTNET-T41 -->
 
@@ -188,7 +240,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El éxito se mide por impacto en disponibilidad, no por acceso al contenido.
 - Una denegación puede ser deliberada aunque no destruya ni robe datos.
 
-<!-- VISUAL PENDIENTE: t41-14-denegacion-de-servicio.webp -->
+<!-- VISUAL:t41-14-denegacion-de-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-14-denegacion-de-servicio.webp" alt="Denegación de servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Denegación de servicio.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -201,7 +257,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La distribución complica filtrado y atribución y puede aumentar capacidad.
 - Las botnets son una infraestructura habitual para DDoS, pero no son equivalentes al ataque.
 
-<!-- VISUAL PENDIENTE: t41-il-15-dos-y-ddos.webp -->
+<!-- VISUAL:t41-il-15-dos-y-ddos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-15-dos-y-ddos.webp" alt="DoS y DDoS" width="820">
+</p>
+<p align="center"><em>Infografía: DoS y DDoS.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -214,7 +274,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Los ataques de aplicación agotan recursos mediante solicitudes que aparentan mayor legitimidad.
 - La capa atacada condiciona detección y mitigación.
 
-<!-- VISUAL PENDIENTE: t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp -->
+<!-- VISUAL:t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp" alt="Ataques volumétricos, de protocolo y de aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Ataques volumétricos, de protocolo y de aplicación.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -227,7 +291,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Existe amplificación cuando la respuesta es significativamente mayor que la petición.
 - Cerrar servicios mal configurados reduce su uso como reflectores.
 
-<!-- VISUAL PENDIENTE: t41-17-reflexion-y-amplificacion.webp -->
+<!-- VISUAL:t41-17-reflexion-y-amplificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-17-reflexion-y-amplificacion.webp" alt="Reflexión y amplificación" width="820">
+</p>
+<p align="center"><em>Infografía: Reflexión y amplificación.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -240,7 +308,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Su impacto incluye consumo, degradación, costes y desgaste, aunque no siempre robe archivos.
 - No debe confundirse con minería legítima consentida ni con robo directo de criptomonedas.
 
-<!-- VISUAL PENDIENTE: t41-18-cryptojacking.webp -->
+<!-- VISUAL:t41-18-cryptojacking.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-18-cryptojacking.webp" alt="Cryptojacking" width="820">
+</p>
+<p align="center"><em>Infografía: Cryptojacking.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -253,7 +325,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - En entornos cloud puede generar costes económicos rápidos.
 - Eliminar el minero sin cerrar el acceso inicial permite reinfección.
 
-<!-- VISUAL PENDIENTE: t41-19-deteccion-e-impacto-del-cryptojacking.webp -->
+<!-- VISUAL:t41-19-deteccion-e-impacto-del-cryptojacking.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-19-deteccion-e-impacto-del-cryptojacking.webp" alt="Detección e impacto del cryptojacking" width="820">
+</p>
+<p align="center"><em>Infografía: Detección e impacto del cryptojacking.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -266,7 +342,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El engaño explota contexto y confianza, no una vulnerabilidad técnica obligatoria.
 - Puede combinarse con malware, suplantación o compromiso real de cuentas.
 
-<!-- VISUAL PENDIENTE: t41-il-20-ingenieria-social.webp -->
+<!-- VISUAL:t41-il-20-ingenieria-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-20-ingenieria-social.webp" alt="Ingeniería social" width="820">
+</p>
+<p align="center"><em>Infografía: Ingeniería social.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -279,7 +359,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Miedo, curiosidad, escasez y recompensa pueden funcionar como cebos.
 - Reconocer una palanca no basta: debe verificarse identidad y petición por canal independiente.
 
-<!-- VISUAL PENDIENTE: t41-21-palancas-de-persuasion.webp -->
+<!-- VISUAL:t41-21-palancas-de-persuasion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-21-palancas-de-persuasion.webp" alt="Palancas de persuasión" width="820">
+</p>
+<p align="center"><em>Infografía: Palancas de persuasión.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -292,7 +376,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Quid pro quo promete un beneficio o servicio a cambio de información o acción.
 - Estas técnicas pueden aparecer dentro de campañas de phishing o contacto directo.
 
-<!-- VISUAL PENDIENTE: t41-22-pretexto-cebo-y-quid-pro-quo.webp -->
+<!-- VISUAL:t41-22-pretexto-cebo-y-quid-pro-quo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-22-pretexto-cebo-y-quid-pro-quo.webp" alt="Pretexto, cebo y quid pro quo" width="820">
+</p>
+<p align="center"><em>Infografía: Pretexto, cebo y quid pro quo.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -305,7 +393,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Vishing emplea comunicación de voz, normalmente llamadas.
 - El canal no determina por sí solo el grado de personalización.
 
-<!-- VISUAL PENDIENTE: t41-23-phishing-smishing-y-vishing.webp -->
+<!-- VISUAL:t41-23-phishing-smishing-y-vishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-23-phishing-smishing-y-vishing.webp" alt="Phishing, smishing y vishing" width="820">
+</p>
+<p align="center"><em>Infografía: Phishing, smishing y vishing.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -318,7 +410,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Enlaces, adjuntos, formularios y códigos QR pueden servir de soporte.
 - El remitente visible no demuestra el origen real del mensaje.
 
-<!-- VISUAL PENDIENTE: t41-24-phishing.webp -->
+<!-- VISUAL:t41-24-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-24-phishing.webp" alt="Phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Phishing.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -331,7 +427,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Puede buscar credenciales, ejecución de malware, fraude o acceso inicial.
 - Ser dirigido aumenta credibilidad, pero no garantiza éxito.
 
-<!-- VISUAL PENDIENTE: t41-il-25-spear-phishing.webp -->
+<!-- VISUAL:t41-il-25-spear-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-25-spear-phishing.webp" alt="Spear phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Spear phishing.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -344,7 +444,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Puede imitar comunicaciones legales, financieras o de dirección.
 - No todo BEC es whaling ni todo whaling implica una cuenta comprometida.
 
-<!-- VISUAL PENDIENTE: t41-26-whaling.webp -->
+<!-- VISUAL:t41-26-whaling.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-26-whaling.webp" alt="Whaling" width="820">
+</p>
+<p align="center"><em>Infografía: Whaling.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -357,7 +461,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El atacante estudia relaciones, facturación, funciones y momentos de pago.
 - La petición suele parecer coherente con un proceso real de negocio.
 
-<!-- VISUAL PENDIENTE: t41-27-business-email-compromise.webp -->
+<!-- VISUAL:t41-27-business-email-compromise.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-27-business-email-compromise.webp" alt="Business Email Compromise" width="820">
+</p>
+<p align="center"><em>Infografía: Business Email Compromise.</em></p>
 
 <!-- FUENTE: FBI-IC3-2025-T41 -->
 
@@ -370,7 +478,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Ambos mecanismos pueden producir una petición aparentemente legítima.
 - La respuesta debe verificar cambio de cuenta o pago mediante un canal conocido e independiente.
 
-<!-- VISUAL PENDIENTE: t41-28-compromiso-real-y-suplantacion-en-bec.webp -->
+<!-- VISUAL:t41-28-compromiso-real-y-suplantacion-en-bec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-28-compromiso-real-y-suplantacion-en-bec.webp" alt="Compromiso real y suplantación en BEC" width="820">
+</p>
+<p align="center"><em>Infografía: Compromiso real y suplantación en BEC.</em></p>
 
 <!-- FUENTE: FBI-SCAMS-T41 -->
 
@@ -383,7 +495,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un proveedor, directivo o asesor puede ser la identidad imitada.
 - Confirmar con datos de contacto ya conocidos reduce el riesgo de desvío.
 
-<!-- VISUAL PENDIENTE: t41-29-fraude-de-factura-y-cambio-de-cuenta.webp -->
+<!-- VISUAL:t41-29-fraude-de-factura-y-cambio-de-cuenta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-29-fraude-de-factura-y-cambio-de-cuenta.webp" alt="Fraude de factura y cambio de cuenta" width="820">
+</p>
+<p align="center"><em>Infografía: Fraude de factura y cambio de cuenta.</em></p>
 
 <!-- FUENTE: FBI-IC3-2025-T41 -->
 
@@ -396,7 +512,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El nombre histórico no limita autores, países ni variantes actuales.
 - Es una forma de fraude de pago anticipado y puede combinarse con identidad falsa.
 
-<!-- VISUAL PENDIENTE: t41-il-30-carta-nigeriana-o-fraude-419.webp -->
+<!-- VISUAL:t41-il-30-carta-nigeriana-o-fraude-419.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-30-carta-nigeriana-o-fraude-419.webp" alt="Carta nigeriana o fraude 419" width="820">
+</p>
+<p align="center"><em>Infografía: Carta nigeriana o fraude 419.</em></p>
 
 <!-- FUENTE: FBI-SCAMS-T41 -->
 
@@ -409,7 +529,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La víctima puede escribir correctamente el nombre y aun así llegar al destino fraudulento.
 - Pharming describe la redirección; el objetivo posterior puede ser robo de credenciales o malware.
 
-<!-- VISUAL PENDIENTE: t41-31-pharming.webp -->
+<!-- VISUAL:t41-31-pharming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-31-pharming.webp" alt="Pharming" width="820">
+</p>
+<p align="center"><em>Infografía: Pharming.</em></p>
 
 <!-- FUENTE: RFC3833-DNS-T41 -->
 
@@ -422,7 +546,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Comprometer un router puede cambiar los resolutores usados por varios dispositivos.
 - Los tres caminos pueden producir una redirección parecida con evidencias distintas.
 
-<!-- VISUAL PENDIENTE: t41-32-envenenamiento-dns-y-archivo-hosts.webp -->
+<!-- VISUAL:t41-32-envenenamiento-dns-y-archivo-hosts.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-32-envenenamiento-dns-y-archivo-hosts.webp" alt="Envenenamiento DNS y archivo hosts" width="820">
+</p>
+<p align="center"><em>Infografía: Envenenamiento DNS y archivo hosts.</em></p>
 
 <!-- FUENTE: RFC3833-DNS-T41 -->
 
@@ -435,7 +563,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El término describe la suplantación técnica, no garantiza acceso a la cuenta imitada.
 - El impacto depende de cómo se use la apariencia falsa.
 
-<!-- VISUAL PENDIENTE: t41-33-spoofing.webp -->
+<!-- VISUAL:t41-33-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-33-spoofing.webp" alt="Spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: Spoofing.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -448,7 +580,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - SPF, DKIM y DMARC ayudan a autenticar dominios, pero no eliminan todos los engaños.
 - Un dominio parecido puede engañar sin falsificar exactamente el dominio legítimo.
 
-<!-- VISUAL PENDIENTE: t41-34-email-spoofing.webp -->
+<!-- VISUAL:t41-34-email-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-34-email-spoofing.webp" alt="Email spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: Email spoofing.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -461,7 +597,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - No proporciona automáticamente una sesión bidireccional ni control del equipo suplantado.
 - Los filtros de origen reducen su abuso en redes correctamente configuradas.
 
-<!-- VISUAL PENDIENTE: t41-il-35-ip-spoofing.webp -->
+<!-- VISUAL:t41-il-35-ip-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-35-ip-spoofing.webp" alt="IP spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: IP spoofing.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -474,7 +614,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La web falsa puede existir sin manipular DNS mediante un enlace o dominio semejante.
 - Separar resolución, certificado, dominio y contenido evita confundir mecanismos.
 
-<!-- VISUAL PENDIENTE: t41-36-dns-y-web-spoofing.webp -->
+<!-- VISUAL:t41-36-dns-y-web-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-36-dns-y-web-spoofing.webp" alt="DNS y web spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: DNS y web spoofing.</em></p>
 
 <!-- FUENTE: RFC3833-DNS-T41 -->
 
@@ -487,7 +631,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La doble autorización reduce el riesgo de que una sola persona complete el fraude.
 - La presión por urgencia o secreto es un motivo para elevar la comprobación.
 
-<!-- VISUAL PENDIENTE: t41-37-verificacion-fuera-de-banda.webp -->
+<!-- VISUAL:t41-37-verificacion-fuera-de-banda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-37-verificacion-fuera-de-banda.webp" alt="Verificación fuera de banda" width="820">
+</p>
+<p align="center"><em>Infografía: Verificación fuera de banda.</em></p>
 
 <!-- FUENTE: FBI-SCAMS-T41 -->
 
@@ -500,7 +648,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Virus, gusano, troyano, spyware y ransomware describen comportamientos o finalidades diferentes.
 - Una muestra puede reunir varias capacidades y etiquetas.
 
-<!-- VISUAL PENDIENTE: t41-38-malware.webp -->
+<!-- VISUAL:t41-38-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-38-malware.webp" alt="Malware" width="820">
+</p>
+<p align="center"><em>Infografía: Malware.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -513,7 +665,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Botnet describe una infraestructura; bot o agente puede ser la carga instalada.
 - La clasificación debe explicar comportamiento observable y no solo el nombre comercial.
 
-<!-- VISUAL PENDIENTE: t41-39-clasificar-malware.webp -->
+<!-- VISUAL:t41-39-clasificar-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-39-clasificar-malware.webp" alt="Clasificar malware" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificar malware.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -526,7 +682,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La carga dañina y el mecanismo de replicación son aspectos distintos.
 - No todo malware se replica ni todo código autorreplicante es un troyano.
 
-<!-- VISUAL PENDIENTE: t41-il-40-virus-informatico.webp -->
+<!-- VISUAL:t41-il-40-virus-informatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-40-virus-informatico.webp" alt="Virus informático" width="820">
+</p>
+<p align="center"><em>Infografía: Virus informático.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -539,7 +699,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La propagación automática puede producir gran impacto operativo.
 - Un gusano puede transportar otras cargas, incluido ransomware.
 
-<!-- VISUAL PENDIENTE: t41-41-gusano.webp -->
+<!-- VISUAL:t41-41-gusano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-41-gusano.webp" alt="Gusano" width="820">
+</p>
+<p align="center"><em>Infografía: Gusano.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -552,7 +716,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Puede descargar otras cargas, robar información o abrir acceso remoto.
 - No todo troyano es un RAT y no todo acceso remoto legítimo es un troyano.
 
-<!-- VISUAL PENDIENTE: t41-42-troyano.webp -->
+<!-- VISUAL:t41-42-troyano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-42-troyano.webp" alt="Troyano" width="820">
+</p>
+<p align="center"><em>Infografía: Troyano.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -565,7 +733,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un troyano puede instalar un RAT o una backdoor, pero los términos no son idénticos.
 - Herramientas legítimas de acceso remoto pueden abusarse sin convertirse por nombre en malware.
 
-<!-- VISUAL PENDIENTE: t41-43-rat-y-backdoor.webp -->
+<!-- VISUAL:t41-43-rat-y-backdoor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-43-rat-y-backdoor.webp" alt="RAT y backdoor" width="820">
+</p>
+<p align="center"><em>Infografía: RAT y backdoor.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -578,7 +750,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La captura puede ser selectiva o continua y combinarse con exfiltración.
 - Adware intrusivo y spyware pueden solaparse, pero no son equivalentes.
 
-<!-- VISUAL PENDIENTE: t41-44-spyware.webp -->
+<!-- VISUAL:t41-44-spyware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-44-spyware.webp" alt="Spyware" width="820">
+</p>
+<p align="center"><em>Infografía: Spyware.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -591,7 +767,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El keylogging puede ser una capacidad dentro de spyware o de un troyano.
 - Robar cookies de sesión puede permitir acceso sin conocer la contraseña.
 
-<!-- VISUAL PENDIENTE: t41-il-45-keylogger-e-infostealer.webp -->
+<!-- VISUAL:t41-il-45-keylogger-e-infostealer.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-45-keylogger-e-infostealer.webp" alt="Keylogger e infostealer" width="820">
+</p>
+<p align="center"><em>Infografía: Keylogger e infostealer.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -604,7 +784,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Pagar no garantiza descifrado, borrado de datos ni ausencia de nuevas extorsiones.
 - La respuesta debe priorizar contención, preservación, continuidad y recuperación.
 
-<!-- VISUAL PENDIENTE: t41-46-ransomware.webp -->
+<!-- VISUAL:t41-46-ransomware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-46-ransomware.webp" alt="Ransomware" width="820">
+</p>
+<p align="center"><em>Infografía: Ransomware.</em></p>
 
 <!-- FUENTE: CISA-RANSOMWARE-T41 -->
 
@@ -617,7 +801,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un aviso policial falso puede ser una técnica de intimidación de un locker.
 - Las variantes pueden combinar bloqueo, cifrado y robo.
 
-<!-- VISUAL PENDIENTE: t41-47-locker-y-crypto-ransomware.webp -->
+<!-- VISUAL:t41-47-locker-y-crypto-ransomware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-47-locker-y-crypto-ransomware.webp" alt="Locker y crypto-ransomware" width="820">
+</p>
+<p align="center"><em>Infografía: Locker y crypto-ransomware.</em></p>
 
 <!-- FUENTE: CISA-RANSOMWARE-T41 -->
 
@@ -630,7 +818,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Tener copias reduce el impacto del cifrado, pero no neutraliza una filtración.
 - Exfiltración y cifrado son hechos distintos que requieren evidencias separadas.
 
-<!-- VISUAL PENDIENTE: t41-48-doble-y-multiple-extorsion.webp -->
+<!-- VISUAL:t41-48-doble-y-multiple-extorsion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-48-doble-y-multiple-extorsion.webp" alt="Doble y múltiple extorsión" width="820">
+</p>
+<p align="center"><em>Infografía: Doble y múltiple extorsión.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -643,7 +835,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El acceso inicial puede venderse a otro actor.
 - Conocer el vector permite cerrar la causa y no solo borrar la carga.
 
-<!-- VISUAL PENDIENTE: t41-49-vectores-de-infeccion.webp -->
+<!-- VISUAL:t41-49-vectores-de-infeccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-49-vectores-de-infeccion.webp" alt="Vectores de infección" width="820">
+</p>
+<p align="center"><em>Infografía: Vectores de infección.</em></p>
 
 <!-- FUENTE: CISA-MPR-T41 -->
 
@@ -656,7 +852,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Son objetivos diferentes aunque una técnica contribuya a ambos.
 - Cuentas, servicios, tareas y configuraciones pueden usarse para persistencia.
 
-<!-- VISUAL PENDIENTE: t41-il-50-persistencia-y-escalada-de-privilegios.webp -->
+<!-- VISUAL:t41-il-50-persistencia-y-escalada-de-privilegios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-50-persistencia-y-escalada-de-privilegios.webp" alt="Persistencia y escalada de privilegios" width="820">
+</p>
+<p align="center"><em>Infografía: Persistencia y escalada de privilegios.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -669,7 +869,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Bloquear un dominio puede interrumpir una campaña sin eliminar la persistencia local.
 - C2 es una función de operación y no una familia concreta de malware.
 
-<!-- VISUAL PENDIENTE: t41-51-comando-y-control.webp -->
+<!-- VISUAL:t41-51-comando-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-51-comando-y-control.webp" alt="Comando y control" width="820">
+</p>
+<p align="center"><em>Infografía: Comando y control.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -682,7 +886,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Los indicadores deben contextualizarse por fuente, fecha y confianza.
 - Ausencia de una firma conocida no demuestra ausencia de malware.
 
-<!-- VISUAL PENDIENTE: t41-52-indicadores-de-malware.webp -->
+<!-- VISUAL:t41-52-indicadores-de-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-52-indicadores-de-malware.webp" alt="Indicadores de malware" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores de malware.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -695,7 +903,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La respuesta incluye aislar, investigar, erradicar, restaurar y vigilar.
 - Restaurar antes de cerrar persistencia o credenciales facilita recaída.
 
-<!-- VISUAL PENDIENTE: t41-53-prevencion-y-recuperacion-de-malware.webp -->
+<!-- VISUAL:t41-53-prevencion-y-recuperacion-de-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-53-prevencion-y-recuperacion-de-malware.webp" alt="Prevención y recuperación de malware" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención y recuperación de malware.</em></p>
 
 <!-- FUENTE: CISA-RANSOMWARE-T41 -->
 
@@ -708,7 +920,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La causa central es mezclar datos y código sin controles adecuados al contexto.
 - El impacto depende de permisos y capacidad del intérprete.
 
-<!-- VISUAL PENDIENTE: t41-54-inyeccion.webp -->
+<!-- VISUAL:t41-54-inyeccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-54-inyeccion.webp" alt="Inyección" width="820">
+</p>
+<p align="center"><em>Infografía: Inyección.</em></p>
 
 <!-- FUENTE: OWASP-INJECTION-T41 -->
 
@@ -721,7 +937,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Puede afectar parámetros, cabeceras, cookies u otros campos que alimenten la consulta.
 - No exige que el atacante vea directamente los errores de la base de datos.
 
-<!-- VISUAL PENDIENTE: t41-il-55-inyeccion-sql.webp -->
+<!-- VISUAL:t41-il-55-inyeccion-sql.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-55-inyeccion-sql.webp" alt="Inyección SQL" width="820">
+</p>
+<p align="center"><em>Infografía: Inyección SQL.</em></p>
 
 <!-- FUENTE: OWASP-SQLI-T41 -->
 
@@ -734,7 +954,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La validación positiva complementa, pero no reemplaza, la separación de datos y consulta.
 - ORM y procedimientos almacenados pueden ser vulnerables si construyen SQL dinámico inseguro.
 
-<!-- VISUAL PENDIENTE: t41-56-causa-de-sqli.webp -->
+<!-- VISUAL:t41-56-causa-de-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-56-causa-de-sqli.webp" alt="Causa de SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Causa de SQLi.</em></p>
 
 <!-- FUENTE: OWASP-INJECTION-T41 -->
 
@@ -747,7 +971,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Algunas configuraciones permiten invocar funciones o alcanzar otros recursos.
 - El mínimo privilegio limita consecuencias aunque no corrige la vulnerabilidad.
 
-<!-- VISUAL PENDIENTE: t41-57-impactos-de-sqli.webp -->
+<!-- VISUAL:t41-57-impactos-de-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-57-impactos-de-sqli.webp" alt="Impactos de SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Impactos de SQLi.</em></p>
 
 <!-- FUENTE: OWASP-INJECTION-T41 -->
 
@@ -760,7 +988,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La variante basada en tiempo usa retrasos observables como canal.
 - No recibir errores SQL no demuestra que la consulta sea segura.
 
-<!-- VISUAL PENDIENTE: t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp -->
+<!-- VISUAL:t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp" alt="SQLi visible, ciega y basada en tiempo" width="820">
+</p>
+<p align="center"><em>Infografía: SQLi visible, ciega y basada en tiempo.</em></p>
 
 <!-- FUENTE: OWASP-SQLI-T41 -->
 
@@ -773,7 +1005,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Los nombres dinámicos de tablas o columnas requieren diseño y listas permitidas específicas.
 - Parametrizar debe aplicarse en todos los caminos que construyen consultas.
 
-<!-- VISUAL PENDIENTE: t41-59-consultas-parametrizadas.webp -->
+<!-- VISUAL:t41-59-consultas-parametrizadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-59-consultas-parametrizadas.webp" alt="Consultas parametrizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Consultas parametrizadas.</em></p>
 
 <!-- FUENTE: OWASP-SQLI-T41 -->
 
@@ -786,7 +1022,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Ocultar errores reduce información, pero no corrige la consulta vulnerable.
 - Defensa en profundidad combina parametrización, validación y privilegios limitados.
 
-<!-- VISUAL PENDIENTE: t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp -->
+<!-- VISUAL:t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp" alt="Mínimo privilegio y validación en SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Mínimo privilegio y validación en SQLi.</em></p>
 
 <!-- FUENTE: OWASP-SQLI-T41 -->
 
@@ -799,7 +1039,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El navegador puede confiar en el código porque aparece dentro del origen legítimo.
 - XSS ataca principalmente al usuario y su sesión, no al intérprete SQL.
 
-<!-- VISUAL PENDIENTE: t41-61-cross-site-scripting.webp -->
+<!-- VISUAL:t41-61-cross-site-scripting.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-61-cross-site-scripting.webp" alt="Cross-Site Scripting" width="820">
+</p>
+<p align="center"><em>Infografía: Cross-Site Scripting.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -812,7 +1056,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La carga no queda almacenada necesariamente en el servidor.
 - La ejecución ocurre en el navegador bajo el contexto del sitio vulnerable.
 
-<!-- VISUAL PENDIENTE: t41-62-xss-reflejado.webp -->
+<!-- VISUAL:t41-62-xss-reflejado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-62-xss-reflejado.webp" alt="XSS reflejado" width="820">
+</p>
+<p align="center"><em>Infografía: XSS reflejado.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -825,7 +1073,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La víctima puede ejecutar el script al visitar la página sin abrir el enlace original del atacante.
 - Puede afectar a múltiples usuarios y a cuentas privilegiadas.
 
-<!-- VISUAL PENDIENTE: t41-63-xss-almacenado.webp -->
+<!-- VISUAL:t41-63-xss-almacenado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-63-xss-almacenado.webp" alt="XSS almacenado" width="820">
+</p>
+<p align="center"><em>Infografía: XSS almacenado.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -838,7 +1090,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Origen y sumidero deben analizarse dentro del flujo de JavaScript.
 - DOM, almacenado y reflejado describen dimensiones que pueden solaparse.
 
-<!-- VISUAL PENDIENTE: t41-64-xss-basado-en-dom.webp -->
+<!-- VISUAL:t41-64-xss-basado-en-dom.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-64-xss-basado-en-dom.webp" alt="XSS basado en DOM" width="820">
+</p>
+<p align="center"><em>Infografía: XSS basado en DOM.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -851,7 +1107,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - HttpOnly limita lectura de cookies, pero no impide toda acción XSS.
 - El impacto depende del origen, privilegios y controles del navegador.
 
-<!-- VISUAL PENDIENTE: t41-il-65-impacto-de-xss.webp -->
+<!-- VISUAL:t41-il-65-impacto-de-xss.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-65-impacto-de-xss.webp" alt="Impacto de XSS" width="820">
+</p>
+<p align="center"><em>Infografía: Impacto de XSS.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -864,7 +1124,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Sanitizar HTML es necesario cuando se admite marcado no confiable.
 - CSP puede reducir impacto, pero no sustituye codificación y diseño seguros.
 
-<!-- VISUAL PENDIENTE: t41-66-prevencion-de-xss.webp -->
+<!-- VISUAL:t41-66-prevencion-de-xss.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-66-prevencion-de-xss.webp" alt="Prevención de XSS" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención de XSS.</em></p>
 
 <!-- FUENTE: OWASP-XSS-T41 -->
 
@@ -877,7 +1141,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un exploit puede requerir condiciones, versión, configuración o interacción concretas.
 - La severidad de la debilidad y el riesgo del entorno no son valores idénticos.
 
-<!-- VISUAL PENDIENTE: t41-67-vulnerabilidad-y-exploit.webp -->
+<!-- VISUAL:t41-67-vulnerabilidad-y-exploit.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-67-vulnerabilidad-y-exploit.webp" alt="Vulnerabilidad y exploit" width="820">
+</p>
+<p align="center"><em>Infografía: Vulnerabilidad y exploit.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -890,7 +1158,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La etiqueta depende del estado de conocimiento y corrección, no de la antigüedad del software.
 - Tras divulgarse y parchearse, la misma debilidad deja de ser zero-day aunque siga sin actualizarse en muchos equipos.
 
-<!-- VISUAL PENDIENTE: t41-68-zero-day.webp -->
+<!-- VISUAL:t41-68-zero-day.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-68-zero-day.webp" alt="Zero-day" width="820">
+</p>
+<p align="center"><em>Infografía: Zero-day.</em></p>
 
 <!-- FUENTE: NIST-ZERODAY-T41 -->
 
@@ -903,7 +1175,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - WannaCry se propagó masivamente explotando una vulnerabilidad para la que Microsoft ya había publicado parche.
 - Confundir vulnerabilidad conocida sin parchear con zero-day falsea la pregunta.
 
-<!-- VISUAL PENDIENTE: t41-69-divulgacion-parche-y-ventana-de-exposicion.webp -->
+<!-- VISUAL:t41-69-divulgacion-parche-y-ventana-de-exposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-69-divulgacion-parche-y-ventana-de-exposicion.webp" alt="Divulgación, parche y ventana de exposición" width="820">
+</p>
+<p align="center"><em>Infografía: Divulgación, parche y ventana de exposición.</em></p>
 
 <!-- FUENTE: NIST-ZERODAY-T41 -->
 
@@ -916,7 +1192,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El objetivo habitual es fraude, clonación o uso no autorizado de los datos.
 - Puede acompañarse de captura del PIN mediante cámara o teclado superpuesto.
 
-<!-- VISUAL PENDIENTE: t41-il-70-skimming.webp -->
+<!-- VISUAL:t41-il-70-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-70-skimming.webp" alt="Skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Skimming.</em></p>
 
 <!-- FUENTE: PCI-SKIMMING-T41 -->
 
@@ -929,7 +1209,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Algunos dispositivos almacenan datos y otros los transmiten.
 - La apariencia externa normal no descarta manipulación interna.
 
-<!-- VISUAL PENDIENTE: t41-71-dispositivos-de-skimming.webp -->
+<!-- VISUAL:t41-71-dispositivos-de-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-71-dispositivos-de-skimming.webp" alt="Dispositivos de skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos de skimming.</em></p>
 
 <!-- FUENTE: PCI-SKIMMING-T41 -->
 
@@ -942,7 +1226,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El ataque puede afectar scripts propios, terceros o cadena de suministro.
 - La base de datos puede no ser el punto comprometido.
 
-<!-- VISUAL PENDIENTE: t41-72-e-skimming.webp -->
+<!-- VISUAL:t41-72-e-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-72-e-skimming.webp" alt="E-skimming" width="820">
+</p>
+<p align="center"><em>Infografía: E-skimming.</em></p>
 
 <!-- FUENTE: PCI-ESKIMMING-T41 -->
 
@@ -955,7 +1243,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Inventariar, autorizar y verificar integridad de scripts reduce el riesgo.
 - Detectar cambios no autorizados en cabeceras y contenido es una medida clave.
 
-<!-- VISUAL PENDIENTE: t41-73-scripts-de-terceros-y-cadena-de-suministro.webp -->
+<!-- VISUAL:t41-73-scripts-de-terceros-y-cadena-de-suministro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-73-scripts-de-terceros-y-cadena-de-suministro.webp" alt="Scripts de terceros y cadena de suministro" width="820">
+</p>
+<p align="center"><em>Infografía: Scripts de terceros y cadena de suministro.</em></p>
 
 <!-- FUENTE: PCI-ESKIMMING-T41 -->
 
@@ -968,7 +1260,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Ambos pueden terminar en fraude con tarjeta, pero el mecanismo probatorio difiere.
 - E-skimming puede operar dentro de la tienda legítima sin imitar otra página.
 
-<!-- VISUAL PENDIENTE: t41-74-skimming-frente-a-phishing.webp -->
+<!-- VISUAL:t41-74-skimming-frente-a-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-74-skimming-frente-a-phishing.webp" alt="Skimming frente a phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Skimming frente a phishing.</em></p>
 
 <!-- FUENTE: PCI-SKIMMING-T41 -->
 
@@ -981,7 +1277,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La segmentación y el mínimo privilegio reducen alcance del compromiso.
 - Una transacción correcta no demuestra que los datos no hayan sido copiados.
 
-<!-- VISUAL PENDIENTE: t41-il-75-deteccion-y-prevencion-del-skimming.webp -->
+<!-- VISUAL:t41-il-75-deteccion-y-prevencion-del-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-75-deteccion-y-prevencion-del-skimming.webp" alt="Detección y prevención del skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Detección y prevención del skimming.</em></p>
 
 <!-- FUENTE: PCI-ESKIMMING-T41 -->
 
@@ -994,7 +1294,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - No necesita desarrollar personalmente todas las herramientas utilizadas.
 - La motivación económica es frecuente, pero no es la única posible.
 
-<!-- VISUAL PENDIENTE: t41-76-cibercriminales.webp -->
+<!-- VISUAL:t41-76-cibercriminales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-76-cibercriminales.webp" alt="Cibercriminales" width="820">
+</p>
+<p align="center"><em>Infografía: Cibercriminales.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2025-T41 -->
 
@@ -1007,7 +1311,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Una motivación compartida no prueba que dos campañas tengan el mismo autor.
 - Los recursos disponibles condicionan persistencia, acceso y selección de objetivos.
 
-<!-- VISUAL PENDIENTE: t41-77-motivaciones-y-capacidades.webp -->
+<!-- VISUAL:t41-77-motivaciones-y-capacidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-77-motivaciones-y-capacidades.webp" alt="Motivaciones y capacidades" width="820">
+</p>
+<p align="center"><em>Infografía: Motivaciones y capacidades.</em></p>
 
 <!-- FUENTE: NIST-SP800-150-T41 -->
 
@@ -1020,7 +1328,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La especialización aumenta escala y reduce barreras de entrada.
 - Una operación puede ser organizada aunque sus miembros estén distribuidos.
 
-<!-- VISUAL PENDIENTE: t41-78-ciberdelincuencia-organizada.webp -->
+<!-- VISUAL:t41-78-ciberdelincuencia-organizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-78-ciberdelincuencia-organizada.webp" alt="Ciberdelincuencia organizada" width="820">
+</p>
+<p align="center"><em>Infografía: Ciberdelincuencia organizada.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2025-T41 -->
 
@@ -1033,7 +1345,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El cliente reduce necesidad de desarrollar capacidades propias.
 - El modelo fragmenta responsabilidades, pero no vuelve lícito el servicio.
 
-<!-- VISUAL PENDIENTE: t41-79-crime-as-a-service.webp -->
+<!-- VISUAL:t41-79-crime-as-a-service.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-79-crime-as-a-service.webp" alt="Crime as a Service" width="820">
+</p>
+<p align="center"><em>Infografía: Crime as a Service.</em></p>
 
 <!-- FUENTE: EUROPOL-CAAS-T41 -->
 
@@ -1046,7 +1362,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La infraestructura criminal puede incluir alojamiento, proxies, dominios o botnets.
 - Las denominaciones comerciales describen modelos, no una autoría única.
 
-<!-- VISUAL PENDIENTE: t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp -->
+<!-- VISUAL:t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp" alt="Malware, ransomware e infraestructura como servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Malware, ransomware e infraestructura como servicio.</em></p>
 
 <!-- FUENTE: EUROPOL-CAAS-T41 -->
 
@@ -1059,7 +1379,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El comprador despliega después espionaje, fraude o ransomware.
 - Separar acceso y explotación final complica atribución y cronología.
 
-<!-- VISUAL PENDIENTE: t41-81-initial-access-brokers.webp -->
+<!-- VISUAL:t41-81-initial-access-brokers.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-81-initial-access-brokers.webp" alt="Initial Access Brokers" width="820">
+</p>
+<p align="center"><em>Infografía: Initial Access Brokers.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -1072,7 +1396,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Los mercados e intermediarios conectan proveedores y compradores.
 - El valor del dato depende de actualidad, acceso y posibilidad de abuso.
 
-<!-- VISUAL PENDIENTE: t41-82-datos-robados-y-monetizacion.webp -->
+<!-- VISUAL:t41-82-datos-robados-y-monetizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-82-datos-robados-y-monetizacion.webp" alt="Datos robados y monetización" width="820">
+</p>
+<p align="center"><em>Infografía: Datos robados y monetización.</em></p>
 
 <!-- FUENTE: EUROPOL-IOCTA-2025-T41 -->
 
@@ -1085,7 +1413,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Criptoactivos no eliminan por sí solos trazabilidad ni necesidad de conversión.
 - La cadena financiera forma parte de la operación aunque no ejecute malware.
 
-<!-- VISUAL PENDIENTE: t41-83-afiliados-mulas-y-blanqueo.webp -->
+<!-- VISUAL:t41-83-afiliados-mulas-y-blanqueo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-83-afiliados-mulas-y-blanqueo.webp" alt="Afiliados, mulas y blanqueo" width="820">
+</p>
+<p align="center"><em>Infografía: Afiliados, mulas y blanqueo.</em></p>
 
 <!-- FUENTE: EUROPOL-CAAS-T41 -->
 
@@ -1098,7 +1430,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La motivación alegada no convierte en lícito el método utilizado.
 - Grupos y campañas pueden ser descentralizados y usar identidades colectivas.
 
-<!-- VISUAL PENDIENTE: t41-84-hacktivistas.webp -->
+<!-- VISUAL:t41-84-hacktivistas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-84-hacktivistas.webp" alt="Hacktivistas" width="820">
+</p>
+<p align="center"><em>Infografía: Hacktivistas.</em></p>
 
 <!-- FUENTE: ENISA-TL-2025-T41 -->
 
@@ -1111,7 +1447,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Empleados, contratistas, proveedores o socios pueden entrar en el alcance.
 - La condición interna depende del acceso y relación, no solo del lugar físico.
 
-<!-- VISUAL PENDIENTE: t41-il-85-insider-threat.webp -->
+<!-- VISUAL:t41-il-85-insider-threat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-85-insider-threat.webp" alt="Insider threat" width="820">
+</p>
+<p align="center"><em>Infografía: Insider threat.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -1124,7 +1464,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El comprometido actúa bajo control o engaño de un tercero.
 - La prevención combina controles técnicos, procesos, formación y supervisión proporcional.
 
-<!-- VISUAL PENDIENTE: t41-86-insider-malicioso-negligente-o-comprometido.webp -->
+<!-- VISUAL:t41-86-insider-malicioso-negligente-o-comprometido.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-86-insider-malicioso-negligente-o-comprometido.webp" alt="Insider malicioso, negligente o comprometido" width="820">
+</p>
+<p align="center"><em>Infografía: Insider malicioso, negligente o comprometido.</em></p>
 
 <!-- FUENTE: NIST-IR7298-T41 -->
 
@@ -1137,7 +1481,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Persistente describe continuidad y adaptación, no presencia eterna e indetectable.
 - La etiqueta puede referirse al tipo de amenaza o a un grupo atribuido según el contexto.
 
-<!-- VISUAL PENDIENTE: t41-87-advanced-persistent-threat.webp -->
+<!-- VISUAL:t41-87-advanced-persistent-threat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-87-advanced-persistent-threat.webp" alt="Advanced Persistent Threat" width="820">
+</p>
+<p align="center"><em>Infografía: Advanced Persistent Threat.</em></p>
 
 <!-- FUENTE: MITRE-APT-T41 -->
 
@@ -1150,7 +1498,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La atribución combina infraestructura, código, objetivos, tiempos, operaciones y otras evidencias.
 - Los nombres de grupo varían entre proveedores y pueden solaparse o divergir.
 
-<!-- VISUAL PENDIENTE: t41-88-ttp-y-atribucion-de-apt.webp -->
+<!-- VISUAL:t41-88-ttp-y-atribucion-de-apt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-88-ttp-y-atribucion-de-apt.webp" alt="TTP y atribución de APT" width="820">
+</p>
+<p align="center"><em>Infografía: TTP y atribución de APT.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 
@@ -1163,7 +1515,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El modelo se centra en intrusiones y no describe por igual todo fraude o insider threat.
 - Interrumpir una fase puede impedir que el adversario complete su objetivo.
 
-<!-- VISUAL PENDIENTE: t41-89-cyber-kill-chain.webp -->
+<!-- VISUAL:t41-89-cyber-kill-chain.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-89-cyber-kill-chain.webp" alt="Cyber Kill Chain" width="820">
+</p>
+<p align="center"><em>Infografía: Cyber Kill Chain.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1176,7 +1532,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El resultado orienta selección de vector y preparación.
 - Reducir exposición y detectar sondeos dificulta esta fase, pero no la elimina.
 
-<!-- VISUAL PENDIENTE: t41-il-90-reconocimiento.webp -->
+<!-- VISUAL:t41-il-90-reconocimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-90-reconocimiento.webp" alt="Reconocimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Reconocimiento.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1189,7 +1549,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La fase puede ocurrir fuera de la infraestructura de la víctima.
 - Su observación directa suele ser difícil antes de la entrega.
 
-<!-- VISUAL PENDIENTE: t41-91-weaponization.webp -->
+<!-- VISUAL:t41-91-weaponization.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-91-weaponization.webp" alt="Weaponization" width="820">
+</p>
+<p align="center"><em>Infografía: Weaponization.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1202,7 +1566,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Entrega no significa todavía que la explotación haya tenido éxito.
 - Filtrado, aislamiento y formación pueden cortar la cadena en este punto.
 
-<!-- VISUAL PENDIENTE: t41-92-delivery.webp -->
+<!-- VISUAL:t41-92-delivery.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-92-delivery.webp" alt="Delivery" width="820">
+</p>
+<p align="center"><em>Infografía: Delivery.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1215,7 +1583,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - La explotación convierte la entrega en capacidad efectiva dentro del objetivo.
 - Parches y mitigaciones reducen oportunidades de esta fase.
 
-<!-- VISUAL PENDIENTE: t41-93-explotacion.webp -->
+<!-- VISUAL:t41-93-explotacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-93-explotacion.webp" alt="Explotación" width="820">
+</p>
+<p align="center"><em>Infografía: Explotación.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1228,7 +1600,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - No toda explotación requiere instalar un archivo permanente.
 - Control de aplicaciones y detección de cambios ayudan a interrumpirla.
 
-<!-- VISUAL PENDIENTE: t41-94-instalacion.webp -->
+<!-- VISUAL:t41-94-instalacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-94-instalacion.webp" alt="Instalación" width="820">
+</p>
+<p align="center"><em>Infografía: Instalación.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1241,7 +1617,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Bloquear C2 reduce capacidad operativa aunque quede malware instalado.
 - El adversario puede cambiar dominios, direcciones o servicios para recuperar comunicación.
 
-<!-- VISUAL PENDIENTE: t41-il-95-command-and-control.webp -->
+<!-- VISUAL:t41-il-95-command-and-control.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-95-command-and-control.webp" alt="Command and Control" width="820">
+</p>
+<p align="center"><em>Infografía: Command and Control.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1254,7 +1634,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - El impacto observable depende del propósito del actor.
 - Contención tardía aún puede limitar alcance y preservar evidencia.
 
-<!-- VISUAL PENDIENTE: t41-96-actions-on-objectives.webp -->
+<!-- VISUAL:t41-96-actions-on-objectives.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-96-actions-on-objectives.webp" alt="Actions on Objectives" width="820">
+</p>
+<p align="center"><em>Infografía: Actions on Objectives.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1267,7 +1651,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Controles superpuestos evitan depender de una única barrera.
 - La inteligencia de amenazas ayuda a relacionar indicadores y comportamiento con fases.
 
-<!-- VISUAL PENDIENTE: t41-97-romper-la-cadena.webp -->
+<!-- VISUAL:t41-97-romper-la-cadena.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-97-romper-la-cadena.webp" alt="Romper la cadena" width="820">
+</p>
+<p align="center"><em>Infografía: Romper la cadena.</em></p>
 
 <!-- FUENTE: LOCKHEED-KILLCHAIN-T41 -->
 
@@ -1280,7 +1668,11 @@ El Tema 41 se estudia en ocho partes: fundamentos; botnets, DDoS y cryptojacking
 - Un adversario puede repetir, saltar o solapar actividades según acceso y objetivo.
 - Los modelos son herramientas analíticas y no sustituyen evidencia del incidente.
 
-<!-- VISUAL PENDIENTE: t41-98-limites-y-complemento-con-att-ck.webp -->
+<!-- VISUAL:t41-98-limites-y-complemento-con-att-ck.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-98-limites-y-complemento-con-att-ck.webp" alt="Límites y complemento con ATT&CK" width="820">
+</p>
+<p align="center"><em>Infografía: Límites y complemento con ATT&CK.</em></p>
 
 <!-- FUENTE: MITRE-ATTACK-T41 -->
 

@@ -4,14 +4,14 @@
   "topic": "tema-40",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 89,
-    "integrated": 0,
-    "planned": 89
+    "integrated": 89,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-15",
   "resources": [
     {
       "id": "T40-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial del Tema 40",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El programa distingue dato, información e inteligencia y exige estudiar sus relaciones.",
+      "description": "El programa distingue dato, información e inteligencia y exige estudiar sus relaciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Concepto de dato",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un dato es una representación elemental de un hecho, observación o atributo.",
+      "description": "Un dato es una representación elemental de un hecho, observación o atributo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Concepto de información",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La información surge al ordenar, relacionar o contextualizar datos para que adquieran significado.",
+      "description": "La información surge al ordenar, relacionar o contextualizar datos para que adquieran significado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Concepto de inteligencia",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia es el resultado elaborado que facilita la toma de decisiones.",
+      "description": "La inteligencia es el resultado elaborado que facilita la toma de decisiones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Escalera dato-información-inteligencia",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El paso de dato a información aporta organización y contexto.",
+      "description": "El paso de dato a información aporta organización y contexto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Inteligencia criminal",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia criminal es información a la que se ha añadido valor para combatir la delincuencia.",
+      "description": "La inteligencia criminal es información a la que se ha añadido valor para combatir la delincuencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Proceso y producto de inteligencia",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Inteligencia puede designar tanto una actividad organizada como el producto resultante.",
+      "description": "Inteligencia puede designar tanto una actividad organizada como el producto resultante.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Necesidad, requisito y destinatario",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La necesidad de inteligencia expresa qué decisión debe apoyarse o qué incertidumbre debe reducirse.",
+      "description": "La necesidad de inteligencia expresa qué decisión debe apoyarse o qué incertidumbre debe reducirse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Fuente, dato y canal",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La fuente es el origen del que procede un dato o información.",
+      "description": "La fuente es el origen del que procede un dato o información.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Límites e incertidumbre",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia reduce incertidumbre, pero rara vez la elimina por completo.",
+      "description": "La inteligencia reduce incertidumbre, pero rara vez la elimina por completo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Criterios para clasificar inteligencia",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia puede clasificarse por nivel de decisión, finalidad o fuente de obtención.",
+      "description": "La inteligencia puede clasificarse por nivel de decisión, finalidad o fuente de obtención.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "HUMINT",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: HUMINT se asocia a información obtenida de fuentes humanas.",
+      "description": "HUMINT se asocia a información obtenida de fuentes humanas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "OSINT como tipología",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: OSINT es inteligencia derivada de información pública o comercialmente disponible.",
+      "description": "OSINT es inteligencia derivada de información pública o comercialmente disponible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "SIGINT",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: SIGINT se vincula a inteligencia obtenida de señales o transmisiones técnicas.",
+      "description": "SIGINT se vincula a inteligencia obtenida de señales o transmisiones técnicas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "GEOINT",
       "type": "ilustracion_simple",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: GEOINT procede de la explotación y análisis de imágenes e información geográfica.",
+      "description": "GEOINT procede de la explotación y análisis de imágenes e información geográfica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Inteligencia estratégica",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia estratégica apoya decisiones de medio o largo plazo y alcance general.",
+      "description": "La inteligencia estratégica apoya decisiones de medio o largo plazo y alcance general.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Inteligencia operativa",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia operativa apoya la planificación y coordinación de operaciones concretas.",
+      "description": "La inteligencia operativa apoya la planificación y coordinación de operaciones concretas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Inteligencia táctica",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia táctica apoya decisiones inmediatas o de corto plazo en una actuación.",
+      "description": "La inteligencia táctica apoya decisiones inmediatas o de corto plazo en una actuación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Qué es el ciclo de inteligencia",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El ciclo de inteligencia organiza actividades que transforman necesidades e información en productos útiles.",
+      "description": "El ciclo de inteligencia organiza actividades que transforman necesidades e información en productos útiles.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Modelos de cuatro y seis fases",
       "type": "ilustracion_simple",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El CNI presenta dirección, obtención, elaboración y difusión como fases principales.",
+      "description": "El CNI presenta dirección, obtención, elaboración y difusión como fases principales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Dirección",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La dirección fija los objetivos o necesidades de inteligencia.",
+      "description": "La dirección fija los objetivos o necesidades de inteligencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Planificación",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La planificación organiza recursos y acciones para satisfacer los requisitos.",
+      "description": "La planificación organiza recursos y acciones para satisfacer los requisitos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Obtención o recolección",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La obtención reúne datos e información necesarios para el producto previsto.",
+      "description": "La obtención reúne datos e información necesarios para el producto previsto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Transformación y procesamiento",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La transformación convierte datos brutos en formatos utilizables para su tratamiento y análisis.",
+      "description": "La transformación convierte datos brutos en formatos utilizables para su tratamiento y análisis.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Evaluación de fuente e información",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La fiabilidad de la fuente y la validez del contenido se evalúan por separado.",
+      "description": "La fiabilidad de la fuente y la validez del contenido se evalúan por separado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Sistema 4×4 de evaluación",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El sistema 4×4 utiliza dos escalas independientes para valorar fuente e información.",
+      "description": "El sistema 4×4 utiliza dos escalas independientes para valorar fuente e información.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Registro y ordenación",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La información debe registrarse con identificadores, fechas, procedencia y relaciones relevantes.",
+      "description": "La información debe registrarse con identificadores, fechas, procedencia y relaciones relevantes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Análisis",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El análisis identifica patrones, relaciones, causas posibles, consecuencias y lagunas.",
+      "description": "El análisis identifica patrones, relaciones, causas posibles, consecuencias y lagunas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Integración",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La integración combina información procedente de distintas fuentes y disciplinas.",
+      "description": "La integración combina información procedente de distintas fuentes y disciplinas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Interpretación",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La interpretación sitúa la información dentro de contextos y explica su significado.",
+      "description": "La interpretación sitúa la información dentro de contextos y explica su significado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Elaboración del producto",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La elaboración culmina en un producto que comunica inteligencia al destinatario.",
+      "description": "La elaboración culmina en un producto que comunica inteligencia al destinatario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Difusión",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La difusión distribuye la inteligencia a quienes deben adoptar decisiones.",
+      "description": "La difusión distribuye la inteligencia a quienes deben adoptar decisiones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Evaluación y retroalimentación",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La evaluación compara los resultados del ciclo con objetivos y necesidades.",
+      "description": "La evaluación compara los resultados del ciclo con objetivos y necesidades.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Carácter dinámico del ciclo",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El ciclo es dinámico, permanente y susceptible de revisión.",
+      "description": "El ciclo es dinámico, permanente y susceptible de revisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Ciclo y toma de decisiones",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La inteligencia facilita decisiones al reducir incertidumbre y explicar opciones.",
+      "description": "La inteligencia facilita decisiones al reducir incertidumbre y explicar opciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Objetividad analítica",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La objetividad exige reconocer supuestos, sesgos y límites del propio razonamiento.",
+      "description": "La objetividad exige reconocer supuestos, sesgos y límites del propio razonamiento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Hechos, supuestos y juicios",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los hechos subyacentes describen información observada o registrada.",
+      "description": "Los hechos subyacentes describen información observada o registrada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Calidad y credibilidad de fuentes",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La calidad de una fuente depende de acceso, exactitud, integridad, actualidad y posibles intereses.",
+      "description": "La calidad de una fuente depende de acceso, exactitud, integridad, actualidad y posibles intereses.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Incertidumbre, probabilidad y confianza",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La probabilidad estima la posibilidad de un acontecimiento o desarrollo.",
+      "description": "La probabilidad estima la posibilidad de un acontecimiento o desarrollo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Hipótesis alternativas",
       "type": "ilustracion_simple",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El análisis de alternativas compara hipótesis plausibles para mitigar sorpresa y sesgo.",
+      "description": "El análisis de alternativas compara hipótesis plausibles para mitigar sorpresa y sesgo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Sesgo de anclaje",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El anclaje aparece cuando la primera información condiciona de forma desproporcionada juicios posteriores.",
+      "description": "El anclaje aparece cuando la primera información condiciona de forma desproporcionada juicios posteriores.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Sesgos de confirmación y disponibilidad",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El sesgo de confirmación favorece información compatible con la hipótesis preferida.",
+      "description": "El sesgo de confirmación favorece información compatible con la hipótesis preferida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Cronologías y análisis de vínculos",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una cronología ordena acontecimientos para detectar secuencias, intervalos y contradicciones.",
+      "description": "Una cronología ordena acontecimientos para detectar secuencias, intervalos y contradicciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Indicadores y lagunas",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un indicador es una señal observable que puede apoyar o alterar una hipótesis.",
+      "description": "Un indicador es una señal observable que puede apoyar o alterar una hipótesis.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Argumentación y mensaje principal",
       "type": "ilustracion_simple",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El mensaje analítico principal debe aparecer con claridad y responder al requisito.",
+      "description": "El mensaje analítico principal debe aparecer con claridad y responder al requisito.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Privacidad, finalidad y minimización",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La disponibilidad pública no elimina derechos de privacidad y protección de datos.",
+      "description": "La disponibilidad pública no elimina derechos de privacidad y protección de datos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Definición operativa de OSINT",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: OSINT deriva exclusivamente de información pública o comercialmente disponible en la definición ODNI citada.",
+      "description": "OSINT deriva exclusivamente de información pública o comercialmente disponible en la definición ODNI citada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "OSINF frente a OSINT",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La información de fuente abierta es materia prima accesible al público o comercialmente disponible.",
+      "description": "La información de fuente abierta es materia prima accesible al público o comercialmente disponible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Fuentes públicas y comerciales",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las fuentes abiertas incluyen información pública y, según el modelo, información comercialmente disponible.",
+      "description": "Las fuentes abiertas incluyen información pública y, según el modelo, información comercialmente disponible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Categorías de fuentes OSINT",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Medios de comunicación y publicaciones pueden aportar información abierta.",
+      "description": "Medios de comunicación y publicaciones pueden aportar información abierta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Motores de búsqueda",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un motor de búsqueda utiliza rastreadores e índices para localizar recursos.",
+      "description": "Un motor de búsqueda utiliza rastreadores e índices para localizar recursos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Consultas y operadores",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una consulta precisa combina términos, frases, dominios, fechas o tipos de archivo según la herramienta.",
+      "description": "Una consulta precisa combina términos, frases, dominios, fechas o tipos de archivo según la herramienta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Maltego y análisis gráfico",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Maltego permite representar gráficamente entidades y relaciones obtenidas de distintas fuentes.",
+      "description": "Maltego permite representar gráficamente entidades y relaciones obtenidas de distintas fuentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Shodan y servicios expuestos",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Shodan indexa información observada sobre servicios y dispositivos expuestos a Internet.",
+      "description": "Shodan indexa información observada sobre servicios y dispositivos expuestos a Internet.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Herramientas como apoyo, no como fuente de verdad",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una herramienta automatiza tareas, pero hereda errores y límites de sus fuentes.",
+      "description": "Una herramienta automatiza tareas, pero hereda errores y límites de sus fuentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Obtención pasiva y activa",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La obtención pasiva minimiza la interacción directa con sistemas o personas objetivo.",
+      "description": "La obtención pasiva minimiza la interacción directa con sistemas o personas objetivo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Metadatos",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los metadatos describen características como fecha, dispositivo, ubicación, autor o formato.",
+      "description": "Los metadatos describen características como fecha, dispositivo, ubicación, autor o formato.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Geolocalización y cronolocalización",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Geolocalizar consiste en determinar o estimar el lugar asociado a un contenido.",
+      "description": "Geolocalizar consiste en determinar o estimar el lugar asociado a un contenido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Identidades y pivotes",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un pivote utiliza un atributo conocido para buscar relaciones con otros datos.",
+      "description": "Un pivote utiliza un atributo conocido para buscar relaciones con otros datos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Pregunta de investigación OSINT",
       "type": "ilustracion_simple",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La investigación comienza con una pregunta clara y vinculada a una finalidad legítima.",
+      "description": "La investigación comienza con una pregunta clara y vinculada a una finalidad legítima.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Plan de fuentes y consultas",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El plan relaciona cada cuestión con fuentes, consultas y métodos adecuados.",
+      "description": "El plan relaciona cada cuestión con fuentes, consultas y métodos adecuados.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Diario de investigación",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El diario registra consultas, fechas, herramientas, resultados y decisiones.",
+      "description": "El diario registra consultas, fechas, herramientas, resultados y decisiones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Captura y preservación",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Preservar exige conservar contenido y contexto suficiente para interpretarlo.",
+      "description": "Preservar exige conservar contenido y contexto suficiente para interpretarlo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Autenticidad e integridad",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Autenticidad e integridad responden a preguntas diferentes.",
+      "description": "Autenticidad e integridad responden a preguntas diferentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Verificación de contenido digital",
       "type": "ilustracion_simple",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Verificar implica examinar origen, contenido, fecha, lugar y coherencia contextual.",
+      "description": "Verificar implica examinar origen, contenido, fecha, lugar y coherencia contextual.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Procedencia y cadena de custodia",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La procedencia describe de dónde se obtuvo un elemento y cómo llegó al investigador.",
+      "description": "La procedencia describe de dónde se obtuvo un elemento y cómo llegó al investigador.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Legalidad y ética",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El investigador debe respetar competencia, finalidad, derechos y reglas aplicables.",
+      "description": "El investigador debe respetar competencia, finalidad, derechos y reglas aplicables.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Seguridad operacional del investigador",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad operacional reduce exposición del investigador, la organización y las fuentes.",
+      "description": "La seguridad operacional reduce exposición del investigador, la organización y las fuentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Minimización y terceros",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La minimización limita datos a lo necesario para la finalidad.",
+      "description": "La minimización limita datos a lo necesario para la finalidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Informe OSINT",
       "type": "ilustracion_simple",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El informe debe responder a la pregunta y separar hallazgos, análisis y conclusiones.",
+      "description": "El informe debe responder a la pregunta y separar hallazgos, análisis y conclusiones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Internet y World Wide Web",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Internet es una red de redes que transporta múltiples servicios.",
+      "description": "Internet es una red de redes que transporta múltiples servicios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "URI, navegador y HTTP",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una URI identifica un recurso conforme a su sintaxis y esquema.",
+      "description": "Una URI identifica un recurso conforme a su sintaxis y esquema.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Rastreo, indexación y búsqueda",
       "type": "infografia",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El rastreo automatizado recorre recursos y enlaces mediante clientes llamados crawlers.",
+      "description": "El rastreo automatizado recorre recursos y enlaces mediante clientes llamados crawlers.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Surface Web",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Surface Web designa de forma práctica contenido web accesible e indexable por buscadores generales.",
+      "description": "Surface Web designa de forma práctica contenido web accesible e indexable por buscadores generales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Deep Web",
       "type": "ilustracion_simple",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Deep Web engloba contenido web que no figura en índices públicos generales.",
+      "description": "Deep Web engloba contenido web que no figura en índices públicos generales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "Contenido autenticado y dinámico",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una zona tras inicio de sesión puede ser accesible con navegador normal y pertenecer a la Deep Web.",
+      "description": "Una zona tras inicio de sesión puede ser accesible con navegador normal y pertenecer a la Deep Web.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "Robots Exclusion Protocol",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: robots.txt comunica reglas que se solicita respetar a crawlers automatizados.",
+      "description": "robots.txt comunica reglas que se solicita respetar a crawlers automatizados.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "No existen porcentajes universales fiables",
       "type": "infografia",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No existe un censo completo y estable que mida Surface, Deep y Dark Web con porcentajes universales.",
+      "description": "No existe un censo completo y estable que mida Surface, Deep y Dark Web con porcentajes universales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Dark Web",
       "type": "infografia",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dark Web designa contenido y servicios web accesibles mediante redes superpuestas o software específico.",
+      "description": "Dark Web designa contenido y servicios web accesibles mediante redes superpuestas o software específico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,14 +1362,15 @@
       "title": "Dark Net",
       "type": "ilustracion_simple",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dark Net se refiere a una red superpuesta diseñada para acceso restringido, anonimato u ocultación.",
+      "description": "Dark Net se refiere a una red superpuesta diseñada para acceso restringido, anonimato u ocultación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1299,14 +1379,15 @@
       "title": "Relación Surface-Deep-Dark",
       "type": "infografia",
       "placement": "bloque-81",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 81,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Surface Web se asocia a contenido indexado y públicamente descubrible.",
+      "description": "Surface Web se asocia a contenido indexado y públicamente descubrible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1315,14 +1396,15 @@
       "title": "Tor como red de anonimato",
       "type": "infografia",
       "placement": "bloque-82",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 82,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tor encamina tráfico a través de circuitos formados por relés.",
+      "description": "Tor encamina tráfico a través de circuitos formados por relés.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1331,14 +1413,15 @@
       "title": "Circuito Tor hacia la web ordinaria",
       "type": "infografia",
       "placement": "bloque-83",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 83,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un circuito típico hacia un destino de Internet utiliza relé de entrada, intermedio y salida.",
+      "description": "Un circuito típico hacia un destino de Internet utiliza relé de entrada, intermedio y salida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1347,14 +1430,15 @@
       "title": "Servicios onion",
       "type": "infografia",
       "placement": "bloque-84",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 84,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un servicio onion publica descriptores con puntos de introducción en la red Tor.",
+      "description": "Un servicio onion publica descriptores con puntos de introducción en la red Tor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1363,14 +1447,15 @@
       "title": "Nombres .onion",
       "type": "ilustracion_simple",
       "placement": "bloque-85",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 85,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: .onion es un nombre de uso especial y no se resuelve mediante la infraestructura DNS ordinaria.",
+      "description": ".onion es un nombre de uso especial y no se resuelve mediante la infraestructura DNS ordinaria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1379,14 +1464,15 @@
       "title": "Usos legítimos e ilícitos",
       "type": "infografia",
       "placement": "bloque-86",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 86,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las darknets pueden apoyar privacidad, denuncia, periodismo o acceso en entornos represivos.",
+      "description": "Las darknets pueden apoyar privacidad, denuncia, periodismo o acceso en entornos represivos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1395,14 +1481,15 @@
       "title": "Límites del anonimato",
       "type": "infografia",
       "placement": "bloque-87",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 87,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El anonimato puede degradarse por inicio de sesión identificativo, malware, errores o correlación de tráfico.",
+      "description": "El anonimato puede degradarse por inicio de sesión identificativo, malware, errores o correlación de tráfico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1411,14 +1498,15 @@
       "title": "Tor, I2P, Freenet y ZeroNet en examen",
       "type": "infografia",
       "placement": "bloque-88",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 88,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tor e I2P son ejemplos actuales de redes superpuestas asociadas a servicios ocultos.",
+      "description": "Tor e I2P son ejemplos actuales de redes superpuestas asociadas a servicios ocultos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1427,1441 +1515,17 @@
       "title": "Matriz final de las cuatro capas",
       "type": "infografia",
       "placement": "bloque-89",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 89,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Surface Web: contenido indexado y accesible mediante herramientas web ordinarias.",
+      "description": "Surface Web: contenido indexado y accesible mediante herramientas web ordinarias.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T40-V01",
-      "file": "t40-01-alcance-oficial-del-tema-40.webp",
-      "title": "Alcance oficial del Tema 40",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El programa distingue dato, información e inteligencia y exige estudiar sus relaciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V02",
-      "file": "t40-02-concepto-de-dato.webp",
-      "title": "Concepto de dato",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un dato es una representación elemental de un hecho, observación o atributo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V03",
-      "file": "t40-03-concepto-de-informacion.webp",
-      "title": "Concepto de información",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La información surge al ordenar, relacionar o contextualizar datos para que adquieran significado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V04",
-      "file": "t40-04-concepto-de-inteligencia.webp",
-      "title": "Concepto de inteligencia",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia es el resultado elaborado que facilita la toma de decisiones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V05",
-      "file": "t40-il-05-escalera-dato-informacion-inteligencia.webp",
-      "title": "Escalera dato-información-inteligencia",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El paso de dato a información aporta organización y contexto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V06",
-      "file": "t40-06-inteligencia-criminal.webp",
-      "title": "Inteligencia criminal",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia criminal es información a la que se ha añadido valor para combatir la delincuencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V07",
-      "file": "t40-07-proceso-y-producto-de-inteligencia.webp",
-      "title": "Proceso y producto de inteligencia",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Inteligencia puede designar tanto una actividad organizada como el producto resultante.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V08",
-      "file": "t40-08-necesidad-requisito-y-destinatario.webp",
-      "title": "Necesidad, requisito y destinatario",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La necesidad de inteligencia expresa qué decisión debe apoyarse o qué incertidumbre debe reducirse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V09",
-      "file": "t40-09-fuente-dato-y-canal.webp",
-      "title": "Fuente, dato y canal",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La fuente es el origen del que procede un dato o información.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V10",
-      "file": "t40-il-10-limites-e-incertidumbre.webp",
-      "title": "Límites e incertidumbre",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia reduce incertidumbre, pero rara vez la elimina por completo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V11",
-      "file": "t40-11-criterios-para-clasificar-inteligencia.webp",
-      "title": "Criterios para clasificar inteligencia",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia puede clasificarse por nivel de decisión, finalidad o fuente de obtención.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V12",
-      "file": "t40-12-humint.webp",
-      "title": "HUMINT",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: HUMINT se asocia a información obtenida de fuentes humanas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V13",
-      "file": "t40-13-osint-como-tipologia.webp",
-      "title": "OSINT como tipología",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: OSINT es inteligencia derivada de información pública o comercialmente disponible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V14",
-      "file": "t40-14-sigint.webp",
-      "title": "SIGINT",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: SIGINT se vincula a inteligencia obtenida de señales o transmisiones técnicas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V15",
-      "file": "t40-il-15-geoint.webp",
-      "title": "GEOINT",
-      "type": "ilustracion_simple",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: GEOINT procede de la explotación y análisis de imágenes e información geográfica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V16",
-      "file": "t40-16-inteligencia-estrategica.webp",
-      "title": "Inteligencia estratégica",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia estratégica apoya decisiones de medio o largo plazo y alcance general.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V17",
-      "file": "t40-17-inteligencia-operativa.webp",
-      "title": "Inteligencia operativa",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia operativa apoya la planificación y coordinación de operaciones concretas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V18",
-      "file": "t40-18-inteligencia-tactica.webp",
-      "title": "Inteligencia táctica",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia táctica apoya decisiones inmediatas o de corto plazo en una actuación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V19",
-      "file": "t40-19-que-es-el-ciclo-de-inteligencia.webp",
-      "title": "Qué es el ciclo de inteligencia",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El ciclo de inteligencia organiza actividades que transforman necesidades e información en productos útiles.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V20",
-      "file": "t40-il-20-modelos-de-cuatro-y-seis-fases.webp",
-      "title": "Modelos de cuatro y seis fases",
-      "type": "ilustracion_simple",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El CNI presenta dirección, obtención, elaboración y difusión como fases principales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V21",
-      "file": "t40-21-direccion.webp",
-      "title": "Dirección",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La dirección fija los objetivos o necesidades de inteligencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V22",
-      "file": "t40-22-planificacion.webp",
-      "title": "Planificación",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La planificación organiza recursos y acciones para satisfacer los requisitos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V23",
-      "file": "t40-23-obtencion-o-recoleccion.webp",
-      "title": "Obtención o recolección",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La obtención reúne datos e información necesarios para el producto previsto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V24",
-      "file": "t40-24-transformacion-y-procesamiento.webp",
-      "title": "Transformación y procesamiento",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La transformación convierte datos brutos en formatos utilizables para su tratamiento y análisis.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V25",
-      "file": "t40-il-25-evaluacion-de-fuente-e-informacion.webp",
-      "title": "Evaluación de fuente e información",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La fiabilidad de la fuente y la validez del contenido se evalúan por separado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V26",
-      "file": "t40-26-sistema-4-4-de-evaluacion.webp",
-      "title": "Sistema 4×4 de evaluación",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El sistema 4×4 utiliza dos escalas independientes para valorar fuente e información.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V27",
-      "file": "t40-27-registro-y-ordenacion.webp",
-      "title": "Registro y ordenación",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La información debe registrarse con identificadores, fechas, procedencia y relaciones relevantes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V28",
-      "file": "t40-28-analisis.webp",
-      "title": "Análisis",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El análisis identifica patrones, relaciones, causas posibles, consecuencias y lagunas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V29",
-      "file": "t40-29-integracion.webp",
-      "title": "Integración",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La integración combina información procedente de distintas fuentes y disciplinas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V30",
-      "file": "t40-il-30-interpretacion.webp",
-      "title": "Interpretación",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La interpretación sitúa la información dentro de contextos y explica su significado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V31",
-      "file": "t40-31-elaboracion-del-producto.webp",
-      "title": "Elaboración del producto",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La elaboración culmina en un producto que comunica inteligencia al destinatario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V32",
-      "file": "t40-32-difusion.webp",
-      "title": "Difusión",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La difusión distribuye la inteligencia a quienes deben adoptar decisiones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V33",
-      "file": "t40-33-evaluacion-y-retroalimentacion.webp",
-      "title": "Evaluación y retroalimentación",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La evaluación compara los resultados del ciclo con objetivos y necesidades.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V34",
-      "file": "t40-34-caracter-dinamico-del-ciclo.webp",
-      "title": "Carácter dinámico del ciclo",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El ciclo es dinámico, permanente y susceptible de revisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V35",
-      "file": "t40-il-35-ciclo-y-toma-de-decisiones.webp",
-      "title": "Ciclo y toma de decisiones",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La inteligencia facilita decisiones al reducir incertidumbre y explicar opciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V36",
-      "file": "t40-36-objetividad-analitica.webp",
-      "title": "Objetividad analítica",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La objetividad exige reconocer supuestos, sesgos y límites del propio razonamiento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V37",
-      "file": "t40-37-hechos-supuestos-y-juicios.webp",
-      "title": "Hechos, supuestos y juicios",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los hechos subyacentes describen información observada o registrada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V38",
-      "file": "t40-38-calidad-y-credibilidad-de-fuentes.webp",
-      "title": "Calidad y credibilidad de fuentes",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La calidad de una fuente depende de acceso, exactitud, integridad, actualidad y posibles intereses.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V39",
-      "file": "t40-39-incertidumbre-probabilidad-y-confianza.webp",
-      "title": "Incertidumbre, probabilidad y confianza",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La probabilidad estima la posibilidad de un acontecimiento o desarrollo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V40",
-      "file": "t40-il-40-hipotesis-alternativas.webp",
-      "title": "Hipótesis alternativas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El análisis de alternativas compara hipótesis plausibles para mitigar sorpresa y sesgo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V41",
-      "file": "t40-41-sesgo-de-anclaje.webp",
-      "title": "Sesgo de anclaje",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El anclaje aparece cuando la primera información condiciona de forma desproporcionada juicios posteriores.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V42",
-      "file": "t40-42-sesgos-de-confirmacion-y-disponibilidad.webp",
-      "title": "Sesgos de confirmación y disponibilidad",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El sesgo de confirmación favorece información compatible con la hipótesis preferida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V43",
-      "file": "t40-43-cronologias-y-analisis-de-vinculos.webp",
-      "title": "Cronologías y análisis de vínculos",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una cronología ordena acontecimientos para detectar secuencias, intervalos y contradicciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V44",
-      "file": "t40-44-indicadores-y-lagunas.webp",
-      "title": "Indicadores y lagunas",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un indicador es una señal observable que puede apoyar o alterar una hipótesis.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V45",
-      "file": "t40-il-45-argumentacion-y-mensaje-principal.webp",
-      "title": "Argumentación y mensaje principal",
-      "type": "ilustracion_simple",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El mensaje analítico principal debe aparecer con claridad y responder al requisito.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V46",
-      "file": "t40-46-privacidad-finalidad-y-minimizacion.webp",
-      "title": "Privacidad, finalidad y minimización",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La disponibilidad pública no elimina derechos de privacidad y protección de datos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V47",
-      "file": "t40-47-definicion-operativa-de-osint.webp",
-      "title": "Definición operativa de OSINT",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: OSINT deriva exclusivamente de información pública o comercialmente disponible en la definición ODNI citada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V48",
-      "file": "t40-48-osinf-frente-a-osint.webp",
-      "title": "OSINF frente a OSINT",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La información de fuente abierta es materia prima accesible al público o comercialmente disponible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V49",
-      "file": "t40-49-fuentes-publicas-y-comerciales.webp",
-      "title": "Fuentes públicas y comerciales",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las fuentes abiertas incluyen información pública y, según el modelo, información comercialmente disponible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V50",
-      "file": "t40-il-50-categorias-de-fuentes-osint.webp",
-      "title": "Categorías de fuentes OSINT",
-      "type": "ilustracion_simple",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Medios de comunicación y publicaciones pueden aportar información abierta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V51",
-      "file": "t40-51-motores-de-busqueda.webp",
-      "title": "Motores de búsqueda",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un motor de búsqueda utiliza rastreadores e índices para localizar recursos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V52",
-      "file": "t40-52-consultas-y-operadores.webp",
-      "title": "Consultas y operadores",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una consulta precisa combina términos, frases, dominios, fechas o tipos de archivo según la herramienta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V53",
-      "file": "t40-53-maltego-y-analisis-grafico.webp",
-      "title": "Maltego y análisis gráfico",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Maltego permite representar gráficamente entidades y relaciones obtenidas de distintas fuentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V54",
-      "file": "t40-54-shodan-y-servicios-expuestos.webp",
-      "title": "Shodan y servicios expuestos",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Shodan indexa información observada sobre servicios y dispositivos expuestos a Internet.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V55",
-      "file": "t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp",
-      "title": "Herramientas como apoyo, no como fuente de verdad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una herramienta automatiza tareas, pero hereda errores y límites de sus fuentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V56",
-      "file": "t40-56-obtencion-pasiva-y-activa.webp",
-      "title": "Obtención pasiva y activa",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La obtención pasiva minimiza la interacción directa con sistemas o personas objetivo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V57",
-      "file": "t40-57-metadatos.webp",
-      "title": "Metadatos",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los metadatos describen características como fecha, dispositivo, ubicación, autor o formato.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V58",
-      "file": "t40-58-geolocalizacion-y-cronolocalizacion.webp",
-      "title": "Geolocalización y cronolocalización",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Geolocalizar consiste en determinar o estimar el lugar asociado a un contenido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V59",
-      "file": "t40-59-identidades-y-pivotes.webp",
-      "title": "Identidades y pivotes",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un pivote utiliza un atributo conocido para buscar relaciones con otros datos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V60",
-      "file": "t40-il-60-pregunta-de-investigacion-osint.webp",
-      "title": "Pregunta de investigación OSINT",
-      "type": "ilustracion_simple",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La investigación comienza con una pregunta clara y vinculada a una finalidad legítima.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V61",
-      "file": "t40-61-plan-de-fuentes-y-consultas.webp",
-      "title": "Plan de fuentes y consultas",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El plan relaciona cada cuestión con fuentes, consultas y métodos adecuados.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V62",
-      "file": "t40-62-diario-de-investigacion.webp",
-      "title": "Diario de investigación",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El diario registra consultas, fechas, herramientas, resultados y decisiones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V63",
-      "file": "t40-63-captura-y-preservacion.webp",
-      "title": "Captura y preservación",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Preservar exige conservar contenido y contexto suficiente para interpretarlo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V64",
-      "file": "t40-64-autenticidad-e-integridad.webp",
-      "title": "Autenticidad e integridad",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Autenticidad e integridad responden a preguntas diferentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V65",
-      "file": "t40-il-65-verificacion-de-contenido-digital.webp",
-      "title": "Verificación de contenido digital",
-      "type": "ilustracion_simple",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Verificar implica examinar origen, contenido, fecha, lugar y coherencia contextual.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V66",
-      "file": "t40-66-procedencia-y-cadena-de-custodia.webp",
-      "title": "Procedencia y cadena de custodia",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La procedencia describe de dónde se obtuvo un elemento y cómo llegó al investigador.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V67",
-      "file": "t40-67-legalidad-y-etica.webp",
-      "title": "Legalidad y ética",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El investigador debe respetar competencia, finalidad, derechos y reglas aplicables.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V68",
-      "file": "t40-68-seguridad-operacional-del-investigador.webp",
-      "title": "Seguridad operacional del investigador",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad operacional reduce exposición del investigador, la organización y las fuentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V69",
-      "file": "t40-69-minimizacion-y-terceros.webp",
-      "title": "Minimización y terceros",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La minimización limita datos a lo necesario para la finalidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V70",
-      "file": "t40-il-70-informe-osint.webp",
-      "title": "Informe OSINT",
-      "type": "ilustracion_simple",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El informe debe responder a la pregunta y separar hallazgos, análisis y conclusiones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V71",
-      "file": "t40-71-internet-y-world-wide-web.webp",
-      "title": "Internet y World Wide Web",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Internet es una red de redes que transporta múltiples servicios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V72",
-      "file": "t40-72-uri-navegador-y-http.webp",
-      "title": "URI, navegador y HTTP",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una URI identifica un recurso conforme a su sintaxis y esquema.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V73",
-      "file": "t40-73-rastreo-indexacion-y-busqueda.webp",
-      "title": "Rastreo, indexación y búsqueda",
-      "type": "infografia",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El rastreo automatizado recorre recursos y enlaces mediante clientes llamados crawlers.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V74",
-      "file": "t40-74-surface-web.webp",
-      "title": "Surface Web",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Surface Web designa de forma práctica contenido web accesible e indexable por buscadores generales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V75",
-      "file": "t40-il-75-deep-web.webp",
-      "title": "Deep Web",
-      "type": "ilustracion_simple",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Deep Web engloba contenido web que no figura en índices públicos generales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V76",
-      "file": "t40-76-contenido-autenticado-y-dinamico.webp",
-      "title": "Contenido autenticado y dinámico",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una zona tras inicio de sesión puede ser accesible con navegador normal y pertenecer a la Deep Web.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V77",
-      "file": "t40-77-robots-exclusion-protocol.webp",
-      "title": "Robots Exclusion Protocol",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: robots.txt comunica reglas que se solicita respetar a crawlers automatizados.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V78",
-      "file": "t40-78-no-existen-porcentajes-universales-fiables.webp",
-      "title": "No existen porcentajes universales fiables",
-      "type": "infografia",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No existe un censo completo y estable que mida Surface, Deep y Dark Web con porcentajes universales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V79",
-      "file": "t40-79-dark-web.webp",
-      "title": "Dark Web",
-      "type": "infografia",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dark Web designa contenido y servicios web accesibles mediante redes superpuestas o software específico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V80",
-      "file": "t40-il-80-dark-net.webp",
-      "title": "Dark Net",
-      "type": "ilustracion_simple",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dark Net se refiere a una red superpuesta diseñada para acceso restringido, anonimato u ocultación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V81",
-      "file": "t40-81-relacion-surface-deep-dark.webp",
-      "title": "Relación Surface-Deep-Dark",
-      "type": "infografia",
-      "placement": "bloque-81",
-      "status": "planned",
-      "block": 81,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Surface Web se asocia a contenido indexado y públicamente descubrible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V82",
-      "file": "t40-82-tor-como-red-de-anonimato.webp",
-      "title": "Tor como red de anonimato",
-      "type": "infografia",
-      "placement": "bloque-82",
-      "status": "planned",
-      "block": 82,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tor encamina tráfico a través de circuitos formados por relés.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V83",
-      "file": "t40-83-circuito-tor-hacia-la-web-ordinaria.webp",
-      "title": "Circuito Tor hacia la web ordinaria",
-      "type": "infografia",
-      "placement": "bloque-83",
-      "status": "planned",
-      "block": 83,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un circuito típico hacia un destino de Internet utiliza relé de entrada, intermedio y salida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V84",
-      "file": "t40-84-servicios-onion.webp",
-      "title": "Servicios onion",
-      "type": "infografia",
-      "placement": "bloque-84",
-      "status": "planned",
-      "block": 84,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un servicio onion publica descriptores con puntos de introducción en la red Tor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V85",
-      "file": "t40-il-85-nombres-onion.webp",
-      "title": "Nombres .onion",
-      "type": "ilustracion_simple",
-      "placement": "bloque-85",
-      "status": "planned",
-      "block": 85,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: .onion es un nombre de uso especial y no se resuelve mediante la infraestructura DNS ordinaria.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V86",
-      "file": "t40-86-usos-legitimos-e-ilicitos.webp",
-      "title": "Usos legítimos e ilícitos",
-      "type": "infografia",
-      "placement": "bloque-86",
-      "status": "planned",
-      "block": 86,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las darknets pueden apoyar privacidad, denuncia, periodismo o acceso en entornos represivos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V87",
-      "file": "t40-87-limites-del-anonimato.webp",
-      "title": "Límites del anonimato",
-      "type": "infografia",
-      "placement": "bloque-87",
-      "status": "planned",
-      "block": 87,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El anonimato puede degradarse por inicio de sesión identificativo, malware, errores o correlación de tráfico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V88",
-      "file": "t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp",
-      "title": "Tor, I2P, Freenet y ZeroNet en examen",
-      "type": "infografia",
-      "placement": "bloque-88",
-      "status": "planned",
-      "block": 88,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tor e I2P son ejemplos actuales de redes superpuestas asociadas a servicios ocultos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T40-V89",
-      "file": "t40-89-matriz-final-de-las-cuatro-capas.webp",
-      "title": "Matriz final de las cuatro capas",
-      "type": "infografia",
-      "placement": "bloque-89",
-      "status": "planned",
-      "block": 89,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Surface Web: contenido indexado y accesible mediante herramientas web ordinarias.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

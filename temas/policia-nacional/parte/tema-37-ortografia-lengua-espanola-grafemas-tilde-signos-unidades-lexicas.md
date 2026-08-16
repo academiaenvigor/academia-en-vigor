@@ -19,7 +19,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El programa incorpora expresamente la ortografía de los nombres propios y de las expresiones numéricas.
 - La estructura del tema coincide con los ocho capítulos nucleares de la Ortografía académica vigente.
 
-<!-- VISUAL PENDIENTE: t37-01-alcance-oficial-del-tema-37.webp -->
+<!-- VISUAL:t37-01-alcance-oficial-del-tema-37.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-01-alcance-oficial-del-tema-37.webp" alt="Alcance oficial del Tema 37" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 37.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T37 -->
 
@@ -32,7 +36,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La ortografía permite representar el lenguaje y facilita una interpretación común del texto escrito.
 - La corrección ortográfica no se identifica con la pronunciación de una sola zona: la norma es panhispánica.
 
-<!-- VISUAL PENDIENTE: t37-02-ortografia-norma-y-escritura.webp -->
+<!-- VISUAL:t37-02-ortografia-norma-y-escritura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-02-ortografia-norma-y-escritura.webp" alt="Ortografía, norma y escritura" width="820">
+</p>
+<p align="center"><em>Infografía: Ortografía, norma y escritura.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -45,7 +53,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La relación entre fonemas y grafemas no es siempre biunívoca en español.
 - Un mismo fonema puede representarse con grafemas distintos y un grafema puede tener valores fónicos diferentes.
 
-<!-- VISUAL PENDIENTE: t37-03-sonido-fonema-y-grafema.webp -->
+<!-- VISUAL:t37-03-sonido-fonema-y-grafema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-03-sonido-fonema-y-grafema.webp" alt="Sonido, fonema y grafema" width="820">
+</p>
+<p align="center"><em>Infografía: Sonido, fonema y grafema.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -58,7 +70,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Ch y ll no son letras independientes del abecedario, sino dígrafos.
 - Las palabras con ch y ll se alfabetizan dentro de c y l, respectivamente.
 
-<!-- VISUAL PENDIENTE: t37-il-04-el-abecedario-espanol.webp -->
+<!-- VISUAL:t37-il-04-el-abecedario-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-04-el-abecedario-espanol.webp" alt="El abecedario español" width="820">
+</p>
+<p align="center"><em>Infografía: El abecedario español.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -71,7 +87,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El nombre de una letra se escribe con minúscula cuando se menciona como nombre común.
 - Los nombres de las letras son palabras y siguen las reglas generales de escritura que les correspondan.
 
-<!-- VISUAL PENDIENTE: t37-05-nombres-de-las-letras.webp -->
+<!-- VISUAL:t37-05-nombres-de-las-letras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-05-nombres-de-las-letras.webp" alt="Nombres de las letras" width="820">
+</p>
+<p align="center"><em>Infografía: Nombres de las letras.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -84,7 +104,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - En gu ante e o i, la u puede carecer de sonido; la diéresis indica que debe pronunciarse.
 - El dígrafo rr representa el fonema vibrante múltiple entre vocales y no aparece al inicio de palabra.
 
-<!-- VISUAL PENDIENTE: t37-06-digrafos-del-espanol.webp -->
+<!-- VISUAL:t37-06-digrafos-del-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-06-digrafos-del-espanol.webp" alt="Dígrafos del español" width="820">
+</p>
+<p align="center"><em>Infografía: Dígrafos del español.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -97,7 +121,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La h carece normalmente de valor fónico en el español estándar actual, pero tiene valor ortográfico.
 - La pronunciación por sí sola no resuelve oposiciones como b/v, g/j, h o ll/y en muchas variedades.
 
-<!-- VISUAL PENDIENTE: t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp -->
+<!-- VISUAL:t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp" alt="Correspondencias regulares y zonas de duda" width="820">
+</p>
+<p align="center"><em>Infografía: Correspondencias regulares y zonas de duda.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -110,7 +138,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La etimología explica muchas grafías, pero no autoriza al hablante a reconstruirlas por intuición.
 - Cuando una grafía no puede deducirse con seguridad, la consulta del diccionario académico es el criterio fiable.
 
-<!-- VISUAL PENDIENTE: t37-08-regla-familia-y-diccionario.webp -->
+<!-- VISUAL:t37-08-regla-familia-y-diccionario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-08-regla-familia-y-diccionario.webp" alt="Regla, familia y diccionario" width="820">
+</p>
+<p align="center"><em>Infografía: Regla, familia y diccionario.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -123,7 +155,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La diferencia gráfica puede distinguir palabras homófonas como baca y vaca.
 - La elección de b o v se resuelve mediante reglas, familias léxicas y memoria de la palabra.
 
-<!-- VISUAL PENDIENTE: t37-09-las-letras-b-y-v.webp -->
+<!-- VISUAL:t37-09-las-letras-b-y-v.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-09-las-letras-b-y-v.webp" alt="Las letras b y v" width="820">
+</p>
+<p align="center"><em>Infografía: Las letras b y v.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -136,7 +172,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las terminaciones -aba, -abas, -ábamos, -abais y -aban del pretérito imperfecto de indicativo se escriben con b.
 - La terminación -bilidad se escribe normalmente con b, sin extender la regla a excepciones como movilidad y civilidad.
 
-<!-- VISUAL PENDIENTE: t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp -->
+<!-- VISUAL:t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp" alt="B en secuencias y terminaciones frecuentes" width="820">
+</p>
+<p align="center"><em>Infografía: B en secuencias y terminaciones frecuentes.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -149,7 +189,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los adjetivos terminados en -ivo e -iva suelen escribirse con v, como activo o decisiva.
 - La regla de -ivo no debe aplicarse a cualquier secuencia final parecida ni sustituye la consulta de excepciones.
 
-<!-- VISUAL PENDIENTE: t37-11-v-en-formas-y-familias.webp -->
+<!-- VISUAL:t37-11-v-en-formas-y-familias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-11-v-en-formas-y-familias.webp" alt="V en formas y familias" width="820">
+</p>
+<p align="center"><em>Infografía: V en formas y familias.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -162,7 +206,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La g representa /g/ ante a, o, u y puede representar /x/ ante e, i.
 - La pronunciación de /x/ ante e o i no basta para elegir entre g y j.
 
-<!-- VISUAL PENDIENTE: t37-il-12-las-letras-g-y-j-ante-e-i.webp -->
+<!-- VISUAL:t37-il-12-las-letras-g-y-j-ante-e-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-12-las-letras-g-y-j-ante-e-i.webp" alt="Las letras g y j ante e, i" width="820">
+</p>
+<p align="center"><em>Infografía: Las letras g y j ante e, i.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -175,7 +223,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La diéresis sobre la u indica que esta vocal se pronuncia en güe y güi.
 - La diéresis no se coloca en gua o guo, donde la u ya se pronuncia sin necesidad de marca.
 
-<!-- VISUAL PENDIENTE: t37-13-gu-y-gu-ante-e-i.webp -->
+<!-- VISUAL:t37-13-gu-y-gu-ante-e-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-13-gu-y-gu-ante-e-i.webp" alt="Gu y gü ante e, i" width="820">
+</p>
+<p align="center"><em>Infografía: Gu y gü ante e, i.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -188,7 +240,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El seseo es un rasgo de pronunciación aceptado y no autoriza a intercambiar grafías.
 - La elección entre c, z y s se mantiene por la norma ortográfica común, con independencia de la variedad oral.
 
-<!-- VISUAL PENDIENTE: t37-14-c-z-y-s.webp -->
+<!-- VISUAL:t37-14-c-z-y-s.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-14-c-z-y-s.webp" alt="C, z y s" width="820">
+</p>
+<p align="center"><em>Infografía: C, z y s.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -201,7 +257,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La alternancia z/c puede responder a la distribución gráfica sin romper la relación de familia.
 - No toda palabra con el mismo sonido pertenece a la misma familia ni comparte necesariamente grafía.
 
-<!-- VISUAL PENDIENTE: t37-15-c-y-z-en-flexion-y-derivacion.webp -->
+<!-- VISUAL:t37-15-c-y-z-en-flexion-y-derivacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-15-c-y-z-en-flexion-y-derivacion.webp" alt="C y z en flexión y derivación" width="820">
+</p>
+<p align="center"><em>Infografía: C y z en flexión y derivación.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -214,7 +274,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La k aparece sobre todo en préstamos, unidades y nombres propios, aunque forma parte del abecedario español.
 - No se usa diéresis para hacer sonar la u de qu; cuando la u se pronuncia, la secuencia gráfica es distinta, como en cuota.
 
-<!-- VISUAL PENDIENTE: t37-16-k-qu-y-c-para-el-fonema-k.webp -->
+<!-- VISUAL:t37-16-k-qu-y-c-para-el-fonema-k.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-16-k-qu-y-c-para-el-fonema-k.webp" alt="K, qu y c para el fonema /k/" width="820">
+</p>
+<p align="center"><em>Infografía: K, qu y c para el fonema /k/.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -227,7 +291,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La conjunción copulativa se escribe y, salvo la variante e exigida ante determinadas palabras que comienzan por sonido /i/.
 - Al final de algunas palabras, la y puede tener valor vocálico, como en hoy, rey o Uruguay.
 
-<!-- VISUAL PENDIENTE: t37-17-i-e-y-con-valor-vocalico.webp -->
+<!-- VISUAL:t37-17-i-e-y-con-valor-vocalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-17-i-e-y-con-valor-vocalico.webp" alt="I e y con valor vocálico" width="820">
+</p>
+<p align="center"><em>Infografía: I e y con valor vocálico.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -240,7 +308,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El yeísmo es un fenómeno oral extendido y aceptado, pero no elimina la diferencia ortográfica.
 - Palabras como vaya, valla y baya pueden coincidir en la pronunciación y conservar grafías y significados distintos.
 
-<!-- VISUAL PENDIENTE: t37-il-18-ll-e-y.webp -->
+<!-- VISUAL:t37-il-18-ll-e-y.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-18-ll-e-y.webp" alt="Ll e y" width="820">
+</p>
+<p align="center"><em>Infografía: Ll e y.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -253,7 +325,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Entre vocales, rr representa la vibrante múltiple y r la simple: carro/caro.
 - Tras l, n o s, una sola r representa normalmente la vibrante múltiple, como en alrededor, enredo o israelí.
 
-<!-- VISUAL PENDIENTE: t37-19-r-y-rr.webp -->
+<!-- VISUAL:t37-19-r-y-rr.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-19-r-y-rr.webp" alt="R y rr" width="820">
+</p>
+<p align="center"><em>Infografía: R y rr.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -266,7 +342,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las familias pueden orientar la h cuando la relación es transparente, como hacer/hecho o heredar/herencia.
 - Existen pares como hasta/asta y hecho/echo cuya diferencia escrita afecta al significado.
 
-<!-- VISUAL PENDIENTE: t37-20-la-letra-h.webp -->
+<!-- VISUAL:t37-20-la-letra-h.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-20-la-letra-h.webp" alt="La letra h" width="820">
+</p>
+<p align="center"><em>Infografía: La letra h.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -279,7 +359,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La pronunciación nasal puede asimilarse al sonido siguiente sin alterar la grafía normativa.
 - Los prefijos y compuestos pueden conservar secuencias explicables por su estructura, por lo que la regla debe aplicarse al contexto real.
 
-<!-- VISUAL PENDIENTE: t37-21-m-y-n-ante-consonante.webp -->
+<!-- VISUAL:t37-21-m-y-n-ante-consonante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-21-m-y-n-ante-consonante.webp" alt="M y n ante consonante" width="820">
+</p>
+<p align="center"><em>Infografía: M y n ante consonante.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -292,7 +376,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - No toda pronunciación próxima a /s/ se escribe con s: existen palabras fijadas con x.
 - En algunos topónimos y antropónimos, especialmente mexicanos, x puede representar un sonido semejante al de j, como en México.
 
-<!-- VISUAL PENDIENTE: t37-22-x-y-s.webp -->
+<!-- VISUAL:t37-22-x-y-s.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-22-x-y-s.webp" alt="X y s" width="820">
+</p>
+<p align="center"><em>Infografía: X y s.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -305,7 +393,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Su valor fónico depende del origen y adaptación de la palabra, como /b/ en wolframio o un valor consonántico próximo a /u/ en voces de origen inglés.
 - Las adaptaciones asentadas pueden sustituir w por grafías propias del español, pero no se improvisan individualmente.
 
-<!-- VISUAL PENDIENTE: t37-il-23-la-letra-w.webp -->
+<!-- VISUAL:t37-il-23-la-letra-w.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-23-la-letra-w.webp" alt="La letra w" width="820">
+</p>
+<p align="center"><em>Infografía: La letra w.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -318,7 +410,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La secuencia gn de ciertos préstamos o nombres no equivale automáticamente a la letra ñ en la escritura española.
 - La ñ conserva su forma tanto en minúscula como en mayúscula: ñ y Ñ.
 
-<!-- VISUAL PENDIENTE: t37-24-la-letra-n-y-la-secuencia-gn.webp -->
+<!-- VISUAL:t37-24-la-letra-n-y-la-secuencia-gn.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-24-la-letra-n-y-la-secuencia-gn.webp" alt="La letra ñ y la secuencia gn" width="820">
+</p>
+<p align="center"><em>Infografía: La letra ñ y la secuencia gn.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -331,7 +427,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El contexto semántico permite elegir entre formas como haber/a ver, halla/haya/aya o tubo/tuvo.
 - Una corrección ortográfica debe revisar la palabra adecuada, no solo una secuencia de letras posible.
 
-<!-- VISUAL PENDIENTE: t37-25-homofonos-y-paronimos-ortograficos.webp -->
+<!-- VISUAL:t37-25-homofonos-y-paronimos-ortograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-25-homofonos-y-paronimos-ortograficos.webp" alt="Homófonos y parónimos ortográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Homófonos y parónimos ortográficos.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -344,7 +444,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La semejanza gráfica sin relación de significado no basta para formar una familia léxica.
 - Las formas cultas o históricas pueden apartarse de una analogía superficial y deben comprobarse.
 
-<!-- VISUAL PENDIENTE: t37-26-familias-lexicas-y-alternancias.webp -->
+<!-- VISUAL:t37-26-familias-lexicas-y-alternancias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-26-familias-lexicas-y-alternancias.webp" alt="Familias léxicas y alternancias" width="820">
+</p>
+<p align="center"><em>Infografía: Familias léxicas y alternancias.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -357,7 +461,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Cuando existen dos variantes válidas, puede haber preferencia académica o diferencias de uso y pronunciación.
 - La forma concreta debe comprobarse en el diccionario, especialmente en voces con ps-, pt-, gn- o grupos internos complejos.
 
-<!-- VISUAL PENDIENTE: t37-27-secuencias-consonanticas-y-simplificacion.webp -->
+<!-- VISUAL:t37-27-secuencias-consonanticas-y-simplificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-27-secuencias-consonanticas-y-simplificacion.webp" alt="Secuencias consonánticas y simplificación" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencias consonánticas y simplificación.</em></p>
 
 <!-- FUENTE: RAE-OLE-GRAFEMAS-T37 -->
 
@@ -370,7 +478,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La duplicación o simplificación de letras en una formación depende de la estructura y de la norma, no de una regla única.
 - Las voces prefijadas se someten a las reglas generales de acentuación como una sola palabra cuando se escriben unidas.
 
-<!-- VISUAL PENDIENTE: t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp -->
+<!-- VISUAL:t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp" alt="Grafías de palabras compuestas y prefijadas" width="820">
+</p>
+<p align="center"><em>Infografía: Grafías de palabras compuestas y prefijadas.</em></p>
 
 <!-- FUENTE: RAE-OLE-UNIDADES-T37 -->
 
@@ -383,7 +495,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La tilde es el signo gráfico que se coloca según las reglas de acentuación.
 - Todas las palabras tónicas tienen acento prosódico, pero no todas llevan tilde.
 
-<!-- VISUAL PENDIENTE: t37-il-29-acento-prosodico-y-tilde.webp -->
+<!-- VISUAL:t37-il-29-acento-prosodico-y-tilde.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-29-acento-prosodico-y-tilde.webp" alt="Acento prosódico y tilde" width="820">
+</p>
+<p align="center"><em>Infografía: Acento prosódico y tilde.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -396,7 +512,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Son esdrújulas si la antepenúltima sílaba es tónica.
 - Son sobresdrújulas si la sílaba tónica es anterior a la antepenúltima.
 
-<!-- VISUAL PENDIENTE: t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp -->
+<!-- VISUAL:t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp" alt="Agudas, llanas, esdrújulas y sobresdrújulas" width="820">
+</p>
+<p align="center"><em>Infografía: Agudas, llanas, esdrújulas y sobresdrújulas.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -409,7 +529,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las agudas terminadas en más de una consonante no llevan tilde por la regla general.
 - Las agudas terminadas en y no llevan tilde por la regla general.
 
-<!-- VISUAL PENDIENTE: t37-31-regla-de-las-palabras-agudas.webp -->
+<!-- VISUAL:t37-31-regla-de-las-palabras-agudas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-31-regla-de-las-palabras-agudas.webp" alt="Regla de las palabras agudas" width="820">
+</p>
+<p align="center"><em>Infografía: Regla de las palabras agudas.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -422,7 +546,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las llanas terminadas en y llevan tilde.
 - Las llanas terminadas en vocal, n o s no precedida de otra consonante no llevan tilde por la regla general.
 
-<!-- VISUAL PENDIENTE: t37-32-regla-de-las-palabras-llanas.webp -->
+<!-- VISUAL:t37-32-regla-de-las-palabras-llanas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-32-regla-de-las-palabras-llanas.webp" alt="Regla de las palabras llanas" width="820">
+</p>
+<p align="center"><em>Infografía: Regla de las palabras llanas.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -435,7 +563,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El plural puede cambiar la clasificación y la acentuación de una palabra.
 - La tilde se coloca sobre la vocal de la sílaba tónica conforme a las reglas de la secuencia vocálica.
 
-<!-- VISUAL PENDIENTE: t37-33-esdrujulas-y-sobresdrujulas.webp -->
+<!-- VISUAL:t37-33-esdrujulas-y-sobresdrujulas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-33-esdrujulas-y-sobresdrujulas.webp" alt="Esdrújulas y sobresdrújulas" width="820">
+</p>
+<p align="center"><em>Infografía: Esdrújulas y sobresdrújulas.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -448,7 +580,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La clasificación ortográfica de una secuencia vocálica no depende de que algunos hablantes la pronuncien en dos sílabas.
 - La tilde no se usa para marcar sin más una pronunciación personal bisilábica en esos casos.
 
-<!-- VISUAL PENDIENTE: t37-il-34-monosilabos.webp -->
+<!-- VISUAL:t37-il-34-monosilabos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-34-monosilabos.webp" alt="Monosílabos" width="820">
+</p>
+<p align="center"><em>Infografía: Monosílabos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -461,7 +597,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Mí lleva tilde como pronombre personal; mi no la lleva como posesivo ni como nombre de nota musical.
 - La tilde diacrítica distingue normalmente una forma tónica de otra átona con idéntica escritura.
 
-<!-- VISUAL PENDIENTE: t37-35-tilde-diacritica-en-monosilabos-i.webp -->
+<!-- VISUAL:t37-35-tilde-diacritica-en-monosilabos-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-35-tilde-diacritica-en-monosilabos-i.webp" alt="Tilde diacrítica en monosílabos I" width="820">
+</p>
+<p align="center"><em>Infografía: Tilde diacrítica en monosílabos I.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -474,7 +614,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Sí lleva tilde como adverbio de afirmación, pronombre reflexivo o sustantivo; si no la lleva como conjunción ni como nota musical.
 - Té lleva tilde para la bebida, te no como pronombre; más lleva tilde salvo mas con valor equivalente a pero.
 
-<!-- VISUAL PENDIENTE: t37-36-tilde-diacritica-en-monosilabos-ii.webp -->
+<!-- VISUAL:t37-36-tilde-diacritica-en-monosilabos-ii.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-36-tilde-diacritica-en-monosilabos-ii.webp" alt="Tilde diacrítica en monosílabos II" width="820">
+</p>
+<p align="center"><em>Infografía: Tilde diacrítica en monosílabos II.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -487,7 +631,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La diferencia se relaciona con la pronunciación tónica o átona y con el valor de la palabra.
 - La sustitución por todavía o incluso es una prueba útil, pero debe comprobarse el sentido completo.
 
-<!-- VISUAL PENDIENTE: t37-37-aun-y-aun.webp -->
+<!-- VISUAL:t37-37-aun-y-aun.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-37-aun-y-aun.webp" alt="Aún y aun" width="820">
+</p>
+<p align="center"><em>Infografía: Aún y aun.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -500,7 +648,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las formas relativas o conjuntivas átonas correspondientes se escriben sin tilde.
 - La presencia de signos de interrogación no es requisito para que una interrogativa indirecta lleve tilde.
 
-<!-- VISUAL PENDIENTE: t37-38-interrogativos-y-exclamativos.webp -->
+<!-- VISUAL:t37-38-interrogativos-y-exclamativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-38-interrogativos-y-exclamativos.webp" alt="Interrogativos y exclamativos" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogativos y exclamativos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -513,7 +665,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los demostrativos este, ese y aquel y sus variantes se escriben sin tilde cuando no hay ambigüedad; en usos pronominales ambiguos, la tilde es optativa.
 - Los demostrativos neutros esto, eso y aquello se escriben siempre sin tilde.
 
-<!-- VISUAL PENDIENTE: t37-39-solo-y-los-demostrativos.webp -->
+<!-- VISUAL:t37-39-solo-y-los-demostrativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-39-solo-y-los-demostrativos.webp" alt="Solo y los demostrativos" width="820">
+</p>
+<p align="center"><em>Infografía: Solo y los demostrativos.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -526,7 +682,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Si el diptongo combina vocal abierta y cerrada, la tilde se coloca sobre la abierta.
 - En un diptongo de dos vocales cerradas, la tilde se coloca sobre la segunda vocal.
 
-<!-- VISUAL PENDIENTE: t37-40-diptongos.webp -->
+<!-- VISUAL:t37-40-diptongos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-40-diptongos.webp" alt="Diptongos" width="820">
+</p>
+<p align="center"><em>Infografía: Diptongos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -539,7 +699,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Si corresponde tilde, se coloca sobre la vocal abierta del triptongo.
 - Una vocal cerrada tónica rompe la estructura de triptongo y da lugar a otra división silábica.
 
-<!-- VISUAL PENDIENTE: t37-il-41-triptongos.webp -->
+<!-- VISUAL:t37-il-41-triptongos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-41-triptongos.webp" alt="Triptongos" width="820">
+</p>
+<p align="center"><em>Infografía: Triptongos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -552,7 +716,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las secuencias de dos vocales abiertas siguen las reglas generales de acentuación.
 - La vocal cerrada tónica de un hiato con vocal abierta lleva tilde con independencia de la regla general.
 
-<!-- VISUAL PENDIENTE: t37-42-hiatos.webp -->
+<!-- VISUAL:t37-42-hiatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-42-hiatos.webp" alt="Hiatos" width="820">
+</p>
+<p align="center"><em>Infografía: Hiatos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -565,7 +733,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El último componente mantiene o recibe la tilde que exija el resultado completo.
 - En compuestos unidos con guion, cada elemento conserva la acentuación que le corresponde como palabra independiente.
 
-<!-- VISUAL PENDIENTE: t37-43-palabras-compuestas.webp -->
+<!-- VISUAL:t37-43-palabras-compuestas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-43-palabras-compuestas.webp" alt="Palabras compuestas" width="820">
+</p>
+<p align="center"><em>Infografía: Palabras compuestas.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -578,7 +750,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las formas verbales con pronombres enclíticos se someten a las reglas generales de acentuación del conjunto.
 - La unión de pronombres puede hacer aparecer o desaparecer una tilde respecto de la forma verbal aislada.
 
-<!-- VISUAL PENDIENTE: t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp -->
+<!-- VISUAL:t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp" alt="Adverbios en -mente y formas con pronombres enclíticos" width="820">
+</p>
+<p align="center"><em>Infografía: Adverbios en -mente y formas con pronombres enclíticos.</em></p>
 
 <!-- FUENTE: RAE-OLE-TILDE-T37 -->
 
@@ -591,7 +767,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las siglas escritas enteramente con mayúsculas no llevan tilde.
 - Los extranjerismos adaptados se someten a las reglas españolas; los no adaptados conservan su grafía y reciben tratamiento tipográfico de extranjerismo.
 
-<!-- VISUAL PENDIENTE: t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp -->
+<!-- VISUAL:t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp" alt="Mayúsculas, abreviaturas, siglas y extranjerismos" width="820">
+</p>
+<p align="center"><em>Infografía: Mayúsculas, abreviaturas, siglas y extranjerismos.</em></p>
 
 <!-- FUENTE: RAE-LIBRO-ESTILO-T37 -->
 
@@ -604,7 +784,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los signos de puntuación delimitan unidades y orientan la interpretación del discurso.
 - Los signos auxiliares cumplen funciones específicas que no equivalen siempre a cerrar enunciados.
 
-<!-- VISUAL PENDIENTE: t37-46-clases-de-signos-ortograficos.webp -->
+<!-- VISUAL:t37-46-clases-de-signos-ortograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-46-clases-de-signos-ortograficos.webp" alt="Clases de signos ortográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Clases de signos ortográficos.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -617,7 +801,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Después de un punto de cierre de enunciado se escribe mayúscula.
 - El punto abreviativo y el punto de cierre cumplen funciones distintas, aunque tengan la misma forma.
 
-<!-- VISUAL PENDIENTE: t37-il-47-el-punto.webp -->
+<!-- VISUAL:t37-il-47-el-punto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-47-el-punto.webp" alt="El punto" width="820">
+</p>
+<p align="center"><em>Infografía: El punto.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -630,7 +818,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - La coma puede señalar la elisión de un verbo mencionado o fácilmente recuperable.
 - La coma no equivale a una pausa respiratoria libre: responde a la estructura del enunciado.
 
-<!-- VISUAL PENDIENTE: t37-48-la-coma-en-enumeraciones-y-elipsis.webp -->
+<!-- VISUAL:t37-48-la-coma-en-enumeraciones-y-elipsis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-48-la-coma-en-enumeraciones-y-elipsis.webp" alt="La coma en enumeraciones y elipsis" width="820">
+</p>
+<p align="center"><em>Infografía: La coma en enumeraciones y elipsis.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -643,7 +835,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Un inciso puede delimitarse también con rayas o paréntesis según su relación y grado de separación.
 - La ausencia de coma en un vocativo puede alterar la estructura o el sentido.
 
-<!-- VISUAL PENDIENTE: t37-49-vocativos-e-incisos.webp -->
+<!-- VISUAL:t37-49-vocativos-e-incisos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-49-vocativos-e-incisos.webp" alt="Vocativos e incisos" width="820">
+</p>
+<p align="center"><em>Infografía: Vocativos e incisos.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -656,7 +852,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Puede aparecer una coma entre sujeto y verbo si cierra un inciso introducido dentro del sujeto.
 - En ciertas enumeraciones o construcciones suspendidas puede existir una explicación específica, pero no una licencia general.
 
-<!-- VISUAL PENDIENTE: t37-50-coma-entre-sujeto-y-predicado.webp -->
+<!-- VISUAL:t37-50-coma-entre-sujeto-y-predicado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-50-coma-entre-sujeto-y-predicado.webp" alt="Coma entre sujeto y predicado" width="820">
+</p>
+<p align="center"><em>Infografía: Coma entre sujeto y predicado.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -669,7 +869,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Puede aparecer ante conectores como sin embargo o por tanto cuando enlazan segmentos extensos.
 - La palabra que sigue al punto y coma se escribe normalmente con minúscula.
 
-<!-- VISUAL PENDIENTE: t37-51-el-punto-y-coma.webp -->
+<!-- VISUAL:t37-51-el-punto-y-coma.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-51-el-punto-y-coma.webp" alt="El punto y coma" width="820">
+</p>
+<p align="center"><em>Infografía: El punto y coma.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -682,7 +886,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Después de dos puntos se escribe normalmente minúscula, salvo casos regulados como ciertas citas o encabezamientos.
 - No debe interponerse dos puntos entre una preposición o un verbo y una enumeración que constituye su complemento sin elemento anticipador.
 
-<!-- VISUAL PENDIENTE: t37-52-los-dos-puntos.webp -->
+<!-- VISUAL:t37-52-los-dos-puntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-52-los-dos-puntos.webp" alt="Los dos puntos" width="820">
+</p>
+<p align="center"><em>Infografía: Los dos puntos.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -695,7 +903,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Si cierran el enunciado, no se añade un cuarto punto; pueden combinarse con otros signos cuando corresponde.
 - La abreviatura etc. no debe acumularse mecánicamente con puntos suspensivos para expresar la misma apertura.
 
-<!-- VISUAL PENDIENTE: t37-il-53-los-puntos-suspensivos.webp -->
+<!-- VISUAL:t37-il-53-los-puntos-suspensivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-53-los-puntos-suspensivos.webp" alt="Los puntos suspensivos" width="820">
+</p>
+<p align="center"><em>Infografía: Los puntos suspensivos.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -708,7 +920,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Tras el signo de cierre no se escribe punto adicional.
 - Una interrogación indirecta no lleva signos de interrogación, aunque sus interrogativos tónicos mantienen la tilde.
 
-<!-- VISUAL PENDIENTE: t37-54-interrogacion-y-exclamacion.webp -->
+<!-- VISUAL:t37-54-interrogacion-y-exclamacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-54-interrogacion-y-exclamacion.webp" alt="Interrogación y exclamación" width="820">
+</p>
+<p align="center"><em>Infografía: Interrogación y exclamación.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -721,7 +937,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los signos de cierre se colocan antes o después de la puntuación exterior según pertenezca esta al texto encerrado o al enunciado principal.
 - No debe confundirse el contenido parentético con una supresión, que en una cita suele representarse mediante puntos suspensivos entre corchetes.
 
-<!-- VISUAL PENDIENTE: t37-55-parentesis-y-corchetes.webp -->
+<!-- VISUAL:t37-55-parentesis-y-corchetes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-55-parentesis-y-corchetes.webp" alt="Paréntesis y corchetes" width="820">
+</p>
+<p align="center"><em>Infografía: Paréntesis y corchetes.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -734,7 +954,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El guion une ciertos elementos, divide palabras al final de línea y aparece en intervalos o relaciones específicas.
 - Las rayas de un inciso interior funcionan como pareja, salvo que el inciso coincida con el final del enunciado en determinados usos.
 
-<!-- VISUAL PENDIENTE: t37-56-raya-y-guion.webp -->
+<!-- VISUAL:t37-56-raya-y-guion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-56-raya-y-guion.webp" alt="Raya y guion" width="820">
+</p>
+<p align="center"><em>Infografía: Raya y guion.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -747,7 +971,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las comillas se usan en citas directas breves y en ciertos usos metalingüísticos o de distanciamiento.
 - La puntuación que sigue a una cita entre comillas se coloca conforme a la estructura del enunciado, no copiando sin más el modelo inglés.
 
-<!-- VISUAL PENDIENTE: t37-57-comillas.webp -->
+<!-- VISUAL:t37-57-comillas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-57-comillas.webp" alt="Comillas" width="820">
+</p>
+<p align="center"><em>Infografía: Comillas.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -760,7 +988,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - No se añade punto después de un signo de interrogación o exclamación que cierra el enunciado.
 - Cuando coinciden comillas y punto, la colocación responde al sistema de puntuación español y a la pertenencia del punto.
 
-<!-- VISUAL PENDIENTE: t37-il-58-combinacion-de-signos.webp -->
+<!-- VISUAL:t37-il-58-combinacion-de-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-58-combinacion-de-signos.webp" alt="Combinación de signos" width="820">
+</p>
+<p align="center"><em>Infografía: Combinación de signos.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -773,7 +1005,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El asterisco puede remitir a una nota o señalar una forma lingüísticamente inaceptable en textos especializados.
 - El espaciado de cada signo depende de su función; no existe una regla única válida para todos sus usos.
 
-<!-- VISUAL PENDIENTE: t37-59-barra-apostrofo-y-asterisco.webp -->
+<!-- VISUAL:t37-59-barra-apostrofo-y-asterisco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-59-barra-apostrofo-y-asterisco.webp" alt="Barra, apóstrofo y asterisco" width="820">
+</p>
+<p align="center"><em>Infografía: Barra, apóstrofo y asterisco.</em></p>
 
 <!-- FUENTE: RAE-OLE-SIGNOS-T37 -->
 
@@ -786,7 +1022,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los signos de apertura se escriben pegados a la palabra que sigue y los de cierre, a la palabra que precede.
 - No debe introducirse un espacio entre una palabra y la tilde, la diéresis o el signo que forma parte de ella.
 
-<!-- VISUAL PENDIENTE: t37-60-espacios-y-signos.webp -->
+<!-- VISUAL:t37-60-espacios-y-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-60-espacios-y-signos.webp" alt="Espacios y signos" width="820">
+</p>
+<p align="center"><em>Infografía: Espacios y signos.</em></p>
 
 <!-- FUENTE: RAE-LIBRO-ESTILO-T37 -->
 
@@ -799,7 +1039,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El uso reverencial o enfático no justifica por sí solo una mayúscula no prevista por la norma.
 - Cuando no existe una razón específica para la mayúscula, se emplea la minúscula.
 
-<!-- VISUAL PENDIENTE: t37-61-principios-de-mayusculas-y-minusculas.webp -->
+<!-- VISUAL:t37-61-principios-de-mayusculas-y-minusculas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-61-principios-de-mayusculas-y-minusculas.webp" alt="Principios de mayúsculas y minúsculas" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de mayúsculas y minúsculas.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -812,7 +1056,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Tras dos puntos se escribe normalmente minúscula, con excepciones reguladas.
 - La palabra que sigue a un signo de cierre de interrogación o exclamación lleva mayúscula si comienza un nuevo enunciado.
 
-<!-- VISUAL PENDIENTE: t37-62-inicio-de-enunciado-y-despues-de-signos.webp -->
+<!-- VISUAL:t37-62-inicio-de-enunciado-y-despues-de-signos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-62-inicio-de-enunciado-y-despues-de-signos.webp" alt="Inicio de enunciado y después de signos" width="820">
+</p>
+<p align="center"><em>Infografía: Inicio de enunciado y después de signos.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -825,7 +1073,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El artículo que precede a un apodo se escribe normalmente con minúscula cuando aparece junto al nombre: Alfonso X el Sabio.
 - Si el artículo forma parte de un seudónimo o nombre y aparece sin nombre previo, puede escribirse con mayúscula según su integración.
 
-<!-- VISUAL PENDIENTE: t37-il-63-antroponimos-apodos-y-seudonimos.webp -->
+<!-- VISUAL:t37-il-63-antroponimos-apodos-y-seudonimos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-63-antroponimos-apodos-y-seudonimos.webp" alt="Antropónimos, apodos y seudónimos" width="820">
+</p>
+<p align="center"><em>Infografía: Antropónimos, apodos y seudónimos.</em></p>
 
 <!-- FUENTE: RAE-OLE-NOMBRES-T37 -->
 
@@ -838,7 +1090,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los artículos y preposiciones internos suelen mantenerse en minúscula salvo que ocupen posición inicial o formen parte fijada.
 - Una sigla institucional se escribe conforme a sus convenciones propias, sin puntos entre las letras.
 
-<!-- VISUAL PENDIENTE: t37-64-instituciones-organismos-y-cuerpos.webp -->
+<!-- VISUAL:t37-64-instituciones-organismos-y-cuerpos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-64-instituciones-organismos-y-cuerpos.webp" alt="Instituciones, organismos y cuerpos" width="820">
+</p>
+<p align="center"><em>Infografía: Instituciones, organismos y cuerpos.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -851,7 +1107,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las abreviaturas de tratamientos pueden escribirse con mayúscula inicial según la forma convencional.
 - La mayúscula institucional no se transmite al nombre común de la persona que ocupa el cargo.
 
-<!-- VISUAL PENDIENTE: t37-65-cargos-titulos-y-tratamientos.webp -->
+<!-- VISUAL:t37-65-cargos-titulos-y-tratamientos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-65-cargos-titulos-y-tratamientos.webp" alt="Cargos, títulos y tratamientos" width="820">
+</p>
+<p align="center"><em>Infografía: Cargos, títulos y tratamientos.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -864,7 +1124,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El nombre común del accidente geográfico suele escribirse con minúscula si no forma parte inseparable del nombre propio: río Ebro.
 - Los puntos cardinales se escriben con minúscula cuando indican orientación y con mayúscula en ciertos nombres propios o símbolos.
 
-<!-- VISUAL PENDIENTE: t37-66-toponimos-y-accidentes-geograficos.webp -->
+<!-- VISUAL:t37-66-toponimos-y-accidentes-geograficos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-66-toponimos-y-accidentes-geograficos.webp" alt="Topónimos y accidentes geográficos" width="820">
+</p>
+<p align="center"><em>Infografía: Topónimos y accidentes geográficos.</em></p>
 
 <!-- FUENTE: RAE-OLE-NOMBRES-T37 -->
 
@@ -877,7 +1141,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los títulos de capítulos, artículos o piezas internas suelen escribirse entre comillas y con mayúscula inicial solo en la primera palabra, salvo nombres propios.
 - La cursiva o las comillas cumplen una función distinta de la mayúscula y deben aplicarse según el tipo de título.
 
-<!-- VISUAL PENDIENTE: t37-67-obras-publicaciones-y-documentos.webp -->
+<!-- VISUAL:t37-67-obras-publicaciones-y-documentos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-67-obras-publicaciones-y-documentos.webp" alt="Obras, publicaciones y documentos" width="820">
+</p>
+<p align="center"><em>Infografía: Obras, publicaciones y documentos.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -890,7 +1158,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las festividades y periodos históricos identificativos se escriben con mayúscula en sus elementos significativos.
 - Los movimientos y estilos se escriben normalmente con minúscula, pero ciertos grandes periodos históricos admiten o exigen mayúscula en su denominación establecida.
 
-<!-- VISUAL PENDIENTE: t37-il-68-leyes-periodos-y-calendario.webp -->
+<!-- VISUAL:t37-il-68-leyes-periodos-y-calendario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-68-leyes-periodos-y-calendario.webp" alt="Leyes, periodos y calendario" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes, periodos y calendario.</em></p>
 
 <!-- FUENTE: RAE-OLE-MAYUSCULAS-T37 -->
 
@@ -903,7 +1175,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Las locuciones se escriben normalmente en varias palabras aunque funcionen como una unidad.
 - La escritura unida o separada puede diferenciar significados y categorías.
 
-<!-- VISUAL PENDIENTE: t37-69-palabra-y-unidad-lexica.webp -->
+<!-- VISUAL:t37-69-palabra-y-unidad-lexica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-69-palabra-y-unidad-lexica.webp" alt="Palabra y unidad léxica" width="820">
+</p>
+<p align="center"><em>Infografía: Palabra y unidad léxica.</em></p>
 
 <!-- FUENTE: RAE-OLE-UNIDADES-T37 -->
 
@@ -916,7 +1192,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - No se separa el prefijo con un espacio por el mero hecho de que sea productivo o reciente.
 - La palabra prefijada resultante sigue las reglas generales de acentuación y ajuste gráfico.
 
-<!-- VISUAL PENDIENTE: t37-70-prefijos-unidos-a-una-base.webp -->
+<!-- VISUAL:t37-70-prefijos-unidos-a-una-base.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-70-prefijos-unidos-a-una-base.webp" alt="Prefijos unidos a una base" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos unidos a una base.</em></p>
 
 <!-- FUENTE: RAE-OLE-UNIDADES-T37 -->
 
@@ -929,7 +1209,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El prefijo se escribe separado cuando afecta a una base formada por varias palabras, como ex primer ministro.
 - Varios prefijos coordinados pueden requerir guion o formas específicas que deben mantener clara la base compartida.
 
-<!-- VISUAL PENDIENTE: t37-71-prefijos-con-guion-o-separados.webp -->
+<!-- VISUAL:t37-71-prefijos-con-guion-o-separados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-71-prefijos-con-guion-o-separados.webp" alt="Prefijos con guion o separados" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos con guion o separados.</em></p>
 
 <!-- FUENTE: RAE-OLE-UNIDADES-T37 -->
 
@@ -942,7 +1226,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Porqué es un sustantivo y suele aparecer con determinante; su plural es porqués.
 - Por que corresponde a la secuencia de la preposición por y la conjunción o el relativo que en determinados contextos.
 
-<!-- VISUAL PENDIENTE: t37-72-por-que-porque-porque-y-por-que.webp -->
+<!-- VISUAL:t37-72-por-que-porque-porque-y-por-que.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-72-por-que-porque-porque-y-por-que.webp" alt="Por qué, porque, porqué y por que" width="820">
+</p>
+<p align="center"><em>Infografía: Por qué, porque, porqué y por que.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -955,7 +1243,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Si no es la combinación de la conjunción condicional si y el adverbio de negación no.
 - La posibilidad de intercalar un elemento tras si ayuda a reconocer la escritura separada.
 
-<!-- VISUAL PENDIENTE: t37-il-73-sino-y-si-no.webp -->
+<!-- VISUAL:t37-il-73-sino-y-si-no.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-73-sino-y-si-no.webp" alt="Sino y si no" width="820">
+</p>
+<p align="center"><em>Infografía: Sino y si no.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -968,7 +1260,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Con qué se usa cuando qué es interrogativo o exclamativo tónico.
 - La tilde y el espacio responden a la función, no a diferencias constantes de pronunciación.
 
-<!-- VISUAL PENDIENTE: t37-74-conque-con-que-y-con-que.webp -->
+<!-- VISUAL:t37-74-conque-con-que-y-con-que.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-74-conque-con-que-y-con-que.webp" alt="Conque, con que y con qué" width="820">
+</p>
+<p align="center"><em>Infografía: Conque, con que y con qué.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -981,7 +1277,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Demás significa los otros; de más expresa exceso o integra una secuencia preposicional.
 - Asimismo y así mismo pueden equivaler a también; a sí mismo contiene la preposición a y el pronombre reflexivo sí.
 
-<!-- VISUAL PENDIENTE: t37-75-secuencias-de-escritura-dudosa.webp -->
+<!-- VISUAL:t37-75-secuencias-de-escritura-dudosa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-75-secuencias-de-escritura-dudosa.webp" alt="Secuencias de escritura dudosa" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencias de escritura dudosa.</em></p>
 
 <!-- FUENTE: RAE-DPD2-T37 -->
 
@@ -994,7 +1294,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - No debe mezclarse una grafía extranjera cruda con tildes o reglas parciales españolas de manera arbitraria.
 - La existencia de una adaptación asentada puede hacer preferible la forma española frente al extranjerismo crudo.
 
-<!-- VISUAL PENDIENTE: t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp -->
+<!-- VISUAL:t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp" alt="Préstamos adaptados y extranjerismos crudos" width="820">
+</p>
+<p align="center"><em>Infografía: Préstamos adaptados y extranjerismos crudos.</em></p>
 
 <!-- FUENTE: RAE-OLE-EXTRANJERISMOS-T37 -->
 
@@ -1007,7 +1311,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Motu proprio se escribe sin preposición antepuesta y sin añadir una s final a proprio.
 - Grosso modo se usa sin la preposición a antepuesta.
 
-<!-- VISUAL PENDIENTE: t37-77-latinismos-y-locuciones-latinas.webp -->
+<!-- VISUAL:t37-77-latinismos-y-locuciones-latinas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-77-latinismos-y-locuciones-latinas.webp" alt="Latinismos y locuciones latinas" width="820">
+</p>
+<p align="center"><em>Infografía: Latinismos y locuciones latinas.</em></p>
 
 <!-- FUENTE: RAE-OLE-EXTRANJERISMOS-T37 -->
 
@@ -1020,7 +1328,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Una forma transcrita al español se somete a las convenciones gráficas españolas que le correspondan.
 - No deben mezclarse sin criterio sistemas de transcripción procedentes de lenguas intermediarias.
 
-<!-- VISUAL PENDIENTE: t37-78-transcripcion-y-transliteracion.webp -->
+<!-- VISUAL:t37-78-transcripcion-y-transliteracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-78-transcripcion-y-transliteracion.webp" alt="Transcripción y transliteración" width="820">
+</p>
+<p align="center"><em>Infografía: Transcripción y transliteración.</em></p>
 
 <!-- FUENTE: RAE-OLE-EXTRANJERISMOS-T37 -->
 
@@ -1033,7 +1345,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los nombres procedentes de otros alfabetos requieren una transcripción o transliteración coherente.
 - Las tildes y signos de la forma original se conservan o adaptan según el tratamiento aplicado, no por una regla improvisada.
 
-<!-- VISUAL PENDIENTE: t37-il-79-antroponimos-extranjeros.webp -->
+<!-- VISUAL:t37-il-79-antroponimos-extranjeros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-79-antroponimos-extranjeros.webp" alt="Antropónimos extranjeros" width="820">
+</p>
+<p align="center"><em>Infografía: Antropónimos extranjeros.</em></p>
 
 <!-- FUENTE: RAE-OLE-NOMBRES-T37 -->
 
@@ -1046,7 +1362,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los gentilicios se escriben con minúscula inicial, aunque deriven de nombres propios.
 - Los derivados de nombres propios extranjeros se adaptan a las reglas morfológicas y ortográficas del español cuando están integrados.
 
-<!-- VISUAL PENDIENTE: t37-80-toponimos-extranjeros-y-gentilicios.webp -->
+<!-- VISUAL:t37-80-toponimos-extranjeros-y-gentilicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-80-toponimos-extranjeros-y-gentilicios.webp" alt="Topónimos extranjeros y gentilicios" width="820">
+</p>
+<p align="center"><em>Infografía: Topónimos extranjeros y gentilicios.</em></p>
 
 <!-- FUENTE: RAE-OLE-NOMBRES-T37 -->
 
@@ -1059,7 +1379,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Cuando se omite el nombre de pila y el apellido comienza por preposición, esta puede escribirse con mayúscula: señor De la Torre.
 - Los artículos integrados en apellidos presentan convenciones propias y no deben corregirse ignorando la forma registrada del nombre.
 
-<!-- VISUAL PENDIENTE: t37-81-apellidos-con-preposiciones-y-articulos.webp -->
+<!-- VISUAL:t37-81-apellidos-con-preposiciones-y-articulos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-81-apellidos-con-preposiciones-y-articulos.webp" alt="Apellidos con preposiciones y artículos" width="820">
+</p>
+<p align="center"><em>Infografía: Apellidos con preposiciones y artículos.</em></p>
 
 <!-- FUENTE: RAE-OLE-NOMBRES-T37 -->
 
@@ -1072,7 +1396,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - En textos en español se admite la coma como separador decimal y también el punto según normas internacionales y contexto, pero debe mantenerse coherencia.
 - No se agrupan con espacios ciertos números identificativos, años, páginas, códigos o teléfonos cuando la convención exige otra disposición.
 
-<!-- VISUAL PENDIENTE: t37-82-cifras-arabigas-y-agrupacion.webp -->
+<!-- VISUAL:t37-82-cifras-arabigas-y-agrupacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-82-cifras-arabigas-y-agrupacion.webp" alt="Cifras arábigas y agrupación" width="820">
+</p>
+<p align="center"><em>Infografía: Cifras arábigas y agrupación.</em></p>
 
 <!-- FUENTE: RAE-OLE-NUMEROS-T37 -->
 
@@ -1085,7 +1413,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los ordinales concuerdan en género y número con el sustantivo al que acompañan.
 - Onceavo es un numeral fraccionario y no debe usarse como ordinal equivalente a undécimo en el uso cuidado.
 
-<!-- VISUAL PENDIENTE: t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp -->
+<!-- VISUAL:t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp" alt="Cardinales y ordinales escritos con palabras" width="820">
+</p>
+<p align="center"><em>Infografía: Cardinales y ordinales escritos con palabras.</em></p>
 
 <!-- FUENTE: RAE-OLE-NUMEROS-T37 -->
 
@@ -1098,7 +1430,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - En los siglos I a X se admite lectura cardinal u ordinal, con preferencia culta por la ordinal; desde el XI es normal la cardinal.
 - En series de papas y reyes se leen como ordinales hasta X —que admite también cardinal— y como cardinales a partir de XI.
 
-<!-- VISUAL PENDIENTE: t37-84-numeros-romanos.webp -->
+<!-- VISUAL:t37-84-numeros-romanos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-84-numeros-romanos.webp" alt="Números romanos" width="820">
+</p>
+<p align="center"><em>Infografía: Números romanos.</em></p>
 
 <!-- FUENTE: RAE-OLE-NUMEROS-T37 -->
 
@@ -1111,7 +1447,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El primer día del mes puede expresarse con cardinal uno o con ordinal primero según la zona y el tipo de texto.
 - Las fechas enteramente numéricas deben mantener un orden claro y coherente para evitar ambigüedad.
 
-<!-- VISUAL PENDIENTE: t37-85-fechas.webp -->
+<!-- VISUAL:t37-85-fechas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-85-fechas.webp" alt="Fechas" width="820">
+</p>
+<p align="center"><em>Infografía: Fechas.</em></p>
 
 <!-- FUENTE: RAE-OLE-NUMEROS-T37 -->
 
@@ -1124,7 +1464,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - El símbolo h se escribe sin punto y separado de la cifra por un espacio: 17:30 h.
 - No se combina el símbolo h con las abreviaturas a. m. o p. m., porque representan sistemas distintos y redundantes.
 
-<!-- VISUAL PENDIENTE: t37-86-la-hora.webp -->
+<!-- VISUAL:t37-86-la-hora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-86-la-hora.webp" alt="La hora" width="820">
+</p>
+<p align="center"><em>Infografía: La hora.</em></p>
 
 <!-- FUENTE: RAE-OLE-NUMEROS-T37 -->
 
@@ -1137,7 +1481,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - En España, los símbolos de moneda se escriben normalmente pospuestos y separados de la cifra: 25 €.
 - La forma de mayúscula o minúscula de un símbolo está fijada y no puede alterarse libremente.
 
-<!-- VISUAL PENDIENTE: t37-87-porcentajes-unidades-y-monedas.webp -->
+<!-- VISUAL:t37-87-porcentajes-unidades-y-monedas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-87-porcentajes-unidades-y-monedas.webp" alt="Porcentajes, unidades y monedas" width="820">
+</p>
+<p align="center"><em>Infografía: Porcentajes, unidades y monedas.</em></p>
 
 <!-- FUENTE: RAE-LIBRO-ESTILO-T37 -->
 
@@ -1150,7 +1498,11 @@ El Tema 37 se estudia en ocho partes: sistema gráfico; uso de las letras; acent
 - Los acrónimos lexicalizados pueden escribirse como nombres propios o comunes y someterse a las reglas generales: Unesco, láser.
 - Los símbolos tienen forma internacional fija, se escriben sin punto y no varían en plural.
 
-<!-- VISUAL PENDIENTE: t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp -->
+<!-- VISUAL:t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-37/t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp" alt="Abreviaturas, siglas, acrónimos y símbolos" width="820">
+</p>
+<p align="center"><em>Infografía: Abreviaturas, siglas, acrónimos y símbolos.</em></p>
 
 <!-- FUENTE: RAE-OLE-UNIDADES-T37 -->
 

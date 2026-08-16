@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 41**, aplica esta regla: El programa re�
 - **Incorrecto:** El Tema 41 se limita a enumerar nombres de herramientas.
 - **Incorrecto:** Toda incidencia informática constituye necesariamente un ciberdelito.
 
-<!-- VISUAL PENDIENTE: t41-01-alcance-oficial-del-tema-41.webp -->
+<!-- VISUAL:t41-01-alcance-oficial-del-tema-41.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-01-alcance-oficial-del-tema-41.webp" alt="Alcance oficial del Tema 41" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 41.</em></p>
 
 :::hablemos-claro
 El programa reúne modalidades técnicas, fraudes, malware, actores y un modelo de fases.
@@ -72,7 +76,11 @@ Para dominar **ciberdelincuencia**, aplica esta regla: La ciberdelincuencia comp
 - **Incorrecto:** Basta usar un teléfono para que cualquier delito sea ciberdelincuencia.
 - **Incorrecto:** La ciberdelincuencia solo comprende accesos no autorizados.
 
-<!-- VISUAL PENDIENTE: t41-02-ciberdelincuencia.webp -->
+<!-- VISUAL:t41-02-ciberdelincuencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-02-ciberdelincuencia.webp" alt="Ciberdelincuencia" width="820">
+</p>
+<p align="center"><em>Infografía: Ciberdelincuencia.</em></p>
 
 :::hablemos-claro
 La ciberdelincuencia comprende conductas ilícitas en las que sistemas, redes o datos son objetivo, instrumento o entorno relevante.
@@ -111,7 +119,11 @@ Para dominar **delitos ciberdependientes y cibermediados**, aplica esta regla: U
 - **Incorrecto:** Phishing es siempre un delito ciberdependiente puro.
 - **Incorrecto:** Ciberdependiente significa necesariamente más grave.
 
-<!-- VISUAL PENDIENTE: t41-03-delitos-ciberdependientes-y-cibermediados.webp -->
+<!-- VISUAL:t41-03-delitos-ciberdependientes-y-cibermediados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-03-delitos-ciberdependientes-y-cibermediados.webp" alt="Delitos ciberdependientes y cibermediados" width="820">
+</p>
+<p align="center"><em>Infografía: Delitos ciberdependientes y cibermediados.</em></p>
 
 :::hablemos-claro
 Un delito ciberdependiente no puede ejecutarse sin sistemas digitales, como ciertas intrusiones o ataques a disponibilidad.
@@ -150,7 +162,11 @@ Para dominar **confidencialidad, integridad y disponibilidad**, aplica esta regl
 - **Incorrecto:** DDoS ataca principalmente la confidencialidad.
 - **Incorrecto:** Integridad significa que el servicio siempre está accesible.
 
-<!-- VISUAL PENDIENTE: t41-04-confidencialidad-integridad-y-disponibilidad.webp -->
+<!-- VISUAL:t41-04-confidencialidad-integridad-y-disponibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-04-confidencialidad-integridad-y-disponibilidad.webp" alt="Confidencialidad, integridad y disponibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Confidencialidad, integridad y disponibilidad.</em></p>
 
 :::hablemos-claro
 La confidencialidad evita la divulgación no autorizada de información.
@@ -189,7 +205,11 @@ Para dominar **amenaza, vulnerabilidad y riesgo**, aplica esta regla: Una amenaz
 - **Incorrecto:** Amenaza y vulnerabilidad son sinónimos.
 - **Incorrecto:** Riesgo es únicamente el daño ya materializado.
 
-<!-- VISUAL PENDIENTE: t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp -->
+<!-- VISUAL:t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp" alt="Amenaza, vulnerabilidad y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza, vulnerabilidad y riesgo.</em></p>
 
 :::hablemos-claro
 Una amenaza es una circunstancia o fuente con potencial de causar daño.
@@ -228,7 +248,11 @@ Para dominar **exploit, vector y carga útil**, aplica esta regla: Un exploit es
 - **Incorrecto:** Exploit es cualquier correo no deseado.
 - **Incorrecto:** Vector y carga útil designan exactamente lo mismo.
 
-<!-- VISUAL PENDIENTE: t41-06-exploit-vector-y-carga-util.webp -->
+<!-- VISUAL:t41-06-exploit-vector-y-carga-util.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-06-exploit-vector-y-carga-util.webp" alt="Exploit, vector y carga útil" width="820">
+</p>
+<p align="center"><em>Infografía: Exploit, vector y carga útil.</em></p>
 
 :::hablemos-claro
 Un exploit es código o técnica que aprovecha una vulnerabilidad para producir un efecto.
@@ -267,7 +291,11 @@ Para dominar **evento, alerta e incidente**, aplica esta regla: Un evento es una
 - **Incorrecto:** Toda alerta automática demuestra un incidente.
 - **Incorrecto:** Un evento solo existe después de causar daño.
 
-<!-- VISUAL PENDIENTE: t41-07-evento-alerta-e-incidente.webp -->
+<!-- VISUAL:t41-07-evento-alerta-e-incidente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-07-evento-alerta-e-incidente.webp" alt="Evento, alerta e incidente" width="820">
+</p>
+<p align="center"><em>Infografía: Evento, alerta e incidente.</em></p>
 
 :::hablemos-claro
 Un evento es una ocurrencia observable en un sistema o red.
@@ -306,7 +334,11 @@ Para dominar **indicadores y ttp**, aplica esta regla: Un indicador es un artefa
 - **Incorrecto:** Una dirección IP identifica inequívocamente a una persona.
 - **Incorrecto:** TTP es el nombre comercial de un malware.
 
-<!-- VISUAL PENDIENTE: t41-08-indicadores-y-ttp.webp -->
+<!-- VISUAL:t41-08-indicadores-y-ttp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-08-indicadores-y-ttp.webp" alt="Indicadores y TTP" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores y TTP.</em></p>
 
 :::hablemos-claro
 Un indicador es un artefacto u observable asociado a actividad potencialmente maliciosa.
@@ -345,7 +377,11 @@ Para dominar **concepto de botnet**, aplica esta regla: Una botnet es un conjunt
 - **Incorrecto:** Botnet es un único virus instalado en un equipo.
 - **Incorrecto:** Todos los nodos pertenecen voluntariamente al operador.
 
-<!-- VISUAL PENDIENTE: t41-09-concepto-de-botnet.webp -->
+<!-- VISUAL:t41-09-concepto-de-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-09-concepto-de-botnet.webp" alt="Concepto de botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de botnet.</em></p>
 
 :::hablemos-claro
 Una botnet es un conjunto de dispositivos comprometidos controlados para ejecutar órdenes coordinadas.
@@ -384,7 +420,11 @@ Para dominar **bot, zombi y operador**, aplica esta regla: Cada dispositivo cont
 - **Incorrecto:** Bot es necesariamente un robot físico.
 - **Incorrecto:** El usuario legítimo controla siempre las órdenes de la botnet.
 
-<!-- VISUAL PENDIENTE: t41-il-10-bot-zombi-y-operador.webp -->
+<!-- VISUAL:t41-il-10-bot-zombi-y-operador.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-10-bot-zombi-y-operador.webp" alt="Bot, zombi y operador" width="820">
+</p>
+<p align="center"><em>Infografía: Bot, zombi y operador.</em></p>
 
 :::hablemos-claro
 Cada dispositivo controlado se denomina bot o zombi.
@@ -423,7 +463,11 @@ Para dominar **reclutamiento de una botnet**, aplica esta regla: El reclutamient
 - **Incorrecto:** Solo se reclutan ordenadores de sobremesa.
 - **Incorrecto:** La botnet nace sin comprometer ningún dispositivo.
 
-<!-- VISUAL PENDIENTE: t41-11-reclutamiento-de-una-botnet.webp -->
+<!-- VISUAL:t41-11-reclutamiento-de-una-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-11-reclutamiento-de-una-botnet.webp" alt="Reclutamiento de una botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Reclutamiento de una botnet.</em></p>
 
 :::hablemos-claro
 El reclutamiento puede aprovechar phishing, credenciales débiles, software vulnerable o servicios expuestos.
@@ -462,7 +506,11 @@ Para dominar **mando y control de botnets**, aplica esta regla: El mando y contr
 - **Incorrecto:** Toda botnet utiliza un único servidor fijo.
 - **Incorrecto:** P2P impide cualquier investigación o desmantelamiento.
 
-<!-- VISUAL PENDIENTE: t41-12-mando-y-control-de-botnets.webp -->
+<!-- VISUAL:t41-12-mando-y-control-de-botnets.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-12-mando-y-control-de-botnets.webp" alt="Mando y control de botnets" width="820">
+</p>
+<p align="center"><em>Infografía: Mando y control de botnets.</em></p>
 
 :::hablemos-claro
 El mando y control permite distribuir órdenes y recibir resultados o estado de los bots.
@@ -501,7 +549,11 @@ Para dominar **funciones maliciosas de una botnet**, aplica esta regla: Una botn
 - **Incorrecto:** Una botnet solo sirve para DDoS.
 - **Incorrecto:** Los bots no pueden recibir nuevas funciones.
 
-<!-- VISUAL PENDIENTE: t41-13-funciones-maliciosas-de-una-botnet.webp -->
+<!-- VISUAL:t41-13-funciones-maliciosas-de-una-botnet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-13-funciones-maliciosas-de-una-botnet.webp" alt="Funciones maliciosas de una botnet" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones maliciosas de una botnet.</em></p>
 
 :::hablemos-claro
 Una botnet puede enviar spam, distribuir malware, robar datos o generar tráfico fraudulento.
@@ -540,7 +592,11 @@ Para dominar **denegación de servicio**, aplica esta regla: Un ataque DoS busca
 - **Incorrecto:** DoS exige modificar la base de datos.
 - **Incorrecto:** La denegación afecta principalmente a la confidencialidad.
 
-<!-- VISUAL PENDIENTE: t41-14-denegacion-de-servicio.webp -->
+<!-- VISUAL:t41-14-denegacion-de-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-14-denegacion-de-servicio.webp" alt="Denegación de servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Denegación de servicio.</em></p>
 
 :::hablemos-claro
 Un ataque DoS busca degradar o impedir el acceso legítimo a un servicio o recurso.
@@ -579,7 +635,11 @@ Para dominar **dos y ddos**, aplica esta regla: DDoS distribuye el tráfico o la
 - **Incorrecto:** Todo DDoS procede de un solo equipo.
 - **Incorrecto:** Botnet y DDoS son sinónimos.
 
-<!-- VISUAL PENDIENTE: t41-il-15-dos-y-ddos.webp -->
+<!-- VISUAL:t41-il-15-dos-y-ddos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-15-dos-y-ddos.webp" alt="DoS y DDoS" width="820">
+</p>
+<p align="center"><em>Infografía: DoS y DDoS.</em></p>
 
 :::hablemos-claro
 DDoS distribuye el tráfico o las solicitudes entre múltiples fuentes o nodos.
@@ -618,7 +678,11 @@ Para dominar **ataques volumétricos, de protocolo y de aplicación**, aplica es
 - **Incorrecto:** Todo DDoS consiste en inundación ICMP.
 - **Incorrecto:** Un ataque de aplicación nunca afecta a disponibilidad.
 
-<!-- VISUAL PENDIENTE: t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp -->
+<!-- VISUAL:t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp" alt="Ataques volumétricos, de protocolo y de aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Ataques volumétricos, de protocolo y de aplicación.</em></p>
 
 :::hablemos-claro
 Los ataques volumétricos buscan consumir capacidad de red.
@@ -657,7 +721,11 @@ Para dominar **reflexión y amplificación**, aplica esta regla: En reflexión, 
 - **Incorrecto:** Reflexión significa reflejar una pantalla.
 - **Incorrecto:** Toda amplificación requiere comprometer el servidor reflector.
 
-<!-- VISUAL PENDIENTE: t41-17-reflexion-y-amplificacion.webp -->
+<!-- VISUAL:t41-17-reflexion-y-amplificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-17-reflexion-y-amplificacion.webp" alt="Reflexión y amplificación" width="820">
+</p>
+<p align="center"><em>Infografía: Reflexión y amplificación.</em></p>
 
 :::hablemos-claro
 En reflexión, el atacante provoca que terceros envíen respuestas a la víctima.
@@ -696,7 +764,11 @@ Para dominar **cryptojacking**, aplica esta regla: Cryptojacking es el uso no au
 - **Incorrecto:** Todo uso de criptomonedas es cryptojacking.
 - **Incorrecto:** Cryptojacking exige transferir monedas desde la cartera de la víctima.
 
-<!-- VISUAL PENDIENTE: t41-18-cryptojacking.webp -->
+<!-- VISUAL:t41-18-cryptojacking.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-18-cryptojacking.webp" alt="Cryptojacking" width="820">
+</p>
+<p align="center"><em>Infografía: Cryptojacking.</em></p>
 
 :::hablemos-claro
 Cryptojacking es el uso no autorizado de recursos ajenos para realizar minería de criptoactivos.
@@ -735,7 +807,11 @@ Para dominar **detección e impacto del cryptojacking**, aplica esta regla: Uso 
 - **Incorrecto:** Un ventilador ruidoso demuestra cryptojacking.
 - **Incorrecto:** Borrar un proceso corrige siempre la causa raíz.
 
-<!-- VISUAL PENDIENTE: t41-19-deteccion-e-impacto-del-cryptojacking.webp -->
+<!-- VISUAL:t41-19-deteccion-e-impacto-del-cryptojacking.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-19-deteccion-e-impacto-del-cryptojacking.webp" alt="Detección e impacto del cryptojacking" width="820">
+</p>
+<p align="center"><em>Infografía: Detección e impacto del cryptojacking.</em></p>
 
 :::hablemos-claro
 Uso elevado e inexplicado de CPU o GPU puede ser un indicador, no una prueba aislada.
@@ -774,7 +850,11 @@ Para dominar **ingeniería social**, aplica esta regla: La ingeniería social ma
 - **Incorrecto:** Ingeniería social es un lenguaje de programación.
 - **Incorrecto:** Solo existe cuando se instala malware.
 
-<!-- VISUAL PENDIENTE: t41-il-20-ingenieria-social.webp -->
+<!-- VISUAL:t41-il-20-ingenieria-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-20-ingenieria-social.webp" alt="Ingeniería social" width="820">
+</p>
+<p align="center"><em>Infografía: Ingeniería social.</em></p>
 
 :::hablemos-claro
 La ingeniería social manipula a personas para que revelen información o ejecuten acciones inseguras.
@@ -813,7 +893,11 @@ Para dominar **palancas de persuasión**, aplica esta regla: Los atacantes usan 
 - **Incorrecto:** Toda petición urgente es fraudulenta.
 - **Incorrecto:** La formación elimina por completo el riesgo humano.
 
-<!-- VISUAL PENDIENTE: t41-21-palancas-de-persuasion.webp -->
+<!-- VISUAL:t41-21-palancas-de-persuasion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-21-palancas-de-persuasion.webp" alt="Palancas de persuasión" width="820">
+</p>
+<p align="center"><em>Infografía: Palancas de persuasión.</em></p>
 
 :::hablemos-claro
 Los atacantes usan urgencia para reducir la reflexión y la verificación.
@@ -852,7 +936,11 @@ Para dominar **pretexto, cebo y quid pro quo**, aplica esta regla: El pretexting
 - **Incorrecto:** Pretexting exige comprometer previamente el correo.
 - **Incorrecto:** Baiting solo utiliza memorias USB.
 
-<!-- VISUAL PENDIENTE: t41-22-pretexto-cebo-y-quid-pro-quo.webp -->
+<!-- VISUAL:t41-22-pretexto-cebo-y-quid-pro-quo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-22-pretexto-cebo-y-quid-pro-quo.webp" alt="Pretexto, cebo y quid pro quo" width="820">
+</p>
+<p align="center"><em>Infografía: Pretexto, cebo y quid pro quo.</em></p>
 
 :::hablemos-claro
 El pretexting construye una historia o identidad para justificar la solicitud.
@@ -891,7 +979,11 @@ Para dominar **phishing, smishing y vishing**, aplica esta regla: Phishing suele
 - **Incorrecto:** Vishing se realiza exclusivamente por correo.
 - **Incorrecto:** Smishing significa clonar una web mediante DNS.
 
-<!-- VISUAL PENDIENTE: t41-23-phishing-smishing-y-vishing.webp -->
+<!-- VISUAL:t41-23-phishing-smishing-y-vishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-23-phishing-smishing-y-vishing.webp" alt="Phishing, smishing y vishing" width="820">
+</p>
+<p align="center"><em>Infografía: Phishing, smishing y vishing.</em></p>
 
 :::hablemos-claro
 Phishing suele emplear mensajes digitales para inducir entrega de datos o ejecución de acciones.
@@ -930,7 +1022,11 @@ Para dominar **phishing**, aplica esta regla: Phishing suplanta o imita una enti
 - **Incorrecto:** Phishing exige que la víctima entregue una contraseña.
 - **Incorrecto:** Todo correo comercial no solicitado es phishing.
 
-<!-- VISUAL PENDIENTE: t41-24-phishing.webp -->
+<!-- VISUAL:t41-24-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-24-phishing.webp" alt="Phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Phishing.</em></p>
 
 :::hablemos-claro
 Phishing suplanta o imita una entidad para inducir clics, credenciales, pagos o ejecución de archivos.
@@ -969,7 +1065,11 @@ Para dominar **spear phishing**, aplica esta regla: Spear phishing es phishing d
 - **Incorrecto:** Spear phishing es cualquier envío masivo.
 - **Incorrecto:** Solo se dirige a altos directivos.
 
-<!-- VISUAL PENDIENTE: t41-il-25-spear-phishing.webp -->
+<!-- VISUAL:t41-il-25-spear-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-25-spear-phishing.webp" alt="Spear phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Spear phishing.</em></p>
 
 :::hablemos-claro
 Spear phishing es phishing dirigido a una persona o grupo concreto.
@@ -1008,7 +1108,11 @@ Para dominar **whaling**, aplica esta regla: Whaling es una variante dirigida a 
 - **Incorrecto:** Whaling es phishing mediante llamadas.
 - **Incorrecto:** Todo fraude a una empresa es whaling.
 
-<!-- VISUAL PENDIENTE: t41-26-whaling.webp -->
+<!-- VISUAL:t41-26-whaling.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-26-whaling.webp" alt="Whaling" width="820">
+</p>
+<p align="center"><em>Infografía: Whaling.</em></p>
 
 :::hablemos-claro
 Whaling es una variante dirigida a ejecutivos u otros objetivos de alto valor.
@@ -1047,7 +1151,11 @@ Para dominar **business email compromise**, aplica esta regla: BEC es un fraude 
 - **Incorrecto:** BEC significa únicamente infectar un servidor de correo.
 - **Incorrecto:** Todo BEC usa ransomware.
 
-<!-- VISUAL PENDIENTE: t41-27-business-email-compromise.webp -->
+<!-- VISUAL:t41-27-business-email-compromise.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-27-business-email-compromise.webp" alt="Business Email Compromise" width="820">
+</p>
+<p align="center"><em>Infografía: Business Email Compromise.</em></p>
 
 :::hablemos-claro
 BEC es un fraude que manipula comunicaciones empresariales o profesionales para obtener pagos o información.
@@ -1086,7 +1194,11 @@ Para dominar **compromiso real y suplantación en bec**, aplica esta regla: Una 
 - **Incorrecto:** Si el dominio parece correcto, la cuenta no puede estar comprometida.
 - **Incorrecto:** Spoofing y acceso real a la cuenta son la misma técnica.
 
-<!-- VISUAL PENDIENTE: t41-28-compromiso-real-y-suplantacion-en-bec.webp -->
+<!-- VISUAL:t41-28-compromiso-real-y-suplantacion-en-bec.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-28-compromiso-real-y-suplantacion-en-bec.webp" alt="Compromiso real y suplantación en BEC" width="820">
+</p>
+<p align="center"><em>Infografía: Compromiso real y suplantación en BEC.</em></p>
 
 :::hablemos-claro
 Una cuenta comprometida permite leer hilos, reglas y contactos reales.
@@ -1125,7 +1237,11 @@ Para dominar **fraude de factura y cambio de cuenta**, aplica esta regla: El ata
 - **Incorrecto:** El fraude exige inventar una factura inexistente.
 - **Incorrecto:** Responder al mismo correo verifica la nueva cuenta.
 
-<!-- VISUAL PENDIENTE: t41-29-fraude-de-factura-y-cambio-de-cuenta.webp -->
+<!-- VISUAL:t41-29-fraude-de-factura-y-cambio-de-cuenta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-29-fraude-de-factura-y-cambio-de-cuenta.webp" alt="Fraude de factura y cambio de cuenta" width="820">
+</p>
+<p align="center"><em>Infografía: Fraude de factura y cambio de cuenta.</em></p>
 
 :::hablemos-claro
 El atacante puede insertar nuevas instrucciones bancarias en una operación real.
@@ -1164,7 +1280,11 @@ Para dominar **carta nigeriana o fraude 419**, aplica esta regla: El fraude 419 
 - **Incorrecto:** Toda estafa originada en Nigeria es fraude 419.
 - **Incorrecto:** La víctima recibe siempre una parte del fondo prometido.
 
-<!-- VISUAL PENDIENTE: t41-il-30-carta-nigeriana-o-fraude-419.webp -->
+<!-- VISUAL:t41-il-30-carta-nigeriana-o-fraude-419.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-30-carta-nigeriana-o-fraude-419.webp" alt="Carta nigeriana o fraude 419" width="820">
+</p>
+<p align="center"><em>Infografía: Carta nigeriana o fraude 419.</em></p>
 
 :::hablemos-claro
 El fraude 419 promete una ganancia, herencia o fondos a cambio de pagos o datos previos.
@@ -1203,7 +1323,11 @@ Para dominar **pharming**, aplica esta regla: Pharming redirige al usuario hacia
 - **Incorrecto:** Pharming es un correo masivo con enlace falso.
 - **Incorrecto:** Solo existe si se modifica el archivo hosts local.
 
-<!-- VISUAL PENDIENTE: t41-31-pharming.webp -->
+<!-- VISUAL:t41-31-pharming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-31-pharming.webp" alt="Pharming" width="820">
+</p>
+<p align="center"><em>Infografía: Pharming.</em></p>
 
 :::hablemos-claro
 Pharming redirige al usuario hacia un destino falso alterando resolución o configuración.
@@ -1242,7 +1366,11 @@ Para dominar **envenenamiento dns y archivo hosts**, aplica esta regla: Una resp
 - **Incorrecto:** Modificar hosts cambia el registro oficial del dominio.
 - **Incorrecto:** Toda redirección falsa implica comprometer el DNS raíz.
 
-<!-- VISUAL PENDIENTE: t41-32-envenenamiento-dns-y-archivo-hosts.webp -->
+<!-- VISUAL:t41-32-envenenamiento-dns-y-archivo-hosts.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-32-envenenamiento-dns-y-archivo-hosts.webp" alt="Envenenamiento DNS y archivo hosts" width="820">
+</p>
+<p align="center"><em>Infografía: Envenenamiento DNS y archivo hosts.</em></p>
 
 :::hablemos-claro
 Una respuesta DNS falsa puede asociar un nombre legítimo con una dirección controlada.
@@ -1281,7 +1409,11 @@ Para dominar **spoofing**, aplica esta regla: Spoofing consiste en falsificar o 
 - **Incorrecto:** Spoofing exige conocer la contraseña de la víctima.
 - **Incorrecto:** Solo existe IP spoofing.
 
-<!-- VISUAL PENDIENTE: t41-33-spoofing.webp -->
+<!-- VISUAL:t41-33-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-33-spoofing.webp" alt="Spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: Spoofing.</em></p>
 
 :::hablemos-claro
 Spoofing consiste en falsificar o aparentar una identidad, origen o dato de comunicación.
@@ -1320,7 +1452,11 @@ Para dominar **email spoofing**, aplica esta regla: Email spoofing altera o fabr
 - **Incorrecto:** El nombre visible certifica la identidad del emisor.
 - **Incorrecto:** DMARC impide cualquier fraude por correo.
 
-<!-- VISUAL PENDIENTE: t41-34-email-spoofing.webp -->
+<!-- VISUAL:t41-34-email-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-34-email-spoofing.webp" alt="Email spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: Email spoofing.</em></p>
 
 :::hablemos-claro
 Email spoofing altera o fabrica datos para que un mensaje parezca proceder de otro remitente.
@@ -1359,7 +1495,11 @@ Para dominar **ip spoofing**, aplica esta regla: IP spoofing falsifica la direcc
 - **Incorrecto:** Falsificar una IP inicia siempre una conexión TCP completa.
 - **Incorrecto:** IP spoofing roba la dirección al propietario de forma permanente.
 
-<!-- VISUAL PENDIENTE: t41-il-35-ip-spoofing.webp -->
+<!-- VISUAL:t41-il-35-ip-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-35-ip-spoofing.webp" alt="IP spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: IP spoofing.</em></p>
 
 :::hablemos-claro
 IP spoofing falsifica la dirección de origen de paquetes.
@@ -1398,7 +1538,11 @@ Para dominar **dns y web spoofing**, aplica esta regla: DNS spoofing busca que s
 - **Incorrecto:** Toda web falsa requiere DNS spoofing.
 - **Incorrecto:** Un certificado válido demuestra que la web pertenece a la entidad imitada.
 
-<!-- VISUAL PENDIENTE: t41-36-dns-y-web-spoofing.webp -->
+<!-- VISUAL:t41-36-dns-y-web-spoofing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-36-dns-y-web-spoofing.webp" alt="DNS y web spoofing" width="820">
+</p>
+<p align="center"><em>Infografía: DNS y web spoofing.</em></p>
 
 :::hablemos-claro
 DNS spoofing busca que se acepte una asociación de nombre y dirección falsa.
@@ -1437,7 +1581,11 @@ Para dominar **verificación fuera de banda**, aplica esta regla: Cambios de pag
 - **Incorrecto:** Responder al remitente sospechoso es verificación independiente.
 - **Incorrecto:** La verificación solo sirve después de perder el dinero.
 
-<!-- VISUAL PENDIENTE: t41-37-verificacion-fuera-de-banda.webp -->
+<!-- VISUAL:t41-37-verificacion-fuera-de-banda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-37-verificacion-fuera-de-banda.webp" alt="Verificación fuera de banda" width="820">
+</p>
+<p align="center"><em>Infografía: Verificación fuera de banda.</em></p>
 
 :::hablemos-claro
 Cambios de pago, credenciales o datos sensibles deben verificarse por un canal conocido.
@@ -1476,7 +1624,11 @@ Para dominar **malware**, aplica esta regla: Malware es software, firmware o có
 - **Incorrecto:** Todo programa defectuoso es malware.
 - **Incorrecto:** Malware y virus son sinónimos exactos.
 
-<!-- VISUAL PENDIENTE: t41-38-malware.webp -->
+<!-- VISUAL:t41-38-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-38-malware.webp" alt="Malware" width="820">
+</p>
+<p align="center"><em>Infografía: Malware.</em></p>
 
 :::hablemos-claro
 Malware es software, firmware o código diseñado para realizar acciones maliciosas.
@@ -1515,7 +1667,11 @@ Para dominar **clasificar malware**, aplica esta regla: El malware puede clasifi
 - **Incorrecto:** Cada malware pertenece a una única categoría.
 - **Incorrecto:** Botnet es siempre una familia de virus.
 
-<!-- VISUAL PENDIENTE: t41-39-clasificar-malware.webp -->
+<!-- VISUAL:t41-39-clasificar-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-39-clasificar-malware.webp" alt="Clasificar malware" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificar malware.</em></p>
 
 :::hablemos-claro
 El malware puede clasificarse por propagación, forma de entrada, persistencia, carga o finalidad.
@@ -1554,7 +1710,11 @@ Para dominar **virus informático**, aplica esta regla: Un virus se inserta o vi
 - **Incorrecto:** Virus es cualquier malware.
 - **Incorrecto:** Un virus nunca necesita un archivo huésped.
 
-<!-- VISUAL PENDIENTE: t41-il-40-virus-informatico.webp -->
+<!-- VISUAL:t41-il-40-virus-informatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-40-virus-informatico.webp" alt="Virus informático" width="820">
+</p>
+<p align="center"><em>Infografía: Virus informático.</em></p>
 
 :::hablemos-claro
 Un virus se inserta o vincula a archivos, programas o áreas de arranque para replicarse.
@@ -1593,7 +1753,11 @@ Para dominar **gusano**, aplica esta regla: Un gusano se replica y propaga entre
 - **Incorrecto:** Gusano y virus tienen siempre el mismo mecanismo.
 - **Incorrecto:** Un gusano solo se propaga por memorias USB.
 
-<!-- VISUAL PENDIENTE: t41-41-gusano.webp -->
+<!-- VISUAL:t41-41-gusano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-41-gusano.webp" alt="Gusano" width="820">
+</p>
+<p align="center"><em>Infografía: Gusano.</em></p>
 
 :::hablemos-claro
 Un gusano se replica y propaga entre sistemas o redes sin depender de infectar un archivo huésped.
@@ -1632,7 +1796,11 @@ Para dominar **troyano**, aplica esta regla: Un troyano se presenta como legíti
 - **Incorrecto:** Todo troyano permite control remoto.
 - **Incorrecto:** Troyano significa malware que se replica infectando archivos.
 
-<!-- VISUAL PENDIENTE: t41-42-troyano.webp -->
+<!-- VISUAL:t41-42-troyano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-42-troyano.webp" alt="Troyano" width="820">
+</p>
+<p align="center"><em>Infografía: Troyano.</em></p>
 
 :::hablemos-claro
 Un troyano se presenta como legítimo o útil para inducir su instalación o ejecución.
@@ -1671,7 +1839,11 @@ Para dominar **rat y backdoor**, aplica esta regla: Un RAT proporciona capacidad
 - **Incorrecto:** RAT y troyano son siempre sinónimos.
 - **Incorrecto:** Toda administración remota es una intrusión.
 
-<!-- VISUAL PENDIENTE: t41-43-rat-y-backdoor.webp -->
+<!-- VISUAL:t41-43-rat-y-backdoor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-43-rat-y-backdoor.webp" alt="RAT y backdoor" width="820">
+</p>
+<p align="center"><em>Infografía: RAT y backdoor.</em></p>
 
 :::hablemos-claro
 Un RAT proporciona capacidades de administración remota usadas maliciosamente.
@@ -1710,7 +1882,11 @@ Para dominar **spyware**, aplica esta regla: Spyware recopila información o act
 - **Incorrecto:** Spyware solo muestra publicidad.
 - **Incorrecto:** Todo programa de telemetría autorizado es spyware.
 
-<!-- VISUAL PENDIENTE: t41-44-spyware.webp -->
+<!-- VISUAL:t41-44-spyware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-44-spyware.webp" alt="Spyware" width="820">
+</p>
+<p align="center"><em>Infografía: Spyware.</em></p>
 
 :::hablemos-claro
 Spyware recopila información o actividad sin conocimiento o consentimiento adecuados.
@@ -1749,7 +1925,11 @@ Para dominar **keylogger e infostealer**, aplica esta regla: Un keylogger regist
 - **Incorrecto:** Todo infostealer es exclusivamente un keylogger.
 - **Incorrecto:** Una cookie robada nunca permite secuestrar una sesión.
 
-<!-- VISUAL PENDIENTE: t41-il-45-keylogger-e-infostealer.webp -->
+<!-- VISUAL:t41-il-45-keylogger-e-infostealer.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-45-keylogger-e-infostealer.webp" alt="Keylogger e infostealer" width="820">
+</p>
+<p align="center"><em>Infografía: Keylogger e infostealer.</em></p>
 
 :::hablemos-claro
 Un keylogger registra pulsaciones o entradas para obtener información.
@@ -1788,7 +1968,11 @@ Para dominar **ransomware**, aplica esta regla: Ransomware es malware que cifra 
 - **Incorrecto:** Ransomware siempre destruye físicamente el equipo.
 - **Incorrecto:** El pago garantiza recuperar todos los datos.
 
-<!-- VISUAL PENDIENTE: t41-46-ransomware.webp -->
+<!-- VISUAL:t41-46-ransomware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-46-ransomware.webp" alt="Ransomware" width="820">
+</p>
+<p align="center"><em>Infografía: Ransomware.</em></p>
 
 :::hablemos-claro
 Ransomware es malware que cifra datos o bloquea sistemas para exigir un rescate.
@@ -1827,7 +2011,11 @@ Para dominar **locker y crypto-ransomware**, aplica esta regla: Locker ransomwar
 - **Incorrecto:** Todo ransomware cifra cada archivo.
 - **Incorrecto:** Un bloqueo de pantalla no puede ser ransomware.
 
-<!-- VISUAL PENDIENTE: t41-47-locker-y-crypto-ransomware.webp -->
+<!-- VISUAL:t41-47-locker-y-crypto-ransomware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-47-locker-y-crypto-ransomware.webp" alt="Locker y crypto-ransomware" width="820">
+</p>
+<p align="center"><em>Infografía: Locker y crypto-ransomware.</em></p>
 
 :::hablemos-claro
 Locker ransomware impide usar el dispositivo o la sesión sin cifrar necesariamente todos los archivos.
@@ -1866,7 +2054,11 @@ Para dominar **doble y múltiple extorsión**, aplica esta regla: La doble extor
 - **Incorrecto:** Una copia de seguridad elimina toda extorsión.
 - **Incorrecto:** Doble extorsión significa cobrar dos veces por el mismo archivo.
 
-<!-- VISUAL PENDIENTE: t41-48-doble-y-multiple-extorsion.webp -->
+<!-- VISUAL:t41-48-doble-y-multiple-extorsion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-48-doble-y-multiple-extorsion.webp" alt="Doble y múltiple extorsión" width="820">
+</p>
+<p align="center"><em>Infografía: Doble y múltiple extorsión.</em></p>
 
 :::hablemos-claro
 La doble extorsión añade amenaza de divulgar datos al cifrado o bloqueo.
@@ -1905,7 +2097,11 @@ Para dominar **vectores de infección**, aplica esta regla: El malware puede lle
 - **Incorrecto:** Todo malware entra por correo.
 - **Incorrecto:** Eliminar el archivo malicioso corrige siempre el acceso inicial.
 
-<!-- VISUAL PENDIENTE: t41-49-vectores-de-infeccion.webp -->
+<!-- VISUAL:t41-49-vectores-de-infeccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-49-vectores-de-infeccion.webp" alt="Vectores de infección" width="820">
+</p>
+<p align="center"><em>Infografía: Vectores de infección.</em></p>
 
 :::hablemos-claro
 El malware puede llegar por phishing, explotación, credenciales comprometidas, descargas o cadena de suministro.
@@ -1944,7 +2140,11 @@ Para dominar **persistencia y escalada de privilegios**, aplica esta regla: La p
 - **Incorrecto:** Persistencia significa replicarse a otros equipos.
 - **Incorrecto:** Escalar privilegios exige cambiar de sistema operativo.
 
-<!-- VISUAL PENDIENTE: t41-il-50-persistencia-y-escalada-de-privilegios.webp -->
+<!-- VISUAL:t41-il-50-persistencia-y-escalada-de-privilegios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-50-persistencia-y-escalada-de-privilegios.webp" alt="Persistencia y escalada de privilegios" width="820">
+</p>
+<p align="center"><em>Infografía: Persistencia y escalada de privilegios.</em></p>
 
 :::hablemos-claro
 La persistencia busca conservar acceso tras reinicio, cierre de sesión o cambios.
@@ -1983,7 +2183,11 @@ Para dominar **comando y control**, aplica esta regla: El C2 permite al adversar
 - **Incorrecto:** Todo malware necesita conexión continua a Internet.
 - **Incorrecto:** C2 y botnet son exactamente lo mismo.
 
-<!-- VISUAL PENDIENTE: t41-51-comando-y-control.webp -->
+<!-- VISUAL:t41-51-comando-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-51-comando-y-control.webp" alt="Comando y control" width="820">
+</p>
+<p align="center"><em>Infografía: Comando y control.</em></p>
 
 :::hablemos-claro
 El C2 permite al adversario enviar órdenes y recibir datos de sistemas comprometidos.
@@ -2022,7 +2226,11 @@ Para dominar **indicadores de malware**, aplica esta regla: Hashes, dominios, pr
 - **Incorrecto:** Un antivirus sin alerta demuestra que el sistema está limpio.
 - **Incorrecto:** Un hash identifica al autor del malware.
 
-<!-- VISUAL PENDIENTE: t41-52-indicadores-de-malware.webp -->
+<!-- VISUAL:t41-52-indicadores-de-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-52-indicadores-de-malware.webp" alt="Indicadores de malware" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores de malware.</em></p>
 
 :::hablemos-claro
 Hashes, dominios, procesos, claves, conexiones y comportamientos pueden actuar como indicadores.
@@ -2061,7 +2269,11 @@ Para dominar **prevención y recuperación de malware**, aplica esta regla: Parc
 - **Incorrecto:** Un antivirus sustituye todas las demás medidas.
 - **Incorrecto:** Restaurar una copia elimina automáticamente al atacante.
 
-<!-- VISUAL PENDIENTE: t41-53-prevencion-y-recuperacion-de-malware.webp -->
+<!-- VISUAL:t41-53-prevencion-y-recuperacion-de-malware.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-53-prevencion-y-recuperacion-de-malware.webp" alt="Prevención y recuperación de malware" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención y recuperación de malware.</em></p>
 
 :::hablemos-claro
 Parches, autenticación resistente, mínimo privilegio y segmentación reducen oportunidades e impacto.
@@ -2100,7 +2312,11 @@ Para dominar **inyección**, aplica esta regla: Una inyección ocurre cuando dat
 - **Incorrecto:** Toda entrada con caracteres especiales es un ataque.
 - **Incorrecto:** La inyección solo existe en bases de datos.
 
-<!-- VISUAL PENDIENTE: t41-54-inyeccion.webp -->
+<!-- VISUAL:t41-54-inyeccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-54-inyeccion.webp" alt="Inyección" width="820">
+</p>
+<p align="center"><em>Infografía: Inyección.</em></p>
 
 :::hablemos-claro
 Una inyección ocurre cuando datos no confiables alteran la estructura o instrucciones enviadas a un intérprete.
@@ -2139,7 +2355,11 @@ Para dominar **inyección sql**, aplica esta regla: SQL injection permite que un
 - **Incorrecto:** SQLi consiste en introducir cualquier texto en un formulario.
 - **Incorrecto:** Solo afecta a la página de inicio de sesión.
 
-<!-- VISUAL PENDIENTE: t41-il-55-inyeccion-sql.webp -->
+<!-- VISUAL:t41-il-55-inyeccion-sql.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-55-inyeccion-sql.webp" alt="Inyección SQL" width="820">
+</p>
+<p align="center"><em>Infografía: Inyección SQL.</em></p>
 
 :::hablemos-claro
 SQL injection permite que una entrada controlada modifique el significado de una consulta SQL.
@@ -2178,7 +2398,11 @@ Para dominar **causa de sqli**, aplica esta regla: Concatenar entrada no confiab
 - **Incorrecto:** Usar un ORM elimina automáticamente SQLi.
 - **Incorrecto:** Validar en el navegador es protección suficiente.
 
-<!-- VISUAL PENDIENTE: t41-56-causa-de-sqli.webp -->
+<!-- VISUAL:t41-56-causa-de-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-56-causa-de-sqli.webp" alt="Causa de SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Causa de SQLi.</em></p>
 
 :::hablemos-claro
 Concatenar entrada no confiable con código SQL crea riesgo de alterar la consulta.
@@ -2217,7 +2441,11 @@ Para dominar **impactos de sqli**, aplica esta regla: Una SQLi puede eludir cont
 - **Incorrecto:** SQLi solo permite leer datos.
 - **Incorrecto:** El impacto es idéntico con cualquier cuenta de base.
 
-<!-- VISUAL PENDIENTE: t41-57-impactos-de-sqli.webp -->
+<!-- VISUAL:t41-57-impactos-de-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-57-impactos-de-sqli.webp" alt="Impactos de SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Impactos de SQLi.</em></p>
 
 :::hablemos-claro
 Una SQLi puede eludir controles lógicos o leer registros no autorizados.
@@ -2256,7 +2484,11 @@ Para dominar **sqli visible, ciega y basada en tiempo**, aplica esta regla: La i
 - **Incorrecto:** SQLi ciega no produce ningún resultado inferible.
 - **Incorrecto:** Toda SQLi necesita mostrar la tabla en pantalla.
 
-<!-- VISUAL PENDIENTE: t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp -->
+<!-- VISUAL:t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp" alt="SQLi visible, ciega y basada en tiempo" width="820">
+</p>
+<p align="center"><em>Infografía: SQLi visible, ciega y basada en tiempo.</em></p>
 
 :::hablemos-claro
 La inyección visible devuelve datos o errores útiles en la respuesta.
@@ -2295,7 +2527,11 @@ Para dominar **consultas parametrizadas**, aplica esta regla: Las consultas para
 - **Incorrecto:** Añadir comillas manualmente equivale a parametrizar.
 - **Incorrecto:** Los parámetros protegen cualquier intérprete sin adaptación.
 
-<!-- VISUAL PENDIENTE: t41-59-consultas-parametrizadas.webp -->
+<!-- VISUAL:t41-59-consultas-parametrizadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-59-consultas-parametrizadas.webp" alt="Consultas parametrizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Consultas parametrizadas.</em></p>
 
 :::hablemos-claro
 Las consultas parametrizadas separan la estructura SQL de los valores aportados.
@@ -2334,7 +2570,11 @@ Para dominar **mínimo privilegio y validación en sqli**, aplica esta regla: La
 - **Incorrecto:** Mínimo privilegio elimina la vulnerabilidad.
 - **Incorrecto:** Ocultar mensajes de error impide toda explotación.
 
-<!-- VISUAL PENDIENTE: t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp -->
+<!-- VISUAL:t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp" alt="Mínimo privilegio y validación en SQLi" width="820">
+</p>
+<p align="center"><em>Infografía: Mínimo privilegio y validación en SQLi.</em></p>
 
 :::hablemos-claro
 La cuenta de base debe tener solo los permisos necesarios para la función.
@@ -2373,7 +2613,11 @@ Para dominar **cross-site scripting**, aplica esta regla: XSS permite que conten
 - **Incorrecto:** XSS y SQLi son la misma vulnerabilidad.
 - **Incorrecto:** XSS solo cambia colores de una página.
 
-<!-- VISUAL PENDIENTE: t41-61-cross-site-scripting.webp -->
+<!-- VISUAL:t41-61-cross-site-scripting.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-61-cross-site-scripting.webp" alt="Cross-Site Scripting" width="820">
+</p>
+<p align="center"><em>Infografía: Cross-Site Scripting.</em></p>
 
 :::hablemos-claro
 XSS permite que contenido controlado por el atacante se ejecute en el navegador de otra persona.
@@ -2412,7 +2656,11 @@ Para dominar **xss reflejado**, aplica esta regla: En XSS reflejado, la carga ll
 - **Incorrecto:** XSS reflejado queda guardado siempre en la base.
 - **Incorrecto:** No requiere interacción o navegación de la víctima.
 
-<!-- VISUAL PENDIENTE: t41-62-xss-reflejado.webp -->
+<!-- VISUAL:t41-62-xss-reflejado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-62-xss-reflejado.webp" alt="XSS reflejado" width="820">
+</p>
+<p align="center"><em>Infografía: XSS reflejado.</em></p>
 
 :::hablemos-claro
 En XSS reflejado, la carga llega en una solicitud y reaparece en la respuesta.
@@ -2451,7 +2699,11 @@ Para dominar **xss almacenado**, aplica esta regla: En XSS almacenado, la aplica
 - **Incorrecto:** XSS almacenado desaparece al cerrar el navegador del atacante.
 - **Incorrecto:** Solo afecta a quien introdujo el contenido.
 
-<!-- VISUAL PENDIENTE: t41-63-xss-almacenado.webp -->
+<!-- VISUAL:t41-63-xss-almacenado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-63-xss-almacenado.webp" alt="XSS almacenado" width="820">
+</p>
+<p align="center"><em>Infografía: XSS almacenado.</em></p>
 
 :::hablemos-claro
 En XSS almacenado, la aplicación guarda la carga y la entrega posteriormente a usuarios.
@@ -2490,7 +2742,11 @@ Para dominar **xss basado en dom**, aplica esta regla: DOM XSS surge cuando cód
 - **Incorrecto:** DOM XSS solo existe en el servidor.
 - **Incorrecto:** Todo uso del DOM es vulnerable.
 
-<!-- VISUAL PENDIENTE: t41-64-xss-basado-en-dom.webp -->
+<!-- VISUAL:t41-64-xss-basado-en-dom.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-64-xss-basado-en-dom.webp" alt="XSS basado en DOM" width="820">
+</p>
+<p align="center"><em>Infografía: XSS basado en DOM.</em></p>
 
 :::hablemos-claro
 DOM XSS surge cuando código del navegador lleva datos controlables a un sumidero peligroso.
@@ -2529,7 +2785,11 @@ Para dominar **impacto de xss**, aplica esta regla: XSS puede leer datos accesib
 - **Incorrecto:** XSS permite leer cualquier archivo del ordenador sin límites.
 - **Incorrecto:** HttpOnly corrige la vulnerabilidad XSS.
 
-<!-- VISUAL PENDIENTE: t41-il-65-impacto-de-xss.webp -->
+<!-- VISUAL:t41-il-65-impacto-de-xss.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-65-impacto-de-xss.webp" alt="Impacto de XSS" width="820">
+</p>
+<p align="center"><em>Infografía: Impacto de XSS.</em></p>
 
 :::hablemos-claro
 XSS puede leer datos accesibles al script, modificar contenido o realizar acciones en nombre de la víctima.
@@ -2568,7 +2828,11 @@ Para dominar **prevención de xss**, aplica esta regla: La salida debe codificar
 - **Incorrecto:** Una lista negra de la palabra script elimina XSS.
 - **Incorrecto:** CSP convierte cualquier aplicación vulnerable en segura.
 
-<!-- VISUAL PENDIENTE: t41-66-prevencion-de-xss.webp -->
+<!-- VISUAL:t41-66-prevencion-de-xss.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-66-prevencion-de-xss.webp" alt="Prevención de XSS" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención de XSS.</em></p>
 
 :::hablemos-claro
 La salida debe codificarse según contexto HTML, atributo, URL o JavaScript.
@@ -2607,7 +2871,11 @@ Para dominar **vulnerabilidad y exploit**, aplica esta regla: La vulnerabilidad 
 - **Incorrecto:** Vulnerabilidad y exploit son el mismo archivo.
 - **Incorrecto:** Si no existe exploit público, no existe vulnerabilidad.
 
-<!-- VISUAL PENDIENTE: t41-67-vulnerabilidad-y-exploit.webp -->
+<!-- VISUAL:t41-67-vulnerabilidad-y-exploit.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-67-vulnerabilidad-y-exploit.webp" alt="Vulnerabilidad y exploit" width="820">
+</p>
+<p align="center"><em>Infografía: Vulnerabilidad y exploit.</em></p>
 
 :::hablemos-claro
 La vulnerabilidad es la debilidad; el exploit es el medio que la aprovecha.
@@ -2646,7 +2914,11 @@ Para dominar **zero-day**, aplica esta regla: Una vulnerabilidad zero-day es des
 - **Incorrecto:** Zero-day significa vulnerabilidad descubierta hace cero horas.
 - **Incorrecto:** Toda vulnerabilidad sin parche instalado en un equipo es zero-day.
 
-<!-- VISUAL PENDIENTE: t41-68-zero-day.webp -->
+<!-- VISUAL:t41-68-zero-day.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-68-zero-day.webp" alt="Zero-day" width="820">
+</p>
+<p align="center"><em>Infografía: Zero-day.</em></p>
 
 :::hablemos-claro
 Una vulnerabilidad zero-day es desconocida o no corregida por el proveedor en el momento relevante.
@@ -2685,7 +2957,11 @@ Para dominar **divulgación, parche y ventana de exposición**, aplica esta regl
 - **Incorrecto:** WannaCry demuestra que EternalBlue era zero-day durante toda la propagación.
 - **Incorrecto:** Un parche publicado elimina instantáneamente todos los sistemas vulnerables.
 
-<!-- VISUAL PENDIENTE: t41-69-divulgacion-parche-y-ventana-de-exposicion.webp -->
+<!-- VISUAL:t41-69-divulgacion-parche-y-ventana-de-exposicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-69-divulgacion-parche-y-ventana-de-exposicion.webp" alt="Divulgación, parche y ventana de exposición" width="820">
+</p>
+<p align="center"><em>Infografía: Divulgación, parche y ventana de exposición.</em></p>
 
 :::hablemos-claro
 La publicación de un parche no actualiza automáticamente todos los sistemas.
@@ -2724,7 +3000,11 @@ Para dominar **skimming**, aplica esta regla: Skimming es la captura y transfere
 - **Incorrecto:** Skimming es cualquier pago con tarjeta.
 - **Incorrecto:** Solo roba dinero en efectivo del cajero.
 
-<!-- VISUAL PENDIENTE: t41-il-70-skimming.webp -->
+<!-- VISUAL:t41-il-70-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-70-skimming.webp" alt="Skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Skimming.</em></p>
 
 :::hablemos-claro
 Skimming es la captura y transferencia no autorizada de datos de una tarjeta o del entorno de pago.
@@ -2763,7 +3043,11 @@ Para dominar **dispositivos de skimming**, aplica esta regla: Un skimmer puede i
 - **Incorrecto:** Todo skimmer sustituye por completo el cajero.
 - **Incorrecto:** El chip impide cualquier captura de datos en todo escenario.
 
-<!-- VISUAL PENDIENTE: t41-71-dispositivos-de-skimming.webp -->
+<!-- VISUAL:t41-71-dispositivos-de-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-71-dispositivos-de-skimming.webp" alt="Dispositivos de skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos de skimming.</em></p>
 
 :::hablemos-claro
 Un skimmer puede instalarse sobre, dentro o junto al lector legítimo.
@@ -2802,7 +3086,11 @@ Para dominar **e-skimming**, aplica esta regla: E-skimming inserta o carga códi
 - **Incorrecto:** E-skimming requiere un dispositivo físico en el lector.
 - **Incorrecto:** Cifrar la base de datos impide toda captura en el navegador.
 
-<!-- VISUAL PENDIENTE: t41-72-e-skimming.webp -->
+<!-- VISUAL:t41-72-e-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-72-e-skimming.webp" alt="E-skimming" width="820">
+</p>
+<p align="center"><em>Infografía: E-skimming.</em></p>
 
 :::hablemos-claro
 E-skimming inserta o carga código malicioso en un entorno de comercio electrónico para capturar datos de pago.
@@ -2841,7 +3129,11 @@ Para dominar **scripts de terceros y cadena de suministro**, aplica esta regla: 
 - **Incorrecto:** Un script externo es seguro por ser popular.
 - **Incorrecto:** La cadena de suministro solo afecta a hardware.
 
-<!-- VISUAL PENDIENTE: t41-73-scripts-de-terceros-y-cadena-de-suministro.webp -->
+<!-- VISUAL:t41-73-scripts-de-terceros-y-cadena-de-suministro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-73-scripts-de-terceros-y-cadena-de-suministro.webp" alt="Scripts de terceros y cadena de suministro" width="820">
+</p>
+<p align="center"><em>Infografía: Scripts de terceros y cadena de suministro.</em></p>
 
 :::hablemos-claro
 Una página de pago puede ejecutar scripts de varios dominios y proveedores.
@@ -2880,7 +3172,11 @@ Para dominar **skimming frente a phishing**, aplica esta regla: En skimming, los
 - **Incorrecto:** Todo robo de tarjeta es phishing.
 - **Incorrecto:** E-skimming exige que la víctima visite un dominio falso.
 
-<!-- VISUAL PENDIENTE: t41-74-skimming-frente-a-phishing.webp -->
+<!-- VISUAL:t41-74-skimming-frente-a-phishing.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-74-skimming-frente-a-phishing.webp" alt="Skimming frente a phishing" width="820">
+</p>
+<p align="center"><em>Infografía: Skimming frente a phishing.</em></p>
 
 :::hablemos-claro
 En skimming, los datos se capturan al usar un canal o terminal manipulado.
@@ -2919,7 +3215,11 @@ Para dominar **detección y prevención del skimming**, aplica esta regla: Termi
 - **Incorrecto:** Si el pago se autoriza no hubo skimming.
 - **Incorrecto:** Solo el cliente puede detectar un skimmer.
 
-<!-- VISUAL PENDIENTE: t41-il-75-deteccion-y-prevencion-del-skimming.webp -->
+<!-- VISUAL:t41-il-75-deteccion-y-prevencion-del-skimming.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-75-deteccion-y-prevencion-del-skimming.webp" alt="Detección y prevención del skimming" width="820">
+</p>
+<p align="center"><em>Infografía: Detección y prevención del skimming.</em></p>
 
 :::hablemos-claro
 Terminales físicos requieren inventario, inspección y control de sustituciones o añadidos.
@@ -2958,7 +3258,11 @@ Para dominar **cibercriminales**, aplica esta regla: Cibercriminal es quien util
 - **Incorrecto:** Cibercriminal y experto en seguridad son sinónimos.
 - **Incorrecto:** Todo cibercriminal tiene capacidades técnicas avanzadas.
 
-<!-- VISUAL PENDIENTE: t41-76-cibercriminales.webp -->
+<!-- VISUAL:t41-76-cibercriminales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-76-cibercriminales.webp" alt="Cibercriminales" width="820">
+</p>
+<p align="center"><em>Infografía: Cibercriminales.</em></p>
 
 :::hablemos-claro
 Cibercriminal es quien utiliza capacidades digitales para cometer, facilitar o monetizar delitos.
@@ -2997,7 +3301,11 @@ Para dominar **motivaciones y capacidades**, aplica esta regla: Los actores pued
 - **Incorrecto:** Toda intrusión busca dinero.
 - **Incorrecto:** La motivación identifica inequívocamente al actor.
 
-<!-- VISUAL PENDIENTE: t41-77-motivaciones-y-capacidades.webp -->
+<!-- VISUAL:t41-77-motivaciones-y-capacidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-77-motivaciones-y-capacidades.webp" alt="Motivaciones y capacidades" width="820">
+</p>
+<p align="center"><em>Infografía: Motivaciones y capacidades.</em></p>
 
 :::hablemos-claro
 Los actores pueden buscar beneficio, espionaje, coerción, sabotaje, notoriedad o causa ideológica.
@@ -3036,7 +3344,11 @@ Para dominar **ciberdelincuencia organizada**, aplica esta regla: El ecosistema 
 - **Incorrecto:** Organización criminal exige compartir oficina física.
 - **Incorrecto:** Todos los miembros dominan todas las técnicas.
 
-<!-- VISUAL PENDIENTE: t41-78-ciberdelincuencia-organizada.webp -->
+<!-- VISUAL:t41-78-ciberdelincuencia-organizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-78-ciberdelincuencia-organizada.webp" alt="Ciberdelincuencia organizada" width="820">
+</p>
+<p align="center"><em>Infografía: Ciberdelincuencia organizada.</em></p>
 
 :::hablemos-claro
 El ecosistema criminal separa desarrollo, acceso inicial, infraestructura, fraude, cobro y blanqueo.
@@ -3075,7 +3387,11 @@ Para dominar **crime as a service**, aplica esta regla: Crime as a Service ofrec
 - **Incorrecto:** CaaS es software legal en la nube.
 - **Incorrecto:** Solo incluye alquiler de ransomware.
 
-<!-- VISUAL PENDIENTE: t41-79-crime-as-a-service.webp -->
+<!-- VISUAL:t41-79-crime-as-a-service.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-79-crime-as-a-service.webp" alt="Crime as a Service" width="820">
+</p>
+<p align="center"><em>Infografía: Crime as a Service.</em></p>
 
 :::hablemos-claro
 Crime as a Service ofrece herramientas, accesos, infraestructura o conocimientos criminales a clientes o afiliados.
@@ -3114,7 +3430,11 @@ Para dominar **malware, ransomware e infraestructura como servicio**, aplica est
 - **Incorrecto:** El afiliado desarrolla siempre el ransomware.
 - **Incorrecto:** RaaS y ransomware son términos idénticos.
 
-<!-- VISUAL PENDIENTE: t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp -->
+<!-- VISUAL:t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp" alt="Malware, ransomware e infraestructura como servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Malware, ransomware e infraestructura como servicio.</em></p>
 
 :::hablemos-claro
 Malware as a Service proporciona código, paneles, actualizaciones o soporte.
@@ -3153,7 +3473,11 @@ Para dominar **initial access brokers**, aplica esta regla: Un intermediario de 
 - **Incorrecto:** Un broker vende exclusivamente software.
 - **Incorrecto:** Quien obtiene acceso ejecuta siempre la carga final.
 
-<!-- VISUAL PENDIENTE: t41-81-initial-access-brokers.webp -->
+<!-- VISUAL:t41-81-initial-access-brokers.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-81-initial-access-brokers.webp" alt="Initial Access Brokers" width="820">
+</p>
+<p align="center"><em>Infografía: Initial Access Brokers.</em></p>
 
 :::hablemos-claro
 Un intermediario de acceso inicial compromete organizaciones y vende o transfiere ese acceso.
@@ -3192,7 +3516,11 @@ Para dominar **datos robados y monetización**, aplica esta regla: Credenciales,
 - **Incorrecto:** Un dato filtrado solo puede usarse una vez.
 - **Incorrecto:** Monetizar exige vender públicamente la base completa.
 
-<!-- VISUAL PENDIENTE: t41-82-datos-robados-y-monetizacion.webp -->
+<!-- VISUAL:t41-82-datos-robados-y-monetizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-82-datos-robados-y-monetizacion.webp" alt="Datos robados y monetización" width="820">
+</p>
+<p align="center"><em>Infografía: Datos robados y monetización.</em></p>
 
 :::hablemos-claro
 Credenciales, cookies, documentos y datos personales pueden venderse o reutilizarse.
@@ -3231,7 +3559,11 @@ Para dominar **afiliados, mulas y blanqueo**, aplica esta regla: Los afiliados p
 - **Incorrecto:** La mula es siempre autora del malware.
 - **Incorrecto:** Usar criptomonedas vuelve imposible toda investigación.
 
-<!-- VISUAL PENDIENTE: t41-83-afiliados-mulas-y-blanqueo.webp -->
+<!-- VISUAL:t41-83-afiliados-mulas-y-blanqueo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-83-afiliados-mulas-y-blanqueo.webp" alt="Afiliados, mulas y blanqueo" width="820">
+</p>
+<p align="center"><em>Infografía: Afiliados, mulas y blanqueo.</em></p>
 
 :::hablemos-claro
 Los afiliados pueden aportar acceso y operación a cambio de parte del rescate o beneficio.
@@ -3270,7 +3602,11 @@ Para dominar **hacktivistas**, aplica esta regla: El hacktivismo usa acciones di
 - **Incorrecto:** Todo activismo en Internet es hacktivismo.
 - **Incorrecto:** El hacktivista nunca causa daño operativo.
 
-<!-- VISUAL PENDIENTE: t41-84-hacktivistas.webp -->
+<!-- VISUAL:t41-84-hacktivistas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-84-hacktivistas.webp" alt="Hacktivistas" width="820">
+</p>
+<p align="center"><em>Infografía: Hacktivistas.</em></p>
 
 :::hablemos-claro
 El hacktivismo usa acciones digitales para promover, protestar o imponer una causa política o social.
@@ -3309,7 +3645,11 @@ Para dominar **insider threat**, aplica esta regla: Insider threat procede de un
 - **Incorrecto:** Insider significa atacante externo que entra en la red.
 - **Incorrecto:** Solo los empleados fijos pueden ser insiders.
 
-<!-- VISUAL PENDIENTE: t41-il-85-insider-threat.webp -->
+<!-- VISUAL:t41-il-85-insider-threat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-85-insider-threat.webp" alt="Insider threat" width="820">
+</p>
+<p align="center"><em>Infografía: Insider threat.</em></p>
 
 :::hablemos-claro
 Insider threat procede de una persona con acceso autorizado que puede causar daño a sistemas o información.
@@ -3348,7 +3688,11 @@ Para dominar **insider malicioso, negligente o comprometido**, aplica esta regla
 - **Incorrecto:** Toda amenaza interna implica dolo.
 - **Incorrecto:** El usuario manipulado deja de ser insider.
 
-<!-- VISUAL PENDIENTE: t41-86-insider-malicioso-negligente-o-comprometido.webp -->
+<!-- VISUAL:t41-86-insider-malicioso-negligente-o-comprometido.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-86-insider-malicioso-negligente-o-comprometido.webp" alt="Insider malicioso, negligente o comprometido" width="820">
+</p>
+<p align="center"><em>Infografía: Insider malicioso, negligente o comprometido.</em></p>
 
 :::hablemos-claro
 El insider malicioso abusa deliberadamente de acceso legítimo.
@@ -3387,7 +3731,11 @@ Para dominar **advanced persistent threat**, aplica esta regla: Una APT es un ad
 - **Incorrecto:** APT significa cualquier virus nuevo.
 - **Incorrecto:** Toda APT pertenece necesariamente a un Estado.
 
-<!-- VISUAL PENDIENTE: t41-87-advanced-persistent-threat.webp -->
+<!-- VISUAL:t41-87-advanced-persistent-threat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-87-advanced-persistent-threat.webp" alt="Advanced Persistent Threat" width="820">
+</p>
+<p align="center"><em>Infografía: Advanced Persistent Threat.</em></p>
 
 :::hablemos-claro
 Una APT es un adversario con experiencia y recursos capaz de mantener campañas prolongadas y multivector.
@@ -3426,7 +3774,11 @@ Para dominar **ttp y atribución de apt**, aplica esta regla: ATT&CK organiza t�
 - **Incorrecto:** Un nombre APT es una identidad jurídica oficial.
 - **Incorrecto:** Una TTP exclusiva basta siempre para atribuir.
 
-<!-- VISUAL PENDIENTE: t41-88-ttp-y-atribucion-de-apt.webp -->
+<!-- VISUAL:t41-88-ttp-y-atribucion-de-apt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-88-ttp-y-atribucion-de-apt.webp" alt="TTP y atribución de APT" width="820">
+</p>
+<p align="center"><em>Infografía: TTP y atribución de APT.</em></p>
 
 :::hablemos-claro
 ATT&CK organiza tácticas y técnicas observadas en campañas y grupos.
@@ -3465,7 +3817,11 @@ Para dominar **cyber kill chain**, aplica esta regla: Cyber Kill Chain modela un
 - **Incorrecto:** La cadena garantiza que todo ataque siga un orden rígido.
 - **Incorrecto:** Cyber Kill Chain es un tipo de malware.
 
-<!-- VISUAL PENDIENTE: t41-89-cyber-kill-chain.webp -->
+<!-- VISUAL:t41-89-cyber-kill-chain.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-89-cyber-kill-chain.webp" alt="Cyber Kill Chain" width="820">
+</p>
+<p align="center"><em>Infografía: Cyber Kill Chain.</em></p>
 
 :::hablemos-claro
 Cyber Kill Chain modela una intrusión mediante siete fases para identificar oportunidades defensivas.
@@ -3504,7 +3860,11 @@ Para dominar **reconocimiento**, aplica esta regla: En reconocimiento, el advers
 - **Incorrecto:** Reconocimiento significa instalar persistencia.
 - **Incorrecto:** Solo se realiza después de comprometer el sistema.
 
-<!-- VISUAL PENDIENTE: t41-il-90-reconocimiento.webp -->
+<!-- VISUAL:t41-il-90-reconocimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-90-reconocimiento.webp" alt="Reconocimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Reconocimiento.</em></p>
 
 :::hablemos-claro
 En reconocimiento, el adversario recopila información sobre personas, tecnología, servicios y relaciones.
@@ -3543,7 +3903,11 @@ Para dominar **weaponization**, aplica esta regla: En weaponization se combina u
 - **Incorrecto:** Weaponization es enviar el correo a la víctima.
 - **Incorrecto:** Consiste exclusivamente en fabricar hardware.
 
-<!-- VISUAL PENDIENTE: t41-91-weaponization.webp -->
+<!-- VISUAL:t41-91-weaponization.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-91-weaponization.webp" alt="Weaponization" width="820">
+</p>
+<p align="center"><em>Infografía: Weaponization.</em></p>
 
 :::hablemos-claro
 En weaponization se combina una carga con un medio de explotación o entrega.
@@ -3582,7 +3946,11 @@ Para dominar **delivery**, aplica esta regla: Delivery transmite el artefacto o 
 - **Incorrecto:** Delivery es ejecutar acciones sobre objetivos.
 - **Incorrecto:** Todo artefacto entregado compromete automáticamente el equipo.
 
-<!-- VISUAL PENDIENTE: t41-92-delivery.webp -->
+<!-- VISUAL:t41-92-delivery.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-92-delivery.webp" alt="Delivery" width="820">
+</p>
+<p align="center"><em>Infografía: Delivery.</em></p>
 
 :::hablemos-claro
 Delivery transmite el artefacto o vector al entorno objetivo.
@@ -3621,7 +3989,11 @@ Para dominar **explotación**, aplica esta regla: En explotación, código o acc
 - **Incorrecto:** Explotación significa siempre robar datos.
 - **Incorrecto:** Solo existen exploits zero-day.
 
-<!-- VISUAL PENDIENTE: t41-93-explotacion.webp -->
+<!-- VISUAL:t41-93-explotacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-93-explotacion.webp" alt="Explotación" width="820">
+</p>
+<p align="center"><em>Infografía: Explotación.</em></p>
 
 :::hablemos-claro
 En explotación, código o acción aprovecha una vulnerabilidad o comportamiento para obtener ejecución.
@@ -3660,7 +4032,11 @@ Para dominar **instalación**, aplica esta regla: En instalación, el adversario
 - **Incorrecto:** Instalación es la fase de escaneo externo.
 - **Incorrecto:** Toda intrusión deja un ejecutable visible.
 
-<!-- VISUAL PENDIENTE: t41-94-instalacion.webp -->
+<!-- VISUAL:t41-94-instalacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-94-instalacion.webp" alt="Instalación" width="820">
+</p>
+<p align="center"><em>Infografía: Instalación.</em></p>
 
 :::hablemos-claro
 En instalación, el adversario coloca malware, persistencia o componentes necesarios.
@@ -3699,7 +4075,11 @@ Para dominar **command and control**, aplica esta regla: En C2, el sistema compr
 - **Incorrecto:** C2 es la fase inicial de reconocimiento.
 - **Incorrecto:** Sin C2 nunca puede existir ninguna acción maliciosa.
 
-<!-- VISUAL PENDIENTE: t41-il-95-command-and-control.webp -->
+<!-- VISUAL:t41-il-95-command-and-control.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-il-95-command-and-control.webp" alt="Command and Control" width="820">
+</p>
+<p align="center"><em>Infografía: Command and Control.</em></p>
 
 :::hablemos-claro
 En C2, el sistema comprometido establece o mantiene comunicación con infraestructura adversaria.
@@ -3738,7 +4118,11 @@ Para dominar **actions on objectives**, aplica esta regla: La fase final ejecuta
 - **Incorrecto:** Actions on Objectives es únicamente borrar archivos.
 - **Incorrecto:** Una vez alcanzada esta fase ya no sirve responder.
 
-<!-- VISUAL PENDIENTE: t41-96-actions-on-objectives.webp -->
+<!-- VISUAL:t41-96-actions-on-objectives.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-96-actions-on-objectives.webp" alt="Actions on Objectives" width="820">
+</p>
+<p align="center"><em>Infografía: Actions on Objectives.</em></p>
 
 :::hablemos-claro
 La fase final ejecuta el objetivo: espionaje, fraude, cifrado, sabotaje, movimiento o exfiltración.
@@ -3777,7 +4161,11 @@ Para dominar **romper la cadena**, aplica esta regla: Cada fase ofrece oportunid
 - **Incorrecto:** Solo se puede detener un ataque durante delivery.
 - **Incorrecto:** Un control perfecto en una fase vuelve innecesarios los demás.
 
-<!-- VISUAL PENDIENTE: t41-97-romper-la-cadena.webp -->
+<!-- VISUAL:t41-97-romper-la-cadena.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-97-romper-la-cadena.webp" alt="Romper la cadena" width="820">
+</p>
+<p align="center"><em>Infografía: Romper la cadena.</em></p>
 
 :::hablemos-claro
 Cada fase ofrece oportunidades de prevención, detección, interrupción o respuesta.
@@ -3816,7 +4204,11 @@ Para dominar **límites y complemento con att&ck**, aplica esta regla: La Kill C
 - **Incorrecto:** Kill Chain y ATT&CK son el mismo esquema con nombres distintos.
 - **Incorrecto:** Si una fase no se observa, el ataque no pudo ocurrir.
 
-<!-- VISUAL PENDIENTE: t41-98-limites-y-complemento-con-att-ck.webp -->
+<!-- VISUAL:t41-98-limites-y-complemento-con-att-ck.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-41/t41-98-limites-y-complemento-con-att-ck.webp" alt="Límites y complemento con ATT&CK" width="820">
+</p>
+<p align="center"><em>Infografía: Límites y complemento con ATT&CK.</em></p>
 
 :::hablemos-claro
 La Kill Chain ofrece una secuencia de alto nivel orientada a intrusiones.

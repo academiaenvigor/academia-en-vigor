@@ -19,7 +19,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El direccionamiento comprende clases de redes, IPv4 e IPv6.
 - Protocolos o técnicas auxiliares se incluyen solo cuando explican esos núcleos oficiales.
 
-<!-- VISUAL PENDIENTE: t39-01-alcance-oficial-del-tema-39.webp -->
+<!-- VISUAL:t39-01-alcance-oficial-del-tema-39.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-01-alcance-oficial-del-tema-39.webp" alt="Alcance oficial del Tema 39" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 39.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T39 -->
 
@@ -32,7 +36,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Un enlace es el medio lógico o físico que conecta nodos adyacentes.
 - Un protocolo define reglas y formatos compartidos para que las entidades se entiendan.
 
-<!-- VISUAL PENDIENTE: t39-02-red-nodo-enlace-y-protocolo.webp -->
+<!-- VISUAL:t39-02-red-nodo-enlace-y-protocolo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-02-red-nodo-enlace-y-protocolo.webp" alt="Red, nodo, enlace y protocolo" width="820">
+</p>
+<p align="center"><em>Infografía: Red, nodo, enlace y protocolo.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -45,7 +53,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - MAN describe un ámbito metropolitano y PAN una red personal de corto alcance.
 - La clasificación por alcance no determina por sí sola el protocolo, el medio ni la propiedad.
 
-<!-- VISUAL PENDIENTE: t39-03-lan-man-wan-y-pan.webp -->
+<!-- VISUAL:t39-03-lan-man-wan-y-pan.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-03-lan-man-wan-y-pan.webp" alt="LAN, MAN, WAN y PAN" width="820">
+</p>
+<p align="center"><em>Infografía: LAN, MAN, WAN y PAN.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -58,7 +70,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Bus, anillo, estrella, árbol y malla son modelos de topología.
 - Una red puede presentar topología física y lógica diferentes.
 
-<!-- VISUAL PENDIENTE: t39-04-topologia-fisica-y-topologia-logica.webp -->
+<!-- VISUAL:t39-04-topologia-fisica-y-topologia-logica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-04-topologia-fisica-y-topologia-logica.webp" alt="Topología física y topología lógica" width="820">
+</p>
+<p align="center"><em>Infografía: Topología física y topología lógica.</em></p>
 
 <!-- FUENTE: IEEE8023-ETHERNET-T39 -->
 
@@ -71,7 +87,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - DHCP asigna parámetros, DNS resuelve nombres y un proxy actúa como intermediario.
 - Un mismo equipo comercial puede reunir varias funciones sin volverlas equivalentes.
 
-<!-- VISUAL PENDIENTE: t39-il-05-conmutacion-encaminamiento-y-servicios.webp -->
+<!-- VISUAL:t39-il-05-conmutacion-encaminamiento-y-servicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-05-conmutacion-encaminamiento-y-servicios.webp" alt="Conmutación, encaminamiento y servicios" width="820">
+</p>
+<p align="center"><em>Infografía: Conmutación, encaminamiento y servicios.</em></p>
 
 <!-- FUENTE: RFC1812-ROUTERS-T39 -->
 
@@ -84,7 +104,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los datos de aplicación se transportan dentro de unidades de capas inferiores.
 - Cabecera, carga útil y, cuando existe, tráiler cumplen funciones distintas.
 
-<!-- VISUAL PENDIENTE: t39-06-encapsulacion-y-unidades-de-datos.webp -->
+<!-- VISUAL:t39-06-encapsulacion-y-unidades-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-06-encapsulacion-y-unidades-de-datos.webp" alt="Encapsulación y unidades de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Encapsulación y unidades de datos.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -97,7 +121,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - OSI es un modelo de referencia y no una única pila obligatoria implementada literalmente.
 - Su separación facilita describir interoperabilidad y localizar fallos.
 
-<!-- VISUAL PENDIENTE: t39-07-finalidad-del-modelo-osi.webp -->
+<!-- VISUAL:t39-07-finalidad-del-modelo-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-07-finalidad-del-modelo-osi.webp" alt="Finalidad del modelo OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad del modelo OSI.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -110,7 +138,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una interfaz define cómo una capa accede a servicios de la capa adyacente.
 - Servicio y protocolo están relacionados, pero no son términos intercambiables.
 
-<!-- VISUAL PENDIENTE: t39-08-capas-servicios-protocolos-e-interfaces.webp -->
+<!-- VISUAL:t39-08-capas-servicios-protocolos-e-interfaces.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-08-capas-servicios-protocolos-e-interfaces.webp" alt="Capas, servicios, protocolos e interfaces" width="820">
+</p>
+<p align="center"><em>Infografía: Capas, servicios, protocolos e interfaces.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -123,7 +155,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Conectores, modulación y velocidad física se asocian a esta capa.
 - La capa física no interpreta direcciones IP ni decide rutas.
 
-<!-- VISUAL PENDIENTE: t39-09-capa-1-fisica.webp -->
+<!-- VISUAL:t39-09-capa-1-fisica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-09-capa-1-fisica.webp" alt="Capa 1: física" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 1: física.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -136,7 +172,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Ethernet utiliza direcciones MAC para el reenvío dentro del dominio de enlace.
 - La entrega de capa 2 no sustituye el encaminamiento entre redes IP.
 
-<!-- VISUAL PENDIENTE: t39-il-10-capa-2-enlace-de-datos.webp -->
+<!-- VISUAL:t39-il-10-capa-2-enlace-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-10-capa-2-enlace-de-datos.webp" alt="Capa 2: enlace de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 2: enlace de datos.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -149,7 +189,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Un switch Ethernet aprende y reenvía usando información MAC.
 - No debe confundirse la dirección MAC con la dirección IP de capa de red.
 
-<!-- VISUAL PENDIENTE: t39-11-sublayers-llc-y-mac.webp -->
+<!-- VISUAL:t39-11-sublayers-llc-y-mac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-11-sublayers-llc-y-mac.webp" alt="Sublayers LLC y MAC" width="820">
+</p>
+<p align="center"><em>Infografía: Sublayers LLC y MAC.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -162,7 +206,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los routers operan principalmente tomando decisiones de capa 3.
 - La capa de red no garantiza por sí sola la entrega fiable de extremo a extremo.
 
-<!-- VISUAL PENDIENTE: t39-12-capa-3-red.webp -->
+<!-- VISUAL:t39-12-capa-3-red.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-12-capa-3-red.webp" alt="Capa 3: red" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 3: red.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -175,7 +223,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - TCP proporciona un servicio fiable orientado a conexión.
 - UDP proporciona datagramas sin establecer una conexión fiable.
 
-<!-- VISUAL PENDIENTE: t39-13-capa-4-transporte.webp -->
+<!-- VISUAL:t39-13-capa-4-transporte.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-13-capa-4-transporte.webp" alt="Capa 4: transporte" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 4: transporte.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -188,7 +240,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - En pilas actuales sus funciones suelen integrarse en protocolos o aplicaciones superiores.
 - Que una función no aparezca como capa separada en TCP/IP no significa que desaparezca.
 
-<!-- VISUAL PENDIENTE: t39-14-capa-5-sesion.webp -->
+<!-- VISUAL:t39-14-capa-5-sesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-14-capa-5-sesion.webp" alt="Capa 5: sesión" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 5: sesión.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -201,7 +257,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Su objetivo es que entidades con representaciones distintas intercambien datos comprensibles.
 - En Internet estas funciones suelen residir en bibliotecas y protocolos de aplicación.
 
-<!-- VISUAL PENDIENTE: t39-il-15-capa-6-presentacion.webp -->
+<!-- VISUAL:t39-il-15-capa-6-presentacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-15-capa-6-presentacion.webp" alt="Capa 6: presentación" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 6: presentación.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -214,7 +274,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Aplicación no significa que el usuario interactúe siempre directamente con el protocolo.
 - La capa de aplicación utiliza servicios de transporte para intercambiar mensajes.
 
-<!-- VISUAL PENDIENTE: t39-16-capa-7-aplicacion.webp -->
+<!-- VISUAL:t39-16-capa-7-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-16-capa-7-aplicacion.webp" alt="Capa 7: aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Capa 7: aplicación.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -227,7 +291,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Paquete o datagrama IP es la unidad habitual de capa de red.
 - Segmento TCP y datagrama UDP son denominaciones usuales de transporte.
 
-<!-- VISUAL PENDIENTE: t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp -->
+<!-- VISUAL:t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-17-pdu-bits-tramas-paquetes-y-segmentos.webp" alt="PDU: bits, tramas, paquetes y segmentos" width="820">
+</p>
+<p align="center"><em>Infografía: PDU: bits, tramas, paquetes y segmentos.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -240,7 +308,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El receptor procesa las cabeceras en orden inverso al emisor.
 - La misma carga útil cambia de denominación funcional al atravesar capas.
 
-<!-- VISUAL PENDIENTE: t39-18-encapsulacion-en-el-modelo-osi.webp -->
+<!-- VISUAL:t39-18-encapsulacion-en-el-modelo-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-18-encapsulacion-en-el-modelo-osi.webp" alt="Encapsulación en el modelo OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Encapsulación en el modelo OSI.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -253,7 +325,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Router se asocia principalmente a la capa de red.
 - Firewall y proxy pueden examinar varias capas según su tecnología.
 
-<!-- VISUAL PENDIENTE: t39-19-dispositivos-y-capas-osi.webp -->
+<!-- VISUAL:t39-19-dispositivos-y-capas-osi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-19-dispositivos-y-capas-osi.webp" alt="Dispositivos y capas OSI" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos y capas OSI.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -266,7 +342,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una IP alcanzable no demuestra que el servicio de aplicación responda.
 - El análisis por capas evita atribuir a DNS fallos de cableado o a TCP errores de direccionamiento.
 
-<!-- VISUAL PENDIENTE: t39-il-20-diagnostico-por-capas.webp -->
+<!-- VISUAL:t39-il-20-diagnostico-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-20-diagnostico-por-capas.webp" alt="Diagnóstico por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Diagnóstico por capas.</em></p>
 
 <!-- FUENTE: ISO-7498-1-OSI-T39 -->
 
@@ -279,7 +359,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Algunas obras separan la física y hablan de cinco capas sin cambiar los protocolos básicos.
 - El número de capas citado debe acompañarse del modelo concreto empleado.
 
-<!-- VISUAL PENDIENTE: t39-21-finalidad-del-modelo-tcp-ip.webp -->
+<!-- VISUAL:t39-21-finalidad-del-modelo-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-21-finalidad-del-modelo-tcp-ip.webp" alt="Finalidad del modelo TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad del modelo TCP/IP.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -292,7 +376,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La capa Internet se relaciona con la capa de red OSI.
 - El acceso a red TCP/IP reúne funciones de enlace y del medio físico.
 
-<!-- VISUAL PENDIENTE: t39-22-correspondencia-osi-y-tcp-ip.webp -->
+<!-- VISUAL:t39-22-correspondencia-osi-y-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-22-correspondencia-osi-y-tcp-ip.webp" alt="Correspondencia OSI y TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Correspondencia OSI y TCP/IP.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -305,7 +393,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los protocolos de aplicación se apoyan normalmente en TCP o UDP.
 - Un puerto identifica un punto lógico de transporte, no una aplicación de forma absoluta.
 
-<!-- VISUAL PENDIENTE: t39-23-capa-de-aplicacion-tcp-ip.webp -->
+<!-- VISUAL:t39-23-capa-de-aplicacion-tcp-ip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-23-capa-de-aplicacion-tcp-ip.webp" alt="Capa de aplicación TCP/IP" width="820">
+</p>
+<p align="center"><em>Infografía: Capa de aplicación TCP/IP.</em></p>
 
 <!-- FUENTE: RFC1122-HOSTS-T39 -->
 
@@ -318,7 +410,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Números de secuencia, reconocimientos y retransmisión contribuyen a la fiabilidad.
 - TCP incorpora control de flujo y mecanismos de control de congestión en la pila de Internet.
 
-<!-- VISUAL PENDIENTE: t39-24-tcp-conexion-y-fiabilidad.webp -->
+<!-- VISUAL:t39-24-tcp-conexion-y-fiabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-24-tcp-conexion-y-fiabilidad.webp" alt="TCP: conexión y fiabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: TCP: conexión y fiabilidad.</em></p>
 
 <!-- FUENTE: RFC9293-TCP-T39 -->
 
@@ -331,7 +427,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - FIN participa en un cierre ordenado y RST aborta o rechaza una conexión.
 - El cierre de un sentido del flujo no implica siempre el cierre simultáneo del otro.
 
-<!-- VISUAL PENDIENTE: t39-il-25-establecimiento-y-cierre-tcp.webp -->
+<!-- VISUAL:t39-il-25-establecimiento-y-cierre-tcp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-25-establecimiento-y-cierre-tcp.webp" alt="Establecimiento y cierre TCP" width="820">
+</p>
+<p align="center"><em>Infografía: Establecimiento y cierre TCP.</em></p>
 
 <!-- FUENTE: RFC9293-TCP-T39 -->
 
@@ -344,7 +444,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - UDP no garantiza entrega, orden, eliminación de duplicados ni retransmisión.
 - Una aplicación puede añadir sobre UDP los controles que necesite.
 
-<!-- VISUAL PENDIENTE: t39-26-udp-datagramas-sin-conexion.webp -->
+<!-- VISUAL:t39-26-udp-datagramas-sin-conexion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-26-udp-datagramas-sin-conexion.webp" alt="UDP: datagramas sin conexión" width="820">
+</p>
+<p align="center"><em>Infografía: UDP: datagramas sin conexión.</em></p>
 
 <!-- FUENTE: RFC768-UDP-T39 -->
 
@@ -357,7 +461,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los routers reenvían cada paquete según destino y tabla de encaminamiento.
 - La fiabilidad extremo a extremo, cuando se exige, se aporta en otras capas.
 
-<!-- VISUAL PENDIENTE: t39-27-ip-servicio-de-datagramas.webp -->
+<!-- VISUAL:t39-27-ip-servicio-de-datagramas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-27-ip-servicio-de-datagramas.webp" alt="IP: servicio de datagramas" width="820">
+</p>
+<p align="center"><em>Infografía: IP: servicio de datagramas.</em></p>
 
 <!-- FUENTE: RFC791-IPV4-T39 -->
 
@@ -370,7 +478,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una respuesta ICMP no demuestra que todos los puertos o aplicaciones estén disponibles.
 - Bloquear ICMP puede impedir diagnósticos sin significar que el destino esté apagado.
 
-<!-- VISUAL PENDIENTE: t39-28-icmp-y-el-comando-ping.webp -->
+<!-- VISUAL:t39-28-icmp-y-el-comando-ping.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-28-icmp-y-el-comando-ping.webp" alt="ICMP y el comando ping" width="820">
+</p>
+<p align="center"><em>Infografía: ICMP y el comando ping.</em></p>
 
 <!-- FUENTE: RFC792-ICMP-T39 -->
 
@@ -383,7 +495,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La resolución local del vecino es distinta de la resolución DNS de nombres.
 - Para un destino remoto se resuelve normalmente la dirección de enlace del siguiente salto, no la del destino final.
 
-<!-- VISUAL PENDIENTE: t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp -->
+<!-- VISUAL:t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-29-arp-en-ipv4-y-ndp-en-ipv6.webp" alt="ARP en IPv4 y NDP en IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: ARP en IPv4 y NDP en IPv6.</em></p>
 
 <!-- FUENTE: RFC4861-NDP-T39 -->
 
@@ -396,7 +512,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una conexión TCP queda distinguida por direcciones y puertos de ambos extremos.
 - Un puerto conocido es una convención de servicio, no una garantía de la aplicación ejecutada.
 
-<!-- VISUAL PENDIENTE: t39-il-30-puertos-sockets-y-multiplexacion.webp -->
+<!-- VISUAL:t39-il-30-puertos-sockets-y-multiplexacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-30-puertos-sockets-y-multiplexacion.webp" alt="Puertos, sockets y multiplexación" width="820">
+</p>
+<p align="center"><em>Infografía: Puertos, sockets y multiplexación.</em></p>
 
 <!-- FUENTE: RFC9293-TCP-T39 -->
 
@@ -409,7 +529,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El hub no aprende direcciones MAC ni selecciona un único puerto por destino.
 - Hub y switch no son equivalentes aunque ambos tengan varios puertos.
 
-<!-- VISUAL PENDIENTE: t39-31-repetidor-y-concentrador-hub.webp -->
+<!-- VISUAL:t39-31-repetidor-y-concentrador-hub.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-31-repetidor-y-concentrador-hub.webp" alt="Repetidor y concentrador hub" width="820">
+</p>
+<p align="center"><em>Infografía: Repetidor y concentrador hub.</em></p>
 
 <!-- FUENTE: IEEE8023-ETHERNET-T39 -->
 
@@ -422,7 +546,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La operación clásica con hub es semidúplex y puede requerir CSMA/CD.
 - Un hub no separa el tráfico de broadcast del resto del segmento.
 
-<!-- VISUAL PENDIENTE: t39-32-dominio-de-colision-compartido.webp -->
+<!-- VISUAL:t39-32-dominio-de-colision-compartido.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-32-dominio-de-colision-compartido.webp" alt="Dominio de colisión compartido" width="820">
+</p>
+<p align="center"><em>Infografía: Dominio de colisión compartido.</em></p>
 
 <!-- FUENTE: IEEE8023-ETHERNET-T39 -->
 
@@ -435,7 +563,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El switch toma decisiones principalmente con la MAC de destino.
 - La conmutación reduce colisiones respecto de un medio compartido por hub.
 
-<!-- VISUAL PENDIENTE: t39-33-bridge-y-switch-ethernet.webp -->
+<!-- VISUAL:t39-33-bridge-y-switch-ethernet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-33-bridge-y-switch-ethernet.webp" alt="Bridge y switch Ethernet" width="820">
+</p>
+<p align="center"><em>Infografía: Bridge y switch Ethernet.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -448,7 +580,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La tabla MAC se denomina también tabla de reenvío o filtrado según el contexto.
 - Aprender una MAC no equivale a asignar una dirección IP mediante DHCP.
 
-<!-- VISUAL PENDIENTE: t39-34-aprendizaje-de-la-tabla-mac.webp -->
+<!-- VISUAL:t39-34-aprendizaje-de-la-tabla-mac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-34-aprendizaje-de-la-tabla-mac.webp" alt="Aprendizaje de la tabla MAC" width="820">
+</p>
+<p align="center"><em>Infografía: Aprendizaje de la tabla MAC.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -461,7 +597,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Un unicast desconocido se difunde por los puertos pertinentes salvo el de entrada.
 - Broadcast y ciertos multicast también se propagan dentro del dominio correspondiente.
 
-<!-- VISUAL PENDIENTE: t39-il-35-filtrado-reenvio-y-flooding.webp -->
+<!-- VISUAL:t39-il-35-filtrado-reenvio-y-flooding.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-35-filtrado-reenvio-y-flooding.webp" alt="Filtrado, reenvío y flooding" width="820">
+</p>
+<p align="center"><em>Infografía: Filtrado, reenvío y flooding.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -474,7 +614,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Un router separa dominios de broadcast de capa 2.
 - Full-duplex elimina las colisiones Ethernet del enlace punto a punto conmutado.
 
-<!-- VISUAL PENDIENTE: t39-36-dominios-de-colision-y-broadcast.webp -->
+<!-- VISUAL:t39-36-dominios-de-colision-y-broadcast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-36-dominios-de-colision-y-broadcast.webp" alt="Dominios de colisión y broadcast" width="820">
+</p>
+<p align="center"><em>Infografía: Dominios de colisión y broadcast.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -487,7 +631,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Puertos de acceso y enlaces troncales cumplen funciones diferentes.
 - La comunicación entre VLAN distintas requiere una función de capa 3.
 
-<!-- VISUAL PENDIENTE: t39-37-vlan-y-etiquetado.webp -->
+<!-- VISUAL:t39-37-vlan-y-etiquetado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-37-vlan-y-etiquetado.webp" alt="VLAN y etiquetado" width="820">
+</p>
+<p align="center"><em>Infografía: VLAN y etiquetado.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -500,7 +648,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Spanning Tree mantiene una topología lógica sin bucles bloqueando caminos redundantes.
 - La redundancia física puede conservarse aunque no todos los enlaces reenvíen simultáneamente.
 
-<!-- VISUAL PENDIENTE: t39-38-bucles-y-spanning-tree.webp -->
+<!-- VISUAL:t39-38-bucles-y-spanning-tree.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-38-bucles-y-spanning-tree.webp" alt="Bucles y Spanning Tree" width="820">
+</p>
+<p align="center"><em>Infografía: Bucles y Spanning Tree.</em></p>
 
 <!-- FUENTE: IEEE8021Q-BRIDGES-T39 -->
 
@@ -513,7 +665,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El router vuelve a encapsular el paquete en una trama adecuada al siguiente enlace.
 - La MAC de la trama cambia por salto aunque la IP extremo a extremo normalmente se conserve.
 
-<!-- VISUAL PENDIENTE: t39-39-funcion-del-router.webp -->
+<!-- VISUAL:t39-39-funcion-del-router.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-39-funcion-del-router.webp" alt="Función del router" width="820">
+</p>
+<p align="center"><em>Infografía: Función del router.</em></p>
 
 <!-- FUENTE: RFC1812-ROUTERS-T39 -->
 
@@ -526,7 +682,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La ruta por defecto se usa cuando no existe una ruta más específica aplicable.
 - En IPv4 la ruta por defecto se representa como 0.0.0.0/0.
 
-<!-- VISUAL PENDIENTE: t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp -->
+<!-- VISUAL:t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-40-tabla-de-encaminamiento-y-ruta-por-defecto.webp" alt="Tabla de encaminamiento y ruta por defecto" width="820">
+</p>
+<p align="center"><em>Infografía: Tabla de encaminamiento y ruta por defecto.</em></p>
 
 <!-- FUENTE: RFC1812-ROUTERS-T39 -->
 
@@ -539,7 +699,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - IPv6 usa Hop Limit con finalidad equivalente.
 - Al agotarse el contador, el paquete se descarta y puede generarse un mensaje ICMP.
 
-<!-- VISUAL PENDIENTE: t39-41-siguiente-salto-ttl-y-hop-limit.webp -->
+<!-- VISUAL:t39-41-siguiente-salto-ttl-y-hop-limit.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-41-siguiente-salto-ttl-y-hop-limit.webp" alt="Siguiente salto, TTL y Hop Limit" width="820">
+</p>
+<p align="center"><em>Infografía: Siguiente salto, TTL y Hop Limit.</em></p>
 
 <!-- FUENTE: RFC1812-ROUTERS-T39 -->
 
@@ -552,7 +716,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - RIP, OSPF y BGP responden a diseños y ámbitos distintos.
 - La existencia de una ruta no garantiza que la aplicación de destino esté disponible.
 
-<!-- VISUAL PENDIENTE: t39-42-rutas-estaticas-y-protocolos-dinamicos.webp -->
+<!-- VISUAL:t39-42-rutas-estaticas-y-protocolos-dinamicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-42-rutas-estaticas-y-protocolos-dinamicos.webp" alt="Rutas estáticas y protocolos dinámicos" width="820">
+</p>
+<p align="center"><em>Infografía: Rutas estáticas y protocolos dinámicos.</em></p>
 
 <!-- FUENTE: RFC1812-ROUTERS-T39 -->
 
@@ -565,7 +733,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La traducción permite reutilizar direcciones privadas, pero altera la transparencia extremo a extremo.
 - NAT no sustituye por sí solo una política completa de cortafuegos.
 
-<!-- VISUAL PENDIENTE: t39-43-nat-y-pat.webp -->
+<!-- VISUAL:t39-43-nat-y-pat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-43-nat-y-pat.webp" alt="NAT y PAT" width="820">
+</p>
+<p align="center"><em>Infografía: NAT y PAT.</em></p>
 
 <!-- FUENTE: RFC3022-NAT-T39 -->
 
@@ -578,7 +750,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La regla de denegación por defecto permite solo lo expresamente autorizado.
 - Un firewall mal configurado no aporta protección efectiva por el mero hecho de existir.
 
-<!-- VISUAL PENDIENTE: t39-44-concepto-y-politica-de-firewall.webp -->
+<!-- VISUAL:t39-44-concepto-y-politica-de-firewall.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-44-concepto-y-politica-de-firewall.webp" alt="Concepto y política de firewall" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y política de firewall.</em></p>
 
 <!-- FUENTE: NIST-SP800-41R1-T39 -->
 
@@ -591,7 +767,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El estado permite distinguir respuestas asociadas de tráfico nuevo no solicitado.
 - Ni el filtrado simple ni el estado comprenden necesariamente toda la semántica de la aplicación.
 
-<!-- VISUAL PENDIENTE: t39-il-45-filtrado-de-paquetes-y-estado.webp -->
+<!-- VISUAL:t39-il-45-filtrado-de-paquetes-y-estado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-45-filtrado-de-paquetes-y-estado.webp" alt="Filtrado de paquetes y estado" width="820">
+</p>
+<p align="center"><em>Infografía: Filtrado de paquetes y estado.</em></p>
 
 <!-- FUENTE: NIST-SP800-41R1-T39 -->
 
@@ -604,7 +784,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - UTM integra varias funciones de seguridad en una plataforma, sin convertirlas en una sola técnica.
 - La defensa en profundidad no debe depender exclusivamente de un único firewall perimetral.
 
-<!-- VISUAL PENDIENTE: t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp -->
+<!-- VISUAL:t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-46-proxy-firewall-utm-y-defensa-en-profundidad.webp" alt="Proxy firewall, UTM y defensa en profundidad" width="820">
+</p>
+<p align="center"><em>Infografía: Proxy firewall, UTM y defensa en profundidad.</em></p>
 
 <!-- FUENTE: NIST-SP800-41R1-T39 -->
 
@@ -617,7 +801,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Un relay reenvía mensajes DHCP entre subredes cuando el servidor no está en el enlace local.
 - DHCP puede proporcionar dirección, máscara, router y servidores DNS, entre otras opciones.
 
-<!-- VISUAL PENDIENTE: t39-47-finalidad-y-actores-de-dhcpv4.webp -->
+<!-- VISUAL:t39-47-finalidad-y-actores-de-dhcpv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-47-finalidad-y-actores-de-dhcpv4.webp" alt="Finalidad y actores de DHCPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad y actores de DHCPv4.</em></p>
 
 <!-- FUENTE: RFC2131-DHCP-T39 -->
 
@@ -630,7 +818,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - DHCPREQUEST identifica la oferta solicitada o renueva una concesión.
 - DHCPACK confirma los parámetros concedidos; DHCPNAK puede rechazar una solicitud inválida.
 
-<!-- VISUAL PENDIENTE: t39-48-dora-descubrimiento-y-concesion.webp -->
+<!-- VISUAL:t39-48-dora-descubrimiento-y-concesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-48-dora-descubrimiento-y-concesion.webp" alt="DORA: descubrimiento y concesión" width="820">
+</p>
+<p align="center"><em>Infografía: DORA: descubrimiento y concesión.</em></p>
 
 <!-- FUENTE: RFC2131-DHCP-T39 -->
 
@@ -643,7 +835,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una reserva vincula administrativamente un cliente identificado con una dirección prevista.
 - Dirección dinámica y dirección aleatoria no son sinónimos.
 
-<!-- VISUAL PENDIENTE: t39-49-concesion-renovacion-y-reserva-dhcp.webp -->
+<!-- VISUAL:t39-49-concesion-renovacion-y-reserva-dhcp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-49-concesion-renovacion-y-reserva-dhcp.webp" alt="Concesión, renovación y reserva DHCP" width="820">
+</p>
+<p align="center"><em>Infografía: Concesión, renovación y reserva DHCP.</em></p>
 
 <!-- FUENTE: RFC2131-DHCP-T39 -->
 
@@ -656,7 +852,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - 169.254.0.0/16 está reservado para direccionamiento link-local IPv4.
 - Una dirección link-local no sustituye una configuración enrutable completa.
 
-<!-- VISUAL PENDIENTE: t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp -->
+<!-- VISUAL:t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-50-broadcast-relay-y-autoconfiguracion-ipv4.webp" alt="Broadcast, relay y autoconfiguración IPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Broadcast, relay y autoconfiguración IPv4.</em></p>
 
 <!-- FUENTE: RFC2131-DHCP-T39 -->
 
@@ -669,7 +869,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - DHCPv6 puede operar con estado o sin estado y coexistir con SLAAC.
 - En 2026 la especificación vigente de DHCPv6 es RFC 9915, que reemplaza RFC 8415.
 
-<!-- VISUAL PENDIENTE: t39-51-dhcpv6-y-slaac.webp -->
+<!-- VISUAL:t39-51-dhcpv6-y-slaac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-51-dhcpv6-y-slaac.webp" alt="DHCPv6 y SLAAC" width="820">
+</p>
+<p align="center"><em>Infografía: DHCPv6 y SLAAC.</em></p>
 
 <!-- FUENTE: RFC9915-DHCPV6-T39 -->
 
@@ -682,7 +886,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una zona es una porción administrada del espacio de nombres.
 - Dominio y zona se relacionan, pero no son necesariamente idénticos.
 
-<!-- VISUAL PENDIENTE: t39-52-espacio-de-nombres-dns.webp -->
+<!-- VISUAL:t39-52-espacio-de-nombres-dns.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-52-espacio-de-nombres-dns.webp" alt="Espacio de nombres DNS" width="820">
+</p>
+<p align="center"><em>Infografía: Espacio de nombres DNS.</em></p>
 
 <!-- FUENTE: RFC1034-DNS-T39 -->
 
@@ -695,7 +903,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - MX indica intercambiadores de correo y CNAME crea un alias canónico.
 - PTR se usa habitualmente en resolución inversa y TXT transporta texto asociado a un nombre.
 
-<!-- VISUAL PENDIENTE: t39-53-registros-dns-principales.webp -->
+<!-- VISUAL:t39-53-registros-dns-principales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-53-registros-dns-principales.webp" alt="Registros DNS principales" width="820">
+</p>
+<p align="center"><em>Infografía: Registros DNS principales.</em></p>
 
 <!-- FUENTE: RFC1035-DNS-T39 -->
 
@@ -708,7 +920,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los resolvers recursivos consultan la jerarquía en nombre de clientes stub.
 - Recursión y autoridad son funciones diferentes que pueden coexistir o separarse.
 
-<!-- VISUAL PENDIENTE: t39-54-consulta-recursiva-e-iterativa.webp -->
+<!-- VISUAL:t39-54-consulta-recursiva-e-iterativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-54-consulta-recursiva-e-iterativa.webp" alt="Consulta recursiva e iterativa" width="820">
+</p>
+<p align="center"><em>Infografía: Consulta recursiva e iterativa.</em></p>
 
 <!-- FUENTE: RFC1034-DNS-T39 -->
 
@@ -721,7 +937,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El secundario puede obtener la zona mediante transferencia desde otro servidor autorizado.
 - Un resolver de caché no se convierte en autoritativo por almacenar temporalmente una respuesta.
 
-<!-- VISUAL PENDIENTE: t39-il-55-servidores-autoritativos-primario-y-secundario.webp -->
+<!-- VISUAL:t39-il-55-servidores-autoritativos-primario-y-secundario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-55-servidores-autoritativos-primario-y-secundario.webp" alt="Servidores autoritativos, primario y secundario" width="820">
+</p>
+<p align="center"><em>Infografía: Servidores autoritativos, primario y secundario.</em></p>
 
 <!-- FUENTE: RFC8499-DNS-TERMS-T39 -->
 
@@ -734,7 +954,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - DNS usa tradicionalmente el puerto 53 y puede operar sobre UDP o TCP.
 - TCP no se limita hoy únicamente a transferencias de zona; el tamaño y otras condiciones también influyen.
 
-<!-- VISUAL PENDIENTE: t39-56-cache-ttl-y-transporte-dns.webp -->
+<!-- VISUAL:t39-56-cache-ttl-y-transporte-dns.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-56-cache-ttl-y-transporte-dns.webp" alt="Caché, TTL y transporte DNS" width="820">
+</p>
+<p align="center"><em>Infografía: Caché, TTL y transporte DNS.</em></p>
 
 <!-- FUENTE: RFC1035-DNS-T39 -->
 
@@ -747,7 +971,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El cliente puede estar configurado explícitamente para utilizarlo.
 - Un proxy de aplicación no es simplemente la parte software de cualquier router.
 
-<!-- VISUAL PENDIENTE: t39-57-proxy-directo-o-forward-proxy.webp -->
+<!-- VISUAL:t39-57-proxy-directo-o-forward-proxy.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-57-proxy-directo-o-forward-proxy.webp" alt="Proxy directo o forward proxy" width="820">
+</p>
+<p align="center"><em>Infografía: Proxy directo o forward proxy.</em></p>
 
 <!-- FUENTE: RFC9110-HTTP-T39 -->
 
@@ -760,7 +988,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una caché reutiliza respuestas solo bajo reglas de validez aplicables.
 - El método CONNECT permite establecer un túnel a través de un intermediario HTTP cuando está autorizado.
 
-<!-- VISUAL PENDIENTE: t39-58-reverse-proxy-cache-y-tunel.webp -->
+<!-- VISUAL:t39-58-reverse-proxy-cache-y-tunel.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-58-reverse-proxy-cache-y-tunel.webp" alt="Reverse proxy, caché y túnel" width="820">
+</p>
+<p align="center"><em>Infografía: Reverse proxy, caché y túnel.</em></p>
 
 <!-- FUENTE: RFC9110-HTTP-T39 -->
 
@@ -773,7 +1005,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Cada octeto representa un valor entre 0 y 255.
 - La validez sintáctica de una dirección no demuestra que sea asignable o enrutable globalmente.
 
-<!-- VISUAL PENDIENTE: t39-59-formato-y-longitud-de-ipv4.webp -->
+<!-- VISUAL:t39-59-formato-y-longitud-de-ipv4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-59-formato-y-longitud-de-ipv4.webp" alt="Formato y longitud de IPv4" width="820">
+</p>
+<p align="center"><em>Infografía: Formato y longitud de IPv4.</em></p>
 
 <!-- FUENTE: RFC791-IPV4-T39 -->
 
@@ -786,7 +1022,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una máscara IPv4 representa el prefijo con unos contiguos seguidos de ceros.
 - Dos hosts están en la misma subred lógica cuando sus prefijos calculados coinciden.
 
-<!-- VISUAL PENDIENTE: t39-il-60-prefijo-host-y-mascara-de-subred.webp -->
+<!-- VISUAL:t39-il-60-prefijo-host-y-mascara-de-subred.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-60-prefijo-host-y-mascara-de-subred.webp" alt="Prefijo, host y máscara de subred" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijo, host y máscara de subred.</em></p>
 
 <!-- FUENTE: RFC4632-CIDR-T39 -->
 
@@ -799,7 +1039,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La máscara por defecto histórica de clase A es 255.0.0.0 o /8.
 - El rango 127.0.0.0/8 se reserva para loopback y no es una red clase A ordinaria asignable.
 
-<!-- VISUAL PENDIENTE: t39-61-clase-a-historica.webp -->
+<!-- VISUAL:t39-61-clase-a-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-61-clase-a-historica.webp" alt="Clase A histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase A histórica.</em></p>
 
 <!-- FUENTE: RFC791-IPV4-T39 -->
 
@@ -812,7 +1056,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La máscara por defecto histórica es 255.255.0.0 o /16.
 - La clase no determina hoy el prefijo real de una red configurada mediante CIDR.
 
-<!-- VISUAL PENDIENTE: t39-62-clase-b-historica.webp -->
+<!-- VISUAL:t39-62-clase-b-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-62-clase-b-historica.webp" alt="Clase B histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase B histórica.</em></p>
 
 <!-- FUENTE: RFC791-IPV4-T39 -->
 
@@ -825,7 +1073,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La máscara por defecto histórica es 255.255.255.0 o /24.
 - Una red /24 dispone de 256 combinaciones, aunque no todas son hosts unicast ordinarios.
 
-<!-- VISUAL PENDIENTE: t39-63-clase-c-historica.webp -->
+<!-- VISUAL:t39-63-clase-c-historica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-63-clase-c-historica.webp" alt="Clase C histórica" width="820">
+</p>
+<p align="center"><em>Infografía: Clase C histórica.</em></p>
 
 <!-- FUENTE: RFC791-IPV4-T39 -->
 
@@ -838,7 +1090,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Clases D y E no usan la división red/host de A, B y C.
 - Las propiedades actuales de cada bloque deben consultarse en los registros de propósito especial.
 
-<!-- VISUAL PENDIENTE: t39-64-clases-d-y-e-historicas.webp -->
+<!-- VISUAL:t39-64-clases-d-y-e-historicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-64-clases-d-y-e-historicas.webp" alt="Clases D y E históricas" width="820">
+</p>
+<p align="center"><em>Infografía: Clases D y E históricas.</em></p>
 
 <!-- FUENTE: RFC6890-SPECIAL-T39 -->
 
@@ -851,7 +1107,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - La notación /n expresa el tamaño del prefijo sin depender de A, B o C.
 - Las clases se estudian por exigencia histórica y de examen, no como regla actual universal.
 
-<!-- VISUAL PENDIENTE: t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp -->
+<!-- VISUAL:t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-65-cidr-frente-a-direccionamiento-por-clases.webp" alt="CIDR frente a direccionamiento por clases" width="820">
+</p>
+<p align="center"><em>Infografía: CIDR frente a direccionamiento por clases.</em></p>
 
 <!-- FUENTE: RFC4632-CIDR-T39 -->
 
@@ -864,7 +1124,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una /30 tiene cuatro direcciones totales y normalmente dos hosts unicast ordinarios.
 - Una /31 puede emplearse en enlaces punto a punto conforme a reglas específicas y rompe la regla escolar de dos direcciones no utilizables.
 
-<!-- VISUAL PENDIENTE: t39-66-calculo-de-subred-red-y-broadcast.webp -->
+<!-- VISUAL:t39-66-calculo-de-subred-red-y-broadcast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-66-calculo-de-subred-red-y-broadcast.webp" alt="Cálculo de subred, red y broadcast" width="820">
+</p>
+<p align="center"><em>Infografía: Cálculo de subred, red y broadcast.</em></p>
 
 <!-- FUENTE: RFC4632-CIDR-T39 -->
 
@@ -877,7 +1141,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - El bloque 172.16.0.0/12 abarca de 172.16.0.0 a 172.31.255.255.
 - 172.0.0.0/8 completo no es privado, y 192.0.0.0/8 completo tampoco lo es.
 
-<!-- VISUAL PENDIENTE: t39-67-direcciones-ipv4-privadas.webp -->
+<!-- VISUAL:t39-67-direcciones-ipv4-privadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-67-direcciones-ipv4-privadas.webp" alt="Direcciones IPv4 privadas" width="820">
+</p>
+<p align="center"><em>Infografía: Direcciones IPv4 privadas.</em></p>
 
 <!-- FUENTE: RFC1918-PRIVATE-T39 -->
 
@@ -890,7 +1158,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - 255.255.255.255 es el broadcast limitado y no se reenvía como tráfico global ordinario.
 - La puerta de enlace predeterminada es el siguiente salto usado para destinos sin ruta más específica.
 
-<!-- VISUAL PENDIENTE: t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp -->
+<!-- VISUAL:t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-68-direcciones-ipv4-especiales-y-puerta-de-enlace.webp" alt="Direcciones IPv4 especiales y puerta de enlace" width="820">
+</p>
+<p align="center"><em>Infografía: Direcciones IPv4 especiales y puerta de enlace.</em></p>
 
 <!-- FUENTE: RFC6890-SPECIAL-T39 -->
 
@@ -903,7 +1175,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Los ceros iniciales de cada grupo pueden omitirse.
 - Una única secuencia continua de grupos cero puede comprimirse con doble dos puntos.
 
-<!-- VISUAL PENDIENTE: t39-69-longitud-y-notacion-ipv6.webp -->
+<!-- VISUAL:t39-69-longitud-y-notacion-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-69-longitud-y-notacion-ipv6.webp" alt="Longitud y notación IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Longitud y notación IPv6.</em></p>
 
 <!-- FUENTE: RFC4291-IPV6-ADDR-T39 -->
 
@@ -916,7 +1192,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Una dirección multicast identifica un grupo de interfaces.
 - IPv6 no utiliza broadcast; sus funciones se resuelven mediante multicast u otros mecanismos.
 
-<!-- VISUAL PENDIENTE: t39-il-70-unicast-anycast-y-multicast.webp -->
+<!-- VISUAL:t39-il-70-unicast-anycast-y-multicast.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-il-70-unicast-anycast-y-multicast.webp" alt="Unicast, anycast y multicast" width="820">
+</p>
+<p align="center"><em>Infografía: Unicast, anycast y multicast.</em></p>
 
 <!-- FUENTE: RFC4291-IPV6-ADDR-T39 -->
 
@@ -929,7 +1209,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - ::1 es la dirección loopback y :: la dirección no especificada.
 - ff00::/8 identifica direcciones multicast IPv6.
 
-<!-- VISUAL PENDIENTE: t39-71-prefijos-ipv6-principales.webp -->
+<!-- VISUAL:t39-71-prefijos-ipv6-principales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-71-prefijos-ipv6-principales.webp" alt="Prefijos IPv6 principales" width="820">
+</p>
+<p align="center"><em>Infografía: Prefijos IPv6 principales.</em></p>
 
 <!-- FUENTE: RFC4291-IPV6-ADDR-T39 -->
 
@@ -942,7 +1226,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - Next Header encadena una cabecera de extensión o un protocolo superior.
 - Los routers no fragmentan paquetes IPv6; la fragmentación corresponde al nodo origen mediante cabecera de fragmento.
 
-<!-- VISUAL PENDIENTE: t39-72-cabecera-basica-y-extensiones-ipv6.webp -->
+<!-- VISUAL:t39-72-cabecera-basica-y-extensiones-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-72-cabecera-basica-y-extensiones-ipv6.webp" alt="Cabecera básica y extensiones IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Cabecera básica y extensiones IPv6.</em></p>
 
 <!-- FUENTE: RFC8200-IPV6-T39 -->
 
@@ -955,7 +1243,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - SLAAC permite autoconfigurar direcciones sin un servidor DHCPv6 con estado.
 - La detección de direcciones duplicadas comprueba si una dirección prevista ya está en uso.
 
-<!-- VISUAL PENDIENTE: t39-73-neighbor-discovery-y-slaac.webp -->
+<!-- VISUAL:t39-73-neighbor-discovery-y-slaac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-73-neighbor-discovery-y-slaac.webp" alt="Neighbor Discovery y SLAAC" width="820">
+</p>
+<p align="center"><em>Infografía: Neighbor Discovery y SLAAC.</em></p>
 
 <!-- FUENTE: RFC4861-NDP-T39 -->
 
@@ -968,7 +1260,11 @@ El Tema 39 se estudia en ocho partes: fundamentos; modelo OSI; modelo TCP/IP; hu
 - IPv6 amplía el espacio de direcciones, pero no elimina por sí solo vulnerabilidades ni errores de configuración.
 - IPsec está definido para IPv6, pero su mera presencia no cifra automáticamente todo el tráfico.
 
-<!-- VISUAL PENDIENTE: t39-74-transicion-y-limites-de-ipv6.webp -->
+<!-- VISUAL:t39-74-transicion-y-limites-de-ipv6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-39/t39-74-transicion-y-limites-de-ipv6.webp" alt="Transición y límites de IPv6" width="820">
+</p>
+<p align="center"><em>Infografía: Transición y límites de IPv6.</em></p>
 
 <!-- FUENTE: RFC8200-IPV6-T39 -->
 

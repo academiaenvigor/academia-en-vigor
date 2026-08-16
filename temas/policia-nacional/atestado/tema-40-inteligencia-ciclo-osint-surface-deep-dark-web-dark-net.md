@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 40**, aplica esta regla: El programa dis
 - **Incorrecto:** El Tema 40 exige memorizar la organización completa de la Policía Nacional.
 - **Incorrecto:** Dark Web y Dark Net son sinónimos técnicos exactos.
 
-<!-- VISUAL PENDIENTE: t40-01-alcance-oficial-del-tema-40.webp -->
+<!-- VISUAL:t40-01-alcance-oficial-del-tema-40.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-01-alcance-oficial-del-tema-40.webp" alt="Alcance oficial del Tema 40" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 40.</em></p>
 
 :::hablemos-claro
 El programa distingue dato, información e inteligencia y exige estudiar sus relaciones.
@@ -72,7 +76,11 @@ Para dominar **concepto de dato**, aplica esta regla: Un dato es una representac
 - **Incorrecto:** Todo dato aislado es ya inteligencia.
 - **Incorrecto:** Un dato solo puede ser numérico.
 
-<!-- VISUAL PENDIENTE: t40-02-concepto-de-dato.webp -->
+<!-- VISUAL:t40-02-concepto-de-dato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-02-concepto-de-dato.webp" alt="Concepto de dato" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de dato.</em></p>
 
 :::hablemos-claro
 Un dato es una representación elemental de un hecho, observación o atributo.
@@ -111,7 +119,11 @@ Para dominar **concepto de información**, aplica esta regla: La información su
 - **Incorrecto:** Toda información es necesariamente verdadera.
 - **Incorrecto:** La información elimina la necesidad de conocer su fuente.
 
-<!-- VISUAL PENDIENTE: t40-03-concepto-de-informacion.webp -->
+<!-- VISUAL:t40-03-concepto-de-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-03-concepto-de-informacion.webp" alt="Concepto de información" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de información.</em></p>
 
 :::hablemos-claro
 La información surge al ordenar, relacionar o contextualizar datos para que adquieran significado.
@@ -150,7 +162,11 @@ Para dominar **concepto de inteligencia**, aplica esta regla: La inteligencia es
 - **Incorrecto:** Inteligencia equivale a cualquier dato secreto.
 - **Incorrecto:** Cuantos más datos se acumulen, más inteligencia existe automáticamente.
 
-<!-- VISUAL PENDIENTE: t40-04-concepto-de-inteligencia.webp -->
+<!-- VISUAL:t40-04-concepto-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-04-concepto-de-inteligencia.webp" alt="Concepto de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de inteligencia.</em></p>
 
 :::hablemos-claro
 La inteligencia es el resultado elaborado que facilita la toma de decisiones.
@@ -189,7 +205,11 @@ Para dominar **escalera dato-información-inteligencia**, aplica esta regla: El 
 - **Incorrecto:** Procesar un dato borra sus limitaciones de origen.
 - **Incorrecto:** La inteligencia se obtiene antes de definir la necesidad.
 
-<!-- VISUAL PENDIENTE: t40-il-05-escalera-dato-informacion-inteligencia.webp -->
+<!-- VISUAL:t40-il-05-escalera-dato-informacion-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-05-escalera-dato-informacion-inteligencia.webp" alt="Escalera dato-información-inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Escalera dato-información-inteligencia.</em></p>
 
 :::hablemos-claro
 El paso de dato a información aporta organización y contexto.
@@ -228,7 +248,11 @@ Para dominar **inteligencia criminal**, aplica esta regla: La inteligencia crimi
 - **Incorrecto:** Inteligencia criminal significa exclusivamente prueba judicial admisible.
 - **Incorrecto:** Solo existe inteligencia criminal cuando interviene una organización terrorista.
 
-<!-- VISUAL PENDIENTE: t40-06-inteligencia-criminal.webp -->
+<!-- VISUAL:t40-06-inteligencia-criminal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-06-inteligencia-criminal.webp" alt="Inteligencia criminal" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia criminal.</em></p>
 
 :::hablemos-claro
 La inteligencia criminal es información a la que se ha añadido valor para combatir la delincuencia.
@@ -267,7 +291,11 @@ Para dominar **proceso y producto de inteligencia**, aplica esta regla: Intelige
 - **Incorrecto:** El producto final es idéntico a la colección de datos brutos.
 - **Incorrecto:** La difusión ocurre antes de cualquier análisis.
 
-<!-- VISUAL PENDIENTE: t40-07-proceso-y-producto-de-inteligencia.webp -->
+<!-- VISUAL:t40-07-proceso-y-producto-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-07-proceso-y-producto-de-inteligencia.webp" alt="Proceso y producto de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Proceso y producto de inteligencia.</em></p>
 
 :::hablemos-claro
 Inteligencia puede designar tanto una actividad organizada como el producto resultante.
@@ -306,7 +334,11 @@ Para dominar **necesidad, requisito y destinatario**, aplica esta regla: La nece
 - **Incorrecto:** El analista debe buscar primero y preguntar después qué necesita el destinatario.
 - **Incorrecto:** Todos los destinatarios requieren el mismo nivel de detalle.
 
-<!-- VISUAL PENDIENTE: t40-08-necesidad-requisito-y-destinatario.webp -->
+<!-- VISUAL:t40-08-necesidad-requisito-y-destinatario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-08-necesidad-requisito-y-destinatario.webp" alt="Necesidad, requisito y destinatario" width="820">
+</p>
+<p align="center"><em>Infografía: Necesidad, requisito y destinatario.</em></p>
 
 :::hablemos-claro
 La necesidad de inteligencia expresa qué decisión debe apoyarse o qué incertidumbre debe reducirse.
@@ -345,7 +377,11 @@ Para dominar **fuente, dato y canal**, aplica esta regla: La fuente es el origen
 - **Incorrecto:** Recibir el mismo rumor por dos aplicaciones equivale a dos fuentes independientes.
 - **Incorrecto:** Fuente y canal son términos intercambiables.
 
-<!-- VISUAL PENDIENTE: t40-09-fuente-dato-y-canal.webp -->
+<!-- VISUAL:t40-09-fuente-dato-y-canal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-09-fuente-dato-y-canal.webp" alt="Fuente, dato y canal" width="820">
+</p>
+<p align="center"><em>Infografía: Fuente, dato y canal.</em></p>
 
 :::hablemos-claro
 La fuente es el origen del que procede un dato o información.
@@ -384,7 +420,11 @@ Para dominar **límites e incertidumbre**, aplica esta regla: La inteligencia re
 - **Incorrecto:** Un informe útil debe ocultar toda incertidumbre.
 - **Incorrecto:** No encontrar datos prueba definitivamente que el hecho no ocurrió.
 
-<!-- VISUAL PENDIENTE: t40-il-10-limites-e-incertidumbre.webp -->
+<!-- VISUAL:t40-il-10-limites-e-incertidumbre.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-10-limites-e-incertidumbre.webp" alt="Límites e incertidumbre" width="820">
+</p>
+<p align="center"><em>Infografía: Límites e incertidumbre.</em></p>
 
 :::hablemos-claro
 La inteligencia reduce incertidumbre, pero rara vez la elimina por completo.
@@ -423,7 +463,11 @@ Para dominar **criterios para clasificar inteligencia**, aplica esta regla: La i
 - **Incorrecto:** Cada producto pertenece obligatoriamente a una sola tipología.
 - **Incorrecto:** OSINT y estrategia son categorías incompatibles.
 
-<!-- VISUAL PENDIENTE: t40-11-criterios-para-clasificar-inteligencia.webp -->
+<!-- VISUAL:t40-11-criterios-para-clasificar-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-11-criterios-para-clasificar-inteligencia.webp" alt="Criterios para clasificar inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios para clasificar inteligencia.</em></p>
 
 :::hablemos-claro
 La inteligencia puede clasificarse por nivel de decisión, finalidad o fuente de obtención.
@@ -462,7 +506,11 @@ Para dominar **humint**, aplica esta regla: HUMINT se asocia a información obte
 - **Incorrecto:** HUMINT significa cualquier información escrita por una persona.
 - **Incorrecto:** Una fuente humana presencial es infalible.
 
-<!-- VISUAL PENDIENTE: t40-12-humint.webp -->
+<!-- VISUAL:t40-12-humint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-12-humint.webp" alt="HUMINT" width="820">
+</p>
+<p align="center"><em>Infografía: HUMINT.</em></p>
 
 :::hablemos-claro
 HUMINT se asocia a información obtenida de fuentes humanas.
@@ -501,7 +549,11 @@ Para dominar **osint como tipología**, aplica esta regla: OSINT es inteligencia
 - **Incorrecto:** Todo contenido de Internet es OSINT.
 - **Incorrecto:** Si una fuente es abierta puede usarse sin finalidad ni control.
 
-<!-- VISUAL PENDIENTE: t40-13-osint-como-tipologia.webp -->
+<!-- VISUAL:t40-13-osint-como-tipologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-13-osint-como-tipologia.webp" alt="OSINT como tipología" width="820">
+</p>
+<p align="center"><em>Infografía: OSINT como tipología.</em></p>
 
 :::hablemos-claro
 OSINT es inteligencia derivada de información pública o comercialmente disponible.
@@ -540,7 +592,11 @@ Para dominar **sigint**, aplica esta regla: SIGINT se vincula a inteligencia obt
 - **Incorrecto:** Toda información digital es SIGINT.
 - **Incorrecto:** SIGINT se obtiene exclusivamente de periódicos.
 
-<!-- VISUAL PENDIENTE: t40-14-sigint.webp -->
+<!-- VISUAL:t40-14-sigint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-14-sigint.webp" alt="SIGINT" width="820">
+</p>
+<p align="center"><em>Infografía: SIGINT.</em></p>
 
 :::hablemos-claro
 SIGINT se vincula a inteligencia obtenida de señales o transmisiones técnicas.
@@ -579,7 +635,11 @@ Para dominar **geoint**, aplica esta regla: GEOINT procede de la explotación y 
 - **Incorrecto:** GEOINT es únicamente dibujar mapas decorativos.
 - **Incorrecto:** Toda fotografía contiene automáticamente una conclusión geoespacial.
 
-<!-- VISUAL PENDIENTE: t40-il-15-geoint.webp -->
+<!-- VISUAL:t40-il-15-geoint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-15-geoint.webp" alt="GEOINT" width="820">
+</p>
+<p align="center"><em>Infografía: GEOINT.</em></p>
 
 :::hablemos-claro
 GEOINT procede de la explotación y análisis de imágenes e información geográfica.
@@ -618,7 +678,11 @@ Para dominar **inteligencia estratégica**, aplica esta regla: La inteligencia e
 - **Incorrecto:** Estratégica significa siempre secreta.
 - **Incorrecto:** Un informe largo es estratégico aunque solo resuelva una actuación inmediata.
 
-<!-- VISUAL PENDIENTE: t40-16-inteligencia-estrategica.webp -->
+<!-- VISUAL:t40-16-inteligencia-estrategica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-16-inteligencia-estrategica.webp" alt="Inteligencia estratégica" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia estratégica.</em></p>
 
 :::hablemos-claro
 La inteligencia estratégica apoya decisiones de medio o largo plazo y alcance general.
@@ -657,7 +721,11 @@ Para dominar **inteligencia operativa**, aplica esta regla: La inteligencia oper
 - **Incorrecto:** Operativa es sinónimo exacto de dato bruto.
 - **Incorrecto:** La inteligencia operativa nunca se alimenta de análisis estratégico.
 
-<!-- VISUAL PENDIENTE: t40-17-inteligencia-operativa.webp -->
+<!-- VISUAL:t40-17-inteligencia-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-17-inteligencia-operativa.webp" alt="Inteligencia operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia operativa.</em></p>
 
 :::hablemos-claro
 La inteligencia operativa apoya la planificación y coordinación de operaciones concretas.
@@ -696,7 +764,11 @@ Para dominar **inteligencia táctica**, aplica esta regla: La inteligencia táct
 - **Incorrecto:** Táctica significa información sin analizar por ser urgente.
 - **Incorrecto:** La inteligencia táctica jamás produce conocimiento estratégico posterior.
 
-<!-- VISUAL PENDIENTE: t40-18-inteligencia-tactica.webp -->
+<!-- VISUAL:t40-18-inteligencia-tactica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-18-inteligencia-tactica.webp" alt="Inteligencia táctica" width="820">
+</p>
+<p align="center"><em>Infografía: Inteligencia táctica.</em></p>
 
 :::hablemos-claro
 La inteligencia táctica apoya decisiones inmediatas o de corto plazo en una actuación.
@@ -735,7 +807,11 @@ Para dominar **qué es el ciclo de inteligencia**, aplica esta regla: El ciclo d
 - **Incorrecto:** Todas las organizaciones usan idéntico número y nombre de fases.
 - **Incorrecto:** Cada fase termina para siempre antes de comenzar la siguiente.
 
-<!-- VISUAL PENDIENTE: t40-19-que-es-el-ciclo-de-inteligencia.webp -->
+<!-- VISUAL:t40-19-que-es-el-ciclo-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-19-que-es-el-ciclo-de-inteligencia.webp" alt="Qué es el ciclo de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: Qué es el ciclo de inteligencia.</em></p>
 
 :::hablemos-claro
 El ciclo de inteligencia organiza actividades que transforman necesidades e información en productos útiles.
@@ -774,7 +850,11 @@ Para dominar **modelos de cuatro y seis fases**, aplica esta regla: El CNI prese
 - **Incorrecto:** Si un modelo tiene seis fases contradice necesariamente al de cuatro.
 - **Incorrecto:** Transformación y elaboración significan siempre procesos ajenos entre sí.
 
-<!-- VISUAL PENDIENTE: t40-il-20-modelos-de-cuatro-y-seis-fases.webp -->
+<!-- VISUAL:t40-il-20-modelos-de-cuatro-y-seis-fases.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-20-modelos-de-cuatro-y-seis-fases.webp" alt="Modelos de cuatro y seis fases" width="820">
+</p>
+<p align="center"><em>Infografía: Modelos de cuatro y seis fases.</em></p>
 
 :::hablemos-claro
 El CNI presenta dirección, obtención, elaboración y difusión como fases principales.
@@ -813,7 +893,11 @@ Para dominar **dirección**, aplica esta regla: La dirección fija los objetivos
 - **Incorrecto:** La dirección consiste en redactar la conclusión final.
 - **Incorrecto:** Los objetivos se fijan después de difundir el producto.
 
-<!-- VISUAL PENDIENTE: t40-21-direccion.webp -->
+<!-- VISUAL:t40-21-direccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-21-direccion.webp" alt="Dirección" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección.</em></p>
 
 :::hablemos-claro
 La dirección fija los objetivos o necesidades de inteligencia.
@@ -852,7 +936,11 @@ Para dominar **planificación**, aplica esta regla: La planificación organiza r
 - **Incorrecto:** Planificar equivale a elegir una única herramienta.
 - **Incorrecto:** El plan no necesita relacionarse con el requisito.
 
-<!-- VISUAL PENDIENTE: t40-22-planificacion.webp -->
+<!-- VISUAL:t40-22-planificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-22-planificacion.webp" alt="Planificación" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación.</em></p>
 
 :::hablemos-claro
 La planificación organiza recursos y acciones para satisfacer los requisitos.
@@ -891,7 +979,11 @@ Para dominar **obtención o recolección**, aplica esta regla: La obtención re�
 - **Incorrecto:** Obtener consiste en recopilar todo lo técnicamente accesible.
 - **Incorrecto:** La legalidad se revisa solo después de difundir.
 
-<!-- VISUAL PENDIENTE: t40-23-obtencion-o-recoleccion.webp -->
+<!-- VISUAL:t40-23-obtencion-o-recoleccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-23-obtencion-o-recoleccion.webp" alt="Obtención o recolección" width="820">
+</p>
+<p align="center"><em>Infografía: Obtención o recolección.</em></p>
 
 :::hablemos-claro
 La obtención reúne datos e información necesarios para el producto previsto.
@@ -930,7 +1022,11 @@ Para dominar **transformación y procesamiento**, aplica esta regla: La transfor
 - **Incorrecto:** Cambiar de formato crea automáticamente inteligencia.
 - **Incorrecto:** Procesar permite perder la trazabilidad del original.
 
-<!-- VISUAL PENDIENTE: t40-24-transformacion-y-procesamiento.webp -->
+<!-- VISUAL:t40-24-transformacion-y-procesamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-24-transformacion-y-procesamiento.webp" alt="Transformación y procesamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Transformación y procesamiento.</em></p>
 
 :::hablemos-claro
 La transformación convierte datos brutos en formatos utilizables para su tratamiento y análisis.
@@ -969,7 +1065,11 @@ Para dominar **evaluación de fuente e información**, aplica esta regla: La fia
 - **Incorrecto:** Fuente fiable significa contenido siempre verdadero.
 - **Incorrecto:** Fuente desconocida obliga a descartar todo lo que aporta.
 
-<!-- VISUAL PENDIENTE: t40-il-25-evaluacion-de-fuente-e-informacion.webp -->
+<!-- VISUAL:t40-il-25-evaluacion-de-fuente-e-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-25-evaluacion-de-fuente-e-informacion.webp" alt="Evaluación de fuente e información" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de fuente e información.</em></p>
 
 :::hablemos-claro
 La fiabilidad de la fuente y la validez del contenido se evalúan por separado.
@@ -1008,7 +1108,11 @@ Para dominar **sistema 4×4 de evaluación**, aplica esta regla: El sistema 4×4
 - **Incorrecto:** 4×4 significa cuatro fuentes idénticas contrastadas cuatro veces.
 - **Incorrecto:** A1 garantiza certeza judicial absoluta.
 
-<!-- VISUAL PENDIENTE: t40-26-sistema-4-4-de-evaluacion.webp -->
+<!-- VISUAL:t40-26-sistema-4-4-de-evaluacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-26-sistema-4-4-de-evaluacion.webp" alt="Sistema 4×4 de evaluación" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema 4×4 de evaluación.</em></p>
 
 :::hablemos-claro
 El sistema 4×4 utiliza dos escalas independientes para valorar fuente e información.
@@ -1047,7 +1151,11 @@ Para dominar **registro y ordenación**, aplica esta regla: La información debe
 - **Incorrecto:** Guardar dos copias del mismo mensaje crea corroboración.
 - **Incorrecto:** Una base de datos produce conclusiones sin analista.
 
-<!-- VISUAL PENDIENTE: t40-27-registro-y-ordenacion.webp -->
+<!-- VISUAL:t40-27-registro-y-ordenacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-27-registro-y-ordenacion.webp" alt="Registro y ordenación" width="820">
+</p>
+<p align="center"><em>Infografía: Registro y ordenación.</em></p>
 
 :::hablemos-claro
 La información debe registrarse con identificadores, fechas, procedencia y relaciones relevantes.
@@ -1086,7 +1194,11 @@ Para dominar **análisis**, aplica esta regla: El análisis identifica patrones,
 - **Incorrecto:** Dos hechos correlacionados demuestran siempre causalidad.
 - **Incorrecto:** El análisis consiste en copiar la información más reciente.
 
-<!-- VISUAL PENDIENTE: t40-28-analisis.webp -->
+<!-- VISUAL:t40-28-analisis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-28-analisis.webp" alt="Análisis" width="820">
+</p>
+<p align="center"><em>Infografía: Análisis.</em></p>
 
 :::hablemos-claro
 El análisis identifica patrones, relaciones, causas posibles, consecuencias y lagunas.
@@ -1125,7 +1237,11 @@ Para dominar **integración**, aplica esta regla: La integración combina inform
 - **Incorrecto:** Integrar exige escoger una fuente y eliminar las demás.
 - **Incorrecto:** Diez republicaciones de una noticia son diez confirmaciones independientes.
 
-<!-- VISUAL PENDIENTE: t40-29-integracion.webp -->
+<!-- VISUAL:t40-29-integracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-29-integracion.webp" alt="Integración" width="820">
+</p>
+<p align="center"><em>Infografía: Integración.</em></p>
 
 :::hablemos-claro
 La integración combina información procedente de distintas fuentes y disciplinas.
@@ -1164,7 +1280,11 @@ Para dominar **interpretación**, aplica esta regla: La interpretación sitúa l
 - **Incorrecto:** Interpretar significa presentar una opinión sin base.
 - **Incorrecto:** Un mismo dato conserva idéntico significado en cualquier contexto.
 
-<!-- VISUAL PENDIENTE: t40-il-30-interpretacion.webp -->
+<!-- VISUAL:t40-il-30-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-30-interpretacion.webp" alt="Interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: Interpretación.</em></p>
 
 :::hablemos-claro
 La interpretación sitúa la información dentro de contextos y explica su significado.
@@ -1203,7 +1323,11 @@ Para dominar **elaboración del producto**, aplica esta regla: La elaboración c
 - **Incorrecto:** Adaptar el formato permite suprimir cualquier duda.
 - **Incorrecto:** Un producto es mejor cuanto más extenso, aunque no responda al requisito.
 
-<!-- VISUAL PENDIENTE: t40-31-elaboracion-del-producto.webp -->
+<!-- VISUAL:t40-31-elaboracion-del-producto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-31-elaboracion-del-producto.webp" alt="Elaboración del producto" width="820">
+</p>
+<p align="center"><em>Infografía: Elaboración del producto.</em></p>
 
 :::hablemos-claro
 La elaboración culmina en un producto que comunica inteligencia al destinatario.
@@ -1242,7 +1366,11 @@ Para dominar **difusión**, aplica esta regla: La difusión distribuye la inteli
 - **Incorrecto:** Difusión equivale siempre a publicación abierta.
 - **Incorrecto:** La oportunidad no influye en la calidad práctica del producto.
 
-<!-- VISUAL PENDIENTE: t40-32-difusion.webp -->
+<!-- VISUAL:t40-32-difusion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-32-difusion.webp" alt="Difusión" width="820">
+</p>
+<p align="center"><em>Infografía: Difusión.</em></p>
 
 :::hablemos-claro
 La difusión distribuye la inteligencia a quienes deben adoptar decisiones.
@@ -1281,7 +1409,11 @@ Para dominar **evaluación y retroalimentación**, aplica esta regla: La evaluac
 - **Incorrecto:** El ciclo termina sin posibilidad de retorno tras difundir.
 - **Incorrecto:** La evaluación solo cuenta páginas y anexos.
 
-<!-- VISUAL PENDIENTE: t40-33-evaluacion-y-retroalimentacion.webp -->
+<!-- VISUAL:t40-33-evaluacion-y-retroalimentacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-33-evaluacion-y-retroalimentacion.webp" alt="Evaluación y retroalimentación" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación y retroalimentación.</em></p>
 
 :::hablemos-claro
 La evaluación compara los resultados del ciclo con objetivos y necesidades.
@@ -1320,7 +1452,11 @@ Para dominar **carácter dinámico del ciclo**, aplica esta regla: El ciclo es d
 - **Incorrecto:** El diagrama circular obliga a ejecutar una sola tarea cada vez.
 - **Incorrecto:** Revisar una hipótesis significa que el ciclo ha fallado.
 
-<!-- VISUAL PENDIENTE: t40-34-caracter-dinamico-del-ciclo.webp -->
+<!-- VISUAL:t40-34-caracter-dinamico-del-ciclo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-34-caracter-dinamico-del-ciclo.webp" alt="Carácter dinámico del ciclo" width="820">
+</p>
+<p align="center"><em>Infografía: Carácter dinámico del ciclo.</em></p>
 
 :::hablemos-claro
 El ciclo es dinámico, permanente y susceptible de revisión.
@@ -1359,7 +1495,11 @@ Para dominar **ciclo y toma de decisiones**, aplica esta regla: La inteligencia 
 - **Incorrecto:** El analista sustituye siempre al decisor.
 - **Incorrecto:** El producto debe confirmar la opción preferida por el destinatario.
 
-<!-- VISUAL PENDIENTE: t40-il-35-ciclo-y-toma-de-decisiones.webp -->
+<!-- VISUAL:t40-il-35-ciclo-y-toma-de-decisiones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-35-ciclo-y-toma-de-decisiones.webp" alt="Ciclo y toma de decisiones" width="820">
+</p>
+<p align="center"><em>Infografía: Ciclo y toma de decisiones.</em></p>
 
 :::hablemos-claro
 La inteligencia facilita decisiones al reducir incertidumbre y explicar opciones.
@@ -1398,7 +1538,11 @@ Para dominar **objetividad analítica**, aplica esta regla: La objetividad exige
 - **Incorrecto:** Ser objetivo consiste en no formular ninguna conclusión.
 - **Incorrecto:** La información contraria puede omitirse si complica el mensaje.
 
-<!-- VISUAL PENDIENTE: t40-36-objetividad-analitica.webp -->
+<!-- VISUAL:t40-36-objetividad-analitica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-36-objetividad-analitica.webp" alt="Objetividad analítica" width="820">
+</p>
+<p align="center"><em>Infografía: Objetividad analítica.</em></p>
 
 :::hablemos-claro
 La objetividad exige reconocer supuestos, sesgos y límites del propio razonamiento.
@@ -1437,7 +1581,11 @@ Para dominar **hechos, supuestos y juicios**, aplica esta regla: Los hechos suby
 - **Incorrecto:** Un supuesto debe presentarse como hecho para simplificar.
 - **Incorrecto:** Todo juicio es una cita literal de la fuente.
 
-<!-- VISUAL PENDIENTE: t40-37-hechos-supuestos-y-juicios.webp -->
+<!-- VISUAL:t40-37-hechos-supuestos-y-juicios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-37-hechos-supuestos-y-juicios.webp" alt="Hechos, supuestos y juicios" width="820">
+</p>
+<p align="center"><em>Infografía: Hechos, supuestos y juicios.</em></p>
 
 :::hablemos-claro
 Los hechos subyacentes describen información observada o registrada.
@@ -1476,7 +1624,11 @@ Para dominar **calidad y credibilidad de fuentes**, aplica esta regla: La calida
 - **Incorrecto:** El prestigio del medio garantiza la independencia del dato.
 - **Incorrecto:** Las limitaciones de la fuente nunca se mencionan al destinatario.
 
-<!-- VISUAL PENDIENTE: t40-38-calidad-y-credibilidad-de-fuentes.webp -->
+<!-- VISUAL:t40-38-calidad-y-credibilidad-de-fuentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-38-calidad-y-credibilidad-de-fuentes.webp" alt="Calidad y credibilidad de fuentes" width="820">
+</p>
+<p align="center"><em>Infografía: Calidad y credibilidad de fuentes.</em></p>
 
 :::hablemos-claro
 La calidad de una fuente depende de acceso, exactitud, integridad, actualidad y posibles intereses.
@@ -1515,7 +1667,11 @@ Para dominar **incertidumbre, probabilidad y confianza**, aplica esta regla: La 
 - **Incorrecto:** Alta confianza y alta probabilidad son sinónimos.
 - **Incorrecto:** Toda incertidumbre impide comunicar un juicio.
 
-<!-- VISUAL PENDIENTE: t40-39-incertidumbre-probabilidad-y-confianza.webp -->
+<!-- VISUAL:t40-39-incertidumbre-probabilidad-y-confianza.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-39-incertidumbre-probabilidad-y-confianza.webp" alt="Incertidumbre, probabilidad y confianza" width="820">
+</p>
+<p align="center"><em>Infografía: Incertidumbre, probabilidad y confianza.</em></p>
 
 :::hablemos-claro
 La probabilidad estima la posibilidad de un acontecimiento o desarrollo.
@@ -1554,7 +1710,11 @@ Para dominar **hipótesis alternativas**, aplica esta regla: El análisis de alt
 - **Incorrecto:** Una vez formulada la primera hipótesis se descartan las demás.
 - **Incorrecto:** Solo se recopila información confirmatoria.
 
-<!-- VISUAL PENDIENTE: t40-il-40-hipotesis-alternativas.webp -->
+<!-- VISUAL:t40-il-40-hipotesis-alternativas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-40-hipotesis-alternativas.webp" alt="Hipótesis alternativas" width="820">
+</p>
+<p align="center"><em>Infografía: Hipótesis alternativas.</em></p>
 
 :::hablemos-claro
 El análisis de alternativas compara hipótesis plausibles para mitigar sorpresa y sesgo.
@@ -1593,7 +1753,11 @@ Para dominar **sesgo de anclaje**, aplica esta regla: El anclaje aparece cuando 
 - **Incorrecto:** Anclaje significa ignorar siempre la primera información.
 - **Incorrecto:** Mantener el juicio inicial pese a evidencia contraria demuestra rigor.
 
-<!-- VISUAL PENDIENTE: t40-41-sesgo-de-anclaje.webp -->
+<!-- VISUAL:t40-41-sesgo-de-anclaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-41-sesgo-de-anclaje.webp" alt="Sesgo de anclaje" width="820">
+</p>
+<p align="center"><em>Infografía: Sesgo de anclaje.</em></p>
 
 :::hablemos-claro
 El anclaje aparece cuando la primera información condiciona de forma desproporcionada juicios posteriores.
@@ -1632,7 +1796,11 @@ Para dominar **sesgos de confirmación y disponibilidad**, aplica esta regla: El
 - **Incorrecto:** Lo más repetido en una plataforma es siempre lo más frecuente en la realidad.
 - **Incorrecto:** Buscar solo ejemplos favorables fortalece una hipótesis.
 
-<!-- VISUAL PENDIENTE: t40-42-sesgos-de-confirmacion-y-disponibilidad.webp -->
+<!-- VISUAL:t40-42-sesgos-de-confirmacion-y-disponibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-42-sesgos-de-confirmacion-y-disponibilidad.webp" alt="Sesgos de confirmación y disponibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Sesgos de confirmación y disponibilidad.</em></p>
 
 :::hablemos-claro
 El sesgo de confirmación favorece información compatible con la hipótesis preferida.
@@ -1671,7 +1839,11 @@ Para dominar **cronologías y análisis de vínculos**, aplica esta regla: Una c
 - **Incorrecto:** Aparecer en el mismo gráfico prueba pertenencia a una organización.
 - **Incorrecto:** Una cronología puede omitir fechas inciertas sin indicarlo.
 
-<!-- VISUAL PENDIENTE: t40-43-cronologias-y-analisis-de-vinculos.webp -->
+<!-- VISUAL:t40-43-cronologias-y-analisis-de-vinculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-43-cronologias-y-analisis-de-vinculos.webp" alt="Cronologías y análisis de vínculos" width="820">
+</p>
+<p align="center"><em>Infografía: Cronologías y análisis de vínculos.</em></p>
 
 :::hablemos-claro
 Una cronología ordena acontecimientos para detectar secuencias, intervalos y contradicciones.
@@ -1710,7 +1882,11 @@ Para dominar **indicadores y lagunas**, aplica esta regla: Un indicador es una s
 - **Incorrecto:** Una laguna se rellena con el escenario más probable sin avisar.
 - **Incorrecto:** Todo indicador aislado confirma definitivamente la hipótesis.
 
-<!-- VISUAL PENDIENTE: t40-44-indicadores-y-lagunas.webp -->
+<!-- VISUAL:t40-44-indicadores-y-lagunas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-44-indicadores-y-lagunas.webp" alt="Indicadores y lagunas" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores y lagunas.</em></p>
 
 :::hablemos-claro
 Un indicador es una señal observable que puede apoyar o alterar una hipótesis.
@@ -1749,7 +1925,11 @@ Para dominar **argumentación y mensaje principal**, aplica esta regla: El mensa
 - **Incorrecto:** Una conclusión contundente no necesita explicar su base.
 - **Incorrecto:** Concisión significa borrar toda salvedad.
 
-<!-- VISUAL PENDIENTE: t40-il-45-argumentacion-y-mensaje-principal.webp -->
+<!-- VISUAL:t40-il-45-argumentacion-y-mensaje-principal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-45-argumentacion-y-mensaje-principal.webp" alt="Argumentación y mensaje principal" width="820">
+</p>
+<p align="center"><em>Infografía: Argumentación y mensaje principal.</em></p>
 
 :::hablemos-claro
 El mensaje analítico principal debe aparecer con claridad y responder al requisito.
@@ -1788,7 +1968,11 @@ Para dominar **privacidad, finalidad y minimización**, aplica esta regla: La di
 - **Incorrecto:** Publicar un dato en una red social autoriza cualquier uso posterior.
 - **Incorrecto:** OSINT excluye por definición la protección de datos.
 
-<!-- VISUAL PENDIENTE: t40-46-privacidad-finalidad-y-minimizacion.webp -->
+<!-- VISUAL:t40-46-privacidad-finalidad-y-minimizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-46-privacidad-finalidad-y-minimizacion.webp" alt="Privacidad, finalidad y minimización" width="820">
+</p>
+<p align="center"><em>Infografía: Privacidad, finalidad y minimización.</em></p>
 
 :::hablemos-claro
 La disponibilidad pública no elimina derechos de privacidad y protección de datos.
@@ -1827,7 +2011,11 @@ Para dominar **definición operativa de osint**, aplica esta regla: OSINT deriva
 - **Incorrecto:** OSINT es copiar resultados de un buscador.
 - **Incorrecto:** La fuente abierta elimina la necesidad de análisis.
 
-<!-- VISUAL PENDIENTE: t40-47-definicion-operativa-de-osint.webp -->
+<!-- VISUAL:t40-47-definicion-operativa-de-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-47-definicion-operativa-de-osint.webp" alt="Definición operativa de OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Definición operativa de OSINT.</em></p>
 
 :::hablemos-claro
 OSINT deriva exclusivamente de información pública o comercialmente disponible en la definición ODNI citada.
@@ -1866,7 +2054,11 @@ Para dominar **osinf frente a osint**, aplica esta regla: La información de fue
 - **Incorrecto:** Toda OSINF es automáticamente OSINT.
 - **Incorrecto:** OSINT se define por usar una herramienta concreta.
 
-<!-- VISUAL PENDIENTE: t40-48-osinf-frente-a-osint.webp -->
+<!-- VISUAL:t40-48-osinf-frente-a-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-48-osinf-frente-a-osint.webp" alt="OSINF frente a OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: OSINF frente a OSINT.</em></p>
 
 :::hablemos-claro
 La información de fuente abierta es materia prima accesible al público o comercialmente disponible.
@@ -1905,7 +2097,11 @@ Para dominar **fuentes públicas y comerciales**, aplica esta regla: Las fuentes
 - **Incorrecto:** OSINT exige que toda fuente sea gratuita.
 - **Incorrecto:** Cualquier dato accesible tras vulnerar una cuenta sigue siendo fuente abierta.
 
-<!-- VISUAL PENDIENTE: t40-49-fuentes-publicas-y-comerciales.webp -->
+<!-- VISUAL:t40-49-fuentes-publicas-y-comerciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-49-fuentes-publicas-y-comerciales.webp" alt="Fuentes públicas y comerciales" width="820">
+</p>
+<p align="center"><em>Infografía: Fuentes públicas y comerciales.</em></p>
 
 :::hablemos-claro
 Las fuentes abiertas incluyen información pública y, según el modelo, información comercialmente disponible.
@@ -1944,7 +2140,11 @@ Para dominar **categorías de fuentes osint**, aplica esta regla: Medios de comu
 - **Incorrecto:** OSINT procede exclusivamente de redes sociales.
 - **Incorrecto:** La literatura gris es información necesariamente secreta.
 
-<!-- VISUAL PENDIENTE: t40-il-50-categorias-de-fuentes-osint.webp -->
+<!-- VISUAL:t40-il-50-categorias-de-fuentes-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-50-categorias-de-fuentes-osint.webp" alt="Categorías de fuentes OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías de fuentes OSINT.</em></p>
 
 :::hablemos-claro
 Medios de comunicación y publicaciones pueden aportar información abierta.
@@ -1983,7 +2183,11 @@ Para dominar **motores de búsqueda**, aplica esta regla: Un motor de búsqueda 
 - **Incorrecto:** Un buscador consulta en tiempo real toda Internet.
 - **Incorrecto:** La primera página de resultados representa el universo completo.
 
-<!-- VISUAL PENDIENTE: t40-51-motores-de-busqueda.webp -->
+<!-- VISUAL:t40-51-motores-de-busqueda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-51-motores-de-busqueda.webp" alt="Motores de búsqueda" width="820">
+</p>
+<p align="center"><em>Infografía: Motores de búsqueda.</em></p>
 
 :::hablemos-claro
 Un motor de búsqueda utiliza rastreadores e índices para localizar recursos.
@@ -2022,7 +2226,11 @@ Para dominar **consultas y operadores**, aplica esta regla: Una consulta precisa
 - **Incorrecto:** Todos los buscadores admiten exactamente los mismos operadores.
 - **Incorrecto:** Encontrar un nombre prueba que pertenece a la persona investigada.
 
-<!-- VISUAL PENDIENTE: t40-52-consultas-y-operadores.webp -->
+<!-- VISUAL:t40-52-consultas-y-operadores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-52-consultas-y-operadores.webp" alt="Consultas y operadores" width="820">
+</p>
+<p align="center"><em>Infografía: Consultas y operadores.</em></p>
 
 :::hablemos-claro
 Una consulta precisa combina términos, frases, dominios, fechas o tipos de archivo según la herramienta.
@@ -2061,7 +2269,11 @@ Para dominar **maltego y análisis gráfico**, aplica esta regla: Maltego permit
 - **Incorrecto:** Maltego certifica jurídicamente todos los vínculos que dibuja.
 - **Incorrecto:** Maltego es un navegador exclusivo de la Dark Web.
 
-<!-- VISUAL PENDIENTE: t40-53-maltego-y-analisis-grafico.webp -->
+<!-- VISUAL:t40-53-maltego-y-analisis-grafico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-53-maltego-y-analisis-grafico.webp" alt="Maltego y análisis gráfico" width="820">
+</p>
+<p align="center"><em>Infografía: Maltego y análisis gráfico.</em></p>
 
 :::hablemos-claro
 Maltego permite representar gráficamente entidades y relaciones obtenidas de distintas fuentes.
@@ -2100,7 +2312,11 @@ Para dominar **shodan y servicios expuestos**, aplica esta regla: Shodan indexa 
 - **Incorrecto:** Shodan es un sistema operativo para dispositivos IoT.
 - **Incorrecto:** Ver un puerto abierto autoriza cualquier prueba activa.
 
-<!-- VISUAL PENDIENTE: t40-54-shodan-y-servicios-expuestos.webp -->
+<!-- VISUAL:t40-54-shodan-y-servicios-expuestos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-54-shodan-y-servicios-expuestos.webp" alt="Shodan y servicios expuestos" width="820">
+</p>
+<p align="center"><em>Infografía: Shodan y servicios expuestos.</em></p>
 
 :::hablemos-claro
 Shodan indexa información observada sobre servicios y dispositivos expuestos a Internet.
@@ -2139,7 +2355,11 @@ Para dominar **herramientas como apoyo, no como fuente de verdad**, aplica esta 
 - **Incorrecto:** Usar dos interfaces garantiza dos fuentes independientes.
 - **Incorrecto:** El nombre de la herramienta sustituye la explicación metodológica.
 
-<!-- VISUAL PENDIENTE: t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp -->
+<!-- VISUAL:t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-55-herramientas-como-apoyo-no-como-fuente-de-verdad.webp" alt="Herramientas como apoyo, no como fuente de verdad" width="820">
+</p>
+<p align="center"><em>Infografía: Herramientas como apoyo, no como fuente de verdad.</em></p>
 
 :::hablemos-claro
 Una herramienta automatiza tareas, pero hereda errores y límites de sus fuentes.
@@ -2178,7 +2398,11 @@ Para dominar **obtención pasiva y activa**, aplica esta regla: La obtención pa
 - **Incorrecto:** Pasivo significa anónimo e indetectable en todo caso.
 - **Incorrecto:** Activo significa automáticamente ilícito.
 
-<!-- VISUAL PENDIENTE: t40-56-obtencion-pasiva-y-activa.webp -->
+<!-- VISUAL:t40-56-obtencion-pasiva-y-activa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-56-obtencion-pasiva-y-activa.webp" alt="Obtención pasiva y activa" width="820">
+</p>
+<p align="center"><em>Infografía: Obtención pasiva y activa.</em></p>
 
 :::hablemos-claro
 La obtención pasiva minimiza la interacción directa con sistemas o personas objetivo.
@@ -2217,7 +2441,11 @@ Para dominar **metadatos**, aplica esta regla: Los metadatos describen caracter�
 - **Incorrecto:** Los metadatos son siempre visibles y auténticos.
 - **Incorrecto:** Una fecha EXIF demuestra por sí sola cuándo ocurrió el hecho.
 
-<!-- VISUAL PENDIENTE: t40-57-metadatos.webp -->
+<!-- VISUAL:t40-57-metadatos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-57-metadatos.webp" alt="Metadatos" width="820">
+</p>
+<p align="center"><em>Infografía: Metadatos.</em></p>
 
 :::hablemos-claro
 Los metadatos describen características como fecha, dispositivo, ubicación, autor o formato.
@@ -2256,7 +2484,11 @@ Para dominar **geolocalización y cronolocalización**, aplica esta regla: Geolo
 - **Incorrecto:** Un monumento visible prueba automáticamente la fecha.
 - **Incorrecto:** La geolocalización siempre alcanza una dirección exacta.
 
-<!-- VISUAL PENDIENTE: t40-58-geolocalizacion-y-cronolocalizacion.webp -->
+<!-- VISUAL:t40-58-geolocalizacion-y-cronolocalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-58-geolocalizacion-y-cronolocalizacion.webp" alt="Geolocalización y cronolocalización" width="820">
+</p>
+<p align="center"><em>Infografía: Geolocalización y cronolocalización.</em></p>
 
 :::hablemos-claro
 Geolocalizar consiste en determinar o estimar el lugar asociado a un contenido.
@@ -2295,7 +2527,11 @@ Para dominar **identidades y pivotes**, aplica esta regla: Un pivote utiliza un 
 - **Incorrecto:** Dos cuentas con el mismo alias pertenecen necesariamente al mismo autor.
 - **Incorrecto:** Un pivote es una prueba final de identidad.
 
-<!-- VISUAL PENDIENTE: t40-59-identidades-y-pivotes.webp -->
+<!-- VISUAL:t40-59-identidades-y-pivotes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-59-identidades-y-pivotes.webp" alt="Identidades y pivotes" width="820">
+</p>
+<p align="center"><em>Infografía: Identidades y pivotes.</em></p>
 
 :::hablemos-claro
 Un pivote utiliza un atributo conocido para buscar relaciones con otros datos.
@@ -2334,7 +2570,11 @@ Para dominar **pregunta de investigación osint**, aplica esta regla: La investi
 - **Incorrecto:** La mejor pregunta es recopilar todo sobre una persona.
 - **Incorrecto:** El alcance se decide después de ver qué resultado interesa.
 
-<!-- VISUAL PENDIENTE: t40-il-60-pregunta-de-investigacion-osint.webp -->
+<!-- VISUAL:t40-il-60-pregunta-de-investigacion-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-60-pregunta-de-investigacion-osint.webp" alt="Pregunta de investigación OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Pregunta de investigación OSINT.</em></p>
 
 :::hablemos-claro
 La investigación comienza con una pregunta clara y vinculada a una finalidad legítima.
@@ -2373,7 +2613,11 @@ Para dominar **plan de fuentes y consultas**, aplica esta regla: El plan relacio
 - **Incorrecto:** Una plataforma popular basta para cualquier investigación.
 - **Incorrecto:** Cambiar una consulta obliga a borrar el historial anterior.
 
-<!-- VISUAL PENDIENTE: t40-61-plan-de-fuentes-y-consultas.webp -->
+<!-- VISUAL:t40-61-plan-de-fuentes-y-consultas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-61-plan-de-fuentes-y-consultas.webp" alt="Plan de fuentes y consultas" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de fuentes y consultas.</em></p>
 
 :::hablemos-claro
 El plan relaciona cada cuestión con fuentes, consultas y métodos adecuados.
@@ -2412,7 +2656,11 @@ Para dominar **diario de investigación**, aplica esta regla: El diario registra
 - **Incorrecto:** Solo se anotan los resultados favorables.
 - **Incorrecto:** Reproducible significa divulgar todas las identidades sin control.
 
-<!-- VISUAL PENDIENTE: t40-62-diario-de-investigacion.webp -->
+<!-- VISUAL:t40-62-diario-de-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-62-diario-de-investigacion.webp" alt="Diario de investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Diario de investigación.</em></p>
 
 :::hablemos-claro
 El diario registra consultas, fechas, herramientas, resultados y decisiones.
@@ -2451,7 +2699,11 @@ Para dominar **captura y preservación**, aplica esta regla: Preservar exige con
 - **Incorrecto:** Una captura recortada prueba todo el contexto de una página.
 - **Incorrecto:** El hash demuestra que el contenido original era verdadero.
 
-<!-- VISUAL PENDIENTE: t40-63-captura-y-preservacion.webp -->
+<!-- VISUAL:t40-63-captura-y-preservacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-63-captura-y-preservacion.webp" alt="Captura y preservación" width="820">
+</p>
+<p align="center"><em>Infografía: Captura y preservación.</em></p>
 
 :::hablemos-claro
 Preservar exige conservar contenido y contexto suficiente para interpretarlo.
@@ -2490,7 +2742,11 @@ Para dominar **autenticidad e integridad**, aplica esta regla: Autenticidad e in
 - **Incorrecto:** Si el hash coincide, la autoría queda probada.
 - **Incorrecto:** Autenticidad e integridad son el mismo concepto.
 
-<!-- VISUAL PENDIENTE: t40-64-autenticidad-e-integridad.webp -->
+<!-- VISUAL:t40-64-autenticidad-e-integridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-64-autenticidad-e-integridad.webp" alt="Autenticidad e integridad" width="820">
+</p>
+<p align="center"><em>Infografía: Autenticidad e integridad.</em></p>
 
 :::hablemos-claro
 Autenticidad e integridad responden a preguntas diferentes.
@@ -2529,7 +2785,11 @@ Para dominar **verificación de contenido digital**, aplica esta regla: Verifica
 - **Incorrecto:** Una búsqueda inversa sin coincidencias prueba originalidad.
 - **Incorrecto:** Repetición viral equivale a verificación.
 
-<!-- VISUAL PENDIENTE: t40-il-65-verificacion-de-contenido-digital.webp -->
+<!-- VISUAL:t40-il-65-verificacion-de-contenido-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-65-verificacion-de-contenido-digital.webp" alt="Verificación de contenido digital" width="820">
+</p>
+<p align="center"><em>Infografía: Verificación de contenido digital.</em></p>
 
 :::hablemos-claro
 Verificar implica examinar origen, contenido, fecha, lugar y coherencia contextual.
@@ -2568,7 +2828,11 @@ Para dominar **procedencia y cadena de custodia**, aplica esta regla: La procede
 - **Incorrecto:** Cambiar el nombre del archivo rompe necesariamente toda custodia.
 - **Incorrecto:** Una cadena completa convierte cualquier material en prueba admisible.
 
-<!-- VISUAL PENDIENTE: t40-66-procedencia-y-cadena-de-custodia.webp -->
+<!-- VISUAL:t40-66-procedencia-y-cadena-de-custodia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-66-procedencia-y-cadena-de-custodia.webp" alt="Procedencia y cadena de custodia" width="820">
+</p>
+<p align="center"><em>Infografía: Procedencia y cadena de custodia.</em></p>
 
 :::hablemos-claro
 La procedencia describe de dónde se obtuvo un elemento y cómo llegó al investigador.
@@ -2607,7 +2871,11 @@ Para dominar **legalidad y ética**, aplica esta regla: El investigador debe res
 - **Incorrecto:** Si un navegador muestra el dato, cualquier tratamiento es legítimo.
 - **Incorrecto:** OSINT permite suplantar identidades sin autorización.
 
-<!-- VISUAL PENDIENTE: t40-67-legalidad-y-etica.webp -->
+<!-- VISUAL:t40-67-legalidad-y-etica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-67-legalidad-y-etica.webp" alt="Legalidad y ética" width="820">
+</p>
+<p align="center"><em>Infografía: Legalidad y ética.</em></p>
 
 :::hablemos-claro
 El investigador debe respetar competencia, finalidad, derechos y reglas aplicables.
@@ -2646,7 +2914,11 @@ Para dominar **seguridad operacional del investigador**, aplica esta regla: La s
 - **Incorrecto:** Usar modo incógnito borra todo rastro externo.
 - **Incorrecto:** Tor garantiza anonimato perfecto con cualquier conducta del usuario.
 
-<!-- VISUAL PENDIENTE: t40-68-seguridad-operacional-del-investigador.webp -->
+<!-- VISUAL:t40-68-seguridad-operacional-del-investigador.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-68-seguridad-operacional-del-investigador.webp" alt="Seguridad operacional del investigador" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad operacional del investigador.</em></p>
 
 :::hablemos-claro
 La seguridad operacional reduce exposición del investigador, la organización y las fuentes.
@@ -2685,7 +2957,11 @@ Para dominar **minimización y terceros**, aplica esta regla: La minimización l
 - **Incorrecto:** Todo contacto del objetivo pasa a ser relevante.
 - **Incorrecto:** La transparencia exige difundir datos personales incidentales.
 
-<!-- VISUAL PENDIENTE: t40-69-minimizacion-y-terceros.webp -->
+<!-- VISUAL:t40-69-minimizacion-y-terceros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-69-minimizacion-y-terceros.webp" alt="Minimización y terceros" width="820">
+</p>
+<p align="center"><em>Infografía: Minimización y terceros.</em></p>
 
 :::hablemos-claro
 La minimización limita datos a lo necesario para la finalidad.
@@ -2724,7 +3000,11 @@ Para dominar **informe osint**, aplica esta regla: El informe debe responder a l
 - **Incorrecto:** Un buen informe oculta el método para parecer concluyente.
 - **Incorrecto:** La fecha de corte es irrelevante en fuentes web cambiantes.
 
-<!-- VISUAL PENDIENTE: t40-il-70-informe-osint.webp -->
+<!-- VISUAL:t40-il-70-informe-osint.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-70-informe-osint.webp" alt="Informe OSINT" width="820">
+</p>
+<p align="center"><em>Infografía: Informe OSINT.</em></p>
 
 :::hablemos-claro
 El informe debe responder a la pregunta y separar hallazgos, análisis y conclusiones.
@@ -2763,7 +3043,11 @@ Para dominar **internet y world wide web**, aplica esta regla: Internet es una r
 - **Incorrecto:** Internet y Web son términos técnicos idénticos.
 - **Incorrecto:** Todo servicio de Internet es una página HTML.
 
-<!-- VISUAL PENDIENTE: t40-71-internet-y-world-wide-web.webp -->
+<!-- VISUAL:t40-71-internet-y-world-wide-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-71-internet-y-world-wide-web.webp" alt="Internet y World Wide Web" width="820">
+</p>
+<p align="center"><em>Infografía: Internet y World Wide Web.</em></p>
 
 :::hablemos-claro
 Internet es una red de redes que transporta múltiples servicios.
@@ -2802,7 +3086,11 @@ Para dominar **uri, navegador y http**, aplica esta regla: Una URI identifica un
 - **Incorrecto:** Una URL concede permiso de acceso.
 - **Incorrecto:** HTTP es un buscador de Internet.
 
-<!-- VISUAL PENDIENTE: t40-72-uri-navegador-y-http.webp -->
+<!-- VISUAL:t40-72-uri-navegador-y-http.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-72-uri-navegador-y-http.webp" alt="URI, navegador y HTTP" width="820">
+</p>
+<p align="center"><em>Infografía: URI, navegador y HTTP.</em></p>
 
 :::hablemos-claro
 Una URI identifica un recurso conforme a su sintaxis y esquema.
@@ -2841,7 +3129,11 @@ Para dominar **rastreo, indexación y búsqueda**, aplica esta regla: El rastreo
 - **Incorrecto:** Buscar consulta directamente cada servidor existente.
 - **Incorrecto:** Accesible e indexado significan lo mismo.
 
-<!-- VISUAL PENDIENTE: t40-73-rastreo-indexacion-y-busqueda.webp -->
+<!-- VISUAL:t40-73-rastreo-indexacion-y-busqueda.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-73-rastreo-indexacion-y-busqueda.webp" alt="Rastreo, indexación y búsqueda" width="820">
+</p>
+<p align="center"><em>Infografía: Rastreo, indexación y búsqueda.</em></p>
 
 :::hablemos-claro
 El rastreo automatizado recorre recursos y enlaces mediante clientes llamados crawlers.
@@ -2880,7 +3172,11 @@ Para dominar **surface web**, aplica esta regla: Surface Web designa de forma pr
 - **Incorrecto:** Surface Web significa contenido legal por definición.
 - **Incorrecto:** Toda página pública aparece necesariamente en todos los buscadores.
 
-<!-- VISUAL PENDIENTE: t40-74-surface-web.webp -->
+<!-- VISUAL:t40-74-surface-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-74-surface-web.webp" alt="Surface Web" width="820">
+</p>
+<p align="center"><em>Infografía: Surface Web.</em></p>
 
 :::hablemos-claro
 Surface Web designa de forma práctica contenido web accesible e indexable por buscadores generales.
@@ -2919,7 +3215,11 @@ Para dominar **deep web**, aplica esta regla: Deep Web engloba contenido web que
 - **Incorrecto:** Deep Web es sinónimo de actividad delictiva.
 - **Incorrecto:** Todo contenido Deep Web requiere un dominio .onion.
 
-<!-- VISUAL PENDIENTE: t40-il-75-deep-web.webp -->
+<!-- VISUAL:t40-il-75-deep-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-75-deep-web.webp" alt="Deep Web" width="820">
+</p>
+<p align="center"><em>Infografía: Deep Web.</em></p>
 
 :::hablemos-claro
 Deep Web engloba contenido web que no figura en índices públicos generales.
@@ -2958,7 +3258,11 @@ Para dominar **contenido autenticado y dinámico**, aplica esta regla: Una zona 
 - **Incorrecto:** Todo contenido no indexado está cifrado.
 - **Incorrecto:** robots.txt y una contraseña cumplen la misma función.
 
-<!-- VISUAL PENDIENTE: t40-76-contenido-autenticado-y-dinamico.webp -->
+<!-- VISUAL:t40-76-contenido-autenticado-y-dinamico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-76-contenido-autenticado-y-dinamico.webp" alt="Contenido autenticado y dinámico" width="820">
+</p>
+<p align="center"><em>Infografía: Contenido autenticado y dinámico.</em></p>
 
 :::hablemos-claro
 Una zona tras inicio de sesión puede ser accesible con navegador normal y pertenecer a la Deep Web.
@@ -2997,7 +3301,11 @@ Para dominar **robots exclusion protocol**, aplica esta regla: robots.txt comuni
 - **Incorrecto:** robots.txt protege un directorio como una contraseña.
 - **Incorrecto:** Disallow prueba que el contenido es ilícito.
 
-<!-- VISUAL PENDIENTE: t40-77-robots-exclusion-protocol.webp -->
+<!-- VISUAL:t40-77-robots-exclusion-protocol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-77-robots-exclusion-protocol.webp" alt="Robots Exclusion Protocol" width="820">
+</p>
+<p align="center"><em>Infografía: Robots Exclusion Protocol.</em></p>
 
 :::hablemos-claro
 robots.txt comunica reglas que se solicita respetar a crawlers automatizados.
@@ -3036,7 +3344,11 @@ Para dominar **no existen porcentajes universales fiables**, aplica esta regla: 
 - **Incorrecto:** La Deep Web ocupa exactamente el 95 % en todo momento.
 - **Incorrecto:** El número de páginas conocidas permite medir toda la web oculta.
 
-<!-- VISUAL PENDIENTE: t40-78-no-existen-porcentajes-universales-fiables.webp -->
+<!-- VISUAL:t40-78-no-existen-porcentajes-universales-fiables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-78-no-existen-porcentajes-universales-fiables.webp" alt="No existen porcentajes universales fiables" width="820">
+</p>
+<p align="center"><em>Infografía: No existen porcentajes universales fiables.</em></p>
 
 :::hablemos-claro
 No existe un censo completo y estable que mida Surface, Deep y Dark Web con porcentajes universales.
@@ -3075,7 +3387,11 @@ Para dominar **dark web**, aplica esta regla: Dark Web designa contenido y servi
 - **Incorrecto:** Dark Web es cualquier página no encontrada por Google.
 - **Incorrecto:** Todo uso de Dark Web es delito.
 
-<!-- VISUAL PENDIENTE: t40-79-dark-web.webp -->
+<!-- VISUAL:t40-79-dark-web.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-79-dark-web.webp" alt="Dark Web" width="820">
+</p>
+<p align="center"><em>Infografía: Dark Web.</em></p>
 
 :::hablemos-claro
 Dark Web designa contenido y servicios web accesibles mediante redes superpuestas o software específico.
@@ -3114,7 +3430,11 @@ Para dominar **dark net**, aplica esta regla: Dark Net se refiere a una red supe
 - **Incorrecto:** Dark Net es el conjunto de páginas indexadas.
 - **Incorrecto:** Dark Net y Dark Web describen exactamente la misma capa.
 
-<!-- VISUAL PENDIENTE: t40-il-80-dark-net.webp -->
+<!-- VISUAL:t40-il-80-dark-net.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-80-dark-net.webp" alt="Dark Net" width="820">
+</p>
+<p align="center"><em>Infografía: Dark Net.</em></p>
 
 :::hablemos-claro
 Dark Net se refiere a una red superpuesta diseñada para acceso restringido, anonimato u ocultación.
@@ -3153,7 +3473,11 @@ Para dominar **relación surface-deep-dark**, aplica esta regla: Surface Web se 
 - **Incorrecto:** Toda Deep Web forma parte de Dark Web.
 - **Incorrecto:** Surface Web es una red física distinta de Internet.
 
-<!-- VISUAL PENDIENTE: t40-81-relacion-surface-deep-dark.webp -->
+<!-- VISUAL:t40-81-relacion-surface-deep-dark.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-81-relacion-surface-deep-dark.webp" alt="Relación Surface-Deep-Dark" width="820">
+</p>
+<p align="center"><em>Infografía: Relación Surface-Deep-Dark.</em></p>
 
 :::hablemos-claro
 Surface Web se asocia a contenido indexado y públicamente descubrible.
@@ -3192,7 +3516,11 @@ Para dominar **tor como red de anonimato**, aplica esta regla: Tor encamina trá
 - **Incorrecto:** Tor es un buscador que indexa la Dark Web.
 - **Incorrecto:** Usar Tor impide cualquier identificación con independencia del comportamiento.
 
-<!-- VISUAL PENDIENTE: t40-82-tor-como-red-de-anonimato.webp -->
+<!-- VISUAL:t40-82-tor-como-red-de-anonimato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-82-tor-como-red-de-anonimato.webp" alt="Tor como red de anonimato" width="820">
+</p>
+<p align="center"><em>Infografía: Tor como red de anonimato.</em></p>
 
 :::hablemos-claro
 Tor encamina tráfico a través de circuitos formados por relés.
@@ -3231,7 +3559,11 @@ Para dominar **circuito tor hacia la web ordinaria**, aplica esta regla: Un circ
 - **Incorrecto:** El relé de salida conoce simultáneamente origen real y destino.
 - **Incorrecto:** Tor sustituye HTTPS y cifra siempre hasta cualquier servidor web.
 
-<!-- VISUAL PENDIENTE: t40-83-circuito-tor-hacia-la-web-ordinaria.webp -->
+<!-- VISUAL:t40-83-circuito-tor-hacia-la-web-ordinaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-83-circuito-tor-hacia-la-web-ordinaria.webp" alt="Circuito Tor hacia la web ordinaria" width="820">
+</p>
+<p align="center"><em>Infografía: Circuito Tor hacia la web ordinaria.</em></p>
 
 :::hablemos-claro
 Un circuito típico hacia un destino de Internet utiliza relé de entrada, intermedio y salida.
@@ -3270,7 +3602,11 @@ Para dominar **servicios onion**, aplica esta regla: Un servicio onion publica d
 - **Incorrecto:** Un servicio onion se alcanza siempre mediante un exit relay.
 - **Incorrecto:** El directorio DNS público revela la IP del servicio onion.
 
-<!-- VISUAL PENDIENTE: t40-84-servicios-onion.webp -->
+<!-- VISUAL:t40-84-servicios-onion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-84-servicios-onion.webp" alt="Servicios onion" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios onion.</em></p>
 
 :::hablemos-claro
 Un servicio onion publica descriptores con puntos de introducción en la red Tor.
@@ -3309,7 +3645,11 @@ Para dominar **nombres .onion**, aplica esta regla: .onion es un nombre de uso e
 - **Incorrecto:** Los dominios .onion se compran en el registro DNS nacional.
 - **Incorrecto:** La palabra elegida por el titular determina libremente cualquier dirección v3.
 
-<!-- VISUAL PENDIENTE: t40-il-85-nombres-onion.webp -->
+<!-- VISUAL:t40-il-85-nombres-onion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-il-85-nombres-onion.webp" alt="Nombres .onion" width="820">
+</p>
+<p align="center"><em>Infografía: Nombres .onion.</em></p>
 
 :::hablemos-claro
 .onion es un nombre de uso especial y no se resuelve mediante la infraestructura DNS ordinaria.
@@ -3348,7 +3688,11 @@ Para dominar **usos legítimos e ilícitos**, aplica esta regla: Las darknets pu
 - **Incorrecto:** Conectarse a Tor constituye por sí solo un delito.
 - **Incorrecto:** La Dark Web es enteramente legítima porque protege privacidad.
 
-<!-- VISUAL PENDIENTE: t40-86-usos-legitimos-e-ilicitos.webp -->
+<!-- VISUAL:t40-86-usos-legitimos-e-ilicitos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-86-usos-legitimos-e-ilicitos.webp" alt="Usos legítimos e ilícitos" width="820">
+</p>
+<p align="center"><em>Infografía: Usos legítimos e ilícitos.</em></p>
 
 :::hablemos-claro
 Las darknets pueden apoyar privacidad, denuncia, periodismo o acceso en entornos represivos.
@@ -3387,7 +3731,11 @@ Para dominar **límites del anonimato**, aplica esta regla: El anonimato puede d
 - **Incorrecto:** Tor garantiza anonimato absoluto frente a cualquier adversario.
 - **Incorrecto:** El modo privado de un navegador sustituye una red de anonimato.
 
-<!-- VISUAL PENDIENTE: t40-87-limites-del-anonimato.webp -->
+<!-- VISUAL:t40-87-limites-del-anonimato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-87-limites-del-anonimato.webp" alt="Límites del anonimato" width="820">
+</p>
+<p align="center"><em>Infografía: Límites del anonimato.</em></p>
 
 :::hablemos-claro
 El anonimato puede degradarse por inicio de sesión identificativo, malware, errores o correlación de tráfico.
@@ -3426,7 +3774,11 @@ Para dominar **tor, i2p, freenet y zeronet en examen**, aplica esta regla: Tor e
 - **Incorrecto:** Todas esas redes emplean exactamente el protocolo Tor.
 - **Incorrecto:** Aparecer en una pregunta histórica garantiza el mismo estado técnico en 2026.
 
-<!-- VISUAL PENDIENTE: t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp -->
+<!-- VISUAL:t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-88-tor-i2p-freenet-y-zeronet-en-examen.webp" alt="Tor, I2P, Freenet y ZeroNet en examen" width="820">
+</p>
+<p align="center"><em>Infografía: Tor, I2P, Freenet y ZeroNet en examen.</em></p>
 
 :::hablemos-claro
 Tor e I2P son ejemplos actuales de redes superpuestas asociadas a servicios ocultos.
@@ -3465,7 +3817,11 @@ Para dominar **matriz final de las cuatro capas**, aplica esta regla: Surface We
 - **Incorrecto:** Deep Web y Dark Net son dos nombres de una contraseña.
 - **Incorrecto:** Surface Web designa todos los protocolos de Internet.
 
-<!-- VISUAL PENDIENTE: t40-89-matriz-final-de-las-cuatro-capas.webp -->
+<!-- VISUAL:t40-89-matriz-final-de-las-cuatro-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-40/t40-89-matriz-final-de-las-cuatro-capas.webp" alt="Matriz final de las cuatro capas" width="820">
+</p>
+<p align="center"><em>Infografía: Matriz final de las cuatro capas.</em></p>
 
 :::hablemos-claro
 Surface Web: contenido indexado y accesible mediante herramientas web ordinarias.
