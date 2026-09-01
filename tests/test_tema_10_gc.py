@@ -110,11 +110,17 @@ class Tema10GuardiaCivilQualityGate(unittest.TestCase):
             facts = [fact_by_id[fact_id]["enunciado_atomico"] for fact_id in official_by_id[question_id]["fact_refs"]]
             self.assertIn(needle, " ".join(facts), question_id)
 
-    def test_visuals_are_only_planned(self):
-        self.assertEqual(self.assets["visual_version"], "0.0.0")
-        self.assertEqual(self.assets["status"], "planned")
-        self.assertEqual(self.assets["totals"], {"resources": 67, "integrated": 0, "planned": 67})
-        self.assertFalse(list(ASSETS.glob("*.webp")))
+    def test_visuals_match_disk(self):
+        totals = self.assets["totals"]
+        self.assertEqual(67, totals["resources"])
+        self.assertEqual(totals["resources"], totals["integrated"] + totals["planned"])
+        en_disco = {ruta.name for ruta in ASSETS.glob("*.webp")}
+        declaradas = {
+            recurso["file"]
+            for recurso in self.assets.get("resources", [])
+            if recurso.get("status") == "integrated_webp"
+        }
+        self.assertEqual(declaradas, en_disco)
 
     def test_generated_tests_cover_bank_once(self):
         self.assertEqual(self.catalog["total_tests"], 121)

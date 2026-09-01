@@ -8,7 +8,11 @@
 
 El tema sigue dos columnas: el **TUE** explica valores, democracia, instituciones, cooperación reforzada, defensa y disposiciones finales; el **TFUE** desarrolla competencias, ciudadanía, mercado, espacio de libertad, seguridad y justicia, acción exterior, instituciones y actos jurídicos.
 
-<!-- VISUAL PENDIENTE: t05-00-mapa-tue-tfue.webp -->
+<!-- VISUAL:t05-00-mapa-tue-tfue.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-00-mapa-tue-tfue.webp" alt="Dos tratados de igual valor y funciones complementarias" width="820">
+</p>
+<p align="center"><em>Infografía: Dos tratados de igual valor y funciones complementarias.</em></p>
 
 # Contenido
 
@@ -84,7 +88,11 @@ Prioridad: **arts. 1 a 8 TUE**. Compara literalmente sujetos, funciones, mayorí
 Apariciones oficiales verificadas: 2020 · pregunta 22, 2020 · pregunta 24, 2022 · pregunta 24, 2023 · pregunta 26, 2024 · pregunta 26, 2025 · pregunta 27, 2025 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-01-valores-objetivos-y-principios-comunes.webp -->
+<!-- VISUAL:t05-01-valores-objetivos-y-principios-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-01-valores-objetivos-y-principios-comunes.webp" alt="Valores, objetivos y principios comunes" width="820">
+</p>
+<p align="center"><em>Infografía: Valores, objetivos y principios comunes.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -135,7 +143,11 @@ Prioridad: **arts. 9 a 12 TUE**. Compara literalmente sujetos, funciones, mayor�
 Apariciones oficiales verificadas: 2021 · pregunta 25, 2021 · pregunta 27, 2022 · pregunta 26, 2023 · pregunta 27, 2024 · pregunta 27.
 :::
 
-<!-- VISUAL PENDIENTE: t05-02-principios-democraticos-y-parlamentos-nacionales.webp -->
+<!-- VISUAL:t05-02-principios-democraticos-y-parlamentos-nacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-02-principios-democraticos-y-parlamentos-nacionales.webp" alt="Principios democráticos y Parlamentos nacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Principios democráticos y Parlamentos nacionales.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -171,7 +183,11 @@ Prioridad: **art. 13 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2020 · pregunta 23.
 :::
 
-<!-- VISUAL PENDIENTE: t05-03-marco-institucional-de-la-union.webp -->
+<!-- VISUAL:t05-03-marco-institucional-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-03-marco-institucional-de-la-union.webp" alt="Marco institucional de la Unión" width="820">
+</p>
+<p align="center"><em>Infografía: Marco institucional de la Unión.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -211,7 +227,11 @@ Prioridad: **art. 14 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2022 · pregunta 25, 2024 · pregunta 25.
 :::
 
-<!-- VISUAL PENDIENTE: t05-04-parlamento-europeo.webp -->
+<!-- VISUAL:t05-04-parlamento-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-04-parlamento-europeo.webp" alt="Parlamento Europeo" width="820">
+</p>
+<p align="center"><em>Infografía: Parlamento Europeo.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -251,7 +271,11 @@ Prioridad: **art. 15 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2020 · pregunta 24, 2021 · pregunta 26.
 :::
 
-<!-- VISUAL PENDIENTE: t05-05-consejo-europeo.webp -->
+<!-- VISUAL:t05-05-consejo-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-05-consejo-europeo.webp" alt="Consejo Europeo" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Europeo.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -291,7 +315,11 @@ Prioridad: **art. 16 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2020 · pregunta 25, 2022 · pregunta 27.
 :::
 
-<!-- VISUAL PENDIENTE: t05-06-consejo.webp -->
+<!-- VISUAL:t05-06-consejo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-06-consejo.webp" alt="Consejo" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -324,7 +352,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **art. 17 TUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-07-comision-europea.webp -->
+<!-- VISUAL:t05-07-comision-europea.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-07-comision-europea.webp" alt="Comisión Europea" width="820">
+</p>
+<p align="center"><em>Infografía: Comisión Europea.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -357,7 +389,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **art. 18 TUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-08-alto-representante.webp -->
+<!-- VISUAL:t05-08-alto-representante.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-08-alto-representante.webp" alt="Alto Representante" width="820">
+</p>
+<p align="center"><em>Infografía: Alto Representante.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -397,7 +433,11 @@ Prioridad: **art. 19 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2021 · pregunta 28, 2024 · pregunta 26, 2024 · pregunta 26, 2024 · pregunta 27, 2026 · pregunta 24, 2026 · pregunta 25.
 :::
 
-<!-- VISUAL PENDIENTE: t05-09-tribunal-de-justicia-de-la-union-europea.webp -->
+<!-- VISUAL:t05-09-tribunal-de-justicia-de-la-union-europea.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-09-tribunal-de-justicia-de-la-union-europea.webp" alt="Tribunal de Justicia de la Unión Europea" width="820">
+</p>
+<p align="center"><em>Infografía: Tribunal de Justicia de la Unión Europea.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -437,7 +477,11 @@ Prioridad: **art. 20 TUE**. Compara literalmente sujetos, funciones, mayorías, 
 Apariciones oficiales verificadas: 2022 · pregunta 27.
 :::
 
-<!-- VISUAL PENDIENTE: t05-10-cooperaciones-reforzadas.webp -->
+<!-- VISUAL:t05-10-cooperaciones-reforzadas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-10-cooperaciones-reforzadas.webp" alt="Cooperaciones reforzadas" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperaciones reforzadas.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -481,7 +525,11 @@ Prioridad: **arts. 42 a 43 TUE**. Compara literalmente sujetos, funciones, mayor
 Apariciones oficiales verificadas: 2020 · pregunta 25, 2022 · pregunta 28, 2023 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-11-politica-comun-de-seguridad-y-defensa.webp -->
+<!-- VISUAL:t05-11-politica-comun-de-seguridad-y-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-11-politica-comun-de-seguridad-y-defensa.webp" alt="Política común de seguridad y defensa" width="820">
+</p>
+<p align="center"><em>Infografía: Política común de seguridad y defensa.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -526,7 +574,11 @@ Prioridad: **arts. 44 a 46 TUE**. Compara literalmente sujetos, funciones, mayor
 Apariciones oficiales verificadas: 2024 · pregunta 27, 2024 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-12-misiones-agencia-europea-de-defensa-y-cooperacion-estructurada.webp -->
+<!-- VISUAL:t05-12-misiones-agencia-europea-de-defensa-y-cooperacion-estructurada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-12-misiones-agencia-europea-de-defensa-y-cooperacion-estructurada.webp" alt="Misiones, Agencia Europea de Defensa y cooperación estructurada permanente" width="820">
+</p>
+<p align="center"><em>Infografía: Misiones, Agencia Europea de Defensa y cooperación estructurada permanente.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -565,7 +617,11 @@ Prioridad: **arts. 47 a 48 TUE**. Compara literalmente sujetos, funciones, mayor
 Apariciones oficiales verificadas: 2021 · pregunta 27, 2023 · pregunta 27.
 :::
 
-<!-- VISUAL PENDIENTE: t05-13-personalidad-juridica-y-revision-de-los-tratados.webp -->
+<!-- VISUAL:t05-13-personalidad-juridica-y-revision-de-los-tratados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-13-personalidad-juridica-y-revision-de-los-tratados.webp" alt="Personalidad jurídica y revisión de los Tratados" width="820">
+</p>
+<p align="center"><em>Infografía: Personalidad jurídica y revisión de los Tratados.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -609,7 +665,11 @@ Prioridad: **arts. 49 a 50 TUE**. Compara literalmente sujetos, funciones, mayor
 Apariciones oficiales verificadas: 2021 · pregunta 29, 2023 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-14-adhesion-y-retirada-de-la-union.webp -->
+<!-- VISUAL:t05-14-adhesion-y-retirada-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-14-adhesion-y-retirada-de-la-union.webp" alt="Adhesión y retirada de la Unión" width="820">
+</p>
+<p align="center"><em>Infografía: Adhesión y retirada de la Unión.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -647,7 +707,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 51 a 55 TUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-15-protocolos-ambito-territorial-duracion-y-lenguas.webp -->
+<!-- VISUAL:t05-15-protocolos-ambito-territorial-duracion-y-lenguas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-15-protocolos-ambito-territorial-duracion-y-lenguas.webp" alt="Protocolos, ámbito territorial, duración y lenguas" width="820">
+</p>
+<p align="center"><em>Infografía: Protocolos, ámbito territorial, duración y lenguas.</em></p>
 
 <!-- FUENTE: EURLEX-TUE-CONSOLIDADO-GC-T05 -->
 
@@ -697,7 +761,11 @@ Prioridad: **arts. 1 a 6 TFUE**. Compara literalmente sujetos, funciones, mayor�
 Apariciones oficiales verificadas: 2020 · pregunta 26, 2020 · pregunta 26, 2023 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-16-delimitacion-y-categorias-de-competencias.webp -->
+<!-- VISUAL:t05-16-delimitacion-y-categorias-de-competencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-16-delimitacion-y-categorias-de-competencias.webp" alt="Delimitación y categorías de competencias" width="820">
+</p>
+<p align="center"><em>Infografía: Delimitación y categorías de competencias.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -739,7 +807,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 7 a 17 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-17-clausulas-horizontales-de-la-union.webp -->
+<!-- VISUAL:t05-17-clausulas-horizontales-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-17-clausulas-horizontales-de-la-union.webp" alt="Cláusulas horizontales de la Unión" width="820">
+</p>
+<p align="center"><em>Infografía: Cláusulas horizontales de la Unión.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -771,7 +843,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 18 a 19 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-18-no-discriminacion.webp -->
+<!-- VISUAL:t05-18-no-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-18-no-discriminacion.webp" alt="No discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: No discriminación.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -823,7 +899,11 @@ Prioridad: **arts. 20 a 25 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2022 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-19-ciudadania-de-la-union-y-sus-derechos.webp -->
+<!-- VISUAL:t05-19-ciudadania-de-la-union-y-sus-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-19-ciudadania-de-la-union-y-sus-derechos.webp" alt="Ciudadanía de la Unión y sus derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudadanía de la Unión y sus derechos.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -856,7 +936,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 26 a 27 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-20-mercado-interior.webp -->
+<!-- VISUAL:t05-20-mercado-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-20-mercado-interior.webp" alt="Mercado interior" width="820">
+</p>
+<p align="center"><em>Infografía: Mercado interior.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -899,7 +983,11 @@ Prioridad: **arts. 28 a 33 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2022 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-21-union-aduanera-y-cooperacion-aduanera.webp -->
+<!-- VISUAL:t05-21-union-aduanera-y-cooperacion-aduanera.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-21-union-aduanera-y-cooperacion-aduanera.webp" alt="Unión aduanera y cooperación aduanera" width="820">
+</p>
+<p align="center"><em>Infografía: Unión aduanera y cooperación aduanera.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -936,7 +1024,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 34 a 37 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-22-restricciones-cuantitativas-y-monopolios-comerciales.webp -->
+<!-- VISUAL:t05-22-restricciones-cuantitativas-y-monopolios-comerciales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-22-restricciones-cuantitativas-y-monopolios-comerciales.webp" alt="Restricciones cuantitativas y monopolios comerciales" width="820">
+</p>
+<p align="center"><em>Infografía: Restricciones cuantitativas y monopolios comerciales.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -977,7 +1069,11 @@ Prioridad: **arts. 45 a 48 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2022 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-23-libre-circulacion-de-trabajadores.webp -->
+<!-- VISUAL:t05-23-libre-circulacion-de-trabajadores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-23-libre-circulacion-de-trabajadores.webp" alt="Libre circulación de trabajadores" width="820">
+</p>
+<p align="center"><em>Infografía: Libre circulación de trabajadores.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1017,7 +1113,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 49 a 55 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-24-derecho-de-establecimiento.webp -->
+<!-- VISUAL:t05-24-derecho-de-establecimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-24-derecho-de-establecimiento.webp" alt="Derecho de establecimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho de establecimiento.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1061,7 +1161,11 @@ Prioridad: **arts. 56 a 62 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2026 · pregunta 26.
 :::
 
-<!-- VISUAL PENDIENTE: t05-25-libre-prestacion-de-servicios.webp -->
+<!-- VISUAL:t05-25-libre-prestacion-de-servicios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-25-libre-prestacion-de-servicios.webp" alt="Libre prestación de servicios" width="820">
+</p>
+<p align="center"><em>Infografía: Libre prestación de servicios.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1100,7 +1204,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 63 a 66 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-26-capitales-y-pagos.webp -->
+<!-- VISUAL:t05-26-capitales-y-pagos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-26-capitales-y-pagos.webp" alt="Capitales y pagos" width="820">
+</p>
+<p align="center"><em>Infografía: Capitales y pagos.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1149,7 +1257,11 @@ Prioridad: **arts. 67 a 76 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2022 · pregunta 30.
 :::
 
-<!-- VISUAL PENDIENTE: t05-27-espacio-de-libertad-seguridad-y-justicia-reglas-generales.webp -->
+<!-- VISUAL:t05-27-espacio-de-libertad-seguridad-y-justicia-reglas-generales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-27-espacio-de-libertad-seguridad-y-justicia-reglas-generales.webp" alt="Espacio de libertad, seguridad y justicia: reglas generales" width="820">
+</p>
+<p align="center"><em>Infografía: Espacio de libertad, seguridad y justicia: reglas generales.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1185,7 +1297,11 @@ Prioridad: **arts. 77 a 80 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2024 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-28-fronteras-asilo-e-inmigracion.webp -->
+<!-- VISUAL:t05-28-fronteras-asilo-e-inmigracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-28-fronteras-asilo-e-inmigracion.webp" alt="Fronteras, asilo e inmigración" width="820">
+</p>
+<p align="center"><em>Infografía: Fronteras, asilo e inmigración.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1215,7 +1331,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **art. 81 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-29-cooperacion-judicial-en-materia-civil.webp -->
+<!-- VISUAL:t05-29-cooperacion-judicial-en-materia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-29-cooperacion-judicial-en-materia-civil.webp" alt="Cooperación judicial en materia civil" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación judicial en materia civil.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1258,7 +1378,11 @@ Prioridad: **arts. 82 a 86 TFUE**. Compara literalmente sujetos, funciones, mayo
 Apariciones oficiales verificadas: 2022 · pregunta 30.
 :::
 
-<!-- VISUAL PENDIENTE: t05-30-cooperacion-judicial-en-materia-penal.webp -->
+<!-- VISUAL:t05-30-cooperacion-judicial-en-materia-penal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-30-cooperacion-judicial-en-materia-penal.webp" alt="Cooperación judicial en materia penal" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación judicial en materia penal.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1294,7 +1418,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 87 a 89 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-31-cooperacion-policial.webp -->
+<!-- VISUAL:t05-31-cooperacion-policial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-31-cooperacion-policial.webp" alt="Cooperación policial" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación policial.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1335,7 +1463,11 @@ Prioridad: **arts. 191 a 193 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2023 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-32-medio-ambiente.webp -->
+<!-- VISUAL:t05-32-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-32-medio-ambiente.webp" alt="Medio ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Medio ambiente.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1366,7 +1498,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **art. 196 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-33-proteccion-civil.webp -->
+<!-- VISUAL:t05-33-proteccion-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-33-proteccion-civil.webp" alt="Protección civil" width="820">
+</p>
+<p align="center"><em>Infografía: Protección civil.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1402,7 +1538,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 198 a 204 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-34-asociacion-de-los-paises-y-territorios-de-ultramar.webp -->
+<!-- VISUAL:t05-34-asociacion-de-los-paises-y-territorios-de-ultramar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-34-asociacion-de-los-paises-y-territorios-de-ultramar.webp" alt="Asociación de los países y territorios de ultramar" width="820">
+</p>
+<p align="center"><em>Infografía: Asociación de los países y territorios de ultramar.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1439,7 +1579,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 208 a 211 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-35-cooperacion-para-el-desarrollo.webp -->
+<!-- VISUAL:t05-35-cooperacion-para-el-desarrollo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-35-cooperacion-para-el-desarrollo.webp" alt="Cooperación para el desarrollo" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación para el desarrollo.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1475,7 +1619,11 @@ Prioridad: **arts. 212 a 214 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2022 · pregunta 26.
 :::
 
-<!-- VISUAL PENDIENTE: t05-36-cooperacion-economica-financiera-tecnica-y-ayuda-humanitaria.webp -->
+<!-- VISUAL:t05-36-cooperacion-economica-financiera-tecnica-y-ayuda-humanitaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-36-cooperacion-economica-financiera-tecnica-y-ayuda-humanitaria.webp" alt="Cooperación económica, financiera, técnica y ayuda humanitaria" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación económica, financiera, técnica y ayuda humanitaria.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1511,7 +1659,11 @@ Prioridad: **art. 222 TFUE**. Compara literalmente sujetos, funciones, mayorías
 Apariciones oficiales verificadas: 2024 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-37-clausula-de-solidaridad.webp -->
+<!-- VISUAL:t05-37-clausula-de-solidaridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-37-clausula-de-solidaridad.webp" alt="Cláusula de solidaridad" width="820">
+</p>
+<p align="center"><em>Infografía: Cláusula de solidaridad.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1568,7 +1720,11 @@ Prioridad: **arts. 223 a 234 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2020 · pregunta 27, 2020 · pregunta 27, 2022 · pregunta 31, 2024 · pregunta 28.
 :::
 
-<!-- VISUAL PENDIENTE: t05-38-parlamento-europeo-y-defensor-del-pueblo-europeo.webp -->
+<!-- VISUAL:t05-38-parlamento-europeo-y-defensor-del-pueblo-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-38-parlamento-europeo-y-defensor-del-pueblo-europeo.webp" alt="Parlamento Europeo y Defensor del Pueblo Europeo" width="820">
+</p>
+<p align="center"><em>Infografía: Parlamento Europeo y Defensor del Pueblo Europeo.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1614,7 +1770,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 235 a 243 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-39-consejo-europeo-y-consejo.webp -->
+<!-- VISUAL:t05-39-consejo-europeo-y-consejo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-39-consejo-europeo-y-consejo.webp" alt="Consejo Europeo y Consejo" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Europeo y Consejo.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1655,7 +1815,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 244 a 250 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-40-comision-europea.webp -->
+<!-- VISUAL:t05-40-comision-europea.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-40-comision-europea.webp" alt="Comisión Europea" width="820">
+</p>
+<p align="center"><em>Infografía: Comisión Europea.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1713,7 +1877,11 @@ Prioridad: **arts. 251 a 260 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2021 · pregunta 28, 2021 · pregunta 30.
 :::
 
-<!-- VISUAL PENDIENTE: t05-41-tribunal-de-justicia-y-tribunal-general-composicion-y-control.webp -->
+<!-- VISUAL:t05-41-tribunal-de-justicia-y-tribunal-general-composicion-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-41-tribunal-de-justicia-y-tribunal-general-composicion-y-control.webp" alt="Tribunal de Justicia y Tribunal General: composición y control" width="820">
+</p>
+<p align="center"><em>Infografía: Tribunal de Justicia y Tribunal General: composición y control.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1761,7 +1929,11 @@ Prioridad: **arts. 261 a 270 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2025 · pregunta 29.
 :::
 
-<!-- VISUAL PENDIENTE: t05-42-recursos-cuestion-prejudicial-y-responsabilidad.webp -->
+<!-- VISUAL:t05-42-recursos-cuestion-prejudicial-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-42-recursos-cuestion-prejudicial-y-responsabilidad.webp" alt="Recursos, cuestión prejudicial y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Recursos, cuestión prejudicial y responsabilidad.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1800,7 +1972,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 271 a 281 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-43-competencias-especiales-cautelares-y-estatuto-del-tribunal.webp -->
+<!-- VISUAL:t05-43-competencias-especiales-cautelares-y-estatuto-del-tribunal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-43-competencias-especiales-cautelares-y-estatuto-del-tribunal.webp" alt="Competencias especiales, cautelares y Estatuto del Tribunal" width="820">
+</p>
+<p align="center"><em>Infografía: Competencias especiales, cautelares y Estatuto del Tribunal.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1851,7 +2027,11 @@ Prioridad: **arts. 288 a 292 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2020 · pregunta 28, 2021 · pregunta 29, 2022 · pregunta 27, 2023 · pregunta 30, 2024 · pregunta 29, 2024 · pregunta 29, 2024 · pregunta 30, 2025 · pregunta 30, 2026 · pregunta 27.
 :::
 
-<!-- VISUAL PENDIENTE: t05-44-actos-juridicos-de-la-union.webp -->
+<!-- VISUAL:t05-44-actos-juridicos-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-44-actos-juridicos-de-la-union.webp" alt="Actos jurídicos de la Unión" width="820">
+</p>
+<p align="center"><em>Infografía: Actos jurídicos de la Unión.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1907,7 +2087,11 @@ Prioridad: **arts. 300 a 307 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2020 · pregunta 28, 2021 · pregunta 31.
 :::
 
-<!-- VISUAL PENDIENTE: t05-45-comite-economico-y-social-y-comite-de-las-regiones.webp -->
+<!-- VISUAL:t05-45-comite-economico-y-social-y-comite-de-las-regiones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-45-comite-economico-y-social-y-comite-de-las-regiones.webp" alt="Comité Económico y Social y Comité de las Regiones" width="820">
+</p>
+<p align="center"><em>Infografía: Comité Económico y Social y Comité de las Regiones.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1945,7 +2129,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 335 a 340 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-46-capacidad-juridica-personal-informacion-y-responsabilidad.webp -->
+<!-- VISUAL:t05-46-capacidad-juridica-personal-informacion-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-46-capacidad-juridica-personal-informacion-y-responsabilidad.webp" alt="Capacidad jurídica, personal, información y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Capacidad jurídica, personal, información y responsabilidad.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -1990,7 +2178,11 @@ Prioridad: **arts. 341 a 348 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2023 · pregunta 30.
 :::
 
-<!-- VISUAL PENDIENTE: t05-47-sedes-lenguas-inmunidades-y-excepciones-de-seguridad.webp -->
+<!-- VISUAL:t05-47-sedes-lenguas-inmunidades-y-excepciones-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-47-sedes-lenguas-inmunidades-y-excepciones-de-seguridad.webp" alt="Sedes, lenguas, inmunidades y excepciones de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Sedes, lenguas, inmunidades y excepciones de seguridad.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -2030,7 +2222,11 @@ Ante un caso, pregunta primero si la competencia es de la Unión o de los Estado
 Prioridad: **arts. 349 a 354 TFUE**. Compara literalmente sujetos, funciones, mayorías, plazos, efectos y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t05-48-regiones-ultraperifericas-convenios-flexibilidad-y-articulo-7-.webp -->
+<!-- VISUAL:t05-48-regiones-ultraperifericas-convenios-flexibilidad-y-articulo-7-.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-48-regiones-ultraperifericas-convenios-flexibilidad-y-articulo-7-.webp" alt="Regiones ultraperiféricas, convenios, flexibilidad y artículo 7 TUE" width="820">
+</p>
+<p align="center"><em>Infografía: Regiones ultraperiféricas, convenios, flexibilidad y artículo 7 TUE.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 
@@ -2069,7 +2265,11 @@ Prioridad: **arts. 355 a 358 TFUE**. Compara literalmente sujetos, funciones, ma
 Apariciones oficiales verificadas: 2023 · pregunta 31.
 :::
 
-<!-- VISUAL PENDIENTE: t05-49-ambito-territorial-duracion-ratificacion-y-lenguas-autenticas.webp -->
+<!-- VISUAL:t05-49-ambito-territorial-duracion-ratificacion-y-lenguas-autenticas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-05/t05-49-ambito-territorial-duracion-ratificacion-y-lenguas-autenticas.webp" alt="Ámbito territorial, duración, ratificación y lenguas auténticas" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito territorial, duración, ratificación y lenguas auténticas.</em></p>
 
 <!-- FUENTE: EURLEX-TFUE-CONSOLIDADO-GC-T05 -->
 

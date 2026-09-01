@@ -28,7 +28,11 @@ El Tema 3 no comprende toda la Ley 31/1995: el programa selecciona sus capítulo
 Ancla el bloque en **Programa oficial; LPRL; RD 67/2010; RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-01-alcance-oficial-y-jerarquia-normativa.webp -->
+<!-- VISUAL:t03-01-alcance-oficial-y-jerarquia-normativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-01-alcance-oficial-y-jerarquia-normativa.webp" alt="Alcance oficial y jerarquía normativa" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y jerarquía normativa.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T03 -->
 
@@ -48,7 +52,11 @@ Los tres primeros artículos delimitan qué integra la normativa preventiva, qu�
 Ancla el bloque en **arts. 1 a 3 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp -->
+<!-- VISUAL:t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp" alt="Objeto, carácter, ámbito y exclusiones de la LPRL" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto, carácter, ámbito y exclusiones de la LPRL.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -68,7 +76,11 @@ El artículo 4 contiene definiciones literales muy preguntadas. La gravedad del 
 Ancla el bloque en **art. 4.1 a 4.4 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp -->
+<!-- VISUAL:t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp" alt="Definiciones nucleares de prevención y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones nucleares de prevención y riesgo.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -88,7 +100,11 @@ La segunda mitad del artículo 4 separa la fuente del riesgo, el medio de trabaj
 Ancla el bloque en **art. 4.5 a 4.8 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp -->
+<!-- VISUAL:t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp" alt="Definiciones de procesos, equipos, condiciones y EPI" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones de procesos, equipos, condiciones y EPI.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -108,7 +124,11 @@ La política pública coordina actuaciones y el artículo 6 reserva al Gobierno 
 Ancla el bloque en **arts. 5 y 6 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-05-politica-preventiva-y-potestad-reglamentaria.webp -->
+<!-- VISUAL:t03-05-politica-preventiva-y-potestad-reglamentaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-05-politica-preventiva-y-potestad-reglamentaria.webp" alt="Política preventiva y potestad reglamentaria" width="820">
+</p>
+<p align="center"><em>Infografía: Política preventiva y potestad reglamentaria.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -128,7 +148,11 @@ El artículo 7 distribuye promoción, asistencia, vigilancia y sanción; desde a
 Ancla el bloque en **arts. 7 y 8 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-06-administraciones-laborales-e-insst.webp -->
+<!-- VISUAL:t03-06-administraciones-laborales-e-insst.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-06-administraciones-laborales-e-insst.webp" alt="Administraciones laborales e INSST" width="820">
+</p>
+<p align="center"><em>Infografía: Administraciones laborales e INSST.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -148,7 +172,11 @@ La Inspección vigila y controla; las Administraciones sanitarias añaden vigila
 Ancla el bloque en **arts. 9 a 11 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp -->
+<!-- VISUAL:t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp" alt="Inspección de Trabajo, sanidad y coordinación" width="820">
+</p>
+<p align="center"><em>Infografía: Inspección de Trabajo, sanidad y coordinación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -168,7 +196,11 @@ La participación de organizaciones empresariales y sindicales es un principio b
 Ancla el bloque en **arts. 12 y 13 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-08-participacion-institucional-y-comision-nacional.webp -->
+<!-- VISUAL:t03-08-participacion-institucional-y-comision-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-08-participacion-institucional-y-comision-nacional.webp" alt="Participación institucional y Comisión Nacional" width="820">
+</p>
+<p align="center"><em>Infografía: Participación institucional y Comisión Nacional.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -188,7 +220,11 @@ El artículo 14 formula el derecho y el correlativo deber empresarial. El artíc
 Ancla el bloque en **arts. 14 y 15 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp -->
+<!-- VISUAL:t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp" alt="Derecho de protección y principios de acción preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho de protección y principios de acción preventiva.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -208,7 +244,11 @@ Plan, evaluación y planificación no son sinónimos. El plan integra la prevenc
 Ancla el bloque en **art. 16 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-10-plan-evaluacion-y-planificacion-preventiva.webp -->
+<!-- VISUAL:t03-10-plan-evaluacion-y-planificacion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-10-plan-evaluacion-y-planificacion-preventiva.webp" alt="Plan, evaluación y planificación preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Plan, evaluación y planificación preventiva.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -228,7 +268,11 @@ El empresario debe hacer seguro el medio de trabajo, informar sobre riesgos y fo
 Ancla el bloque en **arts. 17 a 19 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-11-equipos-informacion-y-formacion.webp -->
+<!-- VISUAL:t03-11-equipos-informacion-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-11-equipos-informacion-y-formacion.webp" alt="Equipos, información y formación" width="820">
+</p>
+<p align="center"><em>Infografía: Equipos, información y formación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -248,7 +292,11 @@ Emergencia y riesgo grave e inminente son regímenes relacionados, pero no idén
 Ancla el bloque en **arts. 20 y 21 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-12-emergencias-y-riesgo-grave-e-inminente.webp -->
+<!-- VISUAL:t03-12-emergencias-y-riesgo-grave-e-inminente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-12-emergencias-y-riesgo-grave-e-inminente.webp" alt="Emergencias y riesgo grave e inminente" width="820">
+</p>
+<p align="center"><em>Infografía: Emergencias y riesgo grave e inminente.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -268,7 +316,11 @@ La vigilancia de la salud parte del consentimiento y protege intimidad y confide
 Ancla el bloque en **arts. 22 y 23 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-13-vigilancia-de-la-salud-y-documentacion.webp -->
+<!-- VISUAL:t03-13-vigilancia-de-la-salud-y-documentacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-13-vigilancia-de-la-salud-y-documentacion.webp" alt="Vigilancia de la salud y documentación" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud y documentación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -288,7 +340,11 @@ Cuando coinciden varias empresas en un centro, no desaparecen responsabilidades:
 Ancla el bloque en **art. 24 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-14-coordinacion-de-actividades-empresariales.webp -->
+<!-- VISUAL:t03-14-coordinacion-de-actividades-empresariales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-14-coordinacion-de-actividades-empresariales.webp" alt="Coordinación de actividades empresariales" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación de actividades empresariales.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -308,7 +364,11 @@ Estos artículos obligan a adaptar la prevención a características personales,
 Ancla el bloque en **arts. 25 a 27 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-15-sensibilidad-especial-maternidad-y-menores.webp -->
+<!-- VISUAL:t03-15-sensibilidad-especial-maternidad-y-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-15-sensibilidad-especial-maternidad-y-menores.webp" alt="Sensibilidad especial, maternidad y menores" width="820">
+</p>
+<p align="center"><em>Infografía: Sensibilidad especial, maternidad y menores.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -328,7 +388,11 @@ La temporalidad no reduce la protección. El trabajador también tiene deberes c
 Ancla el bloque en **arts. 28 y 29 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp -->
+<!-- VISUAL:t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp" alt="Relaciones temporales y obligaciones del trabajador" width="820">
+</p>
+<p align="center"><em>Infografía: Relaciones temporales y obligaciones del trabajador.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -348,7 +412,11 @@ El capítulo VI sitúa obligaciones antes de que el equipo o producto llegue al 
 Ancla el bloque en **art. 41 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-17-fabricantes-importadores-y-suministradores.webp -->
+<!-- VISUAL:t03-17-fabricantes-importadores-y-suministradores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-17-fabricantes-importadores-y-suministradores.webp" alt="Fabricantes, importadores y suministradores" width="820">
+</p>
+<p align="center"><em>Infografía: Fabricantes, importadores y suministradores.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -368,7 +436,11 @@ Un incumplimiento puede abrir varias vías de responsabilidad compatibles. Antes
 Ancla el bloque en **arts. 42 y 43 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-18-responsabilidades-y-requerimiento-inspector.webp -->
+<!-- VISUAL:t03-18-responsabilidades-y-requerimiento-inspector.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-18-responsabilidades-y-requerimiento-inspector.webp" alt="Responsabilidades y requerimiento inspector" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidades y requerimiento inspector.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -388,7 +460,11 @@ La paralización inspectora responde a riesgo grave e inminente. Los plazos son 
 Ancla el bloque en **art. 44 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-19-paralizacion-de-trabajos-e-impugnacion.webp -->
+<!-- VISUAL:t03-19-paralizacion-de-trabajos-e-impugnacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-19-paralizacion-de-trabajos-e-impugnacion.webp" alt="Paralización de trabajos e impugnación" width="820">
+</p>
+<p align="center"><em>Infografía: Paralización de trabajos e impugnación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -408,7 +484,11 @@ El capítulo VII sigue en el programa, pero no puede estudiarse como en 1995: la
 Ancla el bloque en **arts. 45 a 52 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp -->
+<!-- VISUAL:t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp" alt="Infracciones y preceptos derogados del capítulo VII" width="820">
+</p>
+<p align="center"><em>Infografía: Infracciones y preceptos derogados del capítulo VII.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -428,7 +508,11 @@ El cierre exige circunstancias de excepcional gravedad y es una medida extrema. 
 Ancla el bloque en **arts. 53 y 54 LPRL**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-21-suspension-cierre-y-contratacion-publica.webp -->
+<!-- VISUAL:t03-21-suspension-cierre-y-contratacion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-21-suspension-cierre-y-contratacion-publica.webp" alt="Suspensión, cierre y contratación pública" width="820">
+</p>
+<p align="center"><em>Infografía: Suspensión, cierre y contratación pública.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -448,7 +532,11 @@ El Real Decreto 67/2010 integra la prevención en la AGE y potencia recursos pro
 Ancla el bloque en **arts. 1 y 2 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp -->
+<!-- VISUAL:t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp" alt="Objeto y ámbito del Real Decreto 67/2010" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito del Real Decreto 67/2010.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -468,7 +556,11 @@ El plan es un documento de gestión, no un simple protocolo. Debe identificar or
 Ancla el bloque en **art. 3 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-23-integracion-y-contenido-del-plan-en-la-age.webp -->
+<!-- VISUAL:t03-23-integracion-y-contenido-del-plan-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-23-integracion-y-contenido-del-plan-en-la-age.webp" alt="Integración y contenido del plan en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Integración y contenido del plan en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -488,7 +580,11 @@ El sistema combina órganos unitarios, Delegados, Comités y una Comisión Técn
 Ancla el bloque en **arts. 4 y 5 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp -->
+<!-- VISUAL:t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp" alt="Participación y Delegados de Prevención en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Participación y Delegados de Prevención en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -508,7 +604,11 @@ Es un órgano paritario y colegiado, se reúne trimestralmente y puede existir u
 Ancla el bloque en **art. 6 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-25-comite-de-seguridad-y-salud-de-la-age.webp -->
+<!-- VISUAL:t03-25-comite-de-seguridad-y-salud-de-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-25-comite-de-seguridad-y-salud-de-la-age.webp" alt="Comité de Seguridad y Salud de la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Comité de Seguridad y Salud de la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -528,7 +628,11 @@ La AGE puede combinar servicio propio, personal designado y servicio ajeno, pero
 Ancla el bloque en **art. 7 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-26-servicios-de-prevencion-en-la-age.webp -->
+<!-- VISUAL:t03-26-servicios-de-prevencion-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-26-servicios-de-prevencion-en-la-age.webp" alt="Servicios de Prevención en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de Prevención en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -548,7 +652,11 @@ El artículo 8 distingue exactamente tres niveles. Medicina del trabajo, segurid
 Ancla el bloque en **art. 8 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-27-funciones-y-niveles-de-cualificacion.webp -->
+<!-- VISUAL:t03-27-funciones-y-niveles-de-cualificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-27-funciones-y-niveles-de-cualificacion.webp" alt="Funciones y niveles de cualificación" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones y niveles de cualificación.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -568,7 +676,11 @@ La concurrencia activa coordinación; el sistema preventivo de la AGE se somete 
 Ancla el bloque en **arts. 9 y 10 RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-28-recursos-preventivos-coordinacion-y-control-externo.webp -->
+<!-- VISUAL:t03-28-recursos-preventivos-coordinacion-y-control-externo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-28-recursos-preventivos-coordinacion-y-control-externo.webp" alt="Recursos preventivos, coordinación y control externo" width="820">
+</p>
+<p align="center"><em>Infografía: Recursos preventivos, coordinación y control externo.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -588,7 +700,11 @@ La Dirección General de la Función Pública coordina, sigue, impulsa y mantien
 Ancla el bloque en **art. 11 y disposiciones RD 67/2010**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp -->
+<!-- VISUAL:t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp" alt="Dirección General de la Función Pública y disposiciones AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección General de la Función Pública y disposiciones AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -608,7 +724,11 @@ El Real Decreto 179/2005 adapta la prevención a las peculiaridades organizativa
 Ancla el bloque en **arts. 1 y 2 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp -->
+<!-- VISUAL:t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp" alt="Objeto y ámbito específico de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito específico de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -628,7 +748,11 @@ La reforma de 2026 añadió el artículo 3 bis. Esta novedad no estaba en muchos
 Ancla el bloque en **arts. 3 y 3 bis RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp -->
+<!-- VISUAL:t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp" alt="Objetivo y principios de acción preventiva en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivo y principios de acción preventiva en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -648,7 +772,11 @@ El plan integra la prevención; evaluación y planificación lo aplican; y los �
 Ancla el bloque en **arts. 4 y 5 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp -->
+<!-- VISUAL:t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp" alt="Integración, evaluación y planes de emergencia en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Integración, evaluación y planes de emergencia en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -668,7 +796,11 @@ La redacción vigente garantiza vigilancia periódica, delimita cuándo puede se
 Ancla el bloque en **art. 6 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp -->
+<!-- VISUAL:t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp" alt="Vigilancia de la salud tras la reforma de 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud tras la reforma de 2026.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -688,7 +820,11 @@ Información, propuestas y formación son tres canales diferentes. Desde 2022, l
 Ancla el bloque en **arts. 7 a 9 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp -->
+<!-- VISUAL:t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp" alt="Información, participación y formación en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Información, participación y formación en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -708,7 +844,11 @@ La evaluación de maternidad debe medir naturaleza, grado y duración de exposic
 Ancla el bloque en **arts. 10 y 11 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp -->
+<!-- VISUAL:t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp" alt="Maternidad y obligaciones de la Administración en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Maternidad y obligaciones de la Administración en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -728,7 +868,11 @@ La prevención también exige conducta individual: uso correcto, respeto a dispo
 Ancla el bloque en **art. 12 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-36-obligaciones-del-personal-de-guardia-civil.webp -->
+<!-- VISUAL:t03-36-obligaciones-del-personal-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-36-obligaciones-del-personal-de-guardia-civil.webp" alt="Obligaciones del personal de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones del personal de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -748,7 +892,11 @@ El órgano preventivo es un conjunto de medios humanos, no una lista de recursos
 Ancla el bloque en **art. 13 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-37-organos-de-prevencion-de-guardia-civil.webp -->
+<!-- VISUAL:t03-37-organos-de-prevencion-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-37-organos-de-prevencion-de-guardia-civil.webp" alt="Órganos de prevención de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Órganos de prevención de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -768,7 +916,11 @@ El Consejo asesora sobre propuestas; cada órgano controla internamente a sus de
 Ancla el bloque en **arts. 14 y 15 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-38-consejo-inspeccion-y-control-preventivo.webp -->
+<!-- VISUAL:t03-38-consejo-inspeccion-y-control-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-38-consejo-inspeccion-y-control-preventivo.webp" alt="Consejo, inspección y control preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo, inspección y control preventivo.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -788,7 +940,11 @@ La propuesta de requerimiento contiene irregularidades, medidas y plazo. El Dire
 Ancla el bloque en **art. 16 RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-39-procedimiento-de-medidas-correctoras.webp -->
+<!-- VISUAL:t03-39-procedimiento-de-medidas-correctoras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-39-procedimiento-de-medidas-correctoras.webp" alt="Procedimiento de medidas correctoras" width="820">
+</p>
+<p align="center"><em>Infografía: Procedimiento de medidas correctoras.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -808,7 +964,11 @@ Las disposiciones completan la colaboración médica, el personal en el extranje
 Ancla el bloque en **disposiciones adicionales, derogatoria y finales RD 179/2005**: sujeto, mandato, excepción y control.
 :::
 
-<!-- VISUAL PENDIENTE: t03-40-disposiciones-del-real-decreto-179-2005.webp -->
+<!-- VISUAL:t03-40-disposiciones-del-real-decreto-179-2005.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-40-disposiciones-del-real-decreto-179-2005.webp" alt="Disposiciones del Real Decreto 179/2005" width="820">
+</p>
+<p align="center"><em>Infografía: Disposiciones del Real Decreto 179/2005.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 

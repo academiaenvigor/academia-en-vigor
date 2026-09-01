@@ -13,7 +13,11 @@
 | Seguridad y justicia | INTERPOL, Europol, Eurojust, Frontex, CEPOL | ¿Policía mundial, policía UE, justicia, fronteras o formación? |
 | Especializada | FAO, FMI, OMS | ¿Alimentos, estabilidad monetaria o salud? |
 
-<!-- VISUAL PENDIENTE: t06-00-mapa-instituciones-internacionales.webp -->
+<!-- VISUAL:t06-00-mapa-instituciones-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-00-mapa-instituciones-internacionales.webp" alt="familias, sedes y funciones sin enlaces visibles hasta su producción" width="820">
+</p>
+<p align="center"><em>Infografía: familias, sedes y funciones sin enlaces visibles hasta su producción.</em></p>
 
 # Contenido
 
@@ -41,7 +45,11 @@ Ante una cooperación transfronteriza, pregunta primero si el problema es polici
 Las preguntas comparativas cambian una sede o atribuyen a una agencia la función de otra. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-01-mapa-de-las-instituciones-del-tema.webp -->
+<!-- VISUAL:t06-01-mapa-de-las-instituciones-del-tema.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-01-mapa-de-las-instituciones-del-tema.webp" alt="Mapa de las instituciones del tema mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa de las instituciones del tema mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T06 -->
 
@@ -69,7 +77,11 @@ Cuando una resolución cite la Carta, localiza si está ante un propósito, un p
 Fechas, número de miembros originarios y relación entre Carta y Estatuto de la Corte Internacional de Justicia. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-02-onu-nacimiento-y-carta-fundacional.webp -->
+<!-- VISUAL:t06-02-onu-nacimiento-y-carta-fundacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-02-onu-nacimiento-y-carta-fundacional.webp" alt="ONU: nacimiento y Carta fundacional mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: nacimiento y Carta fundacional mediante línea temporal.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -97,7 +109,11 @@ En una identificación internacional, distingue la condición del Estado de la c
 193 miembros, dos Estados observadores, seis idiomas y sede principal. Apariciones oficiales mapeadas en este bloque: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-03-onu-miembros-observadores-sedes-e-idiomas.webp -->
+<!-- VISUAL:t06-03-onu-miembros-observadores-sedes-e-idiomas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-03-onu-miembros-observadores-sedes-e-idiomas.webp" alt="ONU: miembros, observadores, sedes e idiomas mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: miembros, observadores, sedes e idiomas mediante organigrama.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -125,7 +141,11 @@ En una crisis, separa el arreglo pacífico, la cooperación y la eventual respue
 Igualdad soberana, buena fe, arreglo pacífico, prohibición de la fuerza y no intervención. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-04-onu-propositos-y-principios.webp -->
+<!-- VISUAL:t06-04-onu-propositos-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-04-onu-propositos-y-principios.webp" alt="ONU: propósitos y principios mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: propósitos y principios mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -153,7 +173,11 @@ Para interpretar una votación, identifica primero si la Carta califica la cuest
 Composición, voto, mayoría de dos tercios y competencias presupuestarias y electorales. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-05-onu-asamblea-general.webp -->
+<!-- VISUAL:t06-05-onu-asamblea-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-05-onu-asamblea-general.webp" alt="ONU: Asamblea General mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Asamblea General mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -181,7 +205,11 @@ En una resolución, distingue cuestiones de procedimiento de las demás y compru
 15 miembros, P5, mandatos de dos años, nueve votos y decisiones vinculantes. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-06-onu-consejo-de-seguridad.webp -->
+<!-- VISUAL:t06-06-onu-consejo-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-06-onu-consejo-de-seguridad.webp" alt="ONU: Consejo de Seguridad mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Consejo de Seguridad mediante corte por capas.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -209,7 +237,11 @@ Al leer un organigrama, comprueba si muestra los seis órganos principales aunqu
 54 miembros de ECOSOC y situación del Consejo Fiduciario desde 1994. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp -->
+<!-- VISUAL:t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp" alt="ONU: ECOSOC y Consejo de Administración Fiduciaria mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: ECOSOC y Consejo de Administración Fiduciaria mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -237,7 +269,11 @@ Antes de remitir un asunto, identifica quiénes son las partes y si existe acept
 Sede, 15 jueces, mandato, jurisdicción contenciosa y opiniones consultivas. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-08-onu-corte-internacional-de-justicia.webp -->
+<!-- VISUAL:t06-08-onu-corte-internacional-de-justicia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-08-onu-corte-internacional-de-justicia.webp" alt="ONU: Corte Internacional de Justicia mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Corte Internacional de Justicia mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -265,7 +301,11 @@ En una alerta internacional, el artículo 99 permite al Secretario General llama
 Nombramiento, independencia internacional, artículo 99 y titular a fecha de corte. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-09-onu-secretaria-y-secretario-general.webp -->
+<!-- VISUAL:t06-09-onu-secretaria-y-secretario-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-09-onu-secretaria-y-secretario-general.webp" alt="ONU: Secretaría y Secretario General mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Secretaría y Secretario General mediante línea temporal.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -293,7 +333,11 @@ En una misión, revisa mandato, consentimiento, imparcialidad y reglas de uso de
 Principios de las operaciones de paz y diferencia entre artículos 41 y 42. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp -->
+<!-- VISUAL:t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp" alt="ONU: seguridad colectiva y mantenimiento de la paz mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: seguridad colectiva y mantenimiento de la paz mediante organigrama.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -321,7 +365,11 @@ Ante una referencia a Estrasburgo, comprueba si se trata del Consejo de Europa o
 Tratado de Londres, diez fundadores, 46 miembros, España y sede. Apariciones oficiales mapeadas en este bloque: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-11-consejo-de-europa-origen-miembros-y-sede.webp -->
+<!-- VISUAL:t06-11-consejo-de-europa-origen-miembros-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-11-consejo-de-europa-origen-miembros-y-sede.webp" alt="Consejo de Europa: origen, miembros y sede mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: origen, miembros y sede mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -349,7 +397,11 @@ Para atribuir una decisión, separa el Comité de Ministros de la Asamblea Parla
 Finalidad, valores, Comité de Ministros, Asamblea Parlamentaria e idiomas oficiales. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp -->
+<!-- VISUAL:t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp" alt="Consejo de Europa: fines y órganos estatutarios mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: fines y órganos estatutarios mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -377,7 +429,11 @@ Una denuncia de vulneración del Convenio Europeo sigue un cauce distinto de un 
 Comité de Ministros, PACE, TEDH, Congreso, Comisario e INGOs. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-13-consejo-de-europa-instituciones-y-mecanismos.webp -->
+<!-- VISUAL:t06-13-consejo-de-europa-instituciones-y-mecanismos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-13-consejo-de-europa-instituciones-y-mecanismos.webp" alt="Consejo de Europa: instituciones y mecanismos mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: instituciones y mecanismos mediante corte por capas.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -405,7 +461,11 @@ Ante una solicitud de adhesión, revisa valores, criterios de Copenhague y proce
 27 Estados, España desde 1986, valores y adhesión. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-14-union-europea-evolucion-miembros-y-valores.webp -->
+<!-- VISUAL:t06-14-union-europea-evolucion-miembros-y-valores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-14-union-europea-evolucion-miembros-y-valores.webp" alt="Unión Europea: evolución, miembros y valores mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: evolución, miembros y valores mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -433,7 +493,11 @@ Para saber quién actúa, busca si el asunto es orientación política, legislac
 Lista de instituciones y reparto funcional. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-15-union-europea-siete-instituciones.webp -->
+<!-- VISUAL:t06-15-union-europea-siete-instituciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-15-union-europea-siete-instituciones.webp" alt="Unión Europea: siete instituciones mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: siete instituciones mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -461,7 +525,11 @@ En una pregunta sobre representación, distingue ciudadanos, Estados y gobiernos
 Elecciones cada cinco años, iniciativa ciudadana y zona euro. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp -->
+<!-- VISUAL:t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp" alt="Unión Europea: ciudadanía, elecciones y decisiones mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: ciudadanía, elecciones y decisiones mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -489,7 +557,11 @@ Para una incorporación o despliegue, separa pertenencia a la alianza de partici
 1949, 12 fundadores, 32 aliados, España, sede y tratado de 14 artículos. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-17-otan-origen-miembros-y-sede.webp -->
+<!-- VISUAL:t06-17-otan-origen-miembros-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-17-otan-origen-miembros-y-sede.webp" alt="OTAN: origen, miembros y sede mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: origen, miembros y sede mediante organigrama.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -517,7 +589,11 @@ En una consulta urgente, el Consejo del Atlántico Norte puede reunirse en disti
 NAC, Grupo de Planes Nucleares, Comité Militar y Secretario General. Apariciones oficiales mapeadas en este bloque: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-18-otan-estructura-y-decision-por-consenso.webp -->
+<!-- VISUAL:t06-18-otan-estructura-y-decision-por-consenso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-18-otan-estructura-y-decision-por-consenso.webp" alt="OTAN: estructura y decisión por consenso mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: estructura y decisión por consenso mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -545,7 +621,11 @@ Ante una amenaza, puede activarse primero la consulta del artículo 4 sin que ex
 Consulta, defensa colectiva, asistencia y única invocación del artículo 5. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp -->
+<!-- VISUAL:t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp" alt="OTAN: artículos 4 y 5 y gestión de crisis mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: artículos 4 y 5 y gestión de crisis mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -573,7 +653,11 @@ Una petición urgente circula a través de la Oficina Central Nacional y la red 
 1923, 1956, 196 miembros, Lyon e idiomas. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-20-interpol-origen-alcance-y-sede.webp -->
+<!-- VISUAL:t06-20-interpol-origen-alcance-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-20-interpol-origen-alcance-y-sede.webp" alt="INTERPOL: origen, alcance y sede mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: origen, alcance y sede mediante corte por capas.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -601,7 +685,11 @@ En España, la cooperación operativa se canaliza por la OCN competente y no dir
 Asamblea, Comité Ejecutivo, Secretaría, OCN, asesores y control de ficheros. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp -->
+<!-- VISUAL:t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp" alt="INTERPOL: órganos y Oficinas Centrales Nacionales mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: órganos y Oficinas Centrales Nacionales mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -629,7 +717,11 @@ Antes de actuar sobre una alerta, la autoridad nacional debe aplicar su Derecho 
 Artículo 3, notificaciones, bases de datos e I-24/7. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-22-interpol-funciones-limites-y-herramientas.webp -->
+<!-- VISUAL:t06-22-interpol-funciones-limites-y-herramientas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-22-interpol-funciones-limites-y-herramientas.webp" alt="INTERPOL: funciones, límites y herramientas mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: funciones, límites y herramientas mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -657,7 +749,11 @@ Si intervienen al menos dos Estados y hay delincuencia grave, analiza si Europol
 Agencia de cooperación policial, La Haya, dos o más Estados y ausencia de coerción propia. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-23-europol-base-juridica-mision-y-ambito.webp -->
+<!-- VISUAL:t06-23-europol-base-juridica-mision-y-ambito.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-23-europol-base-juridica-mision-y-ambito.webp" alt="Europol: base jurídica, misión y ámbito mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: base jurídica, misión y ámbito mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -685,7 +781,11 @@ En una investigación paralela, SIENA permite el intercambio seguro entre unidad
 Análisis, SIENA, unidades nacionales, enlaces y equipos conjuntos. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-24-europol-tareas-y-cooperacion-operativa.webp -->
+<!-- VISUAL:t06-24-europol-tareas-y-cooperacion-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-24-europol-tareas-y-cooperacion-operativa.webp" alt="Europol: tareas y cooperación operativa mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: tareas y cooperación operativa mediante organigrama.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -713,7 +813,11 @@ En una auditoría de una operación, separa responsabilidad operativa nacional, 
 Consejo de Administración, director ejecutivo y Grupo de Control Parlamentario Conjunto. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-25-europol-gobierno-y-control.webp -->
+<!-- VISUAL:t06-25-europol-gobierno-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-25-europol-gobierno-y-control.webp" alt="Europol: gobierno y control mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: gobierno y control mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -741,7 +845,11 @@ Si fiscales y jueces de varios Estados necesitan coordinar diligencias, jurisdic
 Cooperación judicial, La Haya, dos o más Estados y actuación a petición o iniciativa. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-26-eurojust-mision-y-competencia.webp -->
+<!-- VISUAL:t06-26-eurojust-mision-y-competencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-26-eurojust-mision-y-competencia.webp" alt="Eurojust: misión y competencia mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: Eurojust: misión y competencia mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: UE-EUROJUST-2018-1727-T06 -->
 
@@ -769,7 +877,11 @@ Una reunión de coordinación puede sincronizar registros, detenciones y asegura
 Colegio, miembros nacionales, Comité Ejecutivo, director administrativo y solicitudes. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-27-eurojust-estructura-e-instrumentos.webp -->
+<!-- VISUAL:t06-27-eurojust-estructura-e-instrumentos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-27-eurojust-estructura-e-instrumentos.webp" alt="Eurojust: estructura e instrumentos mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Eurojust: estructura e instrumentos mediante corte por capas.</em></p>
 
 <!-- FUENTE: UE-EUROJUST-2018-1727-T06 -->
 
@@ -797,7 +909,11 @@ En una presión migratoria, la Agencia puede coordinar refuerzos, pero las órde
 Composición del sistema, sede, gestión integrada y responsabilidad compartida. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp -->
+<!-- VISUAL:t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp" alt="Frontex y la Guardia Europea de Fronteras y Costas mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex y la Guardia Europea de Fronteras y Costas mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -825,7 +941,11 @@ Antes de un despliegue, se pacta un plan operativo y se determinan perfiles, man
 Análisis, vulnerabilidad, operaciones, retornos y cuerpo permanente. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-29-frontex-tareas-y-cuerpo-permanente.webp -->
+<!-- VISUAL:t06-29-frontex-tareas-y-cuerpo-permanente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-29-frontex-tareas-y-cuerpo-permanente.webp" alt="Frontex: tareas y cuerpo permanente mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex: tareas y cuerpo permanente mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -853,7 +973,11 @@ Una alegación de abuso debe conservarse, notificarse y tramitarse mediante los 
 Consejo de Administración, director ejecutivo, responsable de derechos y reclamaciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp -->
+<!-- VISUAL:t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp" alt="Frontex: gobierno, presupuesto y derechos fundamentales mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex: gobierno, presupuesto y derechos fundamentales mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -881,7 +1005,11 @@ Para una necesidad formativa europea, la unidad nacional enlaza la demanda con l
 Agencia de formación, Budapest, destinatarios y lema histórico de examen. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-31-cepol-mision-sede-y-destinatarios.webp -->
+<!-- VISUAL:t06-31-cepol-mision-sede-y-destinatarios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-31-cepol-mision-sede-y-destinatarios.webp" alt="CEPOL: misión, sede y destinatarios mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: CEPOL: misión, sede y destinatarios mediante organigrama.</em></p>
 
 <!-- FUENTE: UE-CEPOL-2015-2219-T06 -->
 
@@ -909,7 +1037,11 @@ Una academia nacional puede participar mediante la Unidad Nacional CEPOL y exper
 Consejo de Administración, director, unidades nacionales y titular actual. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-32-cepol-organizacion-y-red-nacional.webp -->
+<!-- VISUAL:t06-32-cepol-organizacion-y-red-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-32-cepol-organizacion-y-red-nacional.webp" alt="CEPOL: organización y red nacional mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: CEPOL: organización y red nacional mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: UE-CEPOL-2015-2219-T06 -->
 
@@ -937,7 +1069,11 @@ En una emergencia alimentaria, la FAO aporta información, normas y asistencia t
 1945, Roma, miembros, seguridad alimentaria y definición amplia de agricultura. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-33-fao-origen-sede-miembros-y-objetivo.webp -->
+<!-- VISUAL:t06-33-fao-origen-sede-miembros-y-objetivo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-33-fao-origen-sede-miembros-y-objetivo.webp" alt="FAO: origen, sede, miembros y objetivo mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: origen, sede, miembros y objetivo mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -965,7 +1101,11 @@ Para aprobar programa y presupuesto, localiza la competencia de la Conferencia.
 Conferencia bienal, Consejo de 49 miembros y Director General. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-34-fao-conferencia-consejo-y-director-general.webp -->
+<!-- VISUAL:t06-34-fao-conferencia-consejo-y-director-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-34-fao-conferencia-consejo-y-director-general.webp" alt="FAO: Conferencia, Consejo y Director General mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: Conferencia, Consejo y Director General mediante corte por capas.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -993,7 +1133,11 @@ Los datos alimentarios oficiales sirven para decidir políticas, alertas y asist
 Conferencias cada dos años, oficinas regionales y financiación. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-35-fao-trabajo-regional-y-financiacion.webp -->
+<!-- VISUAL:t06-35-fao-trabajo-regional-y-financiacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-35-fao-trabajo-regional-y-financiacion.webp" alt="FAO: trabajo regional y financiación mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: trabajo regional y financiación mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -1021,7 +1165,11 @@ Ante una crisis de balanza de pagos, el FMI combina financiación condicionada, 
 1944, 191 miembros, Washington y seis fines del artículo I. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-36-fmi-origen-miembros-sede-y-fines.webp -->
+<!-- VISUAL:t06-36-fmi-origen-miembros-sede-y-fines.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-36-fmi-origen-miembros-sede-y-fines.webp" alt="FMI: origen, miembros, sede y fines mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: origen, miembros, sede y fines mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -1049,7 +1197,11 @@ Antes de comparar poder de decisión, revisa cuota, votos básicos y representac
 Junta de Gobernadores, Directorio de 25 y efectos de la cuota. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-37-fmi-gobierno-cuotas-y-voto.webp -->
+<!-- VISUAL:t06-37-fmi-gobierno-cuotas-y-voto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-37-fmi-gobierno-cuotas-y-voto.webp" alt="FMI: gobierno, cuotas y voto mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: gobierno, cuotas y voto mediante línea temporal.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -1077,7 +1229,11 @@ Un programa exige diagnóstico, condiciones y revisiones para proteger los recur
 Supervisión, préstamos, asistencia técnica, cuotas y acuerdos de préstamo. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-38-fmi-supervision-prestamos-y-recursos.webp -->
+<!-- VISUAL:t06-38-fmi-supervision-prestamos-y-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-38-fmi-supervision-prestamos-y-recursos.webp" alt="FMI: supervisión, préstamos y recursos mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: supervisión, préstamos y recursos mediante organigrama.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -1105,7 +1261,11 @@ En una alerta global, la OMS coordina información, normas y asistencia con Esta
 1946/1948, Ginebra, 194 miembros y definición de salud. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp -->
+<!-- VISUAL:t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp" alt="OMS: origen, miembros, sede y concepto de salud mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: origen, miembros, sede y concepto de salud mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -1133,7 +1293,11 @@ En una resolución sanitaria, identifica si es una decisión de la Asamblea o un
 Asamblea anual, Consejo de 34 y Director General. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp -->
+<!-- VISUAL:t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp" alt="OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -1161,7 +1325,11 @@ Ante una amenaza emergente, el Hub refuerza detección y análisis, mientras la 
 Seis regiones, financiación dual y ubicación del Hub. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp -->
+<!-- VISUAL:t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp" alt="OMS: funciones, regiones, financiación y Hub de Berlín mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: funciones, regiones, financiación y Hub de Berlín mediante corte por capas.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -1189,7 +1357,11 @@ En un supuesto, asigna cada función al nivel correcto antes de elegir la sigla.
 Consejos europeos, La Haya, sedes y datos dinámicos. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t06-42-comparaciones-y-trampas-finales.webp -->
+<!-- VISUAL:t06-42-comparaciones-y-trampas-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-42-comparaciones-y-trampas-finales.webp" alt="Comparaciones y trampas finales mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Comparaciones y trampas finales mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T06 -->
 

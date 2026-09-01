@@ -47,7 +47,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-01-mapa-alcance-y-vigencia.webp -->
+<!-- VISUAL:t10-01-mapa-alcance-y-vigencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-01-mapa-alcance-y-vigencia.webp" alt="flujo de mapa, alcance y vigencia" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de mapa, alcance y vigencia.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T10 -->
 
@@ -79,7 +83,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-02-objeto-ambito-y-estructura-de-la-ley-39-2015.webp -->
+<!-- VISUAL:t10-02-objeto-ambito-y-estructura-de-la-ley-39-2015.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-02-objeto-ambito-y-estructura-de-la-ley-39-2015.webp" alt="comparación de objeto, ámbito y estructura de la ley 39/2015" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de objeto, ámbito y estructura de la ley 39/2015.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -109,7 +117,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-03-capacidad-de-obrar-y-condicion-de-interesado.webp -->
+<!-- VISUAL:t10-03-capacidad-de-obrar-y-condicion-de-interesado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-03-capacidad-de-obrar-y-condicion-de-interesado.webp" alt="línea temporal de capacidad de obrar y condición de interesado" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de capacidad de obrar y condición de interesado.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -152,7 +164,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-04-representacion-y-apoderamientos.webp -->
+<!-- VISUAL:t10-04-representacion-y-apoderamientos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-04-representacion-y-apoderamientos.webp" alt="escena de representación y apoderamientos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de representación y apoderamientos.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -201,7 +217,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-05-pluralidad-identificacion-firma-y-asistencia.webp -->
+<!-- VISUAL:t10-05-pluralidad-identificacion-firma-y-asistencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-05-pluralidad-identificacion-firma-y-asistencia.webp" alt="capas de pluralidad, identificación, firma y asistencia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de pluralidad, identificación, firma y asistencia.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -236,7 +256,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-06-derechos-y-relacion-electronica.webp -->
+<!-- VISUAL:t10-06-derechos-y-relacion-electronica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-06-derechos-y-relacion-electronica.webp" alt="mapa de derechos y relación electrónica" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de derechos y relación electrónica.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -283,7 +307,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-07-lengua-registros-y-archivo.webp -->
+<!-- VISUAL:t10-07-lengua-registros-y-archivo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-07-lengua-registros-y-archivo.webp" alt="flujo de lengua, registros y archivo" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de lengua, registros y archivo.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -314,7 +342,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-08-colaboracion-comparecencia-y-responsabilidad-de-tramitacion.webp -->
+<!-- VISUAL:t10-08-colaboracion-comparecencia-y-responsabilidad-de-tramitacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-08-colaboracion-comparecencia-y-responsabilidad-de-tramitacion.webp" alt="comparación de colaboración, comparecencia y responsabilidad de tramitación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de colaboración, comparecencia y responsabilidad de tramitación.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -348,7 +380,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-09-obligacion-de-resolver.webp -->
+<!-- VISUAL:t10-09-obligacion-de-resolver.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-09-obligacion-de-resolver.webp" alt="línea temporal de obligación de resolver" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de obligación de resolver.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -385,7 +421,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-10-suspension-y-ampliacion-del-plazo-maximo.webp -->
+<!-- VISUAL:t10-10-suspension-y-ampliacion-del-plazo-maximo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-10-suspension-y-ampliacion-del-plazo-maximo.webp" alt="escena de suspensión y ampliación del plazo máximo" width="820">
+</p>
+<p align="center"><em>Infografía: escena de suspensión y ampliación del plazo máximo.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -422,7 +462,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-11-silencio-administrativo.webp -->
+<!-- VISUAL:t10-11-silencio-administrativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-11-silencio-administrativo.webp" alt="capas de silencio administrativo" width="820">
+</p>
+<p align="center"><em>Infografía: capas de silencio administrativo.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -473,7 +517,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-12-documentos-copias-y-expediente-administrativo.webp -->
+<!-- VISUAL:t10-12-documentos-copias-y-expediente-administrativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-12-documentos-copias-y-expediente-administrativo.webp" alt="mapa de documentos, copias y expediente administrativo" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de documentos, copias y expediente administrativo.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -518,7 +566,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-13-terminos-plazos-ampliacion-y-urgencia.webp -->
+<!-- VISUAL:t10-13-terminos-plazos-ampliacion-y-urgencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-13-terminos-plazos-ampliacion-y-urgencia.webp" alt="flujo de términos, plazos, ampliación y urgencia" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de términos, plazos, ampliación y urgencia.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -552,7 +604,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-14-produccion-contenido-motivacion-y-forma.webp -->
+<!-- VISUAL:t10-14-produccion-contenido-motivacion-y-forma.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-14-produccion-contenido-motivacion-y-forma.webp" alt="comparación de producción, contenido, motivación y forma" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de producción, contenido, motivación y forma.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -579,7 +635,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-15-inderogabilidad-singular-y-legalidad-del-acto.webp -->
+<!-- VISUAL:t10-15-inderogabilidad-singular-y-legalidad-del-acto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-15-inderogabilidad-singular-y-legalidad-del-acto.webp" alt="línea temporal de inderogabilidad singular y legalidad del acto" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de inderogabilidad singular y legalidad del acto.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -609,7 +669,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-16-eficacia-demora-y-retroactividad.webp -->
+<!-- VISUAL:t10-16-eficacia-demora-y-retroactividad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-16-eficacia-demora-y-retroactividad.webp" alt="escena de eficacia, demora y retroactividad" width="820">
+</p>
+<p align="center"><em>Infografía: escena de eficacia, demora y retroactividad.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -662,7 +726,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-17-notificacion-electronica-y-en-papel.webp -->
+<!-- VISUAL:t10-17-notificacion-electronica-y-en-papel.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-17-notificacion-electronica-y-en-papel.webp" alt="capas de notificación electrónica y en papel" width="820">
+</p>
+<p align="center"><em>Infografía: capas de notificación electrónica y en papel.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -694,7 +762,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-18-publicacion-e-indicacion-de-recursos.webp -->
+<!-- VISUAL:t10-18-publicacion-e-indicacion-de-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-18-publicacion-e-indicacion-de-recursos.webp" alt="mapa de publicación e indicación de recursos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de publicación e indicación de recursos.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -723,7 +795,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-19-nulidad-y-anulabilidad.webp -->
+<!-- VISUAL:t10-19-nulidad-y-anulabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-19-nulidad-y-anulabilidad.webp" alt="flujo de nulidad y anulabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de nulidad y anulabilidad.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -753,7 +829,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-20-limites-conversion-conservacion-y-convalidacion.webp -->
+<!-- VISUAL:t10-20-limites-conversion-conservacion-y-convalidacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-20-limites-conversion-conservacion-y-convalidacion.webp" alt="comparación de límites, conversión, conservación y convalidación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de límites, conversión, conservación y convalidación.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -786,7 +866,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-21-garantias-del-procedimiento.webp -->
+<!-- VISUAL:t10-21-garantias-del-procedimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-21-garantias-del-procedimiento.webp" alt="línea temporal de garantías del procedimiento" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de garantías del procedimiento.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -824,7 +908,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-22-iniciacion-reglas-generales-y-medidas-provisionales.webp -->
+<!-- VISUAL:t10-22-iniciacion-reglas-generales-y-medidas-provisionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-22-iniciacion-reglas-generales-y-medidas-provisionales.webp" alt="escena de iniciación: reglas generales y medidas provisionales" width="820">
+</p>
+<p align="center"><em>Infografía: escena de iniciación: reglas generales y medidas provisionales.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -871,7 +959,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-23-iniciacion-de-oficio.webp -->
+<!-- VISUAL:t10-23-iniciacion-de-oficio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-23-iniciacion-de-oficio.webp" alt="capas de iniciación de oficio" width="820">
+</p>
+<p align="center"><em>Infografía: capas de iniciación de oficio.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -918,7 +1010,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-24-iniciacion-a-solicitud-del-interesado.webp -->
+<!-- VISUAL:t10-24-iniciacion-a-solicitud-del-interesado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-24-iniciacion-a-solicitud-del-interesado.webp" alt="mapa de iniciación a solicitud del interesado" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de iniciación a solicitud del interesado.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -955,7 +1051,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-25-ordenacion-del-procedimiento.webp -->
+<!-- VISUAL:t10-25-ordenacion-del-procedimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-25-ordenacion-del-procedimiento.webp" alt="flujo de ordenación del procedimiento" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de ordenación del procedimiento.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -985,7 +1085,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-26-actos-de-instruccion-y-alegaciones.webp -->
+<!-- VISUAL:t10-26-actos-de-instruccion-y-alegaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-26-actos-de-instruccion-y-alegaciones.webp" alt="comparación de actos de instrucción y alegaciones" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de actos de instrucción y alegaciones.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1019,7 +1123,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-27-prueba.webp -->
+<!-- VISUAL:t10-27-prueba.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-27-prueba.webp" alt="línea temporal de prueba" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de prueba.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1062,7 +1170,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-28-informes-audiencia-e-informacion-publica.webp -->
+<!-- VISUAL:t10-28-informes-audiencia-e-informacion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-28-informes-audiencia-e-informacion-publica.webp" alt="escena de informes, audiencia e información pública" width="820">
+</p>
+<p align="center"><em>Infografía: escena de informes, audiencia e información pública.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1097,7 +1209,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-29-terminacion-general-y-convencional.webp -->
+<!-- VISUAL:t10-29-terminacion-general-y-convencional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-29-terminacion-general-y-convencional.webp" alt="capas de terminación general y convencional" width="820">
+</p>
+<p align="center"><em>Infografía: capas de terminación general y convencional.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1147,7 +1263,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-30-resolucion-y-especialidades.webp -->
+<!-- VISUAL:t10-30-resolucion-y-especialidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-30-resolucion-y-especialidades.webp" alt="mapa de resolución y especialidades" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de resolución y especialidades.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1180,7 +1300,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-31-desistimiento-renuncia-y-caducidad.webp -->
+<!-- VISUAL:t10-31-desistimiento-renuncia-y-caducidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-31-desistimiento-renuncia-y-caducidad.webp" alt="flujo de desistimiento, renuncia y caducidad" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de desistimiento, renuncia y caducidad.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1216,7 +1340,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-32-tramitacion-simplificada.webp -->
+<!-- VISUAL:t10-32-tramitacion-simplificada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-32-tramitacion-simplificada.webp" alt="comparación de tramitación simplificada" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de tramitación simplificada.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1254,7 +1382,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-33-ejecucion.webp -->
+<!-- VISUAL:t10-33-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-33-ejecucion.webp" alt="línea temporal de ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de ejecución.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1294,7 +1426,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-34-revision-de-oficio.webp -->
+<!-- VISUAL:t10-34-revision-de-oficio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-34-revision-de-oficio.webp" alt="escena de revisión de oficio" width="820">
+</p>
+<p align="center"><em>Infografía: escena de revisión de oficio.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1346,7 +1482,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-35-recursos-administrativos-reglas-generales.webp -->
+<!-- VISUAL:t10-35-recursos-administrativos-reglas-generales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-35-recursos-administrativos-reglas-generales.webp" alt="capas de recursos administrativos: reglas generales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de recursos administrativos: reglas generales.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1375,7 +1515,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-36-recurso-de-alzada.webp -->
+<!-- VISUAL:t10-36-recurso-de-alzada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-36-recurso-de-alzada.webp" alt="mapa de recurso de alzada" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de recurso de alzada.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1403,7 +1547,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-37-recurso-potestativo-de-reposicion.webp -->
+<!-- VISUAL:t10-37-recurso-potestativo-de-reposicion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-37-recurso-potestativo-de-reposicion.webp" alt="flujo de recurso potestativo de reposición" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de recurso potestativo de reposición.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1434,7 +1582,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-38-recurso-extraordinario-de-revision.webp -->
+<!-- VISUAL:t10-38-recurso-extraordinario-de-revision.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-38-recurso-extraordinario-de-revision.webp" alt="comparación de recurso extraordinario de revisión" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de recurso extraordinario de revisión.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1486,7 +1638,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-39-iniciativa-legislativa-y-potestad-reglamentaria.webp -->
+<!-- VISUAL:t10-39-iniciativa-legislativa-y-potestad-reglamentaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-39-iniciativa-legislativa-y-potestad-reglamentaria.webp" alt="línea temporal de iniciativa legislativa y potestad reglamentaria" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de iniciativa legislativa y potestad reglamentaria.</em></p>
 
 <!-- FUENTE: LEY39-2015-BOE-A-2015-10565-T10 -->
 
@@ -1523,7 +1679,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-40-ley-40-2015-objeto-ambito-y-principios.webp -->
+<!-- VISUAL:t10-40-ley-40-2015-objeto-ambito-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-40-ley-40-2015-objeto-ambito-y-principios.webp" alt="escena de ley 40/2015: objeto, ámbito y principios" width="820">
+</p>
+<p align="center"><em>Infografía: escena de ley 40/2015: objeto, ámbito y principios.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1559,7 +1719,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-41-organos-administrativos-instrucciones-y-competencia.webp -->
+<!-- VISUAL:t10-41-organos-administrativos-instrucciones-y-competencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-41-organos-administrativos-instrucciones-y-competencia.webp" alt="capas de órganos administrativos, instrucciones y competencia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de órganos administrativos, instrucciones y competencia.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1609,7 +1773,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **8**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-42-delegacion-avocacion-encomienda-firma-y-suplencia.webp -->
+<!-- VISUAL:t10-42-delegacion-avocacion-encomienda-firma-y-suplencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-42-delegacion-avocacion-encomienda-firma-y-suplencia.webp" alt="mapa de delegación, avocación, encomienda, firma y suplencia" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de delegación, avocación, encomienda, firma y suplencia.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1658,7 +1826,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-43-decisiones-de-competencia-y-organos-colegiados.webp -->
+<!-- VISUAL:t10-43-decisiones-de-competencia-y-organos-colegiados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-43-decisiones-de-competencia-y-organos-colegiados.webp" alt="flujo de decisiones de competencia y órganos colegiados" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de decisiones de competencia y órganos colegiados.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1710,7 +1882,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-44-organos-colegiados-de-la-administracion-general-del-estado.webp -->
+<!-- VISUAL:t10-44-organos-colegiados-de-la-administracion-general-del-estado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-44-organos-colegiados-de-la-administracion-general-del-estado.webp" alt="comparación de órganos colegiados de la administración general del estado" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de órganos colegiados de la administración general del estado.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1742,7 +1918,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-45-abstencion-y-recusacion.webp -->
+<!-- VISUAL:t10-45-abstencion-y-recusacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-45-abstencion-y-recusacion.webp" alt="línea temporal de abstención y recusación" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de abstención y recusación.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1789,7 +1969,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-46-principios-de-la-potestad-sancionadora.webp -->
+<!-- VISUAL:t10-46-principios-de-la-potestad-sancionadora.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-46-principios-de-la-potestad-sancionadora.webp" alt="escena de principios de la potestad sancionadora" width="820">
+</p>
+<p align="center"><em>Infografía: escena de principios de la potestad sancionadora.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1834,7 +2018,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-47-responsabilidad-patrimonial-de-las-administraciones.webp -->
+<!-- VISUAL:t10-47-responsabilidad-patrimonial-de-las-administraciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-47-responsabilidad-patrimonial-de-las-administraciones.webp" alt="capas de responsabilidad patrimonial de las administraciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de responsabilidad patrimonial de las administraciones.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1868,7 +2056,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-48-responsabilidad-de-autoridades-y-personal.webp -->
+<!-- VISUAL:t10-48-responsabilidad-de-autoridades-y-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-48-responsabilidad-de-autoridades-y-personal.webp" alt="mapa de responsabilidad de autoridades y personal" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de responsabilidad de autoridades y personal.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1916,7 +2108,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-49-funcionamiento-electronico-del-sector-publico.webp -->
+<!-- VISUAL:t10-49-funcionamiento-electronico-del-sector-publico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-49-funcionamiento-electronico-del-sector-publico.webp" alt="flujo de funcionamiento electrónico del sector público" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de funcionamiento electrónico del sector público.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -1972,7 +2168,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-50-convenios-concepto-requisitos-y-validez.webp -->
+<!-- VISUAL:t10-50-convenios-concepto-requisitos-y-validez.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-50-convenios-concepto-requisitos-y-validez.webp" alt="comparación de convenios: concepto, requisitos y validez" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de convenios: concepto, requisitos y validez.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2008,7 +2208,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-51-convenios-extincion-liquidacion-y-control.webp -->
+<!-- VISUAL:t10-51-convenios-extincion-liquidacion-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-51-convenios-extincion-liquidacion-y-control.webp" alt="línea temporal de convenios: extinción, liquidación y control" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de convenios: extinción, liquidación y control.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2036,7 +2240,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-52-administracion-de-los-territorios-historicos.webp -->
+<!-- VISUAL:t10-52-administracion-de-los-territorios-historicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-52-administracion-de-los-territorios-historicos.webp" alt="escena de administración de los territorios históricos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de administración de los territorios históricos.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2072,7 +2280,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-53-organizacion-de-la-administracion-general-del-estado.webp -->
+<!-- VISUAL:t10-53-organizacion-de-la-administracion-general-del-estado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-53-organizacion-de-la-administracion-general-del-estado.webp" alt="capas de organización de la administración general del estado" width="820">
+</p>
+<p align="center"><em>Infografía: capas de organización de la administración general del estado.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2116,7 +2328,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-54-ministerios-secretarias-de-estado-y-organos-superiores.webp -->
+<!-- VISUAL:t10-54-ministerios-secretarias-de-estado-y-organos-superiores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-54-ministerios-secretarias-de-estado-y-organos-superiores.webp" alt="mapa de ministerios, secretarías de estado y órganos superiores" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de ministerios, secretarías de estado y órganos superiores.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2175,7 +2391,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-55-subsecretarias-secretarias-generales-y-direcciones.webp -->
+<!-- VISUAL:t10-55-subsecretarias-secretarias-generales-y-direcciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-55-subsecretarias-secretarias-generales-y-direcciones.webp" alt="flujo de subsecretarías, secretarías generales y direcciones" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de subsecretarías, secretarías generales y direcciones.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2205,7 +2425,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-56-jerarquia-y-servicios-comunes.webp -->
+<!-- VISUAL:t10-56-jerarquia-y-servicios-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-56-jerarquia-y-servicios-comunes.webp" alt="comparación de jerarquía y servicios comunes" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de jerarquía y servicios comunes.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2243,7 +2467,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-57-organizacion-territorial-y-delegados-del-gobierno.webp -->
+<!-- VISUAL:t10-57-organizacion-territorial-y-delegados-del-gobierno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-57-organizacion-territorial-y-delegados-del-gobierno.webp" alt="línea temporal de organización territorial y delegados del gobierno" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de organización territorial y delegados del gobierno.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2292,7 +2520,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-58-subdelegados-del-gobierno-y-directores-insulares.webp -->
+<!-- VISUAL:t10-58-subdelegados-del-gobierno-y-directores-insulares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-58-subdelegados-del-gobierno-y-directores-insulares.webp" alt="escena de subdelegados del gobierno y directores insulares" width="820">
+</p>
+<p align="center"><em>Infografía: escena de subdelegados del gobierno y directores insulares.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2328,7 +2560,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-59-estructura-territorial-y-comision-de-asistencia.webp -->
+<!-- VISUAL:t10-59-estructura-territorial-y-comision-de-asistencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-59-estructura-territorial-y-comision-de-asistencia.webp" alt="capas de estructura territorial y comisión de asistencia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de estructura territorial y comisión de asistencia.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2354,7 +2590,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-60-administracion-general-del-estado-en-el-exterior.webp -->
+<!-- VISUAL:t10-60-administracion-general-del-estado-en-el-exterior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-60-administracion-general-del-estado-en-el-exterior.webp" alt="mapa de administración general del estado en el exterior" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de administración general del estado en el exterior.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2392,7 +2632,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-61-principios-y-deber-de-colaboracion-interadministrativa.webp -->
+<!-- VISUAL:t10-61-principios-y-deber-de-colaboracion-interadministrativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-61-principios-y-deber-de-colaboracion-interadministrativa.webp" alt="flujo de principios y deber de colaboración interadministrativa" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de principios y deber de colaboración interadministrativa.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2422,7 +2666,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-62-tecnicas-de-colaboracion.webp -->
+<!-- VISUAL:t10-62-tecnicas-de-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-62-tecnicas-de-colaboracion.webp" alt="comparación de técnicas de colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de técnicas de colaboración.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2471,7 +2719,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-63-cooperacion-y-conferencias-sectoriales.webp -->
+<!-- VISUAL:t10-63-cooperacion-y-conferencias-sectoriales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-63-cooperacion-y-conferencias-sectoriales.webp" alt="línea temporal de cooperación y conferencias sectoriales" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de cooperación y conferencias sectoriales.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2509,7 +2761,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-64-comisiones-otros-organos-y-registro.webp -->
+<!-- VISUAL:t10-64-comisiones-otros-organos-y-registro.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-64-comisiones-otros-organos-y-registro.webp" alt="escena de comisiones, otros órganos y registro" width="820">
+</p>
+<p align="center"><em>Infografía: escena de comisiones, otros órganos y registro.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2549,7 +2805,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-65-relaciones-electronicas-y-transferencia-tecnologica.webp -->
+<!-- VISUAL:t10-65-relaciones-electronicas-y-transferencia-tecnologica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-65-relaciones-electronicas-y-transferencia-tecnologica.webp" alt="capas de relaciones electrónicas y transferencia tecnológica" width="820">
+</p>
+<p align="center"><em>Infografía: capas de relaciones electrónicas y transferencia tecnológica.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 
@@ -2664,7 +2924,11 @@ Ante un expediente real, comprueba competencia, identificación del interesado, 
 Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apariciones oficiales mapeadas: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t10-66-disposicion-final-tercera-reforma-de-la-ley-del-gobierno.webp -->
+<!-- VISUAL:t10-66-disposicion-final-tercera-reforma-de-la-ley-del-gobierno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-66-disposicion-final-tercera-reforma-de-la-ley-del-gobierno.webp" alt="mapa de disposición final tercera: reforma de la ley del gobierno" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de disposición final tercera: reforma de la ley del gobierno.</em></p>
 
 <!-- FUENTE: LEY40-2015-BOE-A-2015-10566-T10 -->
 

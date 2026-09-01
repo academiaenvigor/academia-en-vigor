@@ -46,11 +46,18 @@ class Tema16GuardiaCivilQualityGate(unittest.TestCase):
         self.assertEqual(1, self.index["en_cuarentena"])
         self.assertTrue(all(q["fact_refs"][0].startswith("GC-T16-F") for q in self.index["questions"]))
 
-    def test_visuals_only_planned(self):
+    def test_visuals_match_disk(self):
         manifest = json.loads((A / "manifest.json").read_text())
-        self.assertEqual(0, manifest["totals"]["integrated"])
-        self.assertEqual(49, manifest["totals"]["planned"])
-        self.assertFalse(list(A.glob("*.webp")))
+        totals = manifest["totals"]
+        self.assertEqual(49, totals["resources"])
+        self.assertEqual(totals["resources"], totals["integrated"] + totals["planned"])
+        en_disco = {ruta.name for ruta in A.glob("*.webp")}
+        declaradas = {
+            recurso["file"]
+            for recurso in manifest.get("resources", [])
+            if recurso.get("status") == "integrated_webp"
+        }
+        self.assertEqual(declaradas, en_disco)
 
 if __name__ == "__main__":
     unittest.main()

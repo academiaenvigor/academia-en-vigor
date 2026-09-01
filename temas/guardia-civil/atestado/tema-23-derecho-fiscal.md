@@ -13,7 +13,11 @@
 | 3 | Código Aduanero: ámbito, derechos, información, representación y deuda | 8–11 |
 | 4 | Código Aduanero: regímenes, tránsito y salida | 12–14 |
 
-<!-- VISUAL PENDIENTE: t23-00-mapa-general.webp -->
+<!-- VISUAL:t23-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-00-mapa-general.webp" alt="arquitectura normativa" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura normativa.</em></p>
 
 # Contenido
 
@@ -65,7 +69,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-01-contrabando-alcance-y-definiciones.webp -->
+<!-- VISUAL:t23-01-contrabando-alcance-y-definiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-01-contrabando-alcance-y-definiciones.webp" alt="contrabando: alcance y definiciones" width="820">
+</p>
+<p align="center"><em>Infografía: contrabando: alcance y definiciones.</em></p>
 
 <!-- FUENTE: LO12-1995-T23 -->
 
@@ -124,7 +132,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-02-contrabando-delito-y-penalidad.webp -->
+<!-- VISUAL:t23-02-contrabando-delito-y-penalidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-02-contrabando-delito-y-penalidad.webp" alt="contrabando: delito y penalidad" width="820">
+</p>
+<p align="center"><em>Infografía: contrabando: delito y penalidad.</em></p>
 
 <!-- FUENTE: LO12-1995-T23 -->
 
@@ -175,7 +187,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-03-contrabando-responsabilidad-valoracion-y-comiso.webp -->
+<!-- VISUAL:t23-03-contrabando-responsabilidad-valoracion-y-comiso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-03-contrabando-responsabilidad-valoracion-y-comiso.webp" alt="contrabando: responsabilidad, valoración y comiso" width="820">
+</p>
+<p align="center"><em>Infografía: contrabando: responsabilidad, valoración y comiso.</em></p>
 
 <!-- FUENTE: LO12-1995-T23 -->
 
@@ -315,7 +331,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **4**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-04-contrabando-infracciones-administrativas-y-disposiciones.webp -->
+<!-- VISUAL:t23-04-contrabando-infracciones-administrativas-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-04-contrabando-infracciones-administrativas-y-disposiciones.webp" alt="contrabando: infracciones administrativas y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: contrabando: infracciones administrativas y disposiciones.</em></p>
 
 <!-- FUENTE: LO12-1995-T23 -->
 
@@ -392,7 +412,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **0**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-05-rd-1649-1998-tipificacion-sujetos-y-sanciones.webp -->
+<!-- VISUAL:t23-05-rd-1649-1998-tipificacion-sujetos-y-sanciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-05-rd-1649-1998-tipificacion-sujetos-y-sanciones.webp" alt="rd 1649/1998: tipificación, sujetos y sanciones" width="820">
+</p>
+<p align="center"><em>Infografía: rd 1649/1998: tipificación, sujetos y sanciones.</em></p>
 
 <!-- FUENTE: RD1649-1998-T23 -->
 
@@ -443,7 +467,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **2**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-06-rd-1649-1998-graduacion-reiteracion-y-cierre.webp -->
+<!-- VISUAL:t23-06-rd-1649-1998-graduacion-reiteracion-y-cierre.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-06-rd-1649-1998-graduacion-reiteracion-y-cierre.webp" alt="rd 1649/1998: graduación, reiteración y cierre" width="820">
+</p>
+<p align="center"><em>Infografía: rd 1649/1998: graduación, reiteración y cierre.</em></p>
 
 <!-- FUENTE: RD1649-1998-T23 -->
 
@@ -632,7 +660,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **2**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-07-rd-1649-1998-procedimiento-sancionador-y-disposiciones.webp -->
+<!-- VISUAL:t23-07-rd-1649-1998-procedimiento-sancionador-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-07-rd-1649-1998-procedimiento-sancionador-y-disposiciones.webp" alt="rd 1649/1998: procedimiento sancionador y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: rd 1649/1998: procedimiento sancionador y disposiciones.</em></p>
 
 <!-- FUENTE: RD1649-1998-T23 -->
 
@@ -713,7 +745,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **6**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-08-codigo-aduanero-ambito-mision-y-definiciones.webp -->
+<!-- VISUAL:t23-08-codigo-aduanero-ambito-mision-y-definiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-08-codigo-aduanero-ambito-mision-y-definiciones.webp" alt="código aduanero: ámbito, misión y definiciones" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: ámbito, misión y definiciones.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -812,7 +848,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-09-codigo-aduanero-informacion-decisiones-y-operador-autorizado.webp -->
+<!-- VISUAL:t23-09-codigo-aduanero-informacion-decisiones-y-operador-autorizado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-09-codigo-aduanero-informacion-decisiones-y-operador-autorizado.webp" alt="código aduanero: información, decisiones y operador autorizado" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: información, decisiones y operador autorizado.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -860,7 +900,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **0**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-10-codigo-aduanero-representacion-aduanera.webp -->
+<!-- VISUAL:t23-10-codigo-aduanero-representacion-aduanera.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-10-codigo-aduanero-representacion-aduanera.webp" alt="código aduanero: representación aduanera" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: representación aduanera.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -952,7 +996,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **0**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-11-codigo-aduanero-nacimiento-de-la-deuda-de-importacion-y-exportacion.webp -->
+<!-- VISUAL:t23-11-codigo-aduanero-nacimiento-de-la-deuda-de-importacion-y-exportacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-11-codigo-aduanero-nacimiento-de-la-deuda-de-importacion-y-exportacion.webp" alt="código aduanero: nacimiento de la deuda de importación y exportación" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: nacimiento de la deuda de importación y exportación.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -1035,7 +1083,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-12-codigo-aduanero-libre-practica-y-franquicia-de-derechos.webp -->
+<!-- VISUAL:t23-12-codigo-aduanero-libre-practica-y-franquicia-de-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-12-codigo-aduanero-libre-practica-y-franquicia-de-derechos.webp" alt="código aduanero: libre práctica y franquicia de derechos" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: libre práctica y franquicia de derechos.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -1233,7 +1285,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **1**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-13-codigo-aduanero-regimenes-especiales-y-transito.webp -->
+<!-- VISUAL:t23-13-codigo-aduanero-regimenes-especiales-y-transito.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-13-codigo-aduanero-regimenes-especiales-y-transito.webp" alt="código aduanero: regímenes especiales y tránsito" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: regímenes especiales y tránsito.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 
@@ -1352,7 +1408,11 @@ En una actuación real, identifica primero la norma y el artículo aplicable; de
 Apariciones oficiales mapeadas en este bloque: **0**. Prioriza definiciones, competencias, plazos, categorías y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t23-14-codigo-aduanero-formalidades-de-salida-exportacion-y-reexportacion.webp -->
+<!-- VISUAL:t23-14-codigo-aduanero-formalidades-de-salida-exportacion-y-reexportacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-23/t23-14-codigo-aduanero-formalidades-de-salida-exportacion-y-reexportacion.webp" alt="código aduanero: formalidades de salida, exportación y reexportación" width="820">
+</p>
+<p align="center"><em>Infografía: código aduanero: formalidades de salida, exportación y reexportación.</em></p>
 
 <!-- FUENTE: UE952-2013-T23 -->
 

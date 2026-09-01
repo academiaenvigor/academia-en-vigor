@@ -17,7 +17,11 @@
 | 7 | Policía Judicial especializada | 55–59 |
 | 8 | Derechos, protección y asistencia a víctimas | 60–71 |
 
-<!-- VISUAL PENDIENTE: t09-00-mapa-derecho-procesal-penal.webp -->
+<!-- VISUAL:t09-00-mapa-derecho-procesal-penal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-00-mapa-derecho-procesal-penal.webp" alt="recorrido por órganos, actuaciones, garantías y víctimas" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido por órganos, actuaciones, garantías y víctimas.</em></p>
 
 # Contenido
 
@@ -47,7 +51,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-01-mapa-y-alcance-del-tema-9.webp -->
+<!-- VISUAL:t09-01-mapa-y-alcance-del-tema-9.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-01-mapa-y-alcance-del-tema-9.webp" alt="flujo de mapa y alcance del tema 9" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de mapa y alcance del tema 9.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T09 -->
 
@@ -96,7 +104,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-02-competencia-objetiva-y-primeras-diligencias.webp -->
+<!-- VISUAL:t09-02-competencia-objetiva-y-primeras-diligencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-02-competencia-objetiva-y-primeras-diligencias.webp" alt="comparación de competencia objetiva y primeras diligencias" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de competencia objetiva y primeras diligencias.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -131,7 +143,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-03-competencia-territorial-y-delitos-conexos.webp -->
+<!-- VISUAL:t09-03-competencia-territorial-y-delitos-conexos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-03-competencia-territorial-y-delitos-conexos.webp" alt="línea temporal de competencia territorial y delitos conexos" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de competencia territorial y delitos conexos.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -177,7 +193,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-04-acciones-penal-y-civil-titulares.webp -->
+<!-- VISUAL:t09-04-acciones-penal-y-civil-titulares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-04-acciones-penal-y-civil-titulares.webp" alt="escena de acciones penal y civil: titulares" width="820">
+</p>
+<p align="center"><em>Infografía: escena de acciones penal y civil: titulares.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -213,7 +233,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-05-renuncia-extincion-y-reserva-de-acciones.webp -->
+<!-- VISUAL:t09-05-renuncia-extincion-y-reserva-de-acciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-05-renuncia-extincion-y-reserva-de-acciones.webp" alt="capas de renuncia, extinción y reserva de acciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de renuncia, extinción y reserva de acciones.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -254,7 +278,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-06-derecho-de-defensa-y-asistencia-juridica-gratuita.webp -->
+<!-- VISUAL:t09-06-derecho-de-defensa-y-asistencia-juridica-gratuita.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-06-derecho-de-defensa-y-asistencia-juridica-gratuita.webp" alt="mapa de derecho de defensa y asistencia jurídica gratuita" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de derecho de defensa y asistencia jurídica gratuita.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -293,7 +321,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-07-traduccion-e-interpretacion.webp -->
+<!-- VISUAL:t09-07-traduccion-e-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-07-traduccion-e-interpretacion.webp" alt="flujo de traducción e interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de traducción e interpretación.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -339,7 +371,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **7**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-08-denuncia.webp -->
+<!-- VISUAL:t09-08-denuncia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-08-denuncia.webp" alt="comparación de denuncia" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de denuncia.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -378,7 +414,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-09-querella.webp -->
+<!-- VISUAL:t09-09-querella.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-09-querella.webp" alt="línea temporal de querella" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de querella.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -421,7 +461,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-10-policia-judicial-mision-y-agente-encubierto.webp -->
+<!-- VISUAL:t09-10-policia-judicial-mision-y-agente-encubierto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-10-policia-judicial-mision-y-agente-encubierto.webp" alt="escena de policía judicial: misión y agente encubierto" width="820">
+</p>
+<p align="center"><em>Infografía: escena de policía judicial: misión y agente encubierto.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -467,7 +511,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-11-atestado-comunicacion-y-diligencias-policiales.webp -->
+<!-- VISUAL:t09-11-atestado-comunicacion-y-diligencias-policiales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-11-atestado-comunicacion-y-diligencias-policiales.webp" alt="capas de atestado, comunicación y diligencias policiales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de atestado, comunicación y diligencias policiales.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -505,7 +553,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-12-sumario-secreto-y-autoridades-instructoras.webp -->
+<!-- VISUAL:t09-12-sumario-secreto-y-autoridades-instructoras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-12-sumario-secreto-y-autoridades-instructoras.webp" alt="mapa de sumario, secreto y autoridades instructoras" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de sumario, secreto y autoridades instructoras.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -558,7 +610,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-13-formacion-y-direccion-de-la-instruccion.webp -->
+<!-- VISUAL:t09-13-formacion-y-direccion-de-la-instruccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-13-formacion-y-direccion-de-la-instruccion.webp" alt="flujo de formación y dirección de la instrucción" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de formación y dirección de la instrucción.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -593,7 +649,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-14-inspeccion-ocular.webp -->
+<!-- VISUAL:t09-14-inspeccion-ocular.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-14-inspeccion-ocular.webp" alt="comparación de inspección ocular" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de inspección ocular.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -658,7 +718,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-15-cuerpo-del-delito.webp -->
+<!-- VISUAL:t09-15-cuerpo-del-delito.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-15-cuerpo-del-delito.webp" alt="línea temporal de cuerpo del delito" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de cuerpo del delito.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -700,7 +764,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-16-destruccion-y-realizacion-anticipada-de-efectos.webp -->
+<!-- VISUAL:t09-16-destruccion-y-realizacion-anticipada-de-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-16-destruccion-y-realizacion-anticipada-de-efectos.webp" alt="escena de destrucción y realización anticipada de efectos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de destrucción y realización anticipada de efectos.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -753,7 +821,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-17-identidad-y-circunstancias-del-investigado.webp -->
+<!-- VISUAL:t09-17-identidad-y-circunstancias-del-investigado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-17-identidad-y-circunstancias-del-investigado.webp" alt="capas de identidad y circunstancias del investigado" width="820">
+</p>
+<p align="center"><em>Infografía: capas de identidad y circunstancias del investigado.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -805,7 +877,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-18-declaraciones-de-los-procesados.webp -->
+<!-- VISUAL:t09-18-declaraciones-de-los-procesados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-18-declaraciones-de-los-procesados.webp" alt="mapa de declaraciones de los procesados" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de declaraciones de los procesados.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -851,7 +927,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-19-testigos-deber-exenciones-y-dispensas.webp -->
+<!-- VISUAL:t09-19-testigos-deber-exenciones-y-dispensas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-19-testigos-deber-exenciones-y-dispensas.webp" alt="flujo de testigos: deber, exenciones y dispensas" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de testigos: deber, exenciones y dispensas.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -920,7 +1000,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-20-testigos-declaracion-proteccion-y-prueba-preconstituida.webp -->
+<!-- VISUAL:t09-20-testigos-declaracion-proteccion-y-prueba-preconstituida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-20-testigos-declaracion-proteccion-y-prueba-preconstituida.webp" alt="comparación de testigos: declaración, protección y prueba preconstituida" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de testigos: declaración, protección y prueba preconstituida.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -950,7 +1034,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-21-careos.webp -->
+<!-- VISUAL:t09-21-careos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-21-careos.webp" alt="línea temporal de careos" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de careos.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1006,7 +1094,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-22-informe-pericial.webp -->
+<!-- VISUAL:t09-22-informe-pericial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-22-informe-pericial.webp" alt="escena de informe pericial" width="820">
+</p>
+<p align="center"><em>Infografía: escena de informe pericial.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1037,7 +1129,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-23-detencion-por-particulares-y-agentes.webp -->
+<!-- VISUAL:t09-23-detencion-por-particulares-y-agentes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-23-detencion-por-particulares-y-agentes.webp" alt="capas de detención por particulares y agentes" width="820">
+</p>
+<p align="center"><em>Infografía: capas de detención por particulares y agentes.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1072,7 +1168,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-24-entrega-libertad-y-plazos-de-detencion.webp -->
+<!-- VISUAL:t09-24-entrega-libertad-y-plazos-de-detencion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-24-entrega-libertad-y-plazos-de-detencion.webp" alt="mapa de entrega, libertad y plazos de detención" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de entrega, libertad y plazos de detención.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1122,7 +1222,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-25-informacion-de-derechos-y-asistencia-letrada.webp -->
+<!-- VISUAL:t09-25-informacion-de-derechos-y-asistencia-letrada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-25-informacion-de-derechos-y-asistencia-letrada.webp" alt="flujo de información de derechos y asistencia letrada" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de información de derechos y asistencia letrada.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1157,7 +1261,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-26-tratamiento-comunicaciones-e-incomunicacion.webp -->
+<!-- VISUAL:t09-26-tratamiento-comunicaciones-e-incomunicacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-26-tratamiento-comunicaciones-e-incomunicacion.webp" alt="comparación de tratamiento, comunicaciones e incomunicación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de tratamiento, comunicaciones e incomunicación.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1194,7 +1302,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-27-entrada-y-registro-presupuestos-y-lugares.webp -->
+<!-- VISUAL:t09-27-entrada-y-registro-presupuestos-y-lugares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-27-entrada-y-registro-presupuestos-y-lugares.webp" alt="línea temporal de entrada y registro: presupuestos y lugares" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de entrada y registro: presupuestos y lugares.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1240,7 +1352,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-28-practica-de-la-entrada-y-registro.webp -->
+<!-- VISUAL:t09-28-practica-de-la-entrada-y-registro.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-28-practica-de-la-entrada-y-registro.webp" alt="escena de práctica de la entrada y registro" width="820">
+</p>
+<p align="center"><em>Infografía: escena de práctica de la entrada y registro.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1271,7 +1387,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-29-registro-de-libros-y-papeles.webp -->
+<!-- VISUAL:t09-29-registro-de-libros-y-papeles.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-29-registro-de-libros-y-papeles.webp" alt="capas de registro de libros y papeles" width="820">
+</p>
+<p align="center"><em>Infografía: capas de registro de libros y papeles.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1387,7 +1507,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-30-correspondencia-escrita-y-telegrafica.webp -->
+<!-- VISUAL:t09-30-correspondencia-escrita-y-telegrafica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-30-correspondencia-escrita-y-telegrafica.webp" alt="mapa de correspondencia escrita y telegráfica" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de correspondencia escrita y telegráfica.</em></p>
 
 <!-- FUENTE: LECRIM-BOE-A-1882-6036-T09 -->
 
@@ -1420,7 +1544,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-31-habeas-corpus-objeto-principios-y-privacion-ilegal.webp -->
+<!-- VISUAL:t09-31-habeas-corpus-objeto-principios-y-privacion-ilegal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-31-habeas-corpus-objeto-principios-y-privacion-ilegal.webp" alt="flujo de habeas corpus: objeto, principios y privación ilegal" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de habeas corpus: objeto, principios y privación ilegal.</em></p>
 
 <!-- FUENTE: LO6-1984-BOE-A-1984-11620-T09 -->
 
@@ -1446,7 +1574,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-32-habeas-corpus-legitimacion-y-competencia.webp -->
+<!-- VISUAL:t09-32-habeas-corpus-legitimacion-y-competencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-32-habeas-corpus-legitimacion-y-competencia.webp" alt="comparación de habeas corpus: legitimación y competencia" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de habeas corpus: legitimación y competencia.</em></p>
 
 <!-- FUENTE: LO6-1984-BOE-A-1984-11620-T09 -->
 
@@ -1474,7 +1606,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-33-habeas-corpus-inicio-e-incoacion.webp -->
+<!-- VISUAL:t09-33-habeas-corpus-inicio-e-incoacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-33-habeas-corpus-inicio-e-incoacion.webp" alt="línea temporal de habeas corpus: inicio e incoación" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de habeas corpus: inicio e incoación.</em></p>
 
 <!-- FUENTE: LO6-1984-BOE-A-1984-11620-T09 -->
 
@@ -1505,7 +1641,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-34-habeas-corpus-audiencia-resolucion-y-efectos.webp -->
+<!-- VISUAL:t09-34-habeas-corpus-audiencia-resolucion-y-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-34-habeas-corpus-audiencia-resolucion-y-efectos.webp" alt="escena de habeas corpus: audiencia, resolución y efectos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de habeas corpus: audiencia, resolución y efectos.</em></p>
 
 <!-- FUENTE: LO6-1984-BOE-A-1984-11620-T09 -->
 
@@ -1534,7 +1674,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-35-tribunal-supremo-posicion-y-composicion.webp -->
+<!-- VISUAL:t09-35-tribunal-supremo-posicion-y-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-35-tribunal-supremo-posicion-y-composicion.webp" alt="capas de tribunal supremo: posición y composición" width="820">
+</p>
+<p align="center"><em>Infografía: capas de tribunal supremo: posición y composición.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1566,7 +1710,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-36-tribunal-supremo-salas-civil-y-penal.webp -->
+<!-- VISUAL:t09-36-tribunal-supremo-salas-civil-y-penal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-36-tribunal-supremo-salas-civil-y-penal.webp" alt="mapa de tribunal supremo: salas civil y penal" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de tribunal supremo: salas civil y penal.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1596,7 +1744,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-37-tribunal-supremo-salas-contenciosa-social-y-militar.webp -->
+<!-- VISUAL:t09-37-tribunal-supremo-salas-contenciosa-social-y-militar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-37-tribunal-supremo-salas-contenciosa-social-y-militar.webp" alt="flujo de tribunal supremo: salas contenciosa, social y militar" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de tribunal supremo: salas contenciosa, social y militar.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1639,7 +1791,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-38-tribunal-supremo-salas-especiales-y-suplicatorios.webp -->
+<!-- VISUAL:t09-38-tribunal-supremo-salas-especiales-y-suplicatorios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-38-tribunal-supremo-salas-especiales-y-suplicatorios.webp" alt="comparación de tribunal supremo: salas especiales y suplicatorios" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de tribunal supremo: salas especiales y suplicatorios.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1669,7 +1825,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-39-audiencia-nacional-estructura.webp -->
+<!-- VISUAL:t09-39-audiencia-nacional-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-39-audiencia-nacional-estructura.webp" alt="línea temporal de audiencia nacional: estructura" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de audiencia nacional: estructura.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1708,7 +1868,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-40-audiencia-nacional-competencias.webp -->
+<!-- VISUAL:t09-40-audiencia-nacional-competencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-40-audiencia-nacional-competencias.webp" alt="escena de audiencia nacional: competencias" width="820">
+</p>
+<p align="center"><em>Infografía: escena de audiencia nacional: competencias.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1736,7 +1900,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-41-tribunales-superiores-de-justicia-composicion.webp -->
+<!-- VISUAL:t09-41-tribunales-superiores-de-justicia-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-41-tribunales-superiores-de-justicia-composicion.webp" alt="capas de tribunales superiores de justicia: composición" width="820">
+</p>
+<p align="center"><em>Infografía: capas de tribunales superiores de justicia: composición.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1771,7 +1939,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-42-tribunales-superiores-de-justicia-sala-civil-y-penal.webp -->
+<!-- VISUAL:t09-42-tribunales-superiores-de-justicia-sala-civil-y-penal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-42-tribunales-superiores-de-justicia-sala-civil-y-penal.webp" alt="mapa de tribunales superiores de justicia: sala civil y penal" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de tribunales superiores de justicia: sala civil y penal.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1809,7 +1981,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-43-tribunales-superiores-de-justicia-salas-contenciosa-y-social.webp -->
+<!-- VISUAL:t09-43-tribunales-superiores-de-justicia-salas-contenciosa-y-social.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-43-tribunales-superiores-de-justicia-salas-contenciosa-y-social.webp" alt="flujo de tribunales superiores de justicia: salas contenciosa y social" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de tribunales superiores de justicia: salas contenciosa y social.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1854,7 +2030,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-44-audiencias-provinciales.webp -->
+<!-- VISUAL:t09-44-audiencias-provinciales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-44-audiencias-provinciales.webp" alt="comparación de audiencias provinciales" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de audiencias provinciales.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1886,7 +2066,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-45-tribunales-de-instancia-organizacion-general.webp -->
+<!-- VISUAL:t09-45-tribunales-de-instancia-organizacion-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-45-tribunales-de-instancia-organizacion-general.webp" alt="línea temporal de tribunales de instancia: organización general" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de tribunales de instancia: organización general.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1925,7 +2109,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-46-secciones-civil-familia-mercantil-y-social.webp -->
+<!-- VISUAL:t09-46-secciones-civil-familia-mercantil-y-social.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-46-secciones-civil-familia-mercantil-y-social.webp" alt="escena de secciones civil, familia, mercantil y social" width="820">
+</p>
+<p align="center"><em>Infografía: escena de secciones civil, familia, mercantil y social.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -1976,7 +2164,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-47-secciones-de-instruccion-y-violencia.webp -->
+<!-- VISUAL:t09-47-secciones-de-instruccion-y-violencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-47-secciones-de-instruccion-y-violencia.webp" alt="capas de secciones de instrucción y violencia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de secciones de instrucción y violencia.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2040,7 +2232,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-48-secciones-penal-menores-y-vigilancia-penitenciaria.webp -->
+<!-- VISUAL:t09-48-secciones-penal-menores-y-vigilancia-penitenciaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-48-secciones-penal-menores-y-vigilancia-penitenciaria.webp" alt="mapa de secciones penal, menores y vigilancia penitenciaria" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de secciones penal, menores y vigilancia penitenciaria.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2079,7 +2275,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-49-secciones-contencioso-administrativas.webp -->
+<!-- VISUAL:t09-49-secciones-contencioso-administrativas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-49-secciones-contencioso-administrativas.webp" alt="flujo de secciones contencioso-administrativas" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de secciones contencioso-administrativas.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2123,7 +2323,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-50-tribunal-central-de-instancia.webp -->
+<!-- VISUAL:t09-50-tribunal-central-de-instancia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-50-tribunal-central-de-instancia.webp" alt="comparación de tribunal central de instancia" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de tribunal central de instancia.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2154,7 +2358,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-51-oficinas-de-justicia-en-los-municipios.webp -->
+<!-- VISUAL:t09-51-oficinas-de-justicia-en-los-municipios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-51-oficinas-de-justicia-en-los-municipios.webp" alt="línea temporal de oficinas de justicia en los municipios" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de oficinas de justicia en los municipios.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2181,7 +2389,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-52-ministerio-fiscal-y-fiscalia-europea.webp -->
+<!-- VISUAL:t09-52-ministerio-fiscal-y-fiscalia-europea.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-52-ministerio-fiscal-y-fiscalia-europea.webp" alt="escena de ministerio fiscal y fiscalía europea" width="820">
+</p>
+<p align="center"><em>Infografía: escena de ministerio fiscal y fiscalía europea.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2216,7 +2428,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-53-abogacia-procuraduria-y-graduados-sociales.webp -->
+<!-- VISUAL:t09-53-abogacia-procuraduria-y-graduados-sociales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-53-abogacia-procuraduria-y-graduados-sociales.webp" alt="capas de abogacía, procuraduría y graduados sociales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de abogacía, procuraduría y graduados sociales.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2246,7 +2462,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-54-policia-judicial-en-la-lopj.webp -->
+<!-- VISUAL:t09-54-policia-judicial-en-la-lopj.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-54-policia-judicial-en-la-lopj.webp" alt="mapa de policía judicial en la lopj" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de policía judicial en la lopj.</em></p>
 
 <!-- FUENTE: LOPJ-BOE-A-1985-12666-T09 -->
 
@@ -2276,7 +2496,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-55-funcion-general-de-policia-judicial.webp -->
+<!-- VISUAL:t09-55-funcion-general-de-policia-judicial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-55-funcion-general-de-policia-judicial.webp" alt="flujo de función general de policía judicial" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de función general de policía judicial.</em></p>
 
 <!-- FUENTE: RD769-1987-BOE-A-1987-14578-T09 -->
 
@@ -2305,7 +2529,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-56-unidades-organicas-de-policia-judicial.webp -->
+<!-- VISUAL:t09-56-unidades-organicas-de-policia-judicial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-56-unidades-organicas-de-policia-judicial.webp" alt="comparación de unidades orgánicas de policía judicial" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de unidades orgánicas de policía judicial.</em></p>
 
 <!-- FUENTE: RD769-1987-BOE-A-1987-14578-T09 -->
 
@@ -2334,7 +2562,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-57-dependencia-funcional.webp -->
+<!-- VISUAL:t09-57-dependencia-funcional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-57-dependencia-funcional.webp" alt="línea temporal de dependencia funcional" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de dependencia funcional.</em></p>
 
 <!-- FUENTE: RD769-1987-BOE-A-1987-14578-T09 -->
 
@@ -2365,7 +2597,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-58-encargos-instrucciones-e-informes.webp -->
+<!-- VISUAL:t09-58-encargos-instrucciones-e-informes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-58-encargos-instrucciones-e-informes.webp" alt="escena de encargos, instrucciones e informes" width="820">
+</p>
+<p align="center"><em>Infografía: escena de encargos, instrucciones e informes.</em></p>
 
 <!-- FUENTE: RD769-1987-BOE-A-1987-14578-T09 -->
 
@@ -2398,7 +2634,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-59-principios-y-formas-de-actuacion.webp -->
+<!-- VISUAL:t09-59-principios-y-formas-de-actuacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-59-principios-y-formas-de-actuacion.webp" alt="capas de principios y formas de actuación" width="820">
+</p>
+<p align="center"><em>Infografía: capas de principios y formas de actuación.</em></p>
 
 <!-- FUENTE: RD769-1987-BOE-A-1987-14578-T09 -->
 
@@ -2429,7 +2669,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-60-estatuto-de-la-victima-ambito-y-concepto.webp -->
+<!-- VISUAL:t09-60-estatuto-de-la-victima-ambito-y-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-60-estatuto-de-la-victima-ambito-y-concepto.webp" alt="mapa de estatuto de la víctima: ámbito y concepto" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de estatuto de la víctima: ámbito y concepto.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2468,7 +2712,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **9**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-61-comprension-informacion-y-denuncia.webp -->
+<!-- VISUAL:t09-61-comprension-informacion-y-denuncia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-61-comprension-informacion-y-denuncia.webp" alt="flujo de comprensión, información y denuncia" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de comprensión, información y denuncia.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2502,7 +2750,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-62-reflexion-traduccion-y-servicios-de-apoyo.webp -->
+<!-- VISUAL:t09-62-reflexion-traduccion-y-servicios-de-apoyo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-62-reflexion-traduccion-y-servicios-de-apoyo.webp" alt="comparación de reflexión, traducción y servicios de apoyo" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de reflexión, traducción y servicios de apoyo.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2530,7 +2782,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-63-participacion-y-revision-del-sobreseimiento.webp -->
+<!-- VISUAL:t09-63-participacion-y-revision-del-sobreseimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-63-participacion-y-revision-del-sobreseimiento.webp" alt="línea temporal de participación y revisión del sobreseimiento" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de participación y revisión del sobreseimiento.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2565,7 +2821,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-64-ejecucion-gastos-y-justicia-restaurativa.webp -->
+<!-- VISUAL:t09-64-ejecucion-gastos-y-justicia-restaurativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-64-ejecucion-gastos-y-justicia-restaurativa.webp" alt="escena de ejecución, gastos y justicia restaurativa" width="820">
+</p>
+<p align="center"><em>Infografía: escena de ejecución, gastos y justicia restaurativa.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2594,7 +2854,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-65-justicia-gratuita-dimension-europea-y-devolucion.webp -->
+<!-- VISUAL:t09-65-justicia-gratuita-dimension-europea-y-devolucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-65-justicia-gratuita-dimension-europea-y-devolucion.webp" alt="capas de justicia gratuita, dimensión europea y devolución" width="820">
+</p>
+<p align="center"><em>Infografía: capas de justicia gratuita, dimensión europea y devolución.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2625,7 +2889,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-66-proteccion-contacto-investigacion-e-intimidad.webp -->
+<!-- VISUAL:t09-66-proteccion-contacto-investigacion-e-intimidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-66-proteccion-contacto-investigacion-e-intimidad.webp" alt="mapa de protección, contacto, investigación e intimidad" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de protección, contacto, investigación e intimidad.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2659,7 +2927,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-67-evaluacion-individual-de-necesidades.webp -->
+<!-- VISUAL:t09-67-evaluacion-individual-de-necesidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-67-evaluacion-individual-de-necesidades.webp" alt="flujo de evaluación individual de necesidades" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de evaluación individual de necesidades.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2693,7 +2965,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-68-medidas-especiales-de-proteccion.webp -->
+<!-- VISUAL:t09-68-medidas-especiales-de-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-68-medidas-especiales-de-proteccion.webp" alt="comparación de medidas especiales de protección" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de medidas especiales de protección.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2725,7 +3001,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-69-oficinas-de-asistencia-a-las-victimas.webp -->
+<!-- VISUAL:t09-69-oficinas-de-asistencia-a-las-victimas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-69-oficinas-de-asistencia-a-las-victimas.webp" alt="línea temporal de oficinas de asistencia a las víctimas" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de oficinas de asistencia a las víctimas.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2753,7 +3033,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-70-formacion-y-protocolos.webp -->
+<!-- VISUAL:t09-70-formacion-y-protocolos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-70-formacion-y-protocolos.webp" alt="escena de formación y protocolos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de formación y protocolos.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 
@@ -2791,7 +3075,11 @@ En una actuación real, documenta la habilitación, el momento, la autoridad des
 Prioriza competencias, legitimación, plazos, derechos, excepciones y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t09-71-cooperacion-sensibilizacion-y-disposiciones.webp -->
+<!-- VISUAL:t09-71-cooperacion-sensibilizacion-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-09/t09-71-cooperacion-sensibilizacion-y-disposiciones.webp" alt="capas de cooperación, sensibilización y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de cooperación, sensibilización y disposiciones.</em></p>
 
 <!-- FUENTE: LEY4-2015-BOE-A-2015-4606-T09 -->
 

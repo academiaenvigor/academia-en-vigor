@@ -14,7 +14,11 @@
 | 4 | Uso sostenible del patrimonio natural | 33–35 |
 | 5 | Eficiencia energética y transición normativa | 36–48 |
 
-<!-- VISUAL PENDIENTE: t16-00-mapa-proteccion-civil-biodiversidad-energia.webp -->
+<!-- VISUAL:t16-00-mapa-proteccion-civil-biodiversidad-energia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-00-mapa-proteccion-civil-biodiversidad-energia.webp" alt="tres rutas: emergencias, naturaleza y energía" width="820">
+</p>
+<p align="center"><em>Infografía: tres rutas: emergencias, naturaleza y energía.</em></p>
 
 # Contenido
 
@@ -43,7 +47,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-01-alcance-oficial-metodo-y-corte-normativo.webp -->
+<!-- VISUAL:t16-01-alcance-oficial-metodo-y-corte-normativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-01-alcance-oficial-metodo-y-corte-normativo.webp" alt="flujo de alcance oficial, método y corte normativo" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de alcance oficial, método y corte normativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T16 -->
 
@@ -86,7 +94,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-02-objeto-definiciones-y-sistema-nacional.webp -->
+<!-- VISUAL:t16-02-objeto-definiciones-y-sistema-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-02-objeto-definiciones-y-sistema-nacional.webp" alt="comparación de objeto, definiciones y sistema nacional" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de objeto, definiciones y sistema nacional.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -122,7 +134,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-03-estrategia-proteccion-informacion-y-participacion.webp -->
+<!-- VISUAL:t16-03-estrategia-proteccion-informacion-y-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-03-estrategia-proteccion-informacion-y-participacion.webp" alt="línea temporal de estrategia, protección, información y participación" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de estrategia, protección, información y participación.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -166,7 +182,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-04-colaboracion-cautela-autoproteccion-y-voluntariado.webp -->
+<!-- VISUAL:t16-04-colaboracion-cautela-autoproteccion-y-voluntariado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-04-colaboracion-cautela-autoproteccion-y-voluntariado.webp" alt="escena de colaboración, cautela, autoprotección y voluntariado" width="820">
+</p>
+<p align="center"><em>Infografía: escena de colaboración, cautela, autoprotección y voluntariado.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -203,7 +223,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-05-anticipacion-y-red-nacional-de-informacion.webp -->
+<!-- VISUAL:t16-05-anticipacion-y-red-nacional-de-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-05-anticipacion-y-red-nacional-de-informacion.webp" alt="capas de anticipación y red nacional de información" width="820">
+</p>
+<p align="center"><em>Infografía: capas de anticipación y red nacional de información.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -249,7 +273,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-06-prevencion-fondo-preventivo-y-red-de-alerta.webp -->
+<!-- VISUAL:t16-06-prevencion-fondo-preventivo-y-red-de-alerta.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-06-prevencion-fondo-preventivo-y-red-de-alerta.webp" alt="mapa de prevención, fondo preventivo y red de alerta" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de prevención, fondo preventivo y red de alerta.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -286,7 +314,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-07-norma-basica-y-planes-de-proteccion-civil.webp -->
+<!-- VISUAL:t16-07-norma-basica-y-planes-de-proteccion-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-07-norma-basica-y-planes-de-proteccion-civil.webp" alt="flujo de norma básica y planes de protección civil" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de norma básica y planes de protección civil.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -330,7 +362,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-08-respuesta-inmediata-servicios-y-recursos-estatales.webp -->
+<!-- VISUAL:t16-08-respuesta-inmediata-servicios-y-recursos-estatales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-08-respuesta-inmediata-servicios-y-recursos-estatales.webp" alt="comparación de respuesta inmediata, servicios y recursos estatales" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de respuesta inmediata, servicios y recursos estatales.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -398,7 +434,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-09-recuperacion-danos-declaracion-y-medidas.webp -->
+<!-- VISUAL:t16-09-recuperacion-danos-declaracion-y-medidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-09-recuperacion-danos-declaracion-y-medidas.webp" alt="línea temporal de recuperación, daños, declaración y medidas" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de recuperación, daños, declaración y medidas.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -427,7 +467,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-10-evaluacion-inspeccion-y-memoria-anual.webp -->
+<!-- VISUAL:t16-10-evaluacion-inspeccion-y-memoria-anual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-10-evaluacion-inspeccion-y-memoria-anual.webp" alt="escena de evaluación, inspección y memoria anual" width="820">
+</p>
+<p align="center"><em>Infografía: escena de evaluación, inspección y memoria anual.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -460,7 +504,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-11-emergencias-de-interes-nacional.webp -->
+<!-- VISUAL:t16-11-emergencias-de-interes-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-11-emergencias-de-interes-nacional.webp" alt="capas de emergencias de interés nacional" width="820">
+</p>
+<p align="center"><em>Infografía: capas de emergencias de interés nacional.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -494,7 +542,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-12-formacion-y-escuela-nacional-de-proteccion-civil.webp -->
+<!-- VISUAL:t16-12-formacion-y-escuela-nacional-de-proteccion-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-12-formacion-y-escuela-nacional-de-proteccion-civil.webp" alt="mapa de formación y escuela nacional de protección civil" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de formación y escuela nacional de protección civil.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -541,7 +593,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-13-competencias-del-gobierno-y-del-ministro-del-interior.webp -->
+<!-- VISUAL:t16-13-competencias-del-gobierno-y-del-ministro-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-13-competencias-del-gobierno-y-del-ministro-del-interior.webp" alt="flujo de competencias del gobierno y del ministro del interior" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de competencias del gobierno y del ministro del interior.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -568,7 +624,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-14-otros-departamentos-y-delegados-del-gobierno.webp -->
+<!-- VISUAL:t16-14-otros-departamentos-y-delegados-del-gobierno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-14-otros-departamentos-y-delegados-del-gobierno.webp" alt="comparación de otros departamentos y delegados del gobierno" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de otros departamentos y delegados del gobierno.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -600,7 +660,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-15-fuerzas-armadas-ume-y-fuerzas-y-cuerpos-de-seguridad.webp -->
+<!-- VISUAL:t16-15-fuerzas-armadas-ume-y-fuerzas-y-cuerpos-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-15-fuerzas-armadas-ume-y-fuerzas-y-cuerpos-de-seguridad.webp" alt="línea temporal de fuerzas armadas, ume y fuerzas y cuerpos de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de fuerzas armadas, ume y fuerzas y cuerpos de seguridad.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -635,7 +699,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-16-coordinacion-nacional-union-europea-y-cooperacion-internacional.webp -->
+<!-- VISUAL:t16-16-coordinacion-nacional-union-europea-y-cooperacion-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-16-coordinacion-nacional-union-europea-y-cooperacion-internacional.webp" alt="escena de coordinación nacional, unión europea y cooperación internacional" width="820">
+</p>
+<p align="center"><em>Infografía: escena de coordinación nacional, unión europea y cooperación internacional.</em></p>
 
 <!-- FUENTE: LEY17-2015-GC-T16 -->
 
@@ -722,7 +790,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **8**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-17-objeto-principios-y-definiciones-de-patrimonio-natural.webp -->
+<!-- VISUAL:t16-17-objeto-principios-y-definiciones-de-patrimonio-natural.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-17-objeto-principios-y-definiciones-de-patrimonio-natural.webp" alt="capas de objeto, principios y definiciones de patrimonio natural" width="820">
+</p>
+<p align="center"><em>Infografía: capas de objeto, principios y definiciones de patrimonio natural.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -771,7 +843,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-18-funcion-social-deberes-competencias-y-cooperacion.webp -->
+<!-- VISUAL:t16-18-funcion-social-deberes-competencias-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-18-funcion-social-deberes-competencias-y-cooperacion.webp" alt="mapa de función social, deberes, competencias y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de función social, deberes, competencias y cooperación.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -810,7 +886,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-19-habitats-en-peligro-catalogo-efectos-y-estrategias.webp -->
+<!-- VISUAL:t16-19-habitats-en-peligro-catalogo-efectos-y-estrategias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-19-habitats-en-peligro-catalogo-efectos-y-estrategias.webp" alt="flujo de hábitats en peligro: catálogo, efectos y estrategias" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de hábitats en peligro: catálogo, efectos y estrategias.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -848,7 +928,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-20-espacios-naturales-protegidos-concepto-y-clasificacion.webp -->
+<!-- VISUAL:t16-20-espacios-naturales-protegidos-concepto-y-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-20-espacios-naturales-protegidos-concepto-y-clasificacion.webp" alt="comparación de espacios naturales protegidos: concepto y clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de espacios naturales protegidos: concepto y clasificación.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -895,7 +979,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-21-parques-reservas-areas-marinas-monumentos-y-paisajes.webp -->
+<!-- VISUAL:t16-21-parques-reservas-areas-marinas-monumentos-y-paisajes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-21-parques-reservas-areas-marinas-monumentos-y-paisajes.webp" alt="línea temporal de parques, reservas, áreas marinas, monumentos y paisajes" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de parques, reservas, áreas marinas, monumentos y paisajes.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -937,7 +1025,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-22-declaracion-gestion-y-proteccion-de-espacios.webp -->
+<!-- VISUAL:t16-22-declaracion-gestion-y-proteccion-de-espacios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-22-declaracion-gestion-y-proteccion-de-espacios.webp" alt="escena de declaración, gestión y protección de espacios" width="820">
+</p>
+<p align="center"><em>Infografía: escena de declaración, gestión y protección de espacios.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -981,7 +1073,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-23-red-natura-2000-lic-zec-y-zepa.webp -->
+<!-- VISUAL:t16-23-red-natura-2000-lic-zec-y-zepa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-23-red-natura-2000-lic-zec-y-zepa.webp" alt="capas de red natura 2000: lic, zec y zepa" width="820">
+</p>
+<p align="center"><em>Infografía: capas de red natura 2000: lic, zec y zepa.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1039,7 +1135,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-24-conservacion-conectividad-vigilancia-y-cambios-de-categoria.webp -->
+<!-- VISUAL:t16-24-conservacion-conectividad-vigilancia-y-cambios-de-categoria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-24-conservacion-conectividad-vigilancia-y-cambios-de-categoria.webp" alt="mapa de conservación, conectividad, vigilancia y cambios de categoría" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de conservación, conectividad, vigilancia y cambios de categoría.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1089,7 +1189,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-25-areas-internacionales-inventario-delimitacion-y-registro.webp -->
+<!-- VISUAL:t16-25-areas-internacionales-inventario-delimitacion-y-registro.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-25-areas-internacionales-inventario-delimitacion-y-registro.webp" alt="flujo de áreas internacionales, inventario, delimitación y registro" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de áreas internacionales, inventario, delimitación y registro.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1143,7 +1247,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-26-especies-autoctonas-y-reintroduccion.webp -->
+<!-- VISUAL:t16-26-especies-autoctonas-y-reintroduccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-26-especies-autoctonas-y-reintroduccion.webp" alt="comparación de especies autóctonas y reintroducción" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de especies autóctonas y reintroducción.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1184,7 +1292,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-27-listado-de-especies-silvestres-y-prohibiciones.webp -->
+<!-- VISUAL:t16-27-listado-de-especies-silvestres-y-prohibiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-27-listado-de-especies-silvestres-y-prohibiciones.webp" alt="línea temporal de listado de especies silvestres y prohibiciones" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de listado de especies silvestres y prohibiciones.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1235,7 +1347,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-28-catalogo-de-especies-amenazadas-y-estrategias.webp -->
+<!-- VISUAL:t16-28-catalogo-de-especies-amenazadas-y-estrategias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-28-catalogo-de-especies-amenazadas-y-estrategias.webp" alt="escena de catálogo de especies amenazadas y estrategias" width="820">
+</p>
+<p align="center"><em>Infografía: escena de catálogo de especies amenazadas y estrategias.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1282,7 +1398,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-29-excepciones-al-regimen-de-proteccion.webp -->
+<!-- VISUAL:t16-29-excepciones-al-regimen-de-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-29-excepciones-al-regimen-de-proteccion.webp" alt="capas de excepciones al régimen de protección" width="820">
+</p>
+<p align="center"><em>Infografía: capas de excepciones al régimen de protección.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1318,7 +1438,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-30-propagacion-y-conservacion-ex-situ.webp -->
+<!-- VISUAL:t16-30-propagacion-y-conservacion-ex-situ.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-30-propagacion-y-conservacion-ex-situ.webp" alt="mapa de propagación y conservación ex situ" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de propagación y conservación ex situ.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1373,7 +1497,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-31-especies-exoticas-invasoras.webp -->
+<!-- VISUAL:t16-31-especies-exoticas-invasoras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-31-especies-exoticas-invasoras.webp" alt="flujo de especies exóticas invasoras" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de especies exóticas invasoras.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1422,7 +1550,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-32-caza-pesca-e-inventario.webp -->
+<!-- VISUAL:t16-32-caza-pesca-e-inventario.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-32-caza-pesca-e-inventario.webp" alt="comparación de caza, pesca e inventario" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de caza, pesca e inventario.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1462,7 +1594,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-33-red-espanola-de-reservas-de-la-biosfera.webp -->
+<!-- VISUAL:t16-33-red-espanola-de-reservas-de-la-biosfera.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-33-red-espanola-de-reservas-de-la-biosfera.webp" alt="línea temporal de red española de reservas de la biosfera" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de red española de reservas de la biosfera.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1519,7 +1655,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-34-recursos-geneticos-acceso-beneficios-y-control.webp -->
+<!-- VISUAL:t16-34-recursos-geneticos-acceso-beneficios-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-34-recursos-geneticos-acceso-beneficios-y-control.webp" alt="escena de recursos genéticos: acceso, beneficios y control" width="820">
+</p>
+<p align="center"><em>Infografía: escena de recursos genéticos: acceso, beneficios y control.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1557,7 +1697,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-35-comercio-internacional-y-conocimientos-tradicionales.webp -->
+<!-- VISUAL:t16-35-comercio-internacional-y-conocimientos-tradicionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-35-comercio-internacional-y-conocimientos-tradicionales.webp" alt="capas de comercio internacional y conocimientos tradicionales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de comercio internacional y conocimientos tradicionales.</em></p>
 
 <!-- FUENTE: LEY42-2007-GC-T16 -->
 
@@ -1585,7 +1729,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-36-vigencia-de-la-directiva-programada-y-correspondencia-actual.webp -->
+<!-- VISUAL:t16-36-vigencia-de-la-directiva-programada-y-correspondencia-actual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-36-vigencia-de-la-directiva-programada-y-correspondencia-actual.webp" alt="mapa de vigencia de la directiva programada y correspondencia actual" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de vigencia de la directiva programada y correspondencia actual.</em></p>
 
 <!-- FUENTE: DIR2023-1791-UE-GC-T16 -->
 
@@ -1614,7 +1762,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-37-objeto-y-ambito-de-la-directiva-2012-27-ue.webp -->
+<!-- VISUAL:t16-37-objeto-y-ambito-de-la-directiva-2012-27-ue.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-37-objeto-y-ambito-de-la-directiva-2012-27-ue.webp" alt="flujo de objeto y ámbito de la directiva 2012/27/ue" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de objeto y ámbito de la directiva 2012/27/ue.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1685,7 +1837,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-38-definiciones-de-eficiencia-energetica.webp -->
+<!-- VISUAL:t16-38-definiciones-de-eficiencia-energetica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-38-definiciones-de-eficiencia-energetica.webp" alt="comparación de definiciones de eficiencia energética" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de definiciones de eficiencia energética.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1729,7 +1885,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-39-objetivos-de-eficiencia-energetica.webp -->
+<!-- VISUAL:t16-39-objetivos-de-eficiencia-energetica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-39-objetivos-de-eficiencia-energetica.webp" alt="línea temporal de objetivos de eficiencia energética" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de objetivos de eficiencia energética.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1774,7 +1934,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-40-edificios-de-los-organismos-publicos.webp -->
+<!-- VISUAL:t16-40-edificios-de-los-organismos-publicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-40-edificios-de-los-organismos-publicos.webp" alt="escena de edificios de los organismos públicos" width="820">
+</p>
+<p align="center"><em>Infografía: escena de edificios de los organismos públicos.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1807,7 +1971,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-41-adquisicion-por-organismos-publicos.webp -->
+<!-- VISUAL:t16-41-adquisicion-por-organismos-publicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-41-adquisicion-por-organismos-publicos.webp" alt="capas de adquisición por organismos públicos" width="820">
+</p>
+<p align="center"><em>Infografía: capas de adquisición por organismos públicos.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1876,7 +2044,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-42-obligaciones-de-ahorro-y-medidas-alternativas.webp -->
+<!-- VISUAL:t16-42-obligaciones-de-ahorro-y-medidas-alternativas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-42-obligaciones-de-ahorro-y-medidas-alternativas.webp" alt="mapa de obligaciones de ahorro y medidas alternativas" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de obligaciones de ahorro y medidas alternativas.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1917,7 +2089,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-43-auditorias-energeticas-y-sistemas-de-gestion.webp -->
+<!-- VISUAL:t16-43-auditorias-energeticas-y-sistemas-de-gestion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-43-auditorias-energeticas-y-sistemas-de-gestion.webp" alt="flujo de auditorías energéticas y sistemas de gestión" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de auditorías energéticas y sistemas de gestión.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1947,7 +2123,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-44-contadores-de-electricidad-y-gas.webp -->
+<!-- VISUAL:t16-44-contadores-de-electricidad-y-gas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-44-contadores-de-electricidad-y-gas.webp" alt="comparación de contadores de electricidad y gas" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de contadores de electricidad y gas.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -1983,7 +2163,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-45-medicion-de-calefaccion-refrigeracion-y-agua-caliente.webp -->
+<!-- VISUAL:t16-45-medicion-de-calefaccion-refrigeracion-y-agua-caliente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-45-medicion-de-calefaccion-refrigeracion-y-agua-caliente.webp" alt="línea temporal de medición de calefacción, refrigeración y agua caliente" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de medición de calefacción, refrigeración y agua caliente.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -2016,7 +2200,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-46-informacion-de-facturacion.webp -->
+<!-- VISUAL:t16-46-informacion-de-facturacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-46-informacion-de-facturacion.webp" alt="escena de información de facturación" width="820">
+</p>
+<p align="center"><em>Infografía: escena de información de facturación.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -2059,7 +2247,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-47-costes-consumidores-y-regimen-de-sanciones.webp -->
+<!-- VISUAL:t16-47-costes-consumidores-y-regimen-de-sanciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-47-costes-consumidores-y-regimen-de-sanciones.webp" alt="capas de costes, consumidores y régimen de sanciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de costes, consumidores y régimen de sanciones.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 
@@ -2086,7 +2278,11 @@ En un supuesto, transforma el problema en una secuencia: riesgo o recurso afecta
 Prioriza definiciones, listas, competencias, porcentajes, plazos y excepciones. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t16-48-sintesis-examinable-y-regla-de-transicion-normativa.webp -->
+<!-- VISUAL:t16-48-sintesis-examinable-y-regla-de-transicion-normativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-16/t16-48-sintesis-examinable-y-regla-de-transicion-normativa.webp" alt="mapa de síntesis examinable y regla de transición normativa" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de síntesis examinable y regla de transición normativa.</em></p>
 
 <!-- FUENTE: DIR2012-27-UE-GC-T16 -->
 

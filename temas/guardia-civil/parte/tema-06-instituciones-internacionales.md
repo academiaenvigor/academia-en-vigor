@@ -13,7 +13,11 @@
 | Seguridad y justicia | INTERPOL, Europol, Eurojust, Frontex, CEPOL | ¿Policía mundial, policía UE, justicia, fronteras o formación? |
 | Especializada | FAO, FMI, OMS | ¿Alimentos, estabilidad monetaria o salud? |
 
-<!-- VISUAL PENDIENTE: t06-00-mapa-instituciones-internacionales.webp -->
+<!-- VISUAL:t06-00-mapa-instituciones-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-00-mapa-instituciones-internacionales.webp" alt="familias, sedes y funciones sin enlaces visibles hasta su producción" width="820">
+</p>
+<p align="center"><em>Infografía: familias, sedes y funciones sin enlaces visibles hasta su producción.</em></p>
 
 # Contenido
 
@@ -31,7 +35,11 @@ El programa mezcla organizaciones universales, europeas, policiales, judiciales,
 Ancla el bloque en **epígrafe oficial** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-01-mapa-de-las-instituciones-del-tema.webp -->
+<!-- VISUAL:t06-01-mapa-de-las-instituciones-del-tema.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-01-mapa-de-las-instituciones-del-tema.webp" alt="Mapa de las instituciones del tema mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa de las instituciones del tema mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T06 -->
 
@@ -49,7 +57,11 @@ La ONU nace al final de la Segunda Guerra Mundial y se organiza mediante la Cart
 Ancla el bloque en **Carta, arts. 1 a 7** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-02-onu-nacimiento-y-carta-fundacional.webp -->
+<!-- VISUAL:t06-02-onu-nacimiento-y-carta-fundacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-02-onu-nacimiento-y-carta-fundacional.webp" alt="ONU: nacimiento y Carta fundacional mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: nacimiento y Carta fundacional mediante línea temporal.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -67,7 +79,11 @@ La dimensión geográfica de la ONU se estudia con miembros, observadores, sedes
 Ancla el bloque en **Carta, arts. 3 a 6 y datos institucionales** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-03-onu-miembros-observadores-sedes-e-idiomas.webp -->
+<!-- VISUAL:t06-03-onu-miembros-observadores-sedes-e-idiomas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-03-onu-miembros-observadores-sedes-e-idiomas.webp" alt="ONU: miembros, observadores, sedes e idiomas mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: miembros, observadores, sedes e idiomas mediante organigrama.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -85,7 +101,11 @@ Los artículos 1 y 2 fijan lo que persigue la organización y las reglas básica
 Ancla el bloque en **Carta, arts. 1 y 2** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-04-onu-propositos-y-principios.webp -->
+<!-- VISUAL:t06-04-onu-propositos-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-04-onu-propositos-y-principios.webp" alt="ONU: propósitos y principios mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: propósitos y principios mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -103,7 +123,11 @@ La Asamblea General es el órgano deliberativo universal: todos los miembros est
 Ancla el bloque en **Carta, arts. 9 a 22** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-05-onu-asamblea-general.webp -->
+<!-- VISUAL:t06-05-onu-asamblea-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-05-onu-asamblea-general.webp" alt="ONU: Asamblea General mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Asamblea General mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -121,7 +145,11 @@ El Consejo de Seguridad asume la responsabilidad primordial del mantenimiento de
 Ancla el bloque en **Carta, arts. 23 a 32** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-06-onu-consejo-de-seguridad.webp -->
+<!-- VISUAL:t06-06-onu-consejo-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-06-onu-consejo-de-seguridad.webp" alt="ONU: Consejo de Seguridad mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Consejo de Seguridad mediante corte por capas.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -139,7 +167,11 @@ ECOSOC coordina la cooperación económica y social; el Consejo de Administraci�
 Ancla el bloque en **Carta, arts. 61 a 72 y 86 a 91** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp -->
+<!-- VISUAL:t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp" alt="ONU: ECOSOC y Consejo de Administración Fiduciaria mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: ECOSOC y Consejo de Administración Fiduciaria mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -157,7 +189,11 @@ La CIJ es el órgano judicial principal de la ONU y resuelve controversias jurí
 Ancla el bloque en **Carta, arts. 92 a 96 y Estatuto de la CIJ** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-08-onu-corte-internacional-de-justicia.webp -->
+<!-- VISUAL:t06-08-onu-corte-internacional-de-justicia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-08-onu-corte-internacional-de-justicia.webp" alt="ONU: Corte Internacional de Justicia mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Corte Internacional de Justicia mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -175,7 +211,11 @@ La Secretaría ejecuta el trabajo cotidiano de la ONU bajo la dirección del Sec
 Ancla el bloque en **Carta, arts. 97 a 101** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-09-onu-secretaria-y-secretario-general.webp -->
+<!-- VISUAL:t06-09-onu-secretaria-y-secretario-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-09-onu-secretaria-y-secretario-general.webp" alt="ONU: Secretaría y Secretario General mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: Secretaría y Secretario General mediante línea temporal.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -193,7 +233,11 @@ La Carta combina arreglo pacífico, sanciones, uso de la fuerza autorizado y coo
 Ancla el bloque en **Carta, capítulos VI, VII y VIII** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp -->
+<!-- VISUAL:t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp" alt="ONU: seguridad colectiva y mantenimiento de la paz mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: ONU: seguridad colectiva y mantenimiento de la paz mediante organigrama.</em></p>
 
 <!-- FUENTE: ONU-CARTA-T06 -->
 
@@ -211,7 +255,11 @@ El Consejo de Europa nació en 1949 como organización paneuropea de derechos hu
 Ancla el bloque en **Estatuto, preámbulo y arts. 1 a 11** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-11-consejo-de-europa-origen-miembros-y-sede.webp -->
+<!-- VISUAL:t06-11-consejo-de-europa-origen-miembros-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-11-consejo-de-europa-origen-miembros-y-sede.webp" alt="Consejo de Europa: origen, miembros y sede mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: origen, miembros y sede mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -229,7 +277,11 @@ El Estatuto fija un ideal común basado en derechos humanos, democracia y primac
 Ancla el bloque en **Estatuto, arts. 1, 3, 10 y 12** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp -->
+<!-- VISUAL:t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp" alt="Consejo de Europa: fines y órganos estatutarios mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: fines y órganos estatutarios mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -247,7 +299,11 @@ Junto a los órganos estatutarios existe un ecosistema de protección, represent
 Ancla el bloque en **estructura institucional oficial** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-13-consejo-de-europa-instituciones-y-mecanismos.webp -->
+<!-- VISUAL:t06-13-consejo-de-europa-instituciones-y-mecanismos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-13-consejo-de-europa-instituciones-y-mecanismos.webp" alt="Consejo de Europa: instituciones y mecanismos mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo de Europa: instituciones y mecanismos mediante corte por capas.</em></p>
 
 <!-- FUENTE: COE-ESTATUTO-T06 -->
 
@@ -265,7 +321,11 @@ La UE es una unión política y económica construida por tratados y ampliacione
 Ancla el bloque en **TUE, arts. 2, 3 y 49** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-14-union-europea-evolucion-miembros-y-valores.webp -->
+<!-- VISUAL:t06-14-union-europea-evolucion-miembros-y-valores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-14-union-europea-evolucion-miembros-y-valores.webp" alt="Unión Europea: evolución, miembros y valores mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: evolución, miembros y valores mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -283,7 +343,11 @@ El marco institucional de la Unión consta de siete instituciones con funciones 
 Ancla el bloque en **TUE, art. 13** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-15-union-europea-siete-instituciones.webp -->
+<!-- VISUAL:t06-15-union-europea-siete-instituciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-15-union-europea-siete-instituciones.webp" alt="Unión Europea: siete instituciones mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: siete instituciones mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -301,7 +365,11 @@ La ciudadanía participa de forma representativa y directa dentro de un sistema 
 Ancla el bloque en **TUE, arts. 10 a 12 y marco institucional** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp -->
+<!-- VISUAL:t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp" alt="Unión Europea: ciudadanía, elecciones y decisiones mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Unión Europea: ciudadanía, elecciones y decisiones mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-TRATADOS-T06 -->
 
@@ -319,7 +387,11 @@ La OTAN es una alianza política y militar de defensa colectiva fundada por el T
 Ancla el bloque en **Tratado de Washington** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-17-otan-origen-miembros-y-sede.webp -->
+<!-- VISUAL:t06-17-otan-origen-miembros-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-17-otan-origen-miembros-y-sede.webp" alt="OTAN: origen, miembros y sede mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: origen, miembros y sede mediante organigrama.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -337,7 +409,11 @@ Las decisiones de la OTAN expresan la voluntad colectiva de los aliados y se ado
 Ancla el bloque en **estructura oficial de la Alianza** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-18-otan-estructura-y-decision-por-consenso.webp -->
+<!-- VISUAL:t06-18-otan-estructura-y-decision-por-consenso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-18-otan-estructura-y-decision-por-consenso.webp" alt="OTAN: estructura y decisión por consenso mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: estructura y decisión por consenso mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -355,7 +431,11 @@ La defensa colectiva convive con consultas políticas, prevención y gestión de
 Ancla el bloque en **Tratado, arts. 4 y 5** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp -->
+<!-- VISUAL:t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp" alt="OTAN: artículos 4 y 5 y gestión de crisis mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: OTAN: artículos 4 y 5 y gestión de crisis mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: OTAN-TRATADO-T06 -->
 
@@ -373,7 +453,11 @@ INTERPOL es la mayor organización policial internacional y conecta autoridades 
 Ancla el bloque en **Constitución y datos institucionales** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-20-interpol-origen-alcance-y-sede.webp -->
+<!-- VISUAL:t06-20-interpol-origen-alcance-y-sede.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-20-interpol-origen-alcance-y-sede.webp" alt="INTERPOL: origen, alcance y sede mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: origen, alcance y sede mediante corte por capas.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -391,7 +475,11 @@ La organización combina órganos internacionales permanentes con un punto de en
 Ancla el bloque en **Constitución, arts. 5 a 33** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp -->
+<!-- VISUAL:t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp" alt="INTERPOL: órganos y Oficinas Centrales Nacionales mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: órganos y Oficinas Centrales Nacionales mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -409,7 +497,11 @@ INTERPOL facilita intercambio de datos y asistencia policial dentro de límites 
 Ancla el bloque en **Constitución, arts. 2 y 3** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-22-interpol-funciones-limites-y-herramientas.webp -->
+<!-- VISUAL:t06-22-interpol-funciones-limites-y-herramientas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-22-interpol-funciones-limites-y-herramientas.webp" alt="INTERPOL: funciones, límites y herramientas mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL: funciones, límites y herramientas mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: INTERPOL-CONSTITUCION-T06 -->
 
@@ -427,7 +519,11 @@ Europol apoya a las autoridades de los Estados miembros frente a delincuencia gr
 Ancla el bloque en **Reglamento, arts. 1 a 3** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-23-europol-base-juridica-mision-y-ambito.webp -->
+<!-- VISUAL:t06-23-europol-base-juridica-mision-y-ambito.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-23-europol-base-juridica-mision-y-ambito.webp" alt="Europol: base jurídica, misión y ámbito mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: base jurídica, misión y ámbito mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -445,7 +541,11 @@ El valor añadido de Europol está en recibir, cruzar, analizar y difundir infor
 Ancla el bloque en **Reglamento, arts. 4 a 12** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-24-europol-tareas-y-cooperacion-operativa.webp -->
+<!-- VISUAL:t06-24-europol-tareas-y-cooperacion-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-24-europol-tareas-y-cooperacion-operativa.webp" alt="Europol: tareas y cooperación operativa mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: tareas y cooperación operativa mediante organigrama.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -463,7 +563,11 @@ La Agencia se gobierna mediante un Consejo de Administración y un director ejec
 Ancla el bloque en **Reglamento, arts. 10 a 15 y 51** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-25-europol-gobierno-y-control.webp -->
+<!-- VISUAL:t06-25-europol-gobierno-y-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-25-europol-gobierno-y-control.webp" alt="Europol: gobierno y control mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: Europol: gobierno y control mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: UE-EUROPOL-2016-794-T06 -->
 
@@ -481,7 +585,11 @@ Eurojust es el centro de coordinación judicial penal de la Unión para investig
 Ancla el bloque en **Reglamento, arts. 1 a 4** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-26-eurojust-mision-y-competencia.webp -->
+<!-- VISUAL:t06-26-eurojust-mision-y-competencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-26-eurojust-mision-y-competencia.webp" alt="Eurojust: misión y competencia mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: Eurojust: misión y competencia mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: UE-EUROJUST-2018-1727-T06 -->
 
@@ -499,7 +607,11 @@ La estructura combina miembros nacionales con órganos de gestión y herramienta
 Ancla el bloque en **Reglamento, arts. 7 a 18** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-27-eurojust-estructura-e-instrumentos.webp -->
+<!-- VISUAL:t06-27-eurojust-estructura-e-instrumentos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-27-eurojust-estructura-e-instrumentos.webp" alt="Eurojust: estructura e instrumentos mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Eurojust: estructura e instrumentos mediante corte por capas.</em></p>
 
 <!-- FUENTE: UE-EUROJUST-2018-1727-T06 -->
 
@@ -517,7 +629,11 @@ La Guardia Europea de Fronteras y Costas es un sistema compartido; Frontex es la
 Ancla el bloque en **Reglamento, arts. 1 a 10** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp -->
+<!-- VISUAL:t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp" alt="Frontex y la Guardia Europea de Fronteras y Costas mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex y la Guardia Europea de Fronteras y Costas mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -535,7 +651,11 @@ La Agencia analiza riesgos, evalúa vulnerabilidades, coordina operaciones y apo
 Ancla el bloque en **Reglamento, arts. 10, 54 y siguientes** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-29-frontex-tareas-y-cuerpo-permanente.webp -->
+<!-- VISUAL:t06-29-frontex-tareas-y-cuerpo-permanente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-29-frontex-tareas-y-cuerpo-permanente.webp" alt="Frontex: tareas y cuerpo permanente mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex: tareas y cuerpo permanente mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -553,7 +673,11 @@ El gobierno administrativo se acompaña de mecanismos específicos de garantía 
 Ancla el bloque en **Reglamento, arts. 100 a 111** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp -->
+<!-- VISUAL:t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp" alt="Frontex: gobierno, presupuesto y derechos fundamentales mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Frontex: gobierno, presupuesto y derechos fundamentales mediante línea temporal.</em></p>
 
 <!-- FUENTE: UE-FRONTEX-2019-1896-T06 -->
 
@@ -571,7 +695,11 @@ CEPOL desarrolla formación y una cultura común de cooperación entre autoridad
 Ancla el bloque en **Reglamento, arts. 1 a 4** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-31-cepol-mision-sede-y-destinatarios.webp -->
+<!-- VISUAL:t06-31-cepol-mision-sede-y-destinatarios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-31-cepol-mision-sede-y-destinatarios.webp" alt="CEPOL: misión, sede y destinatarios mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: CEPOL: misión, sede y destinatarios mediante organigrama.</em></p>
 
 <!-- FUENTE: UE-CEPOL-2015-2219-T06 -->
 
@@ -589,7 +717,11 @@ La Agencia opera como red: un Consejo de Administración fija prioridades, un di
 Ancla el bloque en **Reglamento, arts. 7 a 23** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-32-cepol-organizacion-y-red-nacional.webp -->
+<!-- VISUAL:t06-32-cepol-organizacion-y-red-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-32-cepol-organizacion-y-red-nacional.webp" alt="CEPOL: organización y red nacional mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: CEPOL: organización y red nacional mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: UE-CEPOL-2015-2219-T06 -->
 
@@ -607,7 +739,11 @@ La FAO es el organismo especializado de la ONU que lidera la cooperación intern
 Ancla el bloque en **Constitución, preámbulo y arts. I y II** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-33-fao-origen-sede-miembros-y-objetivo.webp -->
+<!-- VISUAL:t06-33-fao-origen-sede-miembros-y-objetivo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-33-fao-origen-sede-miembros-y-objetivo.webp" alt="FAO: origen, sede, miembros y objetivo mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: origen, sede, miembros y objetivo mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -625,7 +761,11 @@ Los órganos rectores ordenan la decisión política, la supervisión entre per�
 Ancla el bloque en **Constitución, arts. III a VII** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-34-fao-conferencia-consejo-y-director-general.webp -->
+<!-- VISUAL:t06-34-fao-conferencia-consejo-y-director-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-34-fao-conferencia-consejo-y-director-general.webp" alt="FAO: Conferencia, Consejo y Director General mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: Conferencia, Consejo y Director General mediante corte por capas.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -643,7 +783,11 @@ La FAO despliega su mandato mediante oficinas y conferencias regionales, asisten
 Ancla el bloque en **reglas generales y organización territorial** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-35-fao-trabajo-regional-y-financiacion.webp -->
+<!-- VISUAL:t06-35-fao-trabajo-regional-y-financiacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-35-fao-trabajo-regional-y-financiacion.webp" alt="FAO: trabajo regional y financiación mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: FAO: trabajo regional y financiación mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: FAO-CONSTITUCION-T06 -->
 
@@ -661,7 +805,11 @@ El FMI nació del sistema de Bretton Woods para promover cooperación monetaria 
 Ancla el bloque en **Convenio constitutivo, art. I** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-36-fmi-origen-miembros-sede-y-fines.webp -->
+<!-- VISUAL:t06-36-fmi-origen-miembros-sede-y-fines.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-36-fmi-origen-miembros-sede-y-fines.webp" alt="FMI: origen, miembros, sede y fines mediante mapa comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: origen, miembros, sede y fines mediante mapa comparativo.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -679,7 +827,11 @@ El FMI es gobernado por sus miembros, pero el peso de voto se relaciona con las 
 Ancla el bloque en **Convenio, arts. XII y XIII** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-37-fmi-gobierno-cuotas-y-voto.webp -->
+<!-- VISUAL:t06-37-fmi-gobierno-cuotas-y-voto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-37-fmi-gobierno-cuotas-y-voto.webp" alt="FMI: gobierno, cuotas y voto mediante línea temporal" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: gobierno, cuotas y voto mediante línea temporal.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -697,7 +849,11 @@ Las tres líneas de trabajo son vigilancia, financiación y desarrollo de capaci
 Ancla el bloque en **Convenio, arts. IV, V y VII** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-38-fmi-supervision-prestamos-y-recursos.webp -->
+<!-- VISUAL:t06-38-fmi-supervision-prestamos-y-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-38-fmi-supervision-prestamos-y-recursos.webp" alt="FMI: supervisión, préstamos y recursos mediante organigrama" width="820">
+</p>
+<p align="center"><em>Infografía: FMI: supervisión, préstamos y recursos mediante organigrama.</em></p>
 
 <!-- FUENTE: FMI-CONVENIO-T06 -->
 
@@ -715,7 +871,11 @@ La OMS dirige y coordina la acción sanitaria internacional dentro del sistema d
 Ancla el bloque en **Constitución, preámbulo y arts. 1 a 8** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp -->
+<!-- VISUAL:t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp" alt="OMS: origen, miembros, sede y concepto de salud mediante flujo de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: origen, miembros, sede y concepto de salud mediante flujo de decisión.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -733,7 +893,11 @@ La labor se desarrolla mediante tres órganos: Asamblea Mundial de la Salud, Con
 Ancla el bloque en **Constitución, arts. 9 a 37** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp -->
+<!-- VISUAL:t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp" alt="OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría mediante mapa geográfico" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría mediante mapa geográfico.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -751,7 +915,11 @@ La OMS combina normas, vigilancia, cooperación técnica y respuesta a emergenci
 Ancla el bloque en **Constitución, arts. 2 y 44 a 54 y datos institucionales** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp -->
+<!-- VISUAL:t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp" alt="OMS: funciones, regiones, financiación y Hub de Berlín mediante corte por capas" width="820">
+</p>
+<p align="center"><em>Infografía: OMS: funciones, regiones, financiación y Hub de Berlín mediante corte por capas.</em></p>
 
 <!-- FUENTE: OMS-CONSTITUCION-T06 -->
 
@@ -769,7 +937,11 @@ El examen explota parecidos nominales, sedes compartidas y cambios de cifras o t
 Ancla el bloque en **síntesis del epígrafe** y responde en este orden: naturaleza, ámbito, sede, órgano y función.
 :::
 
-<!-- VISUAL PENDIENTE: t06-42-comparaciones-y-trampas-finales.webp -->
+<!-- VISUAL:t06-42-comparaciones-y-trampas-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-06/t06-42-comparaciones-y-trampas-finales.webp" alt="Comparaciones y trampas finales mediante escena mnemotécnica" width="820">
+</p>
+<p align="center"><em>Infografía: Comparaciones y trampas finales mediante escena mnemotécnica.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T06 -->
 

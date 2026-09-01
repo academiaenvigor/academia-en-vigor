@@ -91,11 +91,17 @@ class Tema09GuardiaCivilQualityGate(unittest.TestCase):
         self.assertIn("Oficinas de Justicia", self.master)
         self.assertIn("se conservan como antecedente histórico", self.master)
 
-    def test_visuals_are_only_planned(self):
-        self.assertEqual(self.assets["visual_version"], "0.0.0")
-        self.assertEqual(self.assets["status"], "planned")
-        self.assertEqual(self.assets["totals"], {"resources": 72, "integrated": 0, "planned": 72})
-        self.assertFalse(list(ASSETS.glob("*.webp")))
+    def test_visuals_match_disk(self):
+        totals = self.assets["totals"]
+        self.assertEqual(72, totals["resources"])
+        self.assertEqual(totals["resources"], totals["integrated"] + totals["planned"])
+        en_disco = {ruta.name for ruta in ASSETS.glob("*.webp")}
+        declaradas = {
+            recurso["file"]
+            for recurso in self.assets.get("resources", [])
+            if recurso.get("status") == "integrated_webp"
+        }
+        self.assertEqual(declaradas, en_disco)
 
     def test_generated_tests_cover_bank_once(self):
         self.assertEqual(self.catalog["total_tests"], 123)

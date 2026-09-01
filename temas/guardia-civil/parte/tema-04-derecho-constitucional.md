@@ -27,7 +27,11 @@ Este bloque ordena la constitución como norma suprema dentro del sistema consti
 Ancla el bloque en **arts. 9.1 y 166 a 169 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-01-la-constitucion-como-norma-suprema.webp -->
+<!-- VISUAL:t04-01-la-constitucion-como-norma-suprema.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-01-la-constitucion-como-norma-suprema.webp" alt="La Constitución como norma suprema" width="820">
+</p>
+<p align="center"><em>Infografía: La Constitución como norma suprema.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -48,7 +52,11 @@ Este bloque ordena elaboración de la constitución de 1978 dentro del sistema c
 Ancla el bloque en **proceso constituyente de 1977-1978** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-02-elaboracion-de-la-constitucion-de-1978.webp -->
+<!-- VISUAL:t04-02-elaboracion-de-la-constitucion-de-1978.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-02-elaboracion-de-la-constitucion-de-1978.webp" alt="Elaboración de la Constitución de 1978" width="820">
+</p>
+<p align="center"><em>Infografía: Elaboración de la Constitución de 1978.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -69,7 +77,11 @@ Este bloque ordena estructura de la constitución dentro del sistema constitucio
 Ancla el bloque en **estructura de la CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-03-estructura-de-la-constitucion.webp -->
+<!-- VISUAL:t04-03-estructura-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-03-estructura-de-la-constitucion.webp" alt="Estructura de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura de la Constitución.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -89,7 +101,11 @@ Este bloque ordena reformas constitucionales realizadas dentro del sistema const
 Ancla el bloque en **reformas de 1992, 2011, 2024 y 2026** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-04-reformas-constitucionales-realizadas.webp -->
+<!-- VISUAL:t04-04-reformas-constitucionales-realizadas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-04-reformas-constitucionales-realizadas.webp" alt="Reformas constitucionales realizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Reformas constitucionales realizadas.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -110,7 +126,11 @@ Este bloque ordena caracteres de la constitución dentro del sistema constitucio
 Ancla el bloque en **caracteres constitucionales** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-05-caracteres-de-la-constitucion.webp -->
+<!-- VISUAL:t04-05-caracteres-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-05-caracteres-de-la-constitucion.webp" alt="Caracteres de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Caracteres de la Constitución.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -130,7 +150,11 @@ Este bloque ordena valores superiores del artículo 1.1 dentro del sistema const
 Ancla el bloque en **art. 1.1 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-06-valores-superiores-del-articulo-1-1.webp -->
+<!-- VISUAL:t04-06-valores-superiores-del-articulo-1-1.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-06-valores-superiores-del-articulo-1-1.webp" alt="Valores superiores del artículo 1.1" width="820">
+</p>
+<p align="center"><em>Infografía: Valores superiores del artículo 1.1.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -150,7 +174,11 @@ Este bloque ordena el estado democrático dentro del sistema constitucional. La 
 Ancla el bloque en **arts. 1, 6, 7 y 23 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-07-el-estado-democratico.webp -->
+<!-- VISUAL:t04-07-el-estado-democratico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-07-el-estado-democratico.webp" alt="El Estado democrático" width="820">
+</p>
+<p align="center"><em>Infografía: El Estado democrático.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -173,7 +201,11 @@ Este bloque ordena el estado de derecho dentro del sistema constitucional. La cl
 Ancla el bloque en **arts. 1.1 y 9 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-08-el-estado-de-derecho.webp -->
+<!-- VISUAL:t04-08-el-estado-de-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-08-el-estado-de-derecho.webp" alt="El Estado de Derecho" width="820">
+</p>
+<p align="center"><em>Infografía: El Estado de Derecho.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -192,7 +224,11 @@ Este bloque ordena el estado social dentro del sistema constitucional. La clave 
 Ancla el bloque en **arts. 1.1, 9.2 y 39 a 52 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-09-el-estado-social.webp -->
+<!-- VISUAL:t04-09-el-estado-social.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-09-el-estado-social.webp" alt="El Estado social" width="820">
+</p>
+<p align="center"><em>Infografía: El Estado social.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -211,7 +247,11 @@ Este bloque ordena la monarquía parlamentaria dentro del sistema constitucional
 Ancla el bloque en **art. 1.3 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-10-la-monarquia-parlamentaria.webp -->
+<!-- VISUAL:t04-10-la-monarquia-parlamentaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-10-la-monarquia-parlamentaria.webp" alt="La monarquía parlamentaria" width="820">
+</p>
+<p align="center"><em>Infografía: La monarquía parlamentaria.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -233,7 +273,11 @@ Este bloque ordena el estado autonómico dentro del sistema constitucional. La c
 Ancla el bloque en **arts. 2 y 137 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-11-el-estado-autonomico.webp -->
+<!-- VISUAL:t04-11-el-estado-autonomico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-11-el-estado-autonomico.webp" alt="El Estado autonómico" width="820">
+</p>
+<p align="center"><em>Infografía: El Estado autonómico.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -254,7 +298,11 @@ Este bloque ordena mapa del título i dentro del sistema constitucional. La clav
 Ancla el bloque en **Título I CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-12-mapa-del-titulo-i.webp -->
+<!-- VISUAL:t04-12-mapa-del-titulo-i.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-12-mapa-del-titulo-i.webp" alt="Mapa del Título I" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa del Título I.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -273,7 +321,11 @@ Este bloque ordena artículo 10: dignidad e interpretación dentro del sistema c
 Ancla el bloque en **art. 10 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-13-articulo-10-dignidad-e-interpretacion.webp -->
+<!-- VISUAL:t04-13-articulo-10-dignidad-e-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-13-articulo-10-dignidad-e-interpretacion.webp" alt="Artículo 10: dignidad e interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: Artículo 10: dignidad e interpretación.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -295,7 +347,11 @@ Este bloque ordena españoles, extranjeros e igualdad dentro del sistema constit
 Ancla el bloque en **arts. 11 a 14 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-14-espanoles-extranjeros-e-igualdad.webp -->
+<!-- VISUAL:t04-14-espanoles-extranjeros-e-igualdad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-14-espanoles-extranjeros-e-igualdad.webp" alt="Españoles, extranjeros e igualdad" width="820">
+</p>
+<p align="center"><em>Infografía: Españoles, extranjeros e igualdad.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -321,7 +377,11 @@ Este bloque ordena derechos de la esfera personal dentro del sistema constitucio
 Ancla el bloque en **arts. 15 a 19 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-15-derechos-de-la-esfera-personal.webp -->
+<!-- VISUAL:t04-15-derechos-de-la-esfera-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-15-derechos-de-la-esfera-personal.webp" alt="Derechos de la esfera personal" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos de la esfera personal.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -345,7 +405,11 @@ Este bloque ordena expresión, reunión, asociación y participación dentro del
 Ancla el bloque en **arts. 20 a 23 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-16-expresion-reunion-asociacion-y-participacion.webp -->
+<!-- VISUAL:t04-16-expresion-reunion-asociacion-y-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-16-expresion-reunion-asociacion-y-participacion.webp" alt="Expresión, reunión, asociación y participación" width="820">
+</p>
+<p align="center"><em>Infografía: Expresión, reunión, asociación y participación.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -368,7 +432,11 @@ Este bloque ordena garantías procesales y legalidad sancionadora dentro del sis
 Ancla el bloque en **arts. 24 a 26 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-17-garantias-procesales-y-legalidad-sancionadora.webp -->
+<!-- VISUAL:t04-17-garantias-procesales-y-legalidad-sancionadora.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-17-garantias-procesales-y-legalidad-sancionadora.webp" alt="Garantías procesales y legalidad sancionadora" width="820">
+</p>
+<p align="center"><em>Infografía: Garantías procesales y legalidad sancionadora.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -390,7 +458,11 @@ Este bloque ordena educación, sindicación, huelga y petición dentro del siste
 Ancla el bloque en **arts. 27 a 29 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-18-educacion-sindicacion-huelga-y-peticion.webp -->
+<!-- VISUAL:t04-18-educacion-sindicacion-huelga-y-peticion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-18-educacion-sindicacion-huelga-y-peticion.webp" alt="Educación, sindicación, huelga y petición" width="820">
+</p>
+<p align="center"><em>Infografía: Educación, sindicación, huelga y petición.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -414,7 +486,11 @@ Este bloque ordena derechos y deberes de los ciudadanos dentro del sistema const
 Ancla el bloque en **arts. 30 a 38 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-19-derechos-y-deberes-de-los-ciudadanos.webp -->
+<!-- VISUAL:t04-19-derechos-y-deberes-de-los-ciudadanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-19-derechos-y-deberes-de-los-ciudadanos.webp" alt="Derechos y deberes de los ciudadanos" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos y deberes de los ciudadanos.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -433,7 +509,11 @@ Este bloque ordena principios rectores: naturaleza y garantía dentro del sistem
 Ancla el bloque en **arts. 39 a 53.3 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-20-principios-rectores-naturaleza-y-garantia.webp -->
+<!-- VISUAL:t04-20-principios-rectores-naturaleza-y-garantia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-20-principios-rectores-naturaleza-y-garantia.webp" alt="Principios rectores: naturaleza y garantía" width="820">
+</p>
+<p align="center"><em>Infografía: Principios rectores: naturaleza y garantía.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -453,7 +533,11 @@ Este bloque ordena familia, trabajo y seguridad social dentro del sistema consti
 Ancla el bloque en **arts. 39 a 42 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-21-familia-trabajo-y-seguridad-social.webp -->
+<!-- VISUAL:t04-21-familia-trabajo-y-seguridad-social.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-21-familia-trabajo-y-seguridad-social.webp" alt="Familia, trabajo y Seguridad Social" width="820">
+</p>
+<p align="center"><em>Infografía: Familia, trabajo y Seguridad Social.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -473,7 +557,11 @@ Este bloque ordena salud, cultura y medio ambiente dentro del sistema constituci
 Ancla el bloque en **arts. 43 a 46 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-22-salud-cultura-y-medio-ambiente.webp -->
+<!-- VISUAL:t04-22-salud-cultura-y-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-22-salud-cultura-y-medio-ambiente.webp" alt="Salud, cultura y medio ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Salud, cultura y medio ambiente.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -493,7 +581,11 @@ Este bloque ordena vivienda, juventud, discapacidad y mayores dentro del sistema
 Ancla el bloque en **arts. 47 a 50 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-23-vivienda-juventud-discapacidad-y-mayores.webp -->
+<!-- VISUAL:t04-23-vivienda-juventud-discapacidad-y-mayores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-23-vivienda-juventud-discapacidad-y-mayores.webp" alt="Vivienda, juventud, discapacidad y mayores" width="820">
+</p>
+<p align="center"><em>Infografía: Vivienda, juventud, discapacidad y mayores.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -513,7 +605,11 @@ Este bloque ordena consumidores y organizaciones profesionales dentro del sistem
 Ancla el bloque en **arts. 51 y 52 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-24-consumidores-y-organizaciones-profesionales.webp -->
+<!-- VISUAL:t04-24-consumidores-y-organizaciones-profesionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-24-consumidores-y-organizaciones-profesionales.webp" alt="Consumidores y organizaciones profesionales" width="820">
+</p>
+<p align="center"><em>Infografía: Consumidores y organizaciones profesionales.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -532,7 +628,11 @@ Este bloque ordena sistema general de garantías dentro del sistema constitucion
 Ancla el bloque en **arts. 53 a 55 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-25-sistema-general-de-garantias.webp -->
+<!-- VISUAL:t04-25-sistema-general-de-garantias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-25-sistema-general-de-garantias.webp" alt="Sistema general de garantías" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema general de garantías.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -551,7 +651,11 @@ Este bloque ordena los tres apartados del artículo 53 dentro del sistema consti
 Ancla el bloque en **art. 53 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-26-los-tres-apartados-del-articulo-53.webp -->
+<!-- VISUAL:t04-26-los-tres-apartados-del-articulo-53.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-26-los-tres-apartados-del-articulo-53.webp" alt="Los tres apartados del artículo 53" width="820">
+</p>
+<p align="center"><em>Infografía: Los tres apartados del artículo 53.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -570,7 +674,11 @@ Este bloque ordena ley orgánica, reforma agravada y control de leyes dentro del
 Ancla el bloque en **arts. 53.1, 81.1, 161 y 168 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-27-ley-organica-reforma-agravada-y-control-de-leyes.webp -->
+<!-- VISUAL:t04-27-ley-organica-reforma-agravada-y-control-de-leyes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-27-ley-organica-reforma-agravada-y-control-de-leyes.webp" alt="Ley orgánica, reforma agravada y control de leyes" width="820">
+</p>
+<p align="center"><em>Infografía: Ley orgánica, reforma agravada y control de leyes.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -589,7 +697,11 @@ Este bloque ordena recurso de amparo dentro del sistema constitucional. La clave
 Ancla el bloque en **arts. 53.2, 161 y 162 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-28-recurso-de-amparo.webp -->
+<!-- VISUAL:t04-28-recurso-de-amparo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-28-recurso-de-amparo.webp" alt="Recurso de amparo" width="820">
+</p>
+<p align="center"><em>Infografía: Recurso de amparo.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -609,7 +721,11 @@ Este bloque ordena suspensión general de derechos dentro del sistema constituci
 Ancla el bloque en **art. 55.1 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-29-suspension-general-de-derechos.webp -->
+<!-- VISUAL:t04-29-suspension-general-de-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-29-suspension-general-de-derechos.webp" alt="Suspensión general de derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Suspensión general de derechos.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -629,7 +745,11 @@ Este bloque ordena alarma, excepción y sitio dentro del sistema constitucional.
 Ancla el bloque en **art. 116 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-30-alarma-excepcion-y-sitio.webp -->
+<!-- VISUAL:t04-30-alarma-excepcion-y-sitio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-30-alarma-excepcion-y-sitio.webp" alt="Alarma, excepción y sitio" width="820">
+</p>
+<p align="center"><em>Infografía: Alarma, excepción y sitio.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -648,7 +768,11 @@ Este bloque ordena suspensión individual vinculada a terrorismo dentro del sist
 Ancla el bloque en **art. 55.2 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-31-suspension-individual-vinculada-a-terrorismo.webp -->
+<!-- VISUAL:t04-31-suspension-individual-vinculada-a-terrorismo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-31-suspension-individual-vinculada-a-terrorismo.webp" alt="Suspensión individual vinculada a terrorismo" width="820">
+</p>
+<p align="center"><em>Infografía: Suspensión individual vinculada a terrorismo.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -666,7 +790,11 @@ Este bloque ordena conexión constitucional con la protección de datos dentro d
 Ancla el bloque en **art. 18.4 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-32-conexion-constitucional-con-la-proteccion-de-datos.webp -->
+<!-- VISUAL:t04-32-conexion-constitucional-con-la-proteccion-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-32-conexion-constitucional-con-la-proteccion-de-datos.webp" alt="Conexión constitucional con la protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Conexión constitucional con la protección de datos.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -692,7 +820,11 @@ Este bloque ordena la corona: posición, inviolabilidad, refrendo y casa del rey
 Ancla el bloque en **arts. 56, 64 y 65 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-33-la-corona-posicion-inviolabilidad-refrendo-y-casa-del-rey.webp -->
+<!-- VISUAL:t04-33-la-corona-posicion-inviolabilidad-refrendo-y-casa-del-rey.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-33-la-corona-posicion-inviolabilidad-refrendo-y-casa-del-rey.webp" alt="La Corona: posición, inviolabilidad, refrendo y Casa del Rey" width="820">
+</p>
+<p align="center"><em>Infografía: La Corona: posición, inviolabilidad, refrendo y Casa del Rey.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -718,7 +850,11 @@ Este bloque ordena sucesión a la corona y consorte dentro del sistema constituc
 Ancla el bloque en **arts. 57 y 58 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-34-sucesion-a-la-corona-y-consorte.webp -->
+<!-- VISUAL:t04-34-sucesion-a-la-corona-y-consorte.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-34-sucesion-a-la-corona-y-consorte.webp" alt="Sucesión a la Corona y consorte" width="820">
+</p>
+<p align="center"><em>Infografía: Sucesión a la Corona y consorte.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -747,7 +883,11 @@ Este bloque ordena regencia, tutela y juramento dentro del sistema constituciona
 Ancla el bloque en **arts. 59 a 61 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-35-regencia-tutela-y-juramento.webp -->
+<!-- VISUAL:t04-35-regencia-tutela-y-juramento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-35-regencia-tutela-y-juramento.webp" alt="Regencia, tutela y juramento" width="820">
+</p>
+<p align="center"><em>Infografía: Regencia, tutela y juramento.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -777,7 +917,11 @@ Este bloque ordena funciones nacionales e internacionales del rey dentro del sis
 Ancla el bloque en **arts. 62 y 63 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-36-funciones-nacionales-e-internacionales-del-rey.webp -->
+<!-- VISUAL:t04-36-funciones-nacionales-e-internacionales-del-rey.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-36-funciones-nacionales-e-internacionales-del-rey.webp" alt="Funciones nacionales e internacionales del Rey" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones nacionales e internacionales del Rey.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -799,7 +943,11 @@ Este bloque ordena cortes generales: naturaleza, funciones y mandato representat
 Ancla el bloque en **arts. 66 a 68 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-37-cortes-generales-naturaleza-funciones-y-mandato-representativo.webp -->
+<!-- VISUAL:t04-37-cortes-generales-naturaleza-funciones-y-mandato-representativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-37-cortes-generales-naturaleza-funciones-y-mandato-representativo.webp" alt="Cortes Generales: naturaleza, funciones y mandato representativo" width="820">
+</p>
+<p align="center"><em>Infografía: Cortes Generales: naturaleza, funciones y mandato representativo.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -835,7 +983,11 @@ Este bloque ordena congreso, senado e incompatibilidades dentro del sistema cons
 Ancla el bloque en **arts. 68 a 70 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-38-congreso-senado-e-incompatibilidades.webp -->
+<!-- VISUAL:t04-38-congreso-senado-e-incompatibilidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-38-congreso-senado-e-incompatibilidades.webp" alt="Congreso, Senado e incompatibilidades" width="820">
+</p>
+<p align="center"><em>Infografía: Congreso, Senado e incompatibilidades.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -860,7 +1012,11 @@ Este bloque ordena prerrogativas parlamentarias y autonomía de las cámaras den
 Ancla el bloque en **arts. 71 y 72 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-39-prerrogativas-parlamentarias-y-autonomia-de-las-camaras.webp -->
+<!-- VISUAL:t04-39-prerrogativas-parlamentarias-y-autonomia-de-las-camaras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-39-prerrogativas-parlamentarias-y-autonomia-de-las-camaras.webp" alt="Prerrogativas parlamentarias y autonomía de las Cámaras" width="820">
+</p>
+<p align="center"><em>Infografía: Prerrogativas parlamentarias y autonomía de las Cámaras.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -901,7 +1057,11 @@ Este bloque ordena funcionamiento de las cámaras dentro del sistema constitucio
 Ancla el bloque en **arts. 73 a 80 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-40-funcionamiento-de-las-camaras.webp -->
+<!-- VISUAL:t04-40-funcionamiento-de-las-camaras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-40-funcionamiento-de-las-camaras.webp" alt="Funcionamiento de las Cámaras" width="820">
+</p>
+<p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -931,7 +1091,11 @@ Este bloque ordena leyes orgánicas y delegación legislativa dentro del sistema
 Ancla el bloque en **arts. 81 a 85 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-41-leyes-organicas-y-delegacion-legislativa.webp -->
+<!-- VISUAL:t04-41-leyes-organicas-y-delegacion-legislativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-41-leyes-organicas-y-delegacion-legislativa.webp" alt="Leyes orgánicas y delegación legislativa" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -971,7 +1135,11 @@ Este bloque ordena decreto-ley, iniciativa y procedimiento legislativo dentro de
 Ancla el bloque en **arts. 86 a 92 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-42-decreto-ley-iniciativa-y-procedimiento-legislativo.webp -->
+<!-- VISUAL:t04-42-decreto-ley-iniciativa-y-procedimiento-legislativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-42-decreto-ley-iniciativa-y-procedimiento-legislativo.webp" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
+</p>
+<p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -998,7 +1166,11 @@ Este bloque ordena tratados internacionales dentro del sistema constitucional. L
 Ancla el bloque en **arts. 93 a 96 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-43-tratados-internacionales.webp -->
+<!-- VISUAL:t04-43-tratados-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-43-tratados-internacionales.webp" alt="Tratados internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Tratados internacionales.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1029,7 +1201,11 @@ Este bloque ordena gobierno: funciones, composición, investidura y cese dentro 
 Ancla el bloque en **arts. 97 a 101 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-44-gobierno-funciones-composicion-investidura-y-cese.webp -->
+<!-- VISUAL:t04-44-gobierno-funciones-composicion-investidura-y-cese.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-44-gobierno-funciones-composicion-investidura-y-cese.webp" alt="Gobierno: funciones, composición, investidura y cese" width="820">
+</p>
+<p align="center"><em>Infografía: Gobierno: funciones, composición, investidura y cese.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1063,7 +1239,11 @@ Este bloque ordena responsabilidad del gobierno y administración pública dentr
 Ancla el bloque en **arts. 102 a 107 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-45-responsabilidad-del-gobierno-y-administracion-publica.webp -->
+<!-- VISUAL:t04-45-responsabilidad-del-gobierno-y-administracion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-45-responsabilidad-del-gobierno-y-administracion-publica.webp" alt="Responsabilidad del Gobierno y Administración Pública" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración Pública.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1086,7 +1266,11 @@ Este bloque ordena control parlamentario ordinario del gobierno dentro del siste
 Ancla el bloque en **arts. 108 a 111 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-46-control-parlamentario-ordinario-del-gobierno.webp -->
+<!-- VISUAL:t04-46-control-parlamentario-ordinario-del-gobierno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-46-control-parlamentario-ordinario-del-gobierno.webp" alt="Control parlamentario ordinario del Gobierno" width="820">
+</p>
+<p align="center"><em>Infografía: Control parlamentario ordinario del Gobierno.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1117,7 +1301,11 @@ Este bloque ordena confianza, censura y disolución dentro del sistema constituc
 Ancla el bloque en **arts. 112 a 115 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-47-confianza-censura-y-disolucion.webp -->
+<!-- VISUAL:t04-47-confianza-censura-y-disolucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-47-confianza-censura-y-disolucion.webp" alt="Confianza, censura y disolución" width="820">
+</p>
+<p align="center"><em>Infografía: Confianza, censura y disolución.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1154,7 +1342,11 @@ Este bloque ordena estados de alarma, excepción y sitio dentro del sistema cons
 Ancla el bloque en **art. 116 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-48-estados-de-alarma-excepcion-y-sitio.webp -->
+<!-- VISUAL:t04-48-estados-de-alarma-excepcion-y-sitio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-48-estados-de-alarma-excepcion-y-sitio.webp" alt="Estados de alarma, excepción y sitio" width="820">
+</p>
+<p align="center"><em>Infografía: Estados de alarma, excepción y sitio.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1182,7 +1374,11 @@ Este bloque ordena poder judicial: principios y proceso dentro del sistema const
 Ancla el bloque en **arts. 117 a 121 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-49-poder-judicial-principios-y-proceso.webp -->
+<!-- VISUAL:t04-49-poder-judicial-principios-y-proceso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-49-poder-judicial-principios-y-proceso.webp" alt="Poder Judicial: principios y proceso" width="820">
+</p>
+<p align="center"><em>Infografía: Poder Judicial: principios y proceso.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1220,7 +1416,11 @@ Este bloque ordena órganos judiciales, ministerio fiscal, jurado y policía jud
 Ancla el bloque en **arts. 122 a 127 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-50-organos-judiciales-ministerio-fiscal-jurado-y-policia-judicial.webp -->
+<!-- VISUAL:t04-50-organos-judiciales-ministerio-fiscal-jurado-y-policia-judicial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-50-organos-judiciales-ministerio-fiscal-jurado-y-policia-judicial.webp" alt="Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial" width="820">
+</p>
+<p align="center"><em>Infografía: Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1245,7 +1445,11 @@ El Título VII admite intervención pública y planificación, pero exige ley pa
 Ancla el bloque en **arts. 128 a 132 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-51-economia-iniciativa-publica-y-planificacion.webp -->
+<!-- VISUAL:t04-51-economia-iniciativa-publica-y-planificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-51-economia-iniciativa-publica-y-planificacion.webp" alt="Economía, iniciativa pública y planificación" width="820">
+</p>
+<p align="center"><em>Infografía: Economía, iniciativa pública y planificación.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1276,7 +1480,11 @@ La Constitución separa potestad tributaria originaria, beneficios fiscales, ela
 Ancla el bloque en **arts. 133 a 136 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-52-potestad-tributaria-presupuestos-deuda-y-tribunal-de-cuentas.webp -->
+<!-- VISUAL:t04-52-potestad-tributaria-presupuestos-deuda-y-tribunal-de-cuentas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-52-potestad-tributaria-presupuestos-deuda-y-tribunal-de-cuentas.webp" alt="Potestad tributaria, presupuestos, deuda y Tribunal de Cuentas" width="820">
+</p>
+<p align="center"><em>Infografía: Potestad tributaria, presupuestos, deuda y Tribunal de Cuentas.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1309,7 +1517,11 @@ Este bloque ordena principios territoriales y administración local dentro del s
 Ancla el bloque en **arts. 137 a 142 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-53-principios-territoriales-y-administracion-local.webp -->
+<!-- VISUAL:t04-53-principios-territoriales-y-administracion-local.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-53-principios-territoriales-y-administracion-local.webp" alt="Principios territoriales y Administración local" width="820">
+</p>
+<p align="center"><em>Infografía: Principios territoriales y Administración local.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1339,7 +1551,11 @@ Este bloque ordena acceso a la autonomía y estatutos dentro del sistema constit
 Ancla el bloque en **arts. 143 a 147 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-54-acceso-a-la-autonomia-y-estatutos.webp -->
+<!-- VISUAL:t04-54-acceso-a-la-autonomia-y-estatutos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-54-acceso-a-la-autonomia-y-estatutos.webp" alt="Acceso a la autonomía y Estatutos" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a la autonomía y Estatutos.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1414,7 +1630,11 @@ Este bloque ordena distribución de competencias dentro del sistema constitucion
 Ancla el bloque en **arts. 148 y 149 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-55-distribucion-de-competencias.webp -->
+<!-- VISUAL:t04-55-distribucion-de-competencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-55-distribucion-de-competencias.webp" alt="Distribución de competencias" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de competencias.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1454,7 +1674,11 @@ Este bloque ordena técnicas del artículo 150 y vía especial del artículo 151
 Ancla el bloque en **arts. 150 y 151 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-56-tecnicas-del-articulo-150-y-via-especial-del-articulo-151.webp -->
+<!-- VISUAL:t04-56-tecnicas-del-articulo-150-y-via-especial-del-articulo-151.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-56-tecnicas-del-articulo-150-y-via-especial-del-articulo-151.webp" alt="Técnicas del artículo 150 y vía especial del artículo 151" width="820">
+</p>
+<p align="center"><em>Infografía: Técnicas del artículo 150 y vía especial del artículo 151.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1490,7 +1714,11 @@ Este bloque ordena instituciones, controles, coerción y financiación autonómi
 Ancla el bloque en **arts. 152 a 158 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-57-instituciones-controles-coercion-y-financiacion-autonomica.webp -->
+<!-- VISUAL:t04-57-instituciones-controles-coercion-y-financiacion-autonomica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-57-instituciones-controles-coercion-y-financiacion-autonomica.webp" alt="Instituciones, controles, coerción y financiación autonómica" width="820">
+</p>
+<p align="center"><em>Infografía: Instituciones, controles, coerción y financiación autonómica.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1539,7 +1767,11 @@ Este bloque ordena tribunal constitucional dentro del sistema constitucional. La
 Ancla el bloque en **arts. 159 a 165 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-58-tribunal-constitucional.webp -->
+<!-- VISUAL:t04-58-tribunal-constitucional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-58-tribunal-constitucional.webp" alt="Tribunal Constitucional" width="820">
+</p>
+<p align="center"><em>Infografía: Tribunal Constitucional.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1567,7 +1799,11 @@ Este bloque ordena reforma constitucional dentro del sistema constitucional. La 
 Ancla el bloque en **arts. 166 a 169 CE** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-59-reforma-constitucional.webp -->
+<!-- VISUAL:t04-59-reforma-constitucional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-59-reforma-constitucional.webp" alt="Reforma constitucional" width="820">
+</p>
+<p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
 <!-- FUENTE: BOE-CE-1978-GC-T04 -->
 
@@ -1592,7 +1828,11 @@ Elección y mandato se sostienen sobre mayorías reforzadas y una Comisión Mixt
 Ancla el bloque en **arts. 1 y 2 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-60-caracter-mandato-y-relacion-con-las-cortes.webp -->
+<!-- VISUAL:t04-60-caracter-mandato-y-relacion-con-las-cortes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-60-caracter-mandato-y-relacion-con-las-cortes.webp" alt="Carácter, mandato y relación con las Cortes" width="820">
+</p>
+<p align="center"><em>Infografía: Carácter, mandato y relación con las Cortes.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1612,7 +1852,11 @@ Elegibilidad, acreditación y toma de posesión son fases distintas que suelen c
 Ancla el bloque en **arts. 3 y 4 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-61-elegibilidad-acreditacion-y-toma-de-posesion.webp -->
+<!-- VISUAL:t04-61-elegibilidad-acreditacion-y-toma-de-posesion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-61-elegibilidad-acreditacion-y-toma-de-posesion.webp" alt="Elegibilidad, acreditación y toma de posesión" width="820">
+</p>
+<p align="center"><em>Infografía: Elegibilidad, acreditación y toma de posesión.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1633,7 +1877,11 @@ La causa de cese determina quién declara la vacante y si hace falta votación r
 Ancla el bloque en **art. 5 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-62-cese-vacante-y-sustitucion.webp -->
+<!-- VISUAL:t04-62-cese-vacante-y-sustitucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-62-cese-vacante-y-sustitucion.webp" alt="Cese, vacante y sustitución" width="820">
+</p>
+<p align="center"><em>Infografía: Cese, vacante y sustitución.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1654,7 +1902,11 @@ La inviolabilidad protege el ejercicio del cargo; el fuero opera para los demás
 Ancla el bloque en **art. 6 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-63-autonomia-inviolabilidad-y-fuero.webp -->
+<!-- VISUAL:t04-63-autonomia-inviolabilidad-y-fuero.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-63-autonomia-inviolabilidad-y-fuero.webp" alt="Autonomía, inviolabilidad y fuero" width="820">
+</p>
+<p align="center"><em>Infografía: Autonomía, inviolabilidad y fuero.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1677,7 +1929,11 @@ La lista es extensa y el plazo de diez días es un dato clásico de examen.
 Ancla el bloque en **art. 7 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-64-incompatibilidades.webp -->
+<!-- VISUAL:t04-64-incompatibilidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-64-incompatibilidades.webp" alt="Incompatibilidades" width="820">
+</p>
+<p align="center"><em>Infografía: Incompatibilidades.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1698,7 +1954,11 @@ El orden Primero-Segundo importa tanto para la estructura como para la sustituci
 Ancla el bloque en **art. 8 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-65-adjuntos-del-defensor-del-pueblo.webp -->
+<!-- VISUAL:t04-65-adjuntos-del-defensor-del-pueblo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-65-adjuntos-del-defensor-del-pueblo.webp" alt="Adjuntos del Defensor del Pueblo" width="820">
+</p>
+<p align="center"><em>Infografía: Adjuntos del Defensor del Pueblo.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1722,7 +1982,11 @@ La legitimación es amplísima, salvo la prohibición específica para autoridad
 Ancla el bloque en **arts. 9 a 12 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-66-inicio-legitimacion-y-continuidad-de-la-investigacion.webp -->
+<!-- VISUAL:t04-66-inicio-legitimacion-y-continuidad-de-la-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-66-inicio-legitimacion-y-continuidad-de-la-investigacion.webp" alt="Inicio, legitimación y continuidad de la investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Inicio, legitimación y continuidad de la investigación.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1743,7 +2007,11 @@ Justicia y defensa no quedan fuera, pero la Ley canaliza la actuación para resp
 Ancla el bloque en **arts. 12 a 14 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-67-ambito-autonomico-justicia-y-administracion-militar.webp -->
+<!-- VISUAL:t04-67-ambito-autonomico-justicia-y-administracion-militar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-67-ambito-autonomico-justicia-y-administracion-militar.webp" alt="Ámbito autonómico, Justicia y Administración militar" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito autonómico, Justicia y Administración militar.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1768,7 +2036,11 @@ El procedimiento es informal, pero no inexistente: firma, identificación, razó
 Ancla el bloque en **arts. 15 a 17 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-68-presentacion-admision-y-efectos-procesales-de-las-quejas.webp -->
+<!-- VISUAL:t04-68-presentacion-admision-y-efectos-procesales-de-las-quejas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-68-presentacion-admision-y-efectos-procesales-de-las-quejas.webp" alt="Presentación, admisión y efectos procesales de las quejas" width="820">
+</p>
+<p align="center"><em>Infografía: Presentación, admisión y efectos procesales de las quejas.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1787,7 +2059,11 @@ El primer plazo de la investigación es de quince días, no un mes.
 Ancla el bloque en **art. 18 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-69-investigacion-sumaria-e-informe-inicial.webp -->
+<!-- VISUAL:t04-69-investigacion-sumaria-e-informe-inicial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-69-investigacion-sumaria-e-informe-inicial.webp" alt="Investigación sumaria e informe inicial" width="820">
+</p>
+<p align="center"><em>Infografía: Investigación sumaria e informe inicial.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1809,7 +2085,11 @@ La colaboración es preferente y urgente, pero el personal conserva cauces escri
 Ancla el bloque en **arts. 19 a 21 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-70-colaboracion-comparecencia-y-conducta-del-personal.webp -->
+<!-- VISUAL:t04-70-colaboracion-comparecencia-y-conducta-del-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-70-colaboracion-comparecencia-y-conducta-del-personal.webp" alt="Colaboración, comparecencia y conducta del personal" width="820">
+</p>
+<p align="center"><em>Infografía: Colaboración, comparecencia y conducta del personal.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1829,7 +2109,11 @@ Secreto no equivale a silencio automático: la denegación tiene órgano, forma 
 Ancla el bloque en **art. 22 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-71-documentos-reservados-y-secreto.webp -->
+<!-- VISUAL:t04-71-documentos-reservados-y-secreto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-71-documentos-reservados-y-secreto.webp" alt="Documentos reservados y secreto" width="820">
+</p>
+<p align="center"><em>Infografía: Documentos reservados y secreto.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1852,7 +2136,11 @@ El Defensor no sanciona, pero puede denunciar, accionar, señalar obstrucciones 
 Ancla el bloque en **arts. 23 a 27 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-72-responsabilidades-delito-y-gastos-de-particulares.webp -->
+<!-- VISUAL:t04-72-responsabilidades-delito-y-gastos-de-particulares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-72-responsabilidades-delito-y-gastos-de-particulares.webp" alt="Responsabilidades, delito y gastos de particulares" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidades, delito y gastos de particulares.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1876,7 +2164,11 @@ Sus resoluciones no sustituyen al acto administrativo: presionan, recomiendan y 
 Ancla el bloque en **arts. 28 a 30 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-73-resoluciones-recursos-y-recomendaciones.webp -->
+<!-- VISUAL:t04-73-resoluciones-recursos-y-recomendaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-73-resoluciones-recursos-y-recomendaciones.webp" alt="Resoluciones, recursos y recomendaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Resoluciones, recursos y recomendaciones.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1901,7 +2193,11 @@ Informe anual e informe extraordinario difieren por periodicidad, causa y destin
 Ancla el bloque en **arts. 31 a 33 LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-74-notificaciones-e-informes-a-las-cortes.webp -->
+<!-- VISUAL:t04-74-notificaciones-e-informes-a-las-cortes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-74-notificaciones-e-informes-a-las-cortes.webp" alt="Notificaciones e informes a las Cortes" width="820">
+</p>
+<p align="center"><em>Infografía: Notificaciones e informes a las Cortes.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1920,7 +2216,11 @@ La disposición final añade la función preventiva sin convertir el Mecanismo e
 Ancla el bloque en **disposición final única LO 3/1981** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-75-mecanismo-nacional-de-prevencion-de-la-tortura.webp -->
+<!-- VISUAL:t04-75-mecanismo-nacional-de-prevencion-de-la-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-75-mecanismo-nacional-de-prevencion-de-la-tortura.webp" alt="Mecanismo Nacional de Prevención de la Tortura" width="820">
+</p>
+<p align="center"><em>Infografía: Mecanismo Nacional de Prevención de la Tortura.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T04 -->
 
@@ -1940,7 +2240,11 @@ No confundas el carácter imprescriptible del derecho con la caducidad de la acc
 Ancla el bloque en **art. 1 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-76-proteccion-civil-y-naturaleza-de-los-derechos.webp -->
+<!-- VISUAL:t04-76-proteccion-civil-y-naturaleza-de-los-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-76-proteccion-civil-y-naturaleza-de-los-derechos.webp" alt="Protección civil y naturaleza de los derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Protección civil y naturaleza de los derechos.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -1961,7 +2265,11 @@ Consentir una utilización concreta no supone renunciar para siempre al derecho.
 Ancla el bloque en **art. 2 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-77-delimitacion-y-consentimiento.webp -->
+<!-- VISUAL:t04-77-delimitacion-y-consentimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-77-delimitacion-y-consentimiento.webp" alt="Delimitación y consentimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Delimitación y consentimiento.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -1979,7 +2287,11 @@ La madurez desplaza la representación; si no basta, entran representante, Fisca
 Ancla el bloque en **art. 3 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-78-consentimiento-de-menores-e-incapaces.webp -->
+<!-- VISUAL:t04-78-consentimiento-de-menores-e-incapaces.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-78-consentimiento-de-menores-e-incapaces.webp" alt="Consentimiento de menores e incapaces" width="820">
+</p>
+<p align="center"><em>Infografía: Consentimiento de menores e incapaces.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2002,7 +2314,11 @@ La legitimación post mortem sigue un orden: designación, familia y Ministerio 
 Ancla el bloque en **arts. 4 a 6 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-79-proteccion-despues-del-fallecimiento.webp -->
+<!-- VISUAL:t04-79-proteccion-despues-del-fallecimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-79-proteccion-despues-del-fallecimiento.webp" alt="Protección después del fallecimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Protección después del fallecimiento.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2021,7 +2337,11 @@ El artículo distingue colocar medios, utilizarlos, divulgar lo conocido y quebr
 Ancla el bloque en **art. 7.1 a 7.4 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-80-intromisiones-captacion-y-revelacion-de-la-vida-intima.webp -->
+<!-- VISUAL:t04-80-intromisiones-captacion-y-revelacion-de-la-vida-intima.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-80-intromisiones-captacion-y-revelacion-de-la-vida-intima.webp" alt="Intromisiones: captación y revelación de la vida íntima" width="820">
+</p>
+<p align="center"><em>Infografía: Intromisiones: captación y revelación de la vida íntima.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2040,7 +2360,11 @@ Imagen, voz, nombre y honor protegen dimensiones distintas; el examen suele inte
 Ancla el bloque en **art. 7.5 a 7.8 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-81-intromisiones-imagen-explotacion-e-imputaciones.webp -->
+<!-- VISUAL:t04-81-intromisiones-imagen-explotacion-e-imputaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-81-intromisiones-imagen-explotacion-e-imputaciones.webp" alt="Intromisiones: imagen, explotación e imputaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Intromisiones: imagen, explotación e imputaciones.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2061,7 +2385,11 @@ La excepción depende de contexto público, accesoriedad o interés relevante; n
 Ancla el bloque en **art. 8 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-82-actuaciones-y-usos-de-imagen-no-ilegitimos.webp -->
+<!-- VISUAL:t04-82-actuaciones-y-usos-de-imagen-no-ilegitimos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-82-actuaciones-y-usos-de-imagen-no-ilegitimos.webp" alt="Actuaciones y usos de imagen no ilegítimos" width="820">
+</p>
+<p align="center"><em>Infografía: Actuaciones y usos de imagen no ilegítimos.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2084,7 +2412,11 @@ La tutela no es solo indemnización: también cesa, repone, previene y priva al 
 Ancla el bloque en **art. 9.1 y 9.2 LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-83-tutela-judicial-y-medidas-de-restablecimiento.webp -->
+<!-- VISUAL:t04-83-tutela-judicial-y-medidas-de-restablecimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-83-tutela-judicial-y-medidas-de-restablecimiento.webp" alt="Tutela judicial y medidas de restablecimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Tutela judicial y medidas de restablecimiento.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 
@@ -2105,7 +2437,11 @@ Derecho imprescriptible y acción con caducidad de cuatro años no son afirmacio
 Ancla el bloque en **art. 9.3 a 9.5 y disposiciones LO 1/1982** y separa órgano, regla, excepción, mayoría y plazo.
 :::
 
-<!-- VISUAL PENDIENTE: t04-84-perjuicio-indemnizacion-caducidad-y-disposiciones.webp -->
+<!-- VISUAL:t04-84-perjuicio-indemnizacion-caducidad-y-disposiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-04/t04-84-perjuicio-indemnizacion-caducidad-y-disposiciones.webp" alt="Perjuicio, indemnización, caducidad y disposiciones" width="820">
+</p>
+<p align="center"><em>Infografía: Perjuicio, indemnización, caducidad y disposiciones.</em></p>
 
 <!-- FUENTE: BOE-LO1-1982-GC-T04 -->
 

@@ -14,7 +14,11 @@
 | 4 | Principios de ciberseguridad del CCN-CERT | 16–22 |
 | 5 | Esquema Nacional de Interoperabilidad | 23–24 |
 
-<!-- VISUAL PENDIENTE: t17-00-mapa-tic.webp -->
+<!-- VISUAL:t17-00-mapa-tic.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-00-mapa-tic.webp" alt="arquitectura completa del tema" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura completa del tema.</em></p>
 
 # Contenido
 
@@ -33,7 +37,11 @@ Este bloque ordena **alcance oficial, método y corte normativo** dentro de sist
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-01-alcance-oficial-metodo-y-corte-normativo.webp -->
+<!-- VISUAL:t17-01-alcance-oficial-metodo-y-corte-normativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-01-alcance-oficial-metodo-y-corte-normativo.webp" alt="esquema de alcance oficial, método y corte normativo" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de alcance oficial, método y corte normativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T17 -->
 
@@ -52,7 +60,11 @@ Este bloque ordena **objeto, ámbito y consideración de las telecomunicaciones*
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-02-objeto-ambito-y-consideracion-de-las-telecomunicaciones.webp -->
+<!-- VISUAL:t17-02-objeto-ambito-y-consideracion-de-las-telecomunicaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-02-objeto-ambito-y-consideracion-de-las-telecomunicaciones.webp" alt="esquema de objeto, ámbito y consideración de las telecomunicaciones" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de objeto, ámbito y consideración de las telecomunicaciones.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -71,7 +83,11 @@ Este bloque ordena **objetivos y principios de la ley general de telecomunicacio
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-03-objetivos-y-principios-de-la-ley-general-de-telecomunicaciones.webp -->
+<!-- VISUAL:t17-03-objetivos-y-principios-de-la-ley-general-de-telecomunicaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-03-objetivos-y-principios-de-la-ley-general-de-telecomunicaciones.webp" alt="esquema de objetivos y principios de la ley general de telecomunicaciones" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de objetivos y principios de la ley general de telecomunicaciones.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -90,7 +106,11 @@ Este bloque ordena **telecomunicaciones para seguridad, defensa y protección ci
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-04-telecomunicaciones-para-seguridad-defensa-y-proteccion-civil.webp -->
+<!-- VISUAL:t17-04-telecomunicaciones-para-seguridad-defensa-y-proteccion-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-04-telecomunicaciones-para-seguridad-defensa-y-proteccion-civil.webp" alt="esquema de telecomunicaciones para seguridad, defensa y protección civil" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de telecomunicaciones para seguridad, defensa y protección civil.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -109,7 +129,11 @@ Este bloque ordena **derechos fundamentales y no discriminación** dentro de sis
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-05-derechos-fundamentales-y-no-discriminacion.webp -->
+<!-- VISUAL:t17-05-derechos-fundamentales-y-no-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-05-derechos-fundamentales-y-no-discriminacion.webp" alt="esquema de derechos fundamentales y no discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de derechos fundamentales y no discriminación.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -128,7 +152,11 @@ Este bloque ordena **secreto e interceptación de las comunicaciones** dentro de
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-06-secreto-e-interceptacion-de-las-comunicaciones.webp -->
+<!-- VISUAL:t17-06-secreto-e-interceptacion-de-las-comunicaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-06-secreto-e-interceptacion-de-las-comunicaciones.webp" alt="esquema de secreto e interceptación de las comunicaciones" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de secreto e interceptación de las comunicaciones.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -147,7 +175,11 @@ Este bloque ordena **datos personales, cifrado, integridad y seguridad** dentro 
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-07-datos-personales-cifrado-integridad-y-seguridad.webp -->
+<!-- VISUAL:t17-07-datos-personales-cifrado-integridad-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-07-datos-personales-cifrado-integridad-y-seguridad.webp" alt="esquema de datos personales, cifrado, integridad y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de datos personales, cifrado, integridad y seguridad.</em></p>
 
 <!-- FUENTE: L11-2022-GC-T17 -->
 
@@ -166,7 +198,11 @@ Este bloque ordena **transición del real decreto 806/2014 al real decreto 1125/
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-08-transicion-del-real-decreto-806-2014-al-real-decreto-1125-2024.webp -->
+<!-- VISUAL:t17-08-transicion-del-real-decreto-806-2014-al-real-decreto-1125-2024.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-08-transicion-del-real-decreto-806-2014-al-real-decreto-1125-2024.webp" alt="esquema de transición del real decreto 806/2014 al real decreto 1125/2024" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de transición del real decreto 806/2014 al real decreto 1125/2024.</em></p>
 
 <!-- FUENTE: RD1125-2024-GC-T17 -->
 
@@ -185,7 +221,11 @@ Este bloque ordena **gobernanza, estrategia y servicios digitales comunes** dent
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-09-gobernanza-estrategia-y-servicios-digitales-comunes.webp -->
+<!-- VISUAL:t17-09-gobernanza-estrategia-y-servicios-digitales-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-09-gobernanza-estrategia-y-servicios-digitales-comunes.webp" alt="esquema de gobernanza, estrategia y servicios digitales comunes" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de gobernanza, estrategia y servicios digitales comunes.</em></p>
 
 <!-- FUENTE: RD1125-2024-GC-T17 -->
 
@@ -204,7 +244,11 @@ Este bloque ordena **disposiciones generales y vigencia de certificados** dentro
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-10-disposiciones-generales-y-vigencia-de-certificados.webp -->
+<!-- VISUAL:t17-10-disposiciones-generales-y-vigencia-de-certificados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-10-disposiciones-generales-y-vigencia-de-certificados.webp" alt="esquema de disposiciones generales y vigencia de certificados" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones generales y vigencia de certificados.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -223,7 +267,11 @@ Este bloque ordena **revocación y suspensión de certificados** dentro de servi
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-11-revocacion-y-suspension-de-certificados.webp -->
+<!-- VISUAL:t17-11-revocacion-y-suspension-de-certificados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-11-revocacion-y-suspension-de-certificados.webp" alt="esquema de revocación y suspensión de certificados" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de revocación y suspensión de certificados.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -242,7 +290,11 @@ Este bloque ordena **identidad, atributos y comprobación del solicitante** dent
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-12-identidad-atributos-y-comprobacion-del-solicitante.webp -->
+<!-- VISUAL:t17-12-identidad-atributos-y-comprobacion-del-solicitante.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-12-identidad-atributos-y-comprobacion-del-solicitante.webp" alt="esquema de identidad, atributos y comprobación del solicitante" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de identidad, atributos y comprobación del solicitante.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -261,7 +313,11 @@ Este bloque ordena **protección de datos y obligaciones de los prestadores** de
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-13-proteccion-de-datos-y-obligaciones-de-los-prestadores.webp -->
+<!-- VISUAL:t17-13-proteccion-de-datos-y-obligaciones-de-los-prestadores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-13-proteccion-de-datos-y-obligaciones-de-los-prestadores.webp" alt="esquema de protección de datos y obligaciones de los prestadores" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de protección de datos y obligaciones de los prestadores.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -280,7 +336,11 @@ Este bloque ordena **responsabilidad, inicio de actividad y seguridad** dentro d
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-14-responsabilidad-inicio-de-actividad-y-seguridad.webp -->
+<!-- VISUAL:t17-14-responsabilidad-inicio-de-actividad-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-14-responsabilidad-inicio-de-actividad-y-seguridad.webp" alt="esquema de responsabilidad, inicio de actividad y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de responsabilidad, inicio de actividad y seguridad.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -298,7 +358,11 @@ Este bloque ordena **dni electrónico y eficacia de sus certificados** dentro de
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-15-dni-electronico-y-eficacia-de-sus-certificados.webp -->
+<!-- VISUAL:t17-15-dni-electronico-y-eficacia-de-sus-certificados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-15-dni-electronico-y-eficacia-de-sus-certificados.webp" alt="esquema de dni electrónico y eficacia de sus certificados" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de dni electrónico y eficacia de sus certificados.</em></p>
 
 <!-- FUENTE: L6-2020-GC-T17 -->
 
@@ -317,7 +381,11 @@ Este bloque ordena **factores de amenaza y ataques dirigidos** dentro de princip
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-16-factores-de-amenaza-y-ataques-dirigidos.webp -->
+<!-- VISUAL:t17-16-factores-de-amenaza-y-ataques-dirigidos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-16-factores-de-amenaza-y-ataques-dirigidos.webp" alt="esquema de factores de amenaza y ataques dirigidos" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de factores de amenaza y ataques dirigidos.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -336,7 +404,11 @@ Este bloque ordena **internet profunda, red tor y bitcoin** dentro de principios
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-17-internet-profunda-red-tor-y-bitcoin.webp -->
+<!-- VISUAL:t17-17-internet-profunda-red-tor-y-bitcoin.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-17-internet-profunda-red-tor-y-bitcoin.webp" alt="esquema de internet profunda, red tor y bitcoin" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de internet profunda, red tor y bitcoin.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -355,7 +427,11 @@ Este bloque ordena **aplicaciones, cifrado, cortafuegos, antimalware y borrado**
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-18-aplicaciones-cifrado-cortafuegos-antimalware-y-borrado.webp -->
+<!-- VISUAL:t17-18-aplicaciones-cifrado-cortafuegos-antimalware-y-borrado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-18-aplicaciones-cifrado-cortafuegos-antimalware-y-borrado.webp" alt="esquema de aplicaciones, cifrado, cortafuegos, antimalware y borrado" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de aplicaciones, cifrado, cortafuegos, antimalware y borrado.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -374,7 +450,11 @@ Este bloque ordena **navegación segura** dentro de principios de ciberseguridad
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-19-navegacion-segura.webp -->
+<!-- VISUAL:t17-19-navegacion-segura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-19-navegacion-segura.webp" alt="esquema de navegación segura" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de navegación segura.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -393,7 +473,11 @@ Este bloque ordena **correo electrónico** dentro de principios de cibersegurida
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-20-correo-electronico.webp -->
+<!-- VISUAL:t17-20-correo-electronico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-20-correo-electronico.webp" alt="esquema de correo electrónico" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de correo electrónico.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -412,7 +496,11 @@ Este bloque ordena **virtualización, dispositivos móviles y redes inalámbrica
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-21-virtualizacion-dispositivos-moviles-y-redes-inalambricas.webp -->
+<!-- VISUAL:t17-21-virtualizacion-dispositivos-moviles-y-redes-inalambricas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-21-virtualizacion-dispositivos-moviles-y-redes-inalambricas.webp" alt="esquema de virtualización, dispositivos móviles y redes inalámbricas" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de virtualización, dispositivos móviles y redes inalámbricas.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -431,7 +519,11 @@ Este bloque ordena **mensajería instantánea, redes sociales e internet de las 
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-22-mensajeria-instantanea-redes-sociales-e-internet-de-las-cosas.webp -->
+<!-- VISUAL:t17-22-mensajeria-instantanea-redes-sociales-e-internet-de-las-cosas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-22-mensajeria-instantanea-redes-sociales-e-internet-de-las-cosas.webp" alt="esquema de mensajería instantánea, redes sociales e internet de las cosas" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mensajería instantánea, redes sociales e internet de las cosas.</em></p>
 
 <!-- FUENTE: CCNCERT-BP01-GC-T17 -->
 
@@ -450,7 +542,11 @@ Este bloque ordena **objeto, principios e interoperabilidad organizativa, semán
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-23-objeto-principios-e-interoperabilidad-organizativa-semantica-y-tecnica.webp -->
+<!-- VISUAL:t17-23-objeto-principios-e-interoperabilidad-organizativa-semantica-y-tecnica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-23-objeto-principios-e-interoperabilidad-organizativa-semantica-y-tecnica.webp" alt="esquema de objeto, principios e interoperabilidad organizativa, semántica y técnica" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de objeto, principios e interoperabilidad organizativa, semántica y técnica.</em></p>
 
 <!-- FUENTE: RD4-2010-GC-T17 -->
 
@@ -469,7 +565,11 @@ Este bloque ordena **comunicaciones, reutilización, firma y conservación docum
 Identifica primero la fuente y su vigencia; después fija sujeto, verbo, condición y excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t17-24-comunicaciones-reutilizacion-firma-y-conservacion-documental.webp -->
+<!-- VISUAL:t17-24-comunicaciones-reutilizacion-firma-y-conservacion-documental.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-17/t17-24-comunicaciones-reutilizacion-firma-y-conservacion-documental.webp" alt="esquema de comunicaciones, reutilización, firma y conservación documental" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de comunicaciones, reutilización, firma y conservación documental.</em></p>
 
 <!-- FUENTE: RD4-2010-GC-T17 -->
 

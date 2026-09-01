@@ -43,7 +43,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-01-objeto-alcance-oficial-y-sistema-normativo.webp -->
+<!-- VISUAL:t11-01-objeto-alcance-oficial-y-sistema-normativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-01-objeto-alcance-oficial-y-sistema-normativo.webp" alt="flujo de objeto, alcance oficial y sistema normativo" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de objeto, alcance oficial y sistema normativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T11 -->
 
@@ -82,7 +86,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-02-ambito-de-aplicacion-y-personas-fallecidas.webp -->
+<!-- VISUAL:t11-02-ambito-de-aplicacion-y-personas-fallecidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-02-ambito-de-aplicacion-y-personas-fallecidas.webp" alt="comparación de ámbito de aplicación y personas fallecidas" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de ámbito de aplicación y personas fallecidas.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -116,7 +124,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-03-exactitud-y-confidencialidad.webp -->
+<!-- VISUAL:t11-03-exactitud-y-confidencialidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-03-exactitud-y-confidencialidad.webp" alt="línea temporal de exactitud y confidencialidad" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de exactitud y confidencialidad.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -147,7 +159,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-04-consentimiento-y-menores.webp -->
+<!-- VISUAL:t11-04-consentimiento-y-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-04-consentimiento-y-menores.webp" alt="escena de consentimiento y menores" width="820">
+</p>
+<p align="center"><em>Infografía: escena de consentimiento y menores.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -182,7 +198,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-05-bases-legales-categorias-especiales-y-datos-penales.webp -->
+<!-- VISUAL:t11-05-bases-legales-categorias-especiales-y-datos-penales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-05-bases-legales-categorias-especiales-y-datos-penales.webp" alt="capas de bases legales, categorías especiales y datos penales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de bases legales, categorías especiales y datos penales.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -216,7 +236,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-06-transparencia-e-informacion-al-afectado.webp -->
+<!-- VISUAL:t11-06-transparencia-e-informacion-al-afectado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-06-transparencia-e-informacion-al-afectado.webp" alt="mapa de transparencia e información al afectado" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de transparencia e información al afectado.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -249,7 +273,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-07-ejercicio-de-los-derechos.webp -->
+<!-- VISUAL:t11-07-ejercicio-de-los-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-07-ejercicio-de-los-derechos.webp" alt="flujo de ejercicio de los derechos" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de ejercicio de los derechos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -283,7 +311,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-08-acceso-rectificacion-y-supresion.webp -->
+<!-- VISUAL:t11-08-acceso-rectificacion-y-supresion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-08-acceso-rectificacion-y-supresion.webp" alt="comparación de acceso, rectificación y supresión" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de acceso, rectificación y supresión.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -312,7 +344,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-09-limitacion-portabilidad-y-oposicion.webp -->
+<!-- VISUAL:t11-09-limitacion-portabilidad-y-oposicion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-09-limitacion-portabilidad-y-oposicion.webp" alt="línea temporal de limitación, portabilidad y oposición" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de limitación, portabilidad y oposición.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -341,7 +377,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-10-datos-de-contacto-y-profesionales.webp -->
+<!-- VISUAL:t11-10-datos-de-contacto-y-profesionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-10-datos-de-contacto-y-profesionales.webp" alt="escena de datos de contacto y profesionales" width="820">
+</p>
+<p align="center"><em>Infografía: escena de datos de contacto y profesionales.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -377,7 +417,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-11-sistemas-de-informacion-crediticia.webp -->
+<!-- VISUAL:t11-11-sistemas-de-informacion-crediticia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-11-sistemas-de-informacion-crediticia.webp" alt="capas de sistemas de información crediticia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de sistemas de información crediticia.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -418,7 +462,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-12-operaciones-mercantiles-y-videovigilancia.webp -->
+<!-- VISUAL:t11-12-operaciones-mercantiles-y-videovigilancia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-12-operaciones-mercantiles-y-videovigilancia.webp" alt="mapa de operaciones mercantiles y videovigilancia" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de operaciones mercantiles y videovigilancia.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -454,7 +502,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-13-exclusion-publicitaria-e-informantes.webp -->
+<!-- VISUAL:t11-13-exclusion-publicitaria-e-informantes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-13-exclusion-publicitaria-e-informantes.webp" alt="flujo de exclusión publicitaria e informantes" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de exclusión publicitaria e informantes.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -488,7 +540,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-14-estadistica-archivo-e-infracciones-administrativas.webp -->
+<!-- VISUAL:t11-14-estadistica-archivo-e-infracciones-administrativas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-14-estadistica-archivo-e-infracciones-administrativas.webp" alt="comparación de estadística, archivo e infracciones administrativas" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de estadística, archivo e infracciones administrativas.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -524,7 +580,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-15-responsabilidad-activa-y-corresponsabilidad.webp -->
+<!-- VISUAL:t11-15-responsabilidad-activa-y-corresponsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-15-responsabilidad-activa-y-corresponsabilidad.webp" alt="línea temporal de responsabilidad activa y corresponsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de responsabilidad activa y corresponsabilidad.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -556,7 +616,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-16-representacion-y-registro-de-actividades.webp -->
+<!-- VISUAL:t11-16-representacion-y-registro-de-actividades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-16-representacion-y-registro-de-actividades.webp" alt="escena de representación y registro de actividades" width="820">
+</p>
+<p align="center"><em>Infografía: escena de representación y registro de actividades.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -587,7 +651,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-17-bloqueo-de-datos.webp -->
+<!-- VISUAL:t11-17-bloqueo-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-17-bloqueo-de-datos.webp" alt="capas de bloqueo de datos" width="820">
+</p>
+<p align="center"><em>Infografía: capas de bloqueo de datos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -619,7 +687,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-18-encargado-del-tratamiento.webp -->
+<!-- VISUAL:t11-18-encargado-del-tratamiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-18-encargado-del-tratamiento.webp" alt="mapa de encargado del tratamiento" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de encargado del tratamiento.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -665,7 +737,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-19-designacion-del-delegado-de-proteccion-de-datos.webp -->
+<!-- VISUAL:t11-19-designacion-del-delegado-de-proteccion-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-19-designacion-del-delegado-de-proteccion-de-datos.webp" alt="flujo de designación del delegado de protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de designación del delegado de protección de datos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -695,7 +771,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-20-cualificacion-y-posicion-del-delegado.webp -->
+<!-- VISUAL:t11-20-cualificacion-y-posicion-del-delegado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-20-cualificacion-y-posicion-del-delegado.webp" alt="comparación de cualificación y posición del delegado" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de cualificación y posición del delegado.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -725,7 +805,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-21-intervencion-del-delegado-ante-reclamaciones.webp -->
+<!-- VISUAL:t11-21-intervencion-del-delegado-ante-reclamaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-21-intervencion-del-delegado-ante-reclamaciones.webp" alt="línea temporal de intervención del delegado ante reclamaciones" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de intervención del delegado ante reclamaciones.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -766,7 +850,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-22-codigos-de-conducta-y-certificacion.webp -->
+<!-- VISUAL:t11-22-codigos-de-conducta-y-certificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-22-codigos-de-conducta-y-certificacion.webp" alt="escena de códigos de conducta y certificación" width="820">
+</p>
+<p align="center"><em>Infografía: escena de códigos de conducta y certificación.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -796,7 +884,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-23-transferencias-regimen-clausulas-y-normas-vinculantes.webp -->
+<!-- VISUAL:t11-23-transferencias-regimen-clausulas-y-normas-vinculantes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-23-transferencias-regimen-clausulas-y-normas-vinculantes.webp" alt="capas de transferencias: régimen, cláusulas y normas vinculantes" width="820">
+</p>
+<p align="center"><em>Infografía: capas de transferencias: régimen, cláusulas y normas vinculantes.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -829,7 +921,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-24-autorizacion-e-informacion-previa.webp -->
+<!-- VISUAL:t11-24-autorizacion-e-informacion-previa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-24-autorizacion-e-informacion-previa.webp" alt="mapa de autorización e información previa" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de autorización e información previa.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -862,7 +958,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-25-naturaleza-y-regimen-juridico-de-la-aepd.webp -->
+<!-- VISUAL:t11-25-naturaleza-y-regimen-juridico-de-la-aepd.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-25-naturaleza-y-regimen-juridico-de-la-aepd.webp" alt="flujo de naturaleza y régimen jurídico de la aepd" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de naturaleza y régimen jurídico de la aepd.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -898,7 +998,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-26-regimen-economico-funciones-y-potestades.webp -->
+<!-- VISUAL:t11-26-regimen-economico-funciones-y-potestades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-26-regimen-economico-funciones-y-potestades.webp" alt="comparación de régimen económico, funciones y potestades" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de régimen económico, funciones y potestades.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -941,7 +1045,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-27-presidencia-y-adjunto-de-la-aepd.webp -->
+<!-- VISUAL:t11-27-presidencia-y-adjunto-de-la-aepd.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-27-presidencia-y-adjunto-de-la-aepd.webp" alt="línea temporal de presidencia y adjunto de la aepd" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de presidencia y adjunto de la aepd.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -987,7 +1095,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-28-consejo-consultivo-y-publicidad.webp -->
+<!-- VISUAL:t11-28-consejo-consultivo-y-publicidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-28-consejo-consultivo-y-publicidad.webp" alt="escena de consejo consultivo y publicidad" width="820">
+</p>
+<p align="center"><em>Infografía: escena de consejo consultivo y publicidad.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1016,7 +1128,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-29-personal-investigador.webp -->
+<!-- VISUAL:t11-29-personal-investigador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-29-personal-investigador.webp" alt="capas de personal investigador" width="820">
+</p>
+<p align="center"><em>Infografía: capas de personal investigador.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1055,7 +1171,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-30-deber-de-colaboracion.webp -->
+<!-- VISUAL:t11-30-deber-de-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-30-deber-de-colaboracion.webp" alt="mapa de deber de colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de deber de colaboración.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1086,7 +1206,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-31-alcance-e-investigacion-mediante-sistemas-digitales.webp -->
+<!-- VISUAL:t11-31-alcance-e-investigacion-mediante-sistemas-digitales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-31-alcance-e-investigacion-mediante-sistemas-digitales.webp" alt="flujo de alcance e investigación mediante sistemas digitales" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de alcance e investigación mediante sistemas digitales.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1119,7 +1243,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-32-auditorias-preventivas-y-circulares.webp -->
+<!-- VISUAL:t11-32-auditorias-preventivas-y-circulares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-32-auditorias-preventivas-y-circulares.webp" alt="comparación de auditorías preventivas y circulares" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de auditorías preventivas y circulares.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1151,7 +1279,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-33-accion-exterior.webp -->
+<!-- VISUAL:t11-33-accion-exterior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-33-accion-exterior.webp" alt="línea temporal de acción exterior" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de acción exterior.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1182,7 +1314,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-34-autoridades-autonomicas-y-cooperacion.webp -->
+<!-- VISUAL:t11-34-autoridades-autonomicas-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-34-autoridades-autonomicas-y-cooperacion.webp" alt="escena de autoridades autonómicas y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: escena de autoridades autonómicas y cooperación.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1211,7 +1347,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-35-tratamientos-contrarios-y-dictamen-europeo.webp -->
+<!-- VISUAL:t11-35-tratamientos-contrarios-y-dictamen-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-35-tratamientos-contrarios-y-dictamen-europeo.webp" alt="capas de tratamientos contrarios y dictamen europeo" width="820">
+</p>
+<p align="center"><em>Infografía: capas de tratamientos contrarios y dictamen europeo.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1241,7 +1381,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-36-tratamientos-transfronterizos-y-conflictos-europeos.webp -->
+<!-- VISUAL:t11-36-tratamientos-transfronterizos-y-conflictos-europeos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-36-tratamientos-transfronterizos-y-conflictos-europeos.webp" alt="mapa de tratamientos transfronterizos y conflictos europeos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de tratamientos transfronterizos y conflictos europeos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1269,7 +1413,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-37-regimen-juridico-de-los-procedimientos.webp -->
+<!-- VISUAL:t11-37-regimen-juridico-de-los-procedimientos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-37-regimen-juridico-de-los-procedimientos.webp" alt="flujo de régimen jurídico de los procedimientos" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de régimen jurídico de los procedimientos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1307,7 +1455,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-38-iniciacion-y-duracion.webp -->
+<!-- VISUAL:t11-38-iniciacion-y-duracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-38-iniciacion-y-duracion.webp" alt="comparación de iniciación y duración" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de iniciación y duración.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1344,7 +1496,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-39-admision-de-reclamaciones.webp -->
+<!-- VISUAL:t11-39-admision-de-reclamaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-39-admision-de-reclamaciones.webp" alt="línea temporal de admisión de reclamaciones" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de admisión de reclamaciones.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1372,7 +1528,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-40-determinacion-del-alcance-territorial.webp -->
+<!-- VISUAL:t11-40-determinacion-del-alcance-territorial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-40-determinacion-del-alcance-territorial.webp" alt="escena de determinación del alcance territorial" width="820">
+</p>
+<p align="center"><em>Infografía: escena de determinación del alcance territorial.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1402,7 +1562,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-41-investigacion-previa-e-inicio-sancionador.webp -->
+<!-- VISUAL:t11-41-investigacion-previa-e-inicio-sancionador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-41-investigacion-previa-e-inicio-sancionador.webp" alt="capas de investigación previa e inicio sancionador" width="820">
+</p>
+<p align="center"><em>Infografía: capas de investigación previa e inicio sancionador.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 
@@ -1430,7 +1594,11 @@ Ante un tratamiento real, comprueba finalidad, legitimación, información al af
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t11-42-medidas-provisionales-y-garantia-de-derechos.webp -->
+<!-- VISUAL:t11-42-medidas-provisionales-y-garantia-de-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-42-medidas-provisionales-y-garantia-de-derechos.webp" alt="mapa de medidas provisionales y garantía de derechos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de medidas provisionales y garantía de derechos.</em></p>
 
 <!-- FUENTE: LO3-2018-BOE-A-2018-16673-T11 -->
 

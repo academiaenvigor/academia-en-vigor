@@ -48,7 +48,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-01-alcance-oficial-y-reformas-vigentes.webp -->
+<!-- VISUAL:t14-01-alcance-oficial-y-reformas-vigentes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-01-alcance-oficial-y-reformas-vigentes.webp" alt="flujo de alcance oficial y reformas vigentes" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de alcance oficial y reformas vigentes.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T14 -->
 
@@ -91,7 +95,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **7**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-02-organizacion-general-del-ministerio-del-interior.webp -->
+<!-- VISUAL:t14-02-organizacion-general-del-ministerio-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-02-organizacion-general-del-ministerio-del-interior.webp" alt="comparación de organización general del ministerio del interior" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de organización general del ministerio del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -166,7 +174,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-03-secretaria-de-estado-de-seguridad.webp -->
+<!-- VISUAL:t14-03-secretaria-de-estado-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-03-secretaria-de-estado-de-seguridad.webp" alt="línea temporal de secretaría de estado de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de secretaría de estado de seguridad.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -224,7 +236,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-04-direccion-general-de-la-policia.webp -->
+<!-- VISUAL:t14-04-direccion-general-de-la-policia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-04-direccion-general-de-la-policia.webp" alt="escena de dirección general de la policía" width="820">
+</p>
+<p align="center"><em>Infografía: escena de dirección general de la policía.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -307,7 +323,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-05-direccion-general-de-la-guardia-civil.webp -->
+<!-- VISUAL:t14-05-direccion-general-de-la-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-05-direccion-general-de-la-guardia-civil.webp" alt="capas de dirección general de la guardia civil" width="820">
+</p>
+<p align="center"><em>Infografía: capas de dirección general de la guardia civil.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -351,7 +371,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-06-relaciones-internacionales-y-extranjeria.webp -->
+<!-- VISUAL:t14-06-relaciones-internacionales-y-extranjeria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-06-relaciones-internacionales-y-extranjeria.webp" alt="mapa de relaciones internacionales y extranjería" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de relaciones internacionales y extranjería.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -407,7 +431,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-07-coordinacion-y-estudios.webp -->
+<!-- VISUAL:t14-07-coordinacion-y-estudios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-07-coordinacion-y-estudios.webp" alt="flujo de coordinación y estudios" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de coordinación y estudios.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -468,7 +496,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-08-secretaria-general-de-instituciones-penitenciarias.webp -->
+<!-- VISUAL:t14-08-secretaria-general-de-instituciones-penitenciarias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-08-secretaria-general-de-instituciones-penitenciarias.webp" alt="comparación de secretaría general de instituciones penitenciarias" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de secretaría general de instituciones penitenciarias.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -509,7 +541,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-09-ejecucion-penal-y-reinsercion-social.webp -->
+<!-- VISUAL:t14-09-ejecucion-penal-y-reinsercion-social.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-09-ejecucion-penal-y-reinsercion-social.webp" alt="línea temporal de ejecución penal y reinserción social" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de ejecución penal y reinserción social.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -558,7 +594,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-10-secretaria-general-de-proteccion-civil-y-emergencias.webp -->
+<!-- VISUAL:t14-10-secretaria-general-de-proteccion-civil-y-emergencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-10-secretaria-general-de-proteccion-civil-y-emergencias.webp" alt="escena de secretaría general de protección civil y emergencias" width="820">
+</p>
+<p align="center"><em>Infografía: escena de secretaría general de protección civil y emergencias.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -591,7 +631,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-11-direccion-general-de-proteccion-civil-y-emergencias.webp -->
+<!-- VISUAL:t14-11-direccion-general-de-proteccion-civil-y-emergencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-11-direccion-general-de-proteccion-civil-y-emergencias.webp" alt="capas de dirección general de protección civil y emergencias" width="820">
+</p>
+<p align="center"><em>Infografía: capas de dirección general de protección civil y emergencias.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -656,7 +700,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-12-subsecretaria-del-interior.webp -->
+<!-- VISUAL:t14-12-subsecretaria-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-12-subsecretaria-del-interior.webp" alt="mapa de subsecretaría del interior" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de subsecretaría del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -713,7 +761,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-13-secretaria-general-tecnica-del-interior.webp -->
+<!-- VISUAL:t14-13-secretaria-general-tecnica-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-13-secretaria-general-tecnica-del-interior.webp" alt="flujo de secretaría general técnica del interior" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de secretaría general técnica del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -765,7 +817,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-14-politica-interior.webp -->
+<!-- VISUAL:t14-14-politica-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-14-politica-interior.webp" alt="comparación de política interior" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de política interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -824,7 +880,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-15-trafico.webp -->
+<!-- VISUAL:t14-15-trafico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-15-trafico.webp" alt="línea temporal de tráfico" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de tráfico.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -878,7 +938,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-16-victimas-del-terrorismo-y-proteccion-internacional.webp -->
+<!-- VISUAL:t14-16-victimas-del-terrorismo-y-proteccion-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-16-victimas-del-terrorismo-y-proteccion-internacional.webp" alt="escena de víctimas del terrorismo y protección internacional" width="820">
+</p>
+<p align="center"><em>Infografía: escena de víctimas del terrorismo y protección internacional.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -908,7 +972,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-17-disposiciones-adicionales-i-del-interior.webp -->
+<!-- VISUAL:t14-17-disposiciones-adicionales-i-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-17-disposiciones-adicionales-i-del-interior.webp" alt="capas de disposiciones adicionales i del interior" width="820">
+</p>
+<p align="center"><em>Infografía: capas de disposiciones adicionales i del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -939,7 +1007,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-18-disposiciones-adicionales-ii-del-interior.webp -->
+<!-- VISUAL:t14-18-disposiciones-adicionales-ii-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-18-disposiciones-adicionales-ii-del-interior.webp" alt="mapa de disposiciones adicionales ii del interior" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de disposiciones adicionales ii del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -972,7 +1044,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-19-disposiciones-transitorias-y-finales-del-interior.webp -->
+<!-- VISUAL:t14-19-disposiciones-transitorias-y-finales-del-interior.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-19-disposiciones-transitorias-y-finales-del-interior.webp" alt="flujo de disposiciones transitorias y finales del interior" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de disposiciones transitorias y finales del interior.</em></p>
 
 <!-- FUENTE: RD207-2024-BOE-A-2024-3793-GC-T14 -->
 
@@ -1016,7 +1092,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-20-organizacion-general-del-ministerio-de-defensa.webp -->
+<!-- VISUAL:t14-20-organizacion-general-del-ministerio-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-20-organizacion-general-del-ministerio-de-defensa.webp" alt="comparación de organización general del ministerio de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de organización general del ministerio de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1049,7 +1129,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-21-fuerzas-armadas-y-estado-mayor-de-la-defensa.webp -->
+<!-- VISUAL:t14-21-fuerzas-armadas-y-estado-mayor-de-la-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-21-fuerzas-armadas-y-estado-mayor-de-la-defensa.webp" alt="línea temporal de fuerzas armadas y estado mayor de la defensa" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de fuerzas armadas y estado mayor de la defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1085,7 +1169,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-22-secretaria-de-estado-de-defensa.webp -->
+<!-- VISUAL:t14-22-secretaria-de-estado-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-22-secretaria-de-estado-de-defensa.webp" alt="escena de secretaría de estado de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: escena de secretaría de estado de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1126,7 +1214,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-23-estrategia-e-innovacion-de-la-industria-de-defensa.webp -->
+<!-- VISUAL:t14-23-estrategia-e-innovacion-de-la-industria-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-23-estrategia-e-innovacion-de-la-industria-de-defensa.webp" alt="capas de estrategia e innovación de la industria de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: capas de estrategia e innovación de la industria de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1162,7 +1254,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-24-armamento-y-material.webp -->
+<!-- VISUAL:t14-24-armamento-y-material.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-24-armamento-y-material.webp" alt="mapa de armamento y material" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de armamento y material.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1204,7 +1300,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-25-asuntos-economicos.webp -->
+<!-- VISUAL:t14-25-asuntos-economicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-25-asuntos-economicos.webp" alt="flujo de asuntos económicos" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de asuntos económicos.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1245,7 +1345,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-26-infraestructura.webp -->
+<!-- VISUAL:t14-26-infraestructura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-26-infraestructura.webp" alt="comparación de infraestructura" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de infraestructura.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1308,7 +1412,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-27-sistemas-y-tecnologias-de-la-informacion.webp -->
+<!-- VISUAL:t14-27-sistemas-y-tecnologias-de-la-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-27-sistemas-y-tecnologias-de-la-informacion.webp" alt="línea temporal de sistemas y tecnologías de la información" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de sistemas y tecnologías de la información.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1375,7 +1483,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-28-subsecretaria-de-defensa.webp -->
+<!-- VISUAL:t14-28-subsecretaria-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-28-subsecretaria-de-defensa.webp" alt="escena de subsecretaría de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: escena de subsecretaría de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1422,7 +1534,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-29-secretaria-general-tecnica-de-defensa.webp -->
+<!-- VISUAL:t14-29-secretaria-general-tecnica-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-29-secretaria-general-tecnica-de-defensa.webp" alt="capas de secretaría general técnica de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: capas de secretaría general técnica de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1472,7 +1588,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-30-personal.webp -->
+<!-- VISUAL:t14-30-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-30-personal.webp" alt="mapa de personal" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de personal.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1519,7 +1639,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-31-reclutamiento-y-ensenanza-militar.webp -->
+<!-- VISUAL:t14-31-reclutamiento-y-ensenanza-militar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-31-reclutamiento-y-ensenanza-militar.webp" alt="flujo de reclutamiento y enseñanza militar" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de reclutamiento y enseñanza militar.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1550,7 +1674,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-32-asesoria-juridica-general-de-la-defensa.webp -->
+<!-- VISUAL:t14-32-asesoria-juridica-general-de-la-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-32-asesoria-juridica-general-de-la-defensa.webp" alt="comparación de asesoría jurídica general de la defensa" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de asesoría jurídica general de la defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1580,7 +1708,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-33-intervencion-general-de-la-defensa.webp -->
+<!-- VISUAL:t14-33-intervencion-general-de-la-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-33-intervencion-general-de-la-defensa.webp" alt="línea temporal de intervención general de la defensa" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de intervención general de la defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1614,7 +1746,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-34-inspeccion-general-de-sanidad-de-la-defensa.webp -->
+<!-- VISUAL:t14-34-inspeccion-general-de-sanidad-de-la-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-34-inspeccion-general-de-sanidad-de-la-defensa.webp" alt="escena de inspección general de sanidad de la defensa" width="820">
+</p>
+<p align="center"><em>Infografía: escena de inspección general de sanidad de la defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1663,7 +1799,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-35-secretaria-general-de-politica-de-defensa.webp -->
+<!-- VISUAL:t14-35-secretaria-general-de-politica-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-35-secretaria-general-de-politica-de-defensa.webp" alt="capas de secretaría general de política de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: capas de secretaría general de política de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1704,7 +1844,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-36-direccion-general-de-politica-de-defensa.webp -->
+<!-- VISUAL:t14-36-direccion-general-de-politica-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-36-direccion-general-de-politica-de-defensa.webp" alt="mapa de dirección general de política de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de dirección general de política de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1731,7 +1875,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-37-consejos-y-juntas-superiores.webp -->
+<!-- VISUAL:t14-37-consejos-y-juntas-superiores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-37-consejos-y-juntas-superiores.webp" alt="flujo de consejos y juntas superiores" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de consejos y juntas superiores.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1764,7 +1912,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-38-precedencias-del-ministerio-de-defensa.webp -->
+<!-- VISUAL:t14-38-precedencias-del-ministerio-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-38-precedencias-del-ministerio-de-defensa.webp" alt="comparación de precedencias del ministerio de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de precedencias del ministerio de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1790,7 +1942,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-39-centro-nacional-de-inteligencia.webp -->
+<!-- VISUAL:t14-39-centro-nacional-de-inteligencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-39-centro-nacional-de-inteligencia.webp" alt="línea temporal de centro nacional de inteligencia" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de centro nacional de inteligencia.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1818,7 +1974,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-40-redes-y-sistemas-de-informacion-de-defensa.webp -->
+<!-- VISUAL:t14-40-redes-y-sistemas-de-informacion-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-40-redes-y-sistemas-de-informacion-de-defensa.webp" alt="escena de redes y sistemas de información de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: escena de redes y sistemas de información de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1848,7 +2008,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-41-disposiciones-adicionales-iv-a-vi-de-defensa.webp -->
+<!-- VISUAL:t14-41-disposiciones-adicionales-iv-a-vi-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-41-disposiciones-adicionales-iv-a-vi-de-defensa.webp" alt="capas de disposiciones adicionales iv a vi de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: capas de disposiciones adicionales iv a vi de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1883,7 +2047,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-42-disposiciones-adicionales-vii-a-xi-de-defensa.webp -->
+<!-- VISUAL:t14-42-disposiciones-adicionales-vii-a-xi-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-42-disposiciones-adicionales-vii-a-xi-de-defensa.webp" alt="mapa de disposiciones adicionales vii a xi de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de disposiciones adicionales vii a xi de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 
@@ -1912,7 +2080,11 @@ Cuando dos órganos parecen próximos, localiza el verbo exacto de la norma: dir
 Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exclusivas. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t14-43-disposiciones-transitoria-derogatoria-y-finales-de-defensa.webp -->
+<!-- VISUAL:t14-43-disposiciones-transitoria-derogatoria-y-finales-de-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-43-disposiciones-transitoria-derogatoria-y-finales-de-defensa.webp" alt="flujo de disposiciones transitoria, derogatoria y finales de defensa" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de disposiciones transitoria, derogatoria y finales de defensa.</em></p>
 
 <!-- FUENTE: RD205-2024-BOE-A-2024-3791-GC-T14 -->
 

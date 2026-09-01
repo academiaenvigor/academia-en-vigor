@@ -34,7 +34,11 @@ Este bloque encaja **alcance, exclusiones y derechos generales** dentro de bases
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-01-alcance-exclusiones-y-derechos-generales.webp -->
+<!-- VISUAL:t12-01-alcance-exclusiones-y-derechos-generales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-01-alcance-exclusiones-y-derechos-generales.webp" alt="flujo de alcance, exclusiones y derechos generales" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de alcance, exclusiones y derechos generales.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T12 -->
 
@@ -53,7 +57,11 @@ Este bloque encaja **política inmigratoria e integración** dentro de bases y d
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-02-politica-inmigratoria-e-integracion.webp -->
+<!-- VISUAL:t12-02-politica-inmigratoria-e-integracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-02-politica-inmigratoria-e-integracion.webp" alt="comparación de política inmigratoria e integración" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de política inmigratoria e integración.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -72,7 +80,11 @@ Este bloque encaja **documentación y libertad de circulación** dentro de bases
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-03-documentacion-y-libertad-de-circulacion.webp -->
+<!-- VISUAL:t12-03-documentacion-y-libertad-de-circulacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-03-documentacion-y-libertad-de-circulacion.webp" alt="línea temporal de documentación y libertad de circulación" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de documentación y libertad de circulación.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -91,7 +103,11 @@ Este bloque encaja **participación, reunión y asociación** dentro de bases y 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-04-participacion-reunion-y-asociacion.webp -->
+<!-- VISUAL:t12-04-participacion-reunion-y-asociacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-04-participacion-reunion-y-asociacion.webp" alt="escena de participación, reunión y asociación" width="820">
+</p>
+<p align="center"><em>Infografía: escena de participación, reunión y asociación.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -110,7 +126,11 @@ Este bloque encaja **educación, trabajo, sindicación y huelga** dentro de base
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-05-educacion-trabajo-sindicacion-y-huelga.webp -->
+<!-- VISUAL:t12-05-educacion-trabajo-sindicacion-y-huelga.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-05-educacion-trabajo-sindicacion-y-huelga.webp" alt="capas de educación, trabajo, sindicación y huelga" width="820">
+</p>
+<p align="center"><em>Infografía: capas de educación, trabajo, sindicación y huelga.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -129,7 +149,11 @@ Este bloque encaja **sanidad, vivienda, protección social y tributos** dentro d
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-06-sanidad-vivienda-proteccion-social-y-tributos.webp -->
+<!-- VISUAL:t12-06-sanidad-vivienda-proteccion-social-y-tributos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-06-sanidad-vivienda-proteccion-social-y-tributos.webp" alt="mapa de sanidad, vivienda, protección social y tributos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de sanidad, vivienda, protección social y tributos.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -148,7 +172,11 @@ Este bloque encaja **reagrupación familiar** dentro de familia, garantías y no
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-07-reagrupacion-familiar.webp -->
+<!-- VISUAL:t12-07-reagrupacion-familiar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-07-reagrupacion-familiar.webp" alt="flujo de reagrupación familiar" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de reagrupación familiar.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -167,7 +195,11 @@ Este bloque encaja **tutela judicial, recursos y asistencia jurídica** dentro d
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-08-tutela-judicial-recursos-y-asistencia-juridica.webp -->
+<!-- VISUAL:t12-08-tutela-judicial-recursos-y-asistencia-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-08-tutela-judicial-recursos-y-asistencia-juridica.webp" alt="comparación de tutela judicial, recursos y asistencia jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de tutela judicial, recursos y asistencia jurídica.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -185,7 +217,11 @@ Este bloque encaja **medidas contra la discriminación** dentro de familia, gara
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-09-medidas-contra-la-discriminacion.webp -->
+<!-- VISUAL:t12-09-medidas-contra-la-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-09-medidas-contra-la-discriminacion.webp" alt="línea temporal de medidas contra la discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de medidas contra la discriminación.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -204,7 +240,11 @@ Este bloque encaja **entrada, visados y salida** dentro de entrada, estancia y r
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-10-entrada-visados-y-salida.webp -->
+<!-- VISUAL:t12-10-entrada-visados-y-salida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-10-entrada-visados-y-salida.webp" alt="escena de entrada, visados y salida" width="820">
+</p>
+<p align="center"><em>Infografía: escena de entrada, visados y salida.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -223,7 +263,11 @@ Este bloque encaja **situaciones de estancia y residencia** dentro de entrada, e
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-11-situaciones-de-estancia-y-residencia.webp -->
+<!-- VISUAL:t12-11-situaciones-de-estancia-y-residencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-11-situaciones-de-estancia-y-residencia.webp" alt="capas de situaciones de estancia y residencia" width="820">
+</p>
+<p align="center"><em>Infografía: capas de situaciones de estancia y residencia.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -242,7 +286,11 @@ Este bloque encaja **residencia temporal** dentro de entrada, estancia y residen
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-12-residencia-temporal.webp -->
+<!-- VISUAL:t12-12-residencia-temporal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-12-residencia-temporal.webp" alt="mapa de residencia temporal" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de residencia temporal.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -261,7 +309,11 @@ Este bloque encaja **víctimas de violencia de género o sexual** dentro de entr
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-13-victimas-de-violencia-de-genero-o-sexual.webp -->
+<!-- VISUAL:t12-13-victimas-de-violencia-de-genero-o-sexual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-13-victimas-de-violencia-de-genero-o-sexual.webp" alt="flujo de víctimas de violencia de género o sexual" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de víctimas de violencia de género o sexual.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -280,7 +332,11 @@ Este bloque encaja **residencia de larga duración** dentro de entrada, estancia
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-14-residencia-de-larga-duracion.webp -->
+<!-- VISUAL:t12-14-residencia-de-larga-duracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-14-residencia-de-larga-duracion.webp" alt="comparación de residencia de larga duración" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de residencia de larga duración.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -299,7 +355,11 @@ Este bloque encaja **estudios, intercambio, prácticas y voluntariado** dentro d
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-15-estudios-intercambio-practicas-y-voluntariado.webp -->
+<!-- VISUAL:t12-15-estudios-intercambio-practicas-y-voluntariado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-15-estudios-intercambio-practicas-y-voluntariado.webp" alt="línea temporal de estudios, intercambio, prácticas y voluntariado" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de estudios, intercambio, prácticas y voluntariado.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -317,7 +377,11 @@ Este bloque encaja **apátridas, indocumentados y refugiados** dentro de entrada
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-16-apatridas-indocumentados-y-refugiados.webp -->
+<!-- VISUAL:t12-16-apatridas-indocumentados-y-refugiados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-16-apatridas-indocumentados-y-refugiados.webp" alt="escena de apátridas, indocumentados y refugiados" width="820">
+</p>
+<p align="center"><em>Infografía: escena de apátridas, indocumentados y refugiados.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -336,7 +400,11 @@ Este bloque encaja **menores no acompañados** dentro de entrada, estancia y res
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-17-menores-no-acompanados.webp -->
+<!-- VISUAL:t12-17-menores-no-acompanados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-17-menores-no-acompanados.webp" alt="capas de menores no acompañados" width="820">
+</p>
+<p align="center"><em>Infografía: capas de menores no acompañados.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -355,7 +423,11 @@ Este bloque encaja **contingencia migratoria de menores** dentro de entrada, est
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-18-contingencia-migratoria-de-menores.webp -->
+<!-- VISUAL:t12-18-contingencia-migratoria-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-18-contingencia-migratoria-de-menores.webp" alt="mapa de contingencia migratoria de menores" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de contingencia migratoria de menores.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -374,7 +446,11 @@ Este bloque encaja **autorizaciones de residencia y trabajo** dentro de trabajo,
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-19-autorizaciones-de-residencia-y-trabajo.webp -->
+<!-- VISUAL:t12-19-autorizaciones-de-residencia-y-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-19-autorizaciones-de-residencia-y-trabajo.webp" alt="flujo de autorizaciones de residencia y trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de autorizaciones de residencia y trabajo.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -391,7 +467,11 @@ Este bloque encaja **investigadores y profesionales cualificados** dentro de tra
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-20-investigadores-y-profesionales-cualificados.webp -->
+<!-- VISUAL:t12-20-investigadores-y-profesionales-cualificados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-20-investigadores-y-profesionales-cualificados.webp" alt="comparación de investigadores y profesionales cualificados" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de investigadores y profesionales cualificados.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -410,7 +490,11 @@ Este bloque encaja **contratación en origen, exenciones y excepciones** dentro 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-21-contratacion-en-origen-exenciones-y-excepciones.webp -->
+<!-- VISUAL:t12-21-contratacion-en-origen-exenciones-y-excepciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-21-contratacion-en-origen-exenciones-y-excepciones.webp" alt="línea temporal de contratación en origen, exenciones y excepciones" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de contratación en origen, exenciones y excepciones.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -429,7 +513,11 @@ Este bloque encaja **temporada, frontera y servicios transnacionales** dentro de
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-22-temporada-frontera-y-servicios-transnacionales.webp -->
+<!-- VISUAL:t12-22-temporada-frontera-y-servicios-transnacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-22-temporada-frontera-y-servicios-transnacionales.webp" alt="escena de temporada, frontera y servicios transnacionales" width="820">
+</p>
+<p align="center"><em>Infografía: escena de temporada, frontera y servicios transnacionales.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -448,7 +536,11 @@ Este bloque encaja **tasas de extranjería** dentro de trabajo, tasas y régimen
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-23-tasas-de-extranjeria.webp -->
+<!-- VISUAL:t12-23-tasas-de-extranjeria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-23-tasas-de-extranjeria.webp" alt="capas de tasas de extranjería" width="820">
+</p>
+<p align="center"><em>Infografía: capas de tasas de extranjería.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -466,7 +558,11 @@ Este bloque encaja **potestad sancionadora y clases de infracción** dentro de i
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-24-potestad-sancionadora-y-clases-de-infraccion.webp -->
+<!-- VISUAL:t12-24-potestad-sancionadora-y-clases-de-infraccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-24-potestad-sancionadora-y-clases-de-infraccion.webp" alt="mapa de potestad sancionadora y clases de infracción" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de potestad sancionadora y clases de infracción.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -482,7 +578,11 @@ Este bloque encaja **infracciones leves** dentro de infracciones, sanciones y ex
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-25-infracciones-leves.webp -->
+<!-- VISUAL:t12-25-infracciones-leves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-25-infracciones-leves.webp" alt="flujo de infracciones leves" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de infracciones leves.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -500,7 +600,11 @@ Este bloque encaja **infracciones graves** dentro de infracciones, sanciones y e
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-26-infracciones-graves.webp -->
+<!-- VISUAL:t12-26-infracciones-graves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-26-infracciones-graves.webp" alt="comparación de infracciones graves" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de infracciones graves.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -517,7 +621,11 @@ Este bloque encaja **infracciones muy graves** dentro de infracciones, sanciones
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-27-infracciones-muy-graves.webp -->
+<!-- VISUAL:t12-27-infracciones-muy-graves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-27-infracciones-muy-graves.webp" alt="línea temporal de infracciones muy graves" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de infracciones muy graves.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -536,7 +644,11 @@ Este bloque encaja **sanciones** dentro de infracciones, sanciones y expulsión.
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-28-sanciones.webp -->
+<!-- VISUAL:t12-28-sanciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-28-sanciones.webp" alt="escena de sanciones" width="820">
+</p>
+<p align="center"><em>Infografía: escena de sanciones.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -554,7 +666,11 @@ Este bloque encaja **prescripción** dentro de infracciones, sanciones y expulsi
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-29-prescripcion.webp -->
+<!-- VISUAL:t12-29-prescripcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-29-prescripcion.webp" alt="capas de prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: capas de prescripción.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -573,7 +689,11 @@ Este bloque encaja **expulsión del territorio** dentro de infracciones, sancion
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-30-expulsion-del-territorio.webp -->
+<!-- VISUAL:t12-30-expulsion-del-territorio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-30-expulsion-del-territorio.webp" alt="mapa de expulsión del territorio" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de expulsión del territorio.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -592,7 +712,11 @@ Este bloque encaja **efectos de la expulsión y devolución** dentro de infracci
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-31-efectos-de-la-expulsion-y-devolucion.webp -->
+<!-- VISUAL:t12-31-efectos-de-la-expulsion-y-devolucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-31-efectos-de-la-expulsion-y-devolucion.webp" alt="flujo de efectos de la expulsión y devolución" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de efectos de la expulsión y devolución.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -611,7 +735,11 @@ Este bloque encaja **colaboración contra redes y trata** dentro de infracciones
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-32-colaboracion-contra-redes-y-trata.webp -->
+<!-- VISUAL:t12-32-colaboracion-contra-redes-y-trata.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-32-colaboracion-contra-redes-y-trata.webp" alt="comparación de colaboración contra redes y trata" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de colaboración contra redes y trata.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -630,7 +758,11 @@ Este bloque encaja **denegación de entrada y medidas cautelares** dentro de int
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-33-denegacion-de-entrada-y-medidas-cautelares.webp -->
+<!-- VISUAL:t12-33-denegacion-de-entrada-y-medidas-cautelares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-33-denegacion-de-entrada-y-medidas-cautelares.webp" alt="línea temporal de denegación de entrada y medidas cautelares" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de denegación de entrada y medidas cautelares.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -649,7 +781,11 @@ Este bloque encaja **centros de internamiento** dentro de internamiento y proced
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-34-centros-de-internamiento.webp -->
+<!-- VISUAL:t12-34-centros-de-internamiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-34-centros-de-internamiento.webp" alt="escena de centros de internamiento" width="820">
+</p>
+<p align="center"><em>Infografía: escena de centros de internamiento.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -668,7 +804,11 @@ Este bloque encaja **procedimientos preferente y ordinario** dentro de internami
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-35-procedimientos-preferente-y-ordinario.webp -->
+<!-- VISUAL:t12-35-procedimientos-preferente-y-ordinario.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-35-procedimientos-preferente-y-ordinario.webp" alt="capas de procedimientos preferente y ordinario" width="820">
+</p>
+<p align="center"><em>Infografía: capas de procedimientos preferente y ordinario.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -687,7 +827,11 @@ Este bloque encaja **ejecución de expulsión y recursos** dentro de internamien
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-36-ejecucion-de-expulsion-y-recursos.webp -->
+<!-- VISUAL:t12-36-ejecucion-de-expulsion-y-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-36-ejecucion-de-expulsion-y-recursos.webp" alt="mapa de ejecución de expulsión y recursos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de ejecución de expulsión y recursos.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -706,7 +850,11 @@ Este bloque encaja **obligaciones de transportistas** dentro de internamiento y 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-37-obligaciones-de-transportistas.webp -->
+<!-- VISUAL:t12-37-obligaciones-de-transportistas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-37-obligaciones-de-transportistas.webp" alt="flujo de obligaciones de transportistas" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de obligaciones de transportistas.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -725,7 +873,11 @@ Este bloque encaja **coordinación administrativa** dentro de coordinación y di
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-38-coordinacion-administrativa.webp -->
+<!-- VISUAL:t12-38-coordinacion-administrativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-38-coordinacion-administrativa.webp" alt="comparación de coordinación administrativa" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de coordinación administrativa.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -744,7 +896,11 @@ Este bloque encaja **asociaciones y órganos consultivos** dentro de coordinaci�
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-39-asociaciones-y-organos-consultivos.webp -->
+<!-- VISUAL:t12-39-asociaciones-y-organos-consultivos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-39-asociaciones-y-organos-consultivos.webp" alt="línea temporal de asociaciones y órganos consultivos" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de asociaciones y órganos consultivos.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -763,7 +919,11 @@ Este bloque encaja **disposiciones adicionales i a vi** dentro de coordinación 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-40-disposiciones-adicionales-i-a-vi.webp -->
+<!-- VISUAL:t12-40-disposiciones-adicionales-i-a-vi.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-40-disposiciones-adicionales-i-a-vi.webp" alt="escena de disposiciones adicionales i a vi" width="820">
+</p>
+<p align="center"><em>Infografía: escena de disposiciones adicionales i a vi.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -782,7 +942,11 @@ Este bloque encaja **schengen, retorno, ceuta y melilla y protección de menores
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-41-schengen-retorno-ceuta-y-melilla-y-proteccion-de-menores.webp -->
+<!-- VISUAL:t12-41-schengen-retorno-ceuta-y-melilla-y-proteccion-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-41-schengen-retorno-ceuta-y-melilla-y-proteccion-de-menores.webp" alt="capas de schengen, retorno, ceuta y melilla y protección de menores" width="820">
+</p>
+<p align="center"><em>Infografía: capas de schengen, retorno, ceuta y melilla y protección de menores.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -801,7 +965,11 @@ Este bloque encaja **disposiciones transitorias y derogatoria** dentro de coordi
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-42-disposiciones-transitorias-y-derogatoria.webp -->
+<!-- VISUAL:t12-42-disposiciones-transitorias-y-derogatoria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-42-disposiciones-transitorias-y-derogatoria.webp" alt="mapa de disposiciones transitorias y derogatoria" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de disposiciones transitorias y derogatoria.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -820,7 +988,11 @@ Este bloque encaja **disposiciones finales** dentro de coordinación y disposici
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-43-disposiciones-finales.webp -->
+<!-- VISUAL:t12-43-disposiciones-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-43-disposiciones-finales.webp" alt="flujo de disposiciones finales" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de disposiciones finales.</em></p>
 
 <!-- FUENTE: LO4-2000-BOE-A-2000-544-T12 -->
 
@@ -839,7 +1011,11 @@ Este bloque encaja **rd 240/2007: objeto y familiares** dentro de ciudadanía de
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-44-rd-240-2007-objeto-y-familiares.webp -->
+<!-- VISUAL:t12-44-rd-240-2007-objeto-y-familiares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-44-rd-240-2007-objeto-y-familiares.webp" alt="comparación de rd 240/2007: objeto y familiares" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de rd 240/2007: objeto y familiares.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -858,7 +1034,11 @@ Este bloque encaja **derechos del régimen de la unión** dentro de ciudadanía 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-45-derechos-del-regimen-de-la-union.webp -->
+<!-- VISUAL:t12-45-derechos-del-regimen-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-45-derechos-del-regimen-de-la-union.webp" alt="línea temporal de derechos del régimen de la unión" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de derechos del régimen de la unión.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -877,7 +1057,11 @@ Este bloque encaja **entrada y salida** dentro de ciudadanía de la unión y del
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-46-entrada-y-salida.webp -->
+<!-- VISUAL:t12-46-entrada-y-salida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-46-entrada-y-salida.webp" alt="escena de entrada y salida" width="820">
+</p>
+<p align="center"><em>Infografía: escena de entrada y salida.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -894,7 +1078,11 @@ Este bloque encaja **estancia inferior a tres meses** dentro de ciudadanía de l
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-47-estancia-inferior-a-tres-meses.webp -->
+<!-- VISUAL:t12-47-estancia-inferior-a-tres-meses.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-47-estancia-inferior-a-tres-meses.webp" alt="capas de estancia inferior a tres meses" width="820">
+</p>
+<p align="center"><em>Infografía: capas de estancia inferior a tres meses.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -913,7 +1101,11 @@ Este bloque encaja **residencia superior a tres meses** dentro de ciudadanía de
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-48-residencia-superior-a-tres-meses.webp -->
+<!-- VISUAL:t12-48-residencia-superior-a-tres-meses.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-48-residencia-superior-a-tres-meses.webp" alt="mapa de residencia superior a tres meses" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de residencia superior a tres meses.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -932,7 +1124,11 @@ Este bloque encaja **tarjeta de familiar de ciudadano de la unión** dentro de c
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-49-tarjeta-de-familiar-de-ciudadano-de-la-union.webp -->
+<!-- VISUAL:t12-49-tarjeta-de-familiar-de-ciudadano-de-la-union.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-49-tarjeta-de-familiar-de-ciudadano-de-la-union.webp" alt="flujo de tarjeta de familiar de ciudadano de la unión" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de tarjeta de familiar de ciudadano de la unión.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -951,7 +1147,11 @@ Este bloque encaja **mantenimiento del derecho de residencia** dentro de ciudada
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-50-mantenimiento-del-derecho-de-residencia.webp -->
+<!-- VISUAL:t12-50-mantenimiento-del-derecho-de-residencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-50-mantenimiento-del-derecho-de-residencia.webp" alt="comparación de mantenimiento del derecho de residencia" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de mantenimiento del derecho de residencia.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -970,7 +1170,11 @@ Este bloque encaja **residencia permanente** dentro de ciudadanía de la unión 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-51-residencia-permanente.webp -->
+<!-- VISUAL:t12-51-residencia-permanente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-51-residencia-permanente.webp" alt="línea temporal de residencia permanente" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de residencia permanente.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -989,7 +1193,11 @@ Este bloque encaja **tarjeta permanente, tramitación, renovación y vigencia** 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-52-tarjeta-permanente-tramitacion-renovacion-y-vigencia.webp -->
+<!-- VISUAL:t12-52-tarjeta-permanente-tramitacion-renovacion-y-vigencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-52-tarjeta-permanente-tramitacion-renovacion-y-vigencia.webp" alt="escena de tarjeta permanente, tramitación, renovación y vigencia" width="820">
+</p>
+<p align="center"><em>Infografía: escena de tarjeta permanente, tramitación, renovación y vigencia.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -1008,7 +1216,11 @@ Este bloque encaja **orden público, seguridad y salud pública** dentro de ciud
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-53-orden-publico-seguridad-y-salud-publica.webp -->
+<!-- VISUAL:t12-53-orden-publico-seguridad-y-salud-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-53-orden-publico-seguridad-y-salud-publica.webp" alt="capas de orden público, seguridad y salud pública" width="820">
+</p>
+<p align="center"><em>Infografía: capas de orden público, seguridad y salud pública.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -1027,7 +1239,11 @@ Este bloque encaja **informes, garantías y resolución** dentro de ciudadanía 
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-54-informes-garantias-y-resolucion.webp -->
+<!-- VISUAL:t12-54-informes-garantias-y-resolucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-54-informes-garantias-y-resolucion.webp" alt="mapa de informes, garantías y resolución" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de informes, garantías y resolución.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 
@@ -1046,7 +1262,11 @@ Este bloque encaja **disposiciones del real decreto 240/2007** dentro de ciudada
 Primero identifica el régimen aplicable: nacional de tercer país o ciudadano de la Unión/EEE y su familia. Después separa entrada, estancia, residencia, trabajo y sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t12-55-disposiciones-del-real-decreto-240-2007.webp -->
+<!-- VISUAL:t12-55-disposiciones-del-real-decreto-240-2007.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-55-disposiciones-del-real-decreto-240-2007.webp" alt="flujo de disposiciones del real decreto 240/2007" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de disposiciones del real decreto 240/2007.</em></p>
 
 <!-- FUENTE: RD240-2007-BOE-A-2007-4184-T12 -->
 

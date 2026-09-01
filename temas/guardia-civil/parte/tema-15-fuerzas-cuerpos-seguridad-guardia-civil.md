@@ -6,7 +6,11 @@
 
 # Mapa del tema
 
-<!-- VISUAL PENDIENTE: t15-00-mapa-general.webp -->
+<!-- VISUAL:t15-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-00-mapa-general.webp" alt="recorrido por normas, estructura, historia y derechos" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido por normas, estructura, historia y derechos.</em></p>
 
 # Contenido
 
@@ -25,7 +29,11 @@ Este bloque ordena **alcance oficial y corte normativo** dentro de alcance y sis
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-01-alcance-oficial-y-corte-normativo.webp -->
+<!-- VISUAL:t15-01-alcance-oficial-y-corte-normativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-01-alcance-oficial-y-corte-normativo.webp" alt="esquema de alcance oficial y corte normativo" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de alcance oficial y corte normativo.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T15 -->
 
@@ -44,7 +52,11 @@ Este bloque ordena **seguridad pública y fuerzas y cuerpos de seguridad** dentr
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-02-seguridad-publica-y-fuerzas-y-cuerpos-de-seguridad.webp -->
+<!-- VISUAL:t15-02-seguridad-publica-y-fuerzas-y-cuerpos-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-02-seguridad-publica-y-fuerzas-y-cuerpos-de-seguridad.webp" alt="esquema de seguridad pública y fuerzas y cuerpos de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de seguridad pública y fuerzas y cuerpos de seguridad.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -63,7 +75,11 @@ Este bloque ordena **principios básicos de actuación** dentro de alcance y sis
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-03-principios-basicos-de-actuacion.webp -->
+<!-- VISUAL:t15-03-principios-basicos-de-actuacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-03-principios-basicos-de-actuacion.webp" alt="esquema de principios básicos de actuación" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de principios básicos de actuación.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -82,7 +98,11 @@ Este bloque ordena **disposiciones estatutarias comunes** dentro de alcance y si
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-04-disposiciones-estatutarias-comunes.webp -->
+<!-- VISUAL:t15-04-disposiciones-estatutarias-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-04-disposiciones-estatutarias-comunes.webp" alt="esquema de disposiciones estatutarias comunes" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones estatutarias comunes.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -101,7 +121,11 @@ Este bloque ordena **fuerzas y cuerpos de seguridad del estado: organización** 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-05-fuerzas-y-cuerpos-de-seguridad-del-estado-organizacion.webp -->
+<!-- VISUAL:t15-05-fuerzas-y-cuerpos-de-seguridad-del-estado-organizacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-05-fuerzas-y-cuerpos-de-seguridad-del-estado-organizacion.webp" alt="esquema de fuerzas y cuerpos de seguridad del estado: organización" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de fuerzas y cuerpos de seguridad del estado: organización.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -120,7 +144,11 @@ Este bloque ordena **funciones de las fuerzas y cuerpos de seguridad del estado*
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-06-funciones-de-las-fuerzas-y-cuerpos-de-seguridad-del-est.webp -->
+<!-- VISUAL:t15-06-funciones-de-las-fuerzas-y-cuerpos-de-seguridad-del-est.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-06-funciones-de-las-fuerzas-y-cuerpos-de-seguridad-del-est.webp" alt="esquema de funciones de las fuerzas y cuerpos de seguridad del estado" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de funciones de las fuerzas y cuerpos de seguridad del estado.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -139,7 +167,11 @@ Este bloque ordena **distribución material y territorial de competencias** dent
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-07-distribucion-material-y-territorial-de-competencias.webp -->
+<!-- VISUAL:t15-07-distribucion-material-y-territorial-de-competencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-07-distribucion-material-y-territorial-de-competencias.webp" alt="esquema de distribución material y territorial de competencias" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de distribución material y territorial de competencias.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -158,7 +190,11 @@ Este bloque ordena **guardia civil: naturaleza, dependencia y régimen** dentro 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-08-guardia-civil-naturaleza-dependencia-y-regimen.webp -->
+<!-- VISUAL:t15-08-guardia-civil-naturaleza-dependencia-y-regimen.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-08-guardia-civil-naturaleza-dependencia-y-regimen.webp" alt="esquema de guardia civil: naturaleza, dependencia y régimen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de guardia civil: naturaleza, dependencia y régimen.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -177,7 +213,11 @@ Este bloque ordena **policía judicial** dentro de alcance y sistema de segurida
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-09-policia-judicial.webp -->
+<!-- VISUAL:t15-09-policia-judicial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-09-policia-judicial.webp" alt="esquema de policía judicial" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de policía judicial.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -196,7 +236,11 @@ Este bloque ordena **policías de las comunidades autónomas** dentro de alcance
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-10-policias-de-las-comunidades-autonomas.webp -->
+<!-- VISUAL:t15-10-policias-de-las-comunidades-autonomas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-10-policias-de-las-comunidades-autonomas.webp" alt="esquema de policías de las comunidades autónomas" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de policías de las comunidades autónomas.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -215,7 +259,11 @@ Este bloque ordena **colaboración y coordinación entre administraciones** dent
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-11-colaboracion-y-coordinacion-entre-administraciones.webp -->
+<!-- VISUAL:t15-11-colaboracion-y-coordinacion-entre-administraciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-11-colaboracion-y-coordinacion-entre-administraciones.webp" alt="esquema de colaboración y coordinación entre administraciones" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de colaboración y coordinación entre administraciones.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -234,7 +282,11 @@ Este bloque ordena **policías locales** dentro de alcance y sistema de segurida
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-12-policias-locales.webp -->
+<!-- VISUAL:t15-12-policias-locales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-12-policias-locales.webp" alt="esquema de policías locales" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de policías locales.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -253,7 +305,11 @@ Este bloque ordena **disposiciones de la ley orgánica 2/1986** dentro de alcanc
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-13-disposiciones-de-la-ley-organica-2-1986.webp -->
+<!-- VISUAL:t15-13-disposiciones-de-la-ley-organica-2-1986.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-13-disposiciones-de-la-ley-organica-2-1986.webp" alt="esquema de disposiciones de la ley orgánica 2/1986" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones de la ley orgánica 2/1986.</em></p>
 
 <!-- FUENTE: LO2-1986-GC-T15 -->
 
@@ -272,7 +328,11 @@ Este bloque ordena **objeto, ámbito, condición de guardia civil e igualdad** d
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-14-objeto-ambito-condicion-de-guardia-civil-e-igualdad.webp -->
+<!-- VISUAL:t15-14-objeto-ambito-condicion-de-guardia-civil-e-igualdad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-14-objeto-ambito-condicion-de-guardia-civil-e-igualdad.webp" alt="esquema de objeto, ámbito, condición de guardia civil e igualdad" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de objeto, ámbito, condición de guardia civil e igualdad.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -291,7 +351,11 @@ Este bloque ordena **código de conducta y reglas de comportamiento** dentro de 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-15-codigo-de-conducta-y-reglas-de-comportamiento.webp -->
+<!-- VISUAL:t15-15-codigo-de-conducta-y-reglas-de-comportamiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-15-codigo-de-conducta-y-reglas-de-comportamiento.webp" alt="esquema de código de conducta y reglas de comportamiento" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de código de conducta y reglas de comportamiento.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -310,7 +374,11 @@ Este bloque ordena **competencias en política de personal** dentro de régimen 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-16-competencias-en-politica-de-personal.webp -->
+<!-- VISUAL:t15-16-competencias-en-politica-de-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-16-competencias-en-politica-de-personal.webp" alt="esquema de competencias en política de personal" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de competencias en política de personal.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -328,7 +396,11 @@ Este bloque ordena **funciones profesionales** dentro de régimen de personal y 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-17-funciones-profesionales.webp -->
+<!-- VISUAL:t15-17-funciones-profesionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-17-funciones-profesionales.webp" alt="esquema de funciones profesionales" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de funciones profesionales.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -347,7 +419,11 @@ Este bloque ordena **escalas, categorías y empleos** dentro de régimen de pers
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-18-escalas-categorias-y-empleos.webp -->
+<!-- VISUAL:t15-18-escalas-categorias-y-empleos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-18-escalas-categorias-y-empleos.webp" alt="esquema de escalas, categorías y empleos" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de escalas, categorías y empleos.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -366,7 +442,11 @@ Este bloque ordena **escalafón, capacidades y especialidades** dentro de régim
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-19-escalafon-capacidades-y-especialidades.webp -->
+<!-- VISUAL:t15-19-escalafon-capacidades-y-especialidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-19-escalafon-capacidades-y-especialidades.webp" alt="esquema de escalafón, capacidades y especialidades" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de escalafón, capacidades y especialidades.</em></p>
 
 <!-- FUENTE: L29-2014-GC-T15 -->
 
@@ -385,7 +465,11 @@ Este bloque ordena **dirección general, órganos superiores y gabinete técnico
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-20-direccion-general-organos-superiores-y-gabinete-tecnico.webp -->
+<!-- VISUAL:t15-20-direccion-general-organos-superiores-y-gabinete-tecnico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-20-direccion-general-organos-superiores-y-gabinete-tecnico.webp" alt="esquema de dirección general, órganos superiores y gabinete técnico" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de dirección general, órganos superiores y gabinete técnico.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -404,7 +488,11 @@ Este bloque ordena **dirección adjunta operativa y unidades dependientes** dent
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-21-direccion-adjunta-operativa-y-unidades-dependientes.webp -->
+<!-- VISUAL:t15-21-direccion-adjunta-operativa-y-unidades-dependientes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-21-direccion-adjunta-operativa-y-unidades-dependientes.webp" alt="esquema de dirección adjunta operativa y unidades dependientes" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de dirección adjunta operativa y unidades dependientes.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -423,7 +511,11 @@ Este bloque ordena **mando de operaciones y unidades dependientes** dentro de r�
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-22-mando-de-operaciones-y-unidades-dependientes.webp -->
+<!-- VISUAL:t15-22-mando-de-operaciones-y-unidades-dependientes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-22-mando-de-operaciones-y-unidades-dependientes.webp" alt="esquema de mando de operaciones y unidades dependientes" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mando de operaciones y unidades dependientes.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -442,7 +534,11 @@ Este bloque ordena **mando de fronteras y policía marítima** dentro de régime
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-23-mando-de-fronteras-y-policia-maritima.webp -->
+<!-- VISUAL:t15-23-mando-de-fronteras-y-policia-maritima.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-23-mando-de-fronteras-y-policia-maritima.webp" alt="esquema de mando de fronteras y policía marítima" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mando de fronteras y policía marítima.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -461,7 +557,11 @@ Este bloque ordena **mando de personal** dentro de régimen de personal y estruc
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-24-mando-de-personal.webp -->
+<!-- VISUAL:t15-24-mando-de-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-24-mando-de-personal.webp" alt="esquema de mando de personal" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mando de personal.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -480,7 +580,11 @@ Este bloque ordena **mando de apoyo** dentro de régimen de personal y estructur
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-25-mando-de-apoyo.webp -->
+<!-- VISUAL:t15-25-mando-de-apoyo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-25-mando-de-apoyo.webp" alt="esquema de mando de apoyo" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mando de apoyo.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -496,7 +600,11 @@ Este bloque ordena **organización periférica** dentro de régimen de personal 
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-26-organizacion-periferica.webp -->
+<!-- VISUAL:t15-26-organizacion-periferica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-26-organizacion-periferica.webp" alt="esquema de organización periférica" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de organización periférica.</em></p>
 
 <!-- FUENTE: RD207-2024-ART4-GC-T15 -->
 
@@ -515,7 +623,11 @@ Este bloque ordena **antecedentes del siglo xix** dentro de historia institucion
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-27-antecedentes-del-siglo-xix.webp -->
+<!-- VISUAL:t15-27-antecedentes-del-siglo-xix.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-27-antecedentes-del-siglo-xix.webp" alt="esquema de antecedentes del siglo xix" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de antecedentes del siglo xix.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -534,7 +646,11 @@ Este bloque ordena **la fundación** dentro de historia institucional.
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-28-la-fundacion.webp -->
+<!-- VISUAL:t15-28-la-fundacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-28-la-fundacion.webp" alt="esquema de la fundación" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la fundación.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -553,7 +669,11 @@ Este bloque ordena **la consolidación** dentro de historia institucional.
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-29-la-consolidacion.webp -->
+<!-- VISUAL:t15-29-la-consolidacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-29-la-consolidacion.webp" alt="esquema de la consolidación" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la consolidación.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -572,7 +692,11 @@ Este bloque ordena **el sexenio revolucionario** dentro de historia instituciona
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-30-el-sexenio-revolucionario.webp -->
+<!-- VISUAL:t15-30-el-sexenio-revolucionario.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-30-el-sexenio-revolucionario.webp" alt="esquema de el sexenio revolucionario" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de el sexenio revolucionario.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -591,7 +715,11 @@ Este bloque ordena **la restauración monárquica** dentro de historia instituci
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-31-la-restauracion-monarquica.webp -->
+<!-- VISUAL:t15-31-la-restauracion-monarquica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-31-la-restauracion-monarquica.webp" alt="esquema de la restauración monárquica" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la restauración monárquica.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -610,7 +738,11 @@ Este bloque ordena **el reinado de alfonso xiii** dentro de historia institucion
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-32-el-reinado-de-alfonso-xiii.webp -->
+<!-- VISUAL:t15-32-el-reinado-de-alfonso-xiii.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-32-el-reinado-de-alfonso-xiii.webp" alt="esquema de el reinado de alfonso xiii" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de el reinado de alfonso xiii.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -629,7 +761,11 @@ Este bloque ordena **la segunda república** dentro de historia institucional.
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-33-la-segunda-republica.webp -->
+<!-- VISUAL:t15-33-la-segunda-republica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-33-la-segunda-republica.webp" alt="esquema de la segunda república" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la segunda república.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -648,7 +784,11 @@ Este bloque ordena **la guerra civil** dentro de historia institucional.
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-34-la-guerra-civil.webp -->
+<!-- VISUAL:t15-34-la-guerra-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-34-la-guerra-civil.webp" alt="esquema de la guerra civil" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la guerra civil.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -667,7 +807,11 @@ Este bloque ordena **el franquismo** dentro de historia institucional.
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-35-el-franquismo.webp -->
+<!-- VISUAL:t15-35-el-franquismo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-35-el-franquismo.webp" alt="esquema de el franquismo" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de el franquismo.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -686,7 +830,11 @@ Este bloque ordena **la transición y la democracia** dentro de historia institu
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-36-la-transicion-y-la-democracia.webp -->
+<!-- VISUAL:t15-36-la-transicion-y-la-democracia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-36-la-transicion-y-la-democracia.webp" alt="esquema de la transición y la democracia" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de la transición y la democracia.</em></p>
 
 <!-- FUENTE: GC-HISTORIA-T15 -->
 
@@ -705,7 +853,11 @@ Este bloque ordena **objeto, titularidad, igualdad y libertades personales** den
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-37-objeto-titularidad-igualdad-y-libertades-personales.webp -->
+<!-- VISUAL:t15-37-objeto-titularidad-igualdad-y-libertades-personales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-37-objeto-titularidad-igualdad-y-libertades-personales.webp" alt="esquema de objeto, titularidad, igualdad y libertades personales" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de objeto, titularidad, igualdad y libertades personales.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -724,7 +876,11 @@ Este bloque ordena **expresión, reunión, asociación, sufragio y petición** d
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-38-expresion-reunion-asociacion-sufragio-y-peticion.webp -->
+<!-- VISUAL:t15-38-expresion-reunion-asociacion-sufragio-y-peticion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-38-expresion-reunion-asociacion-sufragio-y-peticion.webp" alt="esquema de expresión, reunión, asociación, sufragio y petición" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de expresión, reunión, asociación, sufragio y petición.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -743,7 +899,11 @@ Este bloque ordena **deberes profesionales** dentro de derechos, deberes y repre
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-39-deberes-profesionales.webp -->
+<!-- VISUAL:t15-39-deberes-profesionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-39-deberes-profesionales.webp" alt="esquema de deberes profesionales" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de deberes profesionales.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -761,7 +921,11 @@ Este bloque ordena **defensa, uniforme, armas y formación** dentro de derechos,
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-40-defensa-uniforme-armas-y-formacion.webp -->
+<!-- VISUAL:t15-40-defensa-uniforme-armas-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-40-defensa-uniforme-armas-y-formacion.webp" alt="esquema de defensa, uniforme, armas y formación" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de defensa, uniforme, armas y formación.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -780,7 +944,11 @@ Este bloque ordena **derechos profesionales** dentro de derechos, deberes y repr
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-41-derechos-profesionales.webp -->
+<!-- VISUAL:t15-41-derechos-profesionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-41-derechos-profesionales.webp" alt="esquema de derechos profesionales" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de derechos profesionales.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -799,7 +967,11 @@ Este bloque ordena **asociaciones profesionales: constitución y ejercicio** den
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-42-asociaciones-profesionales-constitucion-y-ejercicio.webp -->
+<!-- VISUAL:t15-42-asociaciones-profesionales-constitucion-y-ejercicio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-42-asociaciones-profesionales-constitucion-y-ejercicio.webp" alt="esquema de asociaciones profesionales: constitución y ejercicio" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de asociaciones profesionales: constitución y ejercicio.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -818,7 +990,11 @@ Este bloque ordena **asociaciones representativas y sus derechos** dentro de der
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-43-asociaciones-representativas-y-sus-derechos.webp -->
+<!-- VISUAL:t15-43-asociaciones-representativas-y-sus-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-43-asociaciones-representativas-y-sus-derechos.webp" alt="esquema de asociaciones representativas y sus derechos" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de asociaciones representativas y sus derechos.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -837,7 +1013,11 @@ Este bloque ordena **consejo de la guardia civil: composición y funciones** den
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-44-consejo-de-la-guardia-civil-composicion-y-funciones.webp -->
+<!-- VISUAL:t15-44-consejo-de-la-guardia-civil-composicion-y-funciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-44-consejo-de-la-guardia-civil-composicion-y-funciones.webp" alt="esquema de consejo de la guardia civil: composición y funciones" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de consejo de la guardia civil: composición y funciones.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -856,7 +1036,11 @@ Este bloque ordena **consejo de la guardia civil: funcionamiento y elección** d
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-45-consejo-de-la-guardia-civil-funcionamiento-y-eleccion.webp -->
+<!-- VISUAL:t15-45-consejo-de-la-guardia-civil-funcionamiento-y-eleccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-45-consejo-de-la-guardia-civil-funcionamiento-y-eleccion.webp" alt="esquema de consejo de la guardia civil: funcionamiento y elección" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de consejo de la guardia civil: funcionamiento y elección.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 
@@ -875,7 +1059,11 @@ Este bloque ordena **disposiciones de la ley orgánica 11/2007** dentro de derec
 Primero localiza la norma y el artículo; después fija el verbo, el sujeto y la excepción.
 :::
 
-<!-- VISUAL PENDIENTE: t15-46-disposiciones-de-la-ley-organica-11-2007.webp -->
+<!-- VISUAL:t15-46-disposiciones-de-la-ley-organica-11-2007.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-15/t15-46-disposiciones-de-la-ley-organica-11-2007.webp" alt="esquema de disposiciones de la ley orgánica 11/2007" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones de la ley orgánica 11/2007.</em></p>
 
 <!-- FUENTE: LO11-2007-GC-T15 -->
 

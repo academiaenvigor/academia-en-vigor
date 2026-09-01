@@ -51,7 +51,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-01-objeto-y-ambito-de-la-seguridad-ciudadana.webp -->
+<!-- VISUAL:t13-01-objeto-y-ambito-de-la-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-01-objeto-y-ambito-de-la-seguridad-ciudadana.webp" alt="flujo de objeto y ámbito de la seguridad ciudadana" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de objeto y ámbito de la seguridad ciudadana.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T13 -->
 
@@ -90,7 +94,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-02-fines-y-principios-rectores.webp -->
+<!-- VISUAL:t13-02-fines-y-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-02-fines-y-principios-rectores.webp" alt="comparación de fines y principios rectores" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de fines y principios rectores.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -130,7 +138,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-03-autoridades-cooperacion-y-colaboracion.webp -->
+<!-- VISUAL:t13-03-autoridades-cooperacion-y-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-03-autoridades-cooperacion-y-colaboracion.webp" alt="línea temporal de autoridades, cooperación y colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de autoridades, cooperación y colaboración.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -168,7 +180,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-04-identidad-y-documento-nacional-de-identidad.webp -->
+<!-- VISUAL:t13-04-identidad-y-documento-nacional-de-identidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-04-identidad-y-documento-nacional-de-identidad.webp" alt="escena de identidad y documento nacional de identidad" width="820">
+</p>
+<p align="center"><em>Infografía: escena de identidad y documento nacional de identidad.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -204,7 +220,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-05-pasaporte-de-ciudadanos-espanoles.webp -->
+<!-- VISUAL:t13-05-pasaporte-de-ciudadanos-espanoles.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-05-pasaporte-de-ciudadanos-espanoles.webp" alt="capas de pasaporte de ciudadanos españoles" width="820">
+</p>
+<p align="center"><em>Infografía: capas de pasaporte de ciudadanos españoles.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -232,7 +252,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-06-identidad-de-ciudadanos-extranjeros.webp -->
+<!-- VISUAL:t13-06-identidad-de-ciudadanos-extranjeros.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-06-identidad-de-ciudadanos-extranjeros.webp" alt="mapa de identidad de ciudadanos extranjeros" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de identidad de ciudadanos extranjeros.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -262,7 +286,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-07-ordenes-entrada-en-domicilio-y-edificios-oficiales.webp -->
+<!-- VISUAL:t13-07-ordenes-entrada-en-domicilio-y-edificios-oficiales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-07-ordenes-entrada-en-domicilio-y-edificios-oficiales.webp" alt="flujo de órdenes, entrada en domicilio y edificios oficiales" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de órdenes, entrada en domicilio y edificios oficiales.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -296,7 +324,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-08-identificacion-de-personas.webp -->
+<!-- VISUAL:t13-08-identificacion-de-personas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-08-identificacion-de-personas.webp" alt="comparación de identificación de personas" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de identificación de personas.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -324,7 +356,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-09-restriccion-del-transito-y-controles-en-vias-publicas.webp -->
+<!-- VISUAL:t13-09-restriccion-del-transito-y-controles-en-vias-publicas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-09-restriccion-del-transito-y-controles-en-vias-publicas.webp" alt="línea temporal de restricción del tránsito y controles en vías públicas" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de restricción del tránsito y controles en vías públicas.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -355,7 +391,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-10-comprobaciones-registros-y-diligencias-comunes.webp -->
+<!-- VISUAL:t13-10-comprobaciones-registros-y-diligencias-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-10-comprobaciones-registros-y-diligencias-comunes.webp" alt="escena de comprobaciones, registros y diligencias comunes" width="820">
+</p>
+<p align="center"><em>Infografía: escena de comprobaciones, registros y diligencias comunes.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -385,7 +425,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-11-registros-corporales-externos.webp -->
+<!-- VISUAL:t13-11-registros-corporales-externos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-11-registros-corporales-externos.webp" alt="capas de registros corporales externos" width="820">
+</p>
+<p align="center"><em>Infografía: capas de registros corporales externos.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -414,7 +458,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-12-medidas-extraordinarias-y-videocamaras.webp -->
+<!-- VISUAL:t13-12-medidas-extraordinarias-y-videocamaras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-12-medidas-extraordinarias-y-videocamaras.webp" alt="mapa de medidas extraordinarias y videocámaras" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de medidas extraordinarias y videocámaras.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -446,7 +494,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-13-reuniones-manifestaciones-y-colaboracion-policial.webp -->
+<!-- VISUAL:t13-13-reuniones-manifestaciones-y-colaboracion-policial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-13-reuniones-manifestaciones-y-colaboracion-policial.webp" alt="flujo de reuniones, manifestaciones y colaboración policial" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de reuniones, manifestaciones y colaboración policial.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -474,7 +526,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-14-registros-documentales-y-establecimientos-obligados.webp -->
+<!-- VISUAL:t13-14-registros-documentales-y-establecimientos-obligados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-14-registros-documentales-y-establecimientos-obligados.webp" alt="comparación de registros documentales y establecimientos obligados" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de registros documentales y establecimientos obligados.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -512,7 +568,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-15-espectaculos-armas-y-medidas-de-control.webp -->
+<!-- VISUAL:t13-15-espectaculos-armas-y-medidas-de-control.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-15-espectaculos-armas-y-medidas-de-control.webp" alt="línea temporal de espectáculos, armas y medidas de control" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de espectáculos, armas y medidas de control.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -547,7 +607,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-16-sujetos-responsables-y-concurso-de-infracciones.webp -->
+<!-- VISUAL:t13-16-sujetos-responsables-y-concurso-de-infracciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-16-sujetos-responsables-y-concurso-de-infracciones.webp" alt="escena de sujetos responsables y concurso de infracciones" width="820">
+</p>
+<p align="center"><em>Infografía: escena de sujetos responsables y concurso de infracciones.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -594,7 +658,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-17-competencia-y-graduacion-de-sanciones.webp -->
+<!-- VISUAL:t13-17-competencia-y-graduacion-de-sanciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-17-competencia-y-graduacion-de-sanciones.webp" alt="capas de competencia y graduación de sanciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de competencia y graduación de sanciones.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -625,7 +693,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-18-clasificacion-e-infracciones-muy-graves.webp -->
+<!-- VISUAL:t13-18-clasificacion-e-infracciones-muy-graves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-18-clasificacion-e-infracciones-muy-graves.webp" alt="mapa de clasificación e infracciones muy graves" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de clasificación e infracciones muy graves.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -674,7 +746,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-19-infracciones-graves.webp -->
+<!-- VISUAL:t13-19-infracciones-graves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-19-infracciones-graves.webp" alt="flujo de infracciones graves" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de infracciones graves.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -717,7 +793,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-20-infracciones-leves.webp -->
+<!-- VISUAL:t13-20-infracciones-leves.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-20-infracciones-leves.webp" alt="comparación de infracciones leves" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de infracciones leves.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -746,7 +826,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-21-prescripcion-de-infracciones.webp -->
+<!-- VISUAL:t13-21-prescripcion-de-infracciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-21-prescripcion-de-infracciones.webp" alt="línea temporal de prescripción de infracciones" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de prescripción de infracciones.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -782,7 +866,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-22-sanciones-y-prescripcion.webp -->
+<!-- VISUAL:t13-22-sanciones-y-prescripcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-22-sanciones-y-prescripcion.webp" alt="escena de sanciones y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: escena de sanciones y prescripción.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -822,7 +910,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-23-reparacion-registro-central-y-regimen-juridico.webp -->
+<!-- VISUAL:t13-23-reparacion-registro-central-y-regimen-juridico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-23-reparacion-registro-central-y-regimen-juridico.webp" alt="capas de reparación, registro central y régimen jurídico" width="820">
+</p>
+<p align="center"><em>Infografía: capas de reparación, registro central y régimen jurídico.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -876,7 +968,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-24-procedimiento-sancionador-y-medidas-provisionales.webp -->
+<!-- VISUAL:t13-24-procedimiento-sancionador-y-medidas-provisionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-24-procedimiento-sancionador-y-medidas-provisionales.webp" alt="mapa de procedimiento sancionador y medidas provisionales" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de procedimiento sancionador y medidas provisionales.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -917,7 +1013,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-25-caducidad-resolucion-prueba-y-ejecucion.webp -->
+<!-- VISUAL:t13-25-caducidad-resolucion-prueba-y-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-25-caducidad-resolucion-prueba-y-ejecucion.webp" alt="flujo de caducidad, resolución, prueba y ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de caducidad, resolución, prueba y ejecución.</em></p>
 
 <!-- FUENTE: LO4-2015-BOE-A-2015-3442-GC-T13 -->
 
@@ -962,7 +1062,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-26-objeto-definiciones-y-ambito-de-la-seguridad-privada.webp -->
+<!-- VISUAL:t13-26-objeto-definiciones-y-ambito-de-la-seguridad-privada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-26-objeto-definiciones-y-ambito-de-la-seguridad-privada.webp" alt="comparación de objeto, definiciones y ámbito de la seguridad privada" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de objeto, definiciones y ámbito de la seguridad privada.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1014,7 +1118,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-27-fines-actividades-y-compatibilidades.webp -->
+<!-- VISUAL:t13-27-fines-actividades-y-compatibilidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-27-fines-actividades-y-compatibilidades.webp" alt="línea temporal de fines, actividades y compatibilidades" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de fines, actividades y compatibilidades.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1050,7 +1158,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-28-actividades-excluidas-y-principios-rectores.webp -->
+<!-- VISUAL:t13-28-actividades-excluidas-y-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-28-actividades-excluidas-y-principios-rectores.webp" alt="escena de actividades excluidas y principios rectores" width="820">
+</p>
+<p align="center"><em>Infografía: escena de actividades excluidas y principios rectores.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1084,7 +1196,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-29-contratacion-comunicacion-y-prohibiciones.webp -->
+<!-- VISUAL:t13-29-contratacion-comunicacion-y-prohibiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-29-contratacion-comunicacion-y-prohibiciones.webp" alt="capas de contratación, comunicación y prohibiciones" width="820">
+</p>
+<p align="center"><em>Infografía: capas de contratación, comunicación y prohibiciones.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1119,7 +1235,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-30-registro-nacional-y-registros-autonomicos.webp -->
+<!-- VISUAL:t13-30-registro-nacional-y-registros-autonomicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-30-registro-nacional-y-registros-autonomicos.webp" alt="mapa de registro nacional y registros autonómicos" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de registro nacional y registros autonómicos.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1165,7 +1285,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-31-competencias-estatal-y-autonomica.webp -->
+<!-- VISUAL:t13-31-competencias-estatal-y-autonomica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-31-competencias-estatal-y-autonomica.webp" alt="flujo de competencias estatal y autonómica" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de competencias estatal y autonómica.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1199,7 +1323,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-32-colaboracion-acceso-a-informacion-y-coordinacion.webp -->
+<!-- VISUAL:t13-32-colaboracion-acceso-a-informacion-y-coordinacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-32-colaboracion-acceso-a-informacion-y-coordinacion.webp" alt="comparación de colaboración, acceso a información y coordinación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de colaboración, acceso a información y coordinación.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1230,7 +1358,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-33-actividades-y-autorizacion-de-empresas.webp -->
+<!-- VISUAL:t13-33-actividades-y-autorizacion-de-empresas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-33-actividades-y-autorizacion-de-empresas.webp" alt="línea temporal de actividades y autorización de empresas" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de actividades y autorización de empresas.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1275,7 +1407,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-34-requisitos-generales-e-inscripcion-empresarial.webp -->
+<!-- VISUAL:t13-34-requisitos-generales-e-inscripcion-empresarial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-34-requisitos-generales-e-inscripcion-empresarial.webp" alt="escena de requisitos generales e inscripción empresarial" width="820">
+</p>
+<p align="center"><em>Infografía: escena de requisitos generales e inscripción empresarial.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1319,7 +1455,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-35-obligaciones-y-representantes-legales.webp -->
+<!-- VISUAL:t13-35-obligaciones-y-representantes-legales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-35-obligaciones-y-representantes-legales.webp" alt="capas de obligaciones y representantes legales" width="820">
+</p>
+<p align="center"><em>Infografía: capas de obligaciones y representantes legales.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1367,7 +1507,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-36-despachos-de-detectives-apertura-y-obligaciones.webp -->
+<!-- VISUAL:t13-36-despachos-de-detectives-apertura-y-obligaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-36-despachos-de-detectives-apertura-y-obligaciones.webp" alt="mapa de despachos de detectives: apertura y obligaciones" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de despachos de detectives: apertura y obligaciones.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1404,7 +1548,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-37-profesiones-y-habilitacion-profesional.webp -->
+<!-- VISUAL:t13-37-profesiones-y-habilitacion-profesional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-37-profesiones-y-habilitacion-profesional.webp" alt="flujo de profesiones y habilitación profesional" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de profesiones y habilitación profesional.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1460,7 +1608,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-38-requisitos-generales-y-formacion.webp -->
+<!-- VISUAL:t13-38-requisitos-generales-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-38-requisitos-generales-y-formacion.webp" alt="comparación de requisitos generales y formación" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de requisitos generales y formación.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1494,7 +1646,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-39-principios-de-actuacion-y-proteccion-juridica.webp -->
+<!-- VISUAL:t13-39-principios-de-actuacion-y-proteccion-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-39-principios-de-actuacion-y-proteccion-juridica.webp" alt="línea temporal de principios de actuación y protección jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de principios de actuación y protección jurídica.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1531,7 +1687,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-40-vigilantes-de-seguridad-y-especialidades.webp -->
+<!-- VISUAL:t13-40-vigilantes-de-seguridad-y-especialidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-40-vigilantes-de-seguridad-y-especialidades.webp" alt="escena de vigilantes de seguridad y especialidades" width="820">
+</p>
+<p align="center"><em>Infografía: escena de vigilantes de seguridad y especialidades.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1559,7 +1719,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-41-escoltas-privados.webp -->
+<!-- VISUAL:t13-41-escoltas-privados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-41-escoltas-privados.webp" alt="capas de escoltas privados" width="820">
+</p>
+<p align="center"><em>Infografía: capas de escoltas privados.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1589,7 +1753,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-42-guardas-rurales-y-especialidades.webp -->
+<!-- VISUAL:t13-42-guardas-rurales-y-especialidades.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-42-guardas-rurales-y-especialidades.webp" alt="mapa de guardas rurales y especialidades" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de guardas rurales y especialidades.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1625,7 +1793,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-43-jefes-de-seguridad.webp -->
+<!-- VISUAL:t13-43-jefes-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-43-jefes-de-seguridad.webp" alt="flujo de jefes de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de jefes de seguridad.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1664,7 +1836,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-44-directores-de-seguridad.webp -->
+<!-- VISUAL:t13-44-directores-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-44-directores-de-seguridad.webp" alt="comparación de directores de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de directores de seguridad.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1695,7 +1871,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-45-detectives-privados.webp -->
+<!-- VISUAL:t13-45-detectives-privados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-45-detectives-privados.webp" alt="línea temporal de detectives privados" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de detectives privados.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1734,7 +1914,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-46-prestacion-y-forma-de-los-servicios.webp -->
+<!-- VISUAL:t13-46-prestacion-y-forma-de-los-servicios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-46-prestacion-y-forma-de-los-servicios.webp" alt="escena de prestación y forma de los servicios" width="820">
+</p>
+<p align="center"><em>Infografía: escena de prestación y forma de los servicios.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1767,7 +1951,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-47-servicios-con-armas-de-fuego.webp -->
+<!-- VISUAL:t13-47-servicios-con-armas-de-fuego.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-47-servicios-con-armas-de-fuego.webp" alt="capas de servicios con armas de fuego" width="820">
+</p>
+<p align="center"><em>Infografía: capas de servicios con armas de fuego.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1810,7 +1998,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-48-vigilancia-y-proteccion.webp -->
+<!-- VISUAL:t13-48-vigilancia-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-48-vigilancia-y-proteccion.webp" alt="mapa de vigilancia y protección" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de vigilancia y protección.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1844,7 +2036,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-49-videovigilancia.webp -->
+<!-- VISUAL:t13-49-videovigilancia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-49-videovigilancia.webp" alt="flujo de videovigilancia" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de videovigilancia.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1872,7 +2068,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-50-proteccion-personal.webp -->
+<!-- VISUAL:t13-50-proteccion-personal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-50-proteccion-personal.webp" alt="comparación de protección personal" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de protección personal.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1900,7 +2100,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-51-deposito-y-transporte-de-seguridad.webp -->
+<!-- VISUAL:t13-51-deposito-y-transporte-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-51-deposito-y-transporte-de-seguridad.webp" alt="línea temporal de depósito y transporte de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de depósito y transporte de seguridad.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1932,7 +2136,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-52-instalacion-mantenimiento-y-gestion-de-alarmas.webp -->
+<!-- VISUAL:t13-52-instalacion-mantenimiento-y-gestion-de-alarmas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-52-instalacion-mantenimiento-y-gestion-de-alarmas.webp" alt="escena de instalación, mantenimiento y gestión de alarmas" width="820">
+</p>
+<p align="center"><em>Infografía: escena de instalación, mantenimiento y gestión de alarmas.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1965,7 +2173,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-53-investigacion-privada.webp -->
+<!-- VISUAL:t13-53-investigacion-privada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-53-investigacion-privada.webp" alt="capas de investigación privada" width="820">
+</p>
+<p align="center"><em>Infografía: capas de investigación privada.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -1998,7 +2210,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-54-informes-y-reserva-profesional.webp -->
+<!-- VISUAL:t13-54-informes-y-reserva-profesional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-54-informes-y-reserva-profesional.webp" alt="mapa de informes y reserva profesional" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de informes y reserva profesional.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -2041,7 +2257,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-55-adopcion-y-tipos-de-medidas-de-seguridad.webp -->
+<!-- VISUAL:t13-55-adopcion-y-tipos-de-medidas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-55-adopcion-y-tipos-de-medidas-de-seguridad.webp" alt="flujo de adopción y tipos de medidas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: flujo de adopción y tipos de medidas de seguridad.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -2080,7 +2300,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-56-actuaciones-de-control-e-inspeccion.webp -->
+<!-- VISUAL:t13-56-actuaciones-de-control-e-inspeccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-56-actuaciones-de-control-e-inspeccion.webp" alt="comparación de actuaciones de control e inspección" width="820">
+</p>
+<p align="center"><em>Infografía: comparación de actuaciones de control e inspección.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 
@@ -2115,7 +2339,11 @@ Ante un supuesto, identifica primero quién actúa, con qué habilitación, qué
 Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Apariciones oficiales mapeadas: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t13-57-medidas-provisionales-anteriores-al-procedimiento.webp -->
+<!-- VISUAL:t13-57-medidas-provisionales-anteriores-al-procedimiento.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-57-medidas-provisionales-anteriores-al-procedimiento.webp" alt="línea temporal de medidas provisionales anteriores al procedimiento" width="820">
+</p>
+<p align="center"><em>Infografía: línea temporal de medidas provisionales anteriores al procedimiento.</em></p>
 
 <!-- FUENTE: L5-2014-BOE-A-2014-3649-GC-T13 -->
 

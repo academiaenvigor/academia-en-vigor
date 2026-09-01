@@ -43,11 +43,18 @@ class Tema12GuardiaCivilQualityGate(unittest.TestCase):
         facts = {f["id"]: f for f in self.coverage["facts"]}
         self.assertIn("Abogacía del Estado", facts[items["of-gc-p2024-1a-q064"]["fact_refs"][0]]["enunciado_atomico"] or facts[items["of-gc-p2024-1a-q064"]["fact_refs"][0]]["bloque_titulo"])
 
-    def test_visuals_only_planned(self):
+    def test_visuals_match_disk(self):
         manifest = json.loads((A / "manifest.json").read_text())
-        self.assertEqual(0, manifest["totals"]["integrated"])
-        self.assertEqual(56, manifest["totals"]["planned"])
-        self.assertFalse(list(A.glob("*.webp")))
+        totals = manifest["totals"]
+        self.assertEqual(56, totals["resources"])
+        self.assertEqual(totals["resources"], totals["integrated"] + totals["planned"])
+        en_disco = {ruta.name for ruta in A.glob("*.webp")}
+        declaradas = {
+            recurso["file"]
+            for recurso in manifest.get("resources", [])
+            if recurso.get("status") == "integrated_webp"
+        }
+        self.assertEqual(declaradas, en_disco)
 
 if __name__ == "__main__":
     unittest.main()

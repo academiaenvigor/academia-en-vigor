@@ -15,7 +15,11 @@
 | 5 | Protección de menores y ausencia | 36–45 |
 | 6 | Emancipación y apoyos a personas con discapacidad | 46–56 |
 
-<!-- VISUAL PENDIENTE: t07-00-mapa-derecho-civil.webp -->
+<!-- VISUAL:t07-00-mapa-derecho-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-00-mapa-derecho-civil.webp" alt="recorrido por Título preliminar y Libro I" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido por Título preliminar y Libro I.</em></p>
 
 # Contenido
 
@@ -31,7 +35,11 @@ Este bloque ordena **mapa del código civil exigido** conforme a epígrafe ofici
 Para responder, identifica primero el precepto (epígrafe oficial) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-01-mapa-del-codigo-civil-exigido.webp -->
+<!-- VISUAL:t07-01-mapa-del-codigo-civil-exigido.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-01-mapa-del-codigo-civil-exigido.webp" alt="esquema de mapa del código civil exigido con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mapa del código civil exigido con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T07 -->
 
@@ -49,7 +57,11 @@ Este bloque ordena **fuentes del derecho y jerarquía normativa** conforme a art
 Para responder, identifica primero el precepto (arts. 1 a 2 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-02-fuentes-del-derecho-y-jerarquia-normativa.webp -->
+<!-- VISUAL:t07-02-fuentes-del-derecho-y-jerarquia-normativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-02-fuentes-del-derecho-y-jerarquia-normativa.webp" alt="esquema de fuentes del derecho y jerarquía normativa con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de fuentes del derecho y jerarquía normativa con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -67,7 +79,11 @@ Este bloque ordena **interpretación, analogía y cómputo civil** conforme a ar
 Para responder, identifica primero el precepto (arts. 3 a 5 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-03-interpretacion-analogia-y-computo-civil.webp -->
+<!-- VISUAL:t07-03-interpretacion-analogia-y-computo-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-03-interpretacion-analogia-y-computo-civil.webp" alt="esquema de interpretación, analogía y cómputo civil con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de interpretación, analogía y cómputo civil con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -86,7 +102,11 @@ Este bloque ordena **eficacia de las normas, buena fe, abuso y fraude** conforme
 Para responder, identifica primero el precepto (arts. 6 a 7 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-04-eficacia-de-las-normas-buena-fe-abuso-y-fraude.webp -->
+<!-- VISUAL:t07-04-eficacia-de-las-normas-buena-fe-abuso-y-fraude.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-04-eficacia-de-las-normas-buena-fe-abuso-y-fraude.webp" alt="esquema de eficacia de las normas, buena fe, abuso y fraude con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de eficacia de las normas, buena fe, abuso y fraude con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -106,7 +126,11 @@ Este bloque ordena **normas de derecho internacional privado** conforme a arts. 
 Para responder, identifica primero el precepto (arts. 8 a 12 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-05-normas-de-derecho-internacional-privado.webp -->
+<!-- VISUAL:t07-05-normas-de-derecho-internacional-privado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-05-normas-de-derecho-internacional-privado.webp" alt="esquema de normas de derecho internacional privado con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de normas de derecho internacional privado con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -125,7 +149,11 @@ Este bloque ordena **vecindad civil y derecho interregional** conforme a arts. 1
 Para responder, identifica primero el precepto (arts. 13 a 16 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-06-vecindad-civil-y-derecho-interregional.webp -->
+<!-- VISUAL:t07-06-vecindad-civil-y-derecho-interregional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-06-vecindad-civil-y-derecho-interregional.webp" alt="esquema de vecindad civil y derecho interregional con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de vecindad civil y derecho interregional con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -143,7 +171,11 @@ Este bloque ordena **españoles de origen y nacionalidad por opción** conforme 
 Para responder, identifica primero el precepto (arts. 17 a 18 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-07-espanoles-de-origen-y-nacionalidad-por-opcion.webp -->
+<!-- VISUAL:t07-07-espanoles-de-origen-y-nacionalidad-por-opcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-07-espanoles-de-origen-y-nacionalidad-por-opcion.webp" alt="esquema de españoles de origen y nacionalidad por opción con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de españoles de origen y nacionalidad por opción con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -160,7 +192,11 @@ Este bloque ordena **posesión de estado y consolidación de la nacionalidad** c
 Para responder, identifica primero el precepto (arts. 18 a 19 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-08-posesion-de-estado-y-consolidacion-de-la-nacionalidad.webp -->
+<!-- VISUAL:t07-08-posesion-de-estado-y-consolidacion-de-la-nacionalidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-08-posesion-de-estado-y-consolidacion-de-la-nacionalidad.webp" alt="esquema de posesión de estado y consolidación de la nacionalidad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de posesión de estado y consolidación de la nacionalidad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -179,7 +215,11 @@ Este bloque ordena **adquisición de la nacionalidad y residencia** conforme a a
 Para responder, identifica primero el precepto (arts. 20 a 23 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-09-adquisicion-de-la-nacionalidad-y-residencia.webp -->
+<!-- VISUAL:t07-09-adquisicion-de-la-nacionalidad-y-residencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-09-adquisicion-de-la-nacionalidad-y-residencia.webp" alt="esquema de adquisición de la nacionalidad y residencia con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de adquisición de la nacionalidad y residencia con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -197,7 +237,11 @@ Este bloque ordena **pérdida, recuperación y doble nacionalidad** conforme a a
 Para responder, identifica primero el precepto (arts. 24 a 26 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-10-perdida-recuperacion-y-doble-nacionalidad.webp -->
+<!-- VISUAL:t07-10-perdida-recuperacion-y-doble-nacionalidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-10-perdida-recuperacion-y-doble-nacionalidad.webp" alt="esquema de pérdida, recuperación y doble nacionalidad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de pérdida, recuperación y doble nacionalidad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -214,7 +258,11 @@ Este bloque ordena **extranjeros y capacidad civil** conforme a arts. 27 a 28 CC
 Para responder, identifica primero el precepto (arts. 27 a 28 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-11-extranjeros-y-capacidad-civil.webp -->
+<!-- VISUAL:t07-11-extranjeros-y-capacidad-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-11-extranjeros-y-capacidad-civil.webp" alt="esquema de extranjeros y capacidad civil con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de extranjeros y capacidad civil con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -235,7 +283,11 @@ Este bloque ordena **nacimiento, personalidad y muerte** conforme a arts. 29 a 3
 Para responder, identifica primero el precepto (arts. 29 a 34 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-12-nacimiento-personalidad-y-muerte.webp -->
+<!-- VISUAL:t07-12-nacimiento-personalidad-y-muerte.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-12-nacimiento-personalidad-y-muerte.webp" alt="esquema de nacimiento, personalidad y muerte con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de nacimiento, personalidad y muerte con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -255,7 +307,11 @@ Este bloque ordena **personas jurídicas** conforme a arts. 35 a 39 CC, separand
 Para responder, identifica primero el precepto (arts. 35 a 39 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-13-personas-juridicas.webp -->
+<!-- VISUAL:t07-13-personas-juridicas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-13-personas-juridicas.webp" alt="esquema de personas jurídicas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de personas jurídicas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -273,7 +329,11 @@ Este bloque ordena **domicilio** conforme a arts. 40 a 41 CC, separando regla, r
 Para responder, identifica primero el precepto (arts. 40 a 41 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-14-domicilio.webp -->
+<!-- VISUAL:t07-14-domicilio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-14-domicilio.webp" alt="esquema de domicilio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de domicilio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -290,7 +350,11 @@ Este bloque ordena **promesa de matrimonio** conforme a arts. 42 a 43 CC, separa
 Para responder, identifica primero el precepto (arts. 42 a 43 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-15-promesa-de-matrimonio.webp -->
+<!-- VISUAL:t07-15-promesa-de-matrimonio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-15-promesa-de-matrimonio.webp" alt="esquema de promesa de matrimonio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de promesa de matrimonio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -310,7 +374,11 @@ Este bloque ordena **requisitos e impedimentos matrimoniales** conforme a arts. 
 Para responder, identifica primero el precepto (arts. 44 a 48 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-16-requisitos-e-impedimentos-matrimoniales.webp -->
+<!-- VISUAL:t07-16-requisitos-e-impedimentos-matrimoniales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-16-requisitos-e-impedimentos-matrimoniales.webp" alt="esquema de requisitos e impedimentos matrimoniales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de requisitos e impedimentos matrimoniales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -337,7 +405,11 @@ Este bloque ordena **autoridad, forma y celebración del matrimonio** conforme a
 Para responder, identifica primero el precepto (arts. 49 a 60 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-17-autoridad-forma-y-celebracion-del-matrimonio.webp -->
+<!-- VISUAL:t07-17-autoridad-forma-y-celebracion-del-matrimonio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-17-autoridad-forma-y-celebracion-del-matrimonio.webp" alt="esquema de autoridad, forma y celebración del matrimonio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de autoridad, forma y celebración del matrimonio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -357,7 +429,11 @@ Este bloque ordena **forma religiosa e inscripción del matrimonio** conforme a 
 Para responder, identifica primero el precepto (arts. 61 a 65 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-18-forma-religiosa-e-inscripcion-del-matrimonio.webp -->
+<!-- VISUAL:t07-18-forma-religiosa-e-inscripcion-del-matrimonio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-18-forma-religiosa-e-inscripcion-del-matrimonio.webp" alt="esquema de forma religiosa e inscripción del matrimonio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de forma religiosa e inscripción del matrimonio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -378,7 +454,11 @@ Este bloque ordena **derechos y deberes de los cónyuges** conforme a arts. 66 a
 Para responder, identifica primero el precepto (arts. 66 a 71 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-19-derechos-y-deberes-de-los-conyuges.webp -->
+<!-- VISUAL:t07-19-derechos-y-deberes-de-los-conyuges.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-19-derechos-y-deberes-de-los-conyuges.webp" alt="esquema de derechos y deberes de los cónyuges con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de derechos y deberes de los cónyuges con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -402,7 +482,11 @@ Este bloque ordena **nulidad matrimonial** conforme a arts. 72 a 80 CC, separand
 Para responder, identifica primero el precepto (arts. 72 a 80 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-20-nulidad-matrimonial.webp -->
+<!-- VISUAL:t07-20-nulidad-matrimonial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-20-nulidad-matrimonial.webp" alt="esquema de nulidad matrimonial con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de nulidad matrimonial con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -421,7 +505,11 @@ Este bloque ordena **separación y reconciliación** conforme a arts. 81 a 84 CC
 Para responder, identifica primero el precepto (arts. 81 a 84 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-21-separacion-y-reconciliacion.webp -->
+<!-- VISUAL:t07-21-separacion-y-reconciliacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-21-separacion-y-reconciliacion.webp" alt="esquema de separación y reconciliación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de separación y reconciliación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -441,7 +529,11 @@ Este bloque ordena **disolución y divorcio** conforme a arts. 85 a 89 CC, separ
 Para responder, identifica primero el precepto (arts. 85 a 89 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-22-disolucion-y-divorcio.webp -->
+<!-- VISUAL:t07-22-disolucion-y-divorcio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-22-disolucion-y-divorcio.webp" alt="esquema de disolución y divorcio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disolución y divorcio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -468,7 +560,11 @@ Este bloque ordena **convenio regulador y efectos comunes** conforme a arts. 90 
 Para responder, identifica primero el precepto (arts. 90 a 101 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-23-convenio-regulador-y-efectos-comunes.webp -->
+<!-- VISUAL:t07-23-convenio-regulador-y-efectos-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-23-convenio-regulador-y-efectos-comunes.webp" alt="esquema de convenio regulador y efectos comunes con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de convenio regulador y efectos comunes con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -488,7 +584,11 @@ Este bloque ordena **medidas provisionales** conforme a arts. 102 a 106 CC, sepa
 Para responder, identifica primero el precepto (arts. 102 a 106 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-24-medidas-provisionales.webp -->
+<!-- VISUAL:t07-24-medidas-provisionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-24-medidas-provisionales.webp" alt="esquema de medidas provisionales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de medidas provisionales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -504,7 +604,11 @@ Este bloque ordena **ley aplicable a la nulidad, separación y divorcio** confor
 Para responder, identifica primero el precepto (art. 107 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-25-ley-aplicable-a-la-nulidad-separacion-y-divorcio.webp -->
+<!-- VISUAL:t07-25-ley-aplicable-a-la-nulidad-separacion-y-divorcio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-25-ley-aplicable-a-la-nulidad-separacion-y-divorcio.webp" alt="esquema de ley aplicable a la nulidad, separación y divorcio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de ley aplicable a la nulidad, separación y divorcio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -523,7 +627,11 @@ Este bloque ordena **filiación y sus efectos** conforme a arts. 108 a 111 CC, s
 Para responder, identifica primero el precepto (arts. 108 a 111 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-26-filiacion-y-sus-efectos.webp -->
+<!-- VISUAL:t07-26-filiacion-y-sus-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-26-filiacion-y-sus-efectos.webp" alt="esquema de filiación y sus efectos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de filiación y sus efectos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -541,7 +649,11 @@ Este bloque ordena **determinación y prueba de la filiación** conforme a arts.
 Para responder, identifica primero el precepto (arts. 112 a 114 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-27-determinacion-y-prueba-de-la-filiacion.webp -->
+<!-- VISUAL:t07-27-determinacion-y-prueba-de-la-filiacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-27-determinacion-y-prueba-de-la-filiacion.webp" alt="esquema de determinación y prueba de la filiación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de determinación y prueba de la filiación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -561,7 +673,11 @@ Este bloque ordena **filiación matrimonial** conforme a arts. 115 a 119 CC, sep
 Para responder, identifica primero el precepto (arts. 115 a 119 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-28-filiacion-matrimonial.webp -->
+<!-- VISUAL:t07-28-filiacion-matrimonial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-28-filiacion-matrimonial.webp" alt="esquema de filiación matrimonial con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de filiación matrimonial con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -583,7 +699,11 @@ Este bloque ordena **filiación no matrimonial** conforme a arts. 120 a 126 CC, 
 Para responder, identifica primero el precepto (arts. 120 a 126 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-29-filiacion-no-matrimonial.webp -->
+<!-- VISUAL:t07-29-filiacion-no-matrimonial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-29-filiacion-no-matrimonial.webp" alt="esquema de filiación no matrimonial con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de filiación no matrimonial con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -603,7 +723,11 @@ Este bloque ordena **acciones de filiación y reclamación** conforme a arts. 12
 Para responder, identifica primero el precepto (arts. 127 a 134 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-30-acciones-de-filiacion-y-reclamacion.webp -->
+<!-- VISUAL:t07-30-acciones-de-filiacion-y-reclamacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-30-acciones-de-filiacion-y-reclamacion.webp" alt="esquema de acciones de filiación y reclamación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de acciones de filiación y reclamación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -625,7 +749,11 @@ Este bloque ordena **impugnación de la filiación** conforme a arts. 135 a 141 
 Para responder, identifica primero el precepto (arts. 135 a 141 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-31-impugnacion-de-la-filiacion.webp -->
+<!-- VISUAL:t07-31-impugnacion-de-la-filiacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-31-impugnacion-de-la-filiacion.webp" alt="esquema de impugnación de la filiación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de impugnación de la filiación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -652,7 +780,11 @@ Este bloque ordena **alimentos entre parientes** conforme a arts. 142 a 153 CC, 
 Para responder, identifica primero el precepto (arts. 142 a 153 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-32-alimentos-entre-parientes.webp -->
+<!-- VISUAL:t07-32-alimentos-entre-parientes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-32-alimentos-entre-parientes.webp" alt="esquema de alimentos entre parientes con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de alimentos entre parientes con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -675,7 +807,11 @@ Este bloque ordena **patria potestad: contenido y ejercicio** conforme a arts. 1
 Para responder, identifica primero el precepto (arts. 154 a 161 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-33-patria-potestad-contenido-y-ejercicio.webp -->
+<!-- VISUAL:t07-33-patria-potestad-contenido-y-ejercicio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-33-patria-potestad-contenido-y-ejercicio.webp" alt="esquema de patria potestad: contenido y ejercicio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de patria potestad: contenido y ejercicio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -697,7 +833,11 @@ Este bloque ordena **representación y bienes de los hijos** conforme a arts. 16
 Para responder, identifica primero el precepto (arts. 162 a 168 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-34-representacion-y-bienes-de-los-hijos.webp -->
+<!-- VISUAL:t07-34-representacion-y-bienes-de-los-hijos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-34-representacion-y-bienes-de-los-hijos.webp" alt="esquema de representación y bienes de los hijos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de representación y bienes de los hijos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -715,7 +855,11 @@ Este bloque ordena **extinción, privación y recuperación de la patria potesta
 Para responder, identifica primero el precepto (arts. 169 a 171 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-35-extincion-privacion-y-recuperacion-de-la-patria-potestad.webp -->
+<!-- VISUAL:t07-35-extincion-privacion-y-recuperacion-de-la-patria-potestad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-35-extincion-privacion-y-recuperacion-de-la-patria-potestad.webp" alt="esquema de extinción, privación y recuperación de la patria potestad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de extinción, privación y recuperación de la patria potestad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -736,7 +880,11 @@ Este bloque ordena **desamparo, tutela pública y guarda** conforme a arts. 172 
 Para responder, identifica primero el precepto (arts. 172 a 174 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-36-desamparo-tutela-publica-y-guarda.webp -->
+<!-- VISUAL:t07-36-desamparo-tutela-publica-y-guarda.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-36-desamparo-tutela-publica-y-guarda.webp" alt="esquema de desamparo, tutela pública y guarda con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de desamparo, tutela pública y guarda con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -755,7 +903,11 @@ Este bloque ordena **acogimiento familiar** conforme a arts. 175 a 176 CC, separ
 Para responder, identifica primero el precepto (arts. 175 a 176 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-37-acogimiento-familiar.webp -->
+<!-- VISUAL:t07-37-acogimiento-familiar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-37-acogimiento-familiar.webp" alt="esquema de acogimiento familiar con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de acogimiento familiar con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -774,7 +926,11 @@ Este bloque ordena **adopción** conforme a arts. 175 a 180 CC, separando regla,
 Para responder, identifica primero el precepto (arts. 175 a 180 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-38-adopcion.webp -->
+<!-- VISUAL:t07-38-adopcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-38-adopcion.webp" alt="esquema de adopción con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de adopción con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -801,7 +957,11 @@ Este bloque ordena **desaparición y ausencia legal** conforme a arts. 181 a 192
 Para responder, identifica primero el precepto (arts. 181 a 192 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-39-desaparicion-y-ausencia-legal.webp -->
+<!-- VISUAL:t07-39-desaparicion-y-ausencia-legal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-39-desaparicion-y-ausencia-legal.webp" alt="esquema de desaparición y ausencia legal con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de desaparición y ausencia legal con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -822,7 +982,11 @@ Este bloque ordena **declaración de fallecimiento e inscripción** conforme a a
 Para responder, identifica primero el precepto (arts. 193 a 198 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-40-declaracion-de-fallecimiento-e-inscripcion.webp -->
+<!-- VISUAL:t07-40-declaracion-de-fallecimiento-e-inscripcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-40-declaracion-de-fallecimiento-e-inscripcion.webp" alt="esquema de declaración de fallecimiento e inscripción con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de declaración de fallecimiento e inscripción con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -849,7 +1013,11 @@ Este bloque ordena **tutela de menores: disposiciones generales** conforme a art
 Para responder, identifica primero el precepto (arts. 199 a 210 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-41-tutela-de-menores-disposiciones-generales.webp -->
+<!-- VISUAL:t07-41-tutela-de-menores-disposiciones-generales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-41-tutela-de-menores-disposiciones-generales.webp" alt="esquema de tutela de menores: disposiciones generales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de tutela de menores: disposiciones generales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -876,7 +1044,11 @@ Este bloque ordena **delación y nombramiento del tutor** conforme a arts. 211 a
 Para responder, identifica primero el precepto (arts. 211 a 223 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-42-delacion-y-nombramiento-del-tutor.webp -->
+<!-- VISUAL:t07-42-delacion-y-nombramiento-del-tutor.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-42-delacion-y-nombramiento-del-tutor.webp" alt="esquema de delación y nombramiento del tutor con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delación y nombramiento del tutor con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -898,7 +1070,11 @@ Este bloque ordena **ejercicio de la tutela** conforme a arts. 224 a 230 CC, sep
 Para responder, identifica primero el precepto (arts. 224 a 230 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-43-ejercicio-de-la-tutela.webp -->
+<!-- VISUAL:t07-43-ejercicio-de-la-tutela.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-43-ejercicio-de-la-tutela.webp" alt="esquema de ejercicio de la tutela con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de ejercicio de la tutela con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -917,7 +1093,11 @@ Este bloque ordena **extinción de la tutela y rendición de cuentas** conforme 
 Para responder, identifica primero el precepto (arts. 231 a 234 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-44-extincion-de-la-tutela-y-rendicion-de-cuentas.webp -->
+<!-- VISUAL:t07-44-extincion-de-la-tutela-y-rendicion-de-cuentas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-44-extincion-de-la-tutela-y-rendicion-de-cuentas.webp" alt="esquema de extinción de la tutela y rendición de cuentas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de extinción de la tutela y rendición de cuentas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -936,7 +1116,11 @@ Este bloque ordena **defensor judicial y guarda de hecho del menor** conforme a 
 Para responder, identifica primero el precepto (arts. 235 a 238 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-45-defensor-judicial-y-guarda-de-hecho-del-menor.webp -->
+<!-- VISUAL:t07-45-defensor-judicial-y-guarda-de-hecho-del-menor.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-45-defensor-judicial-y-guarda-de-hecho-del-menor.webp" alt="esquema de defensor judicial y guarda de hecho del menor con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de defensor judicial y guarda de hecho del menor con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -961,7 +1145,11 @@ Este bloque ordena **mayoría de edad y emancipación** conforme a arts. 239 a 2
 Para responder, identifica primero el precepto (arts. 239 a 248 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-46-mayoria-de-edad-y-emancipacion.webp -->
+<!-- VISUAL:t07-46-mayoria-de-edad-y-emancipacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-46-mayoria-de-edad-y-emancipacion.webp" alt="esquema de mayoría de edad y emancipación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mayoría de edad y emancipación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -981,7 +1169,11 @@ Este bloque ordena **principios de las medidas de apoyo** conforme a arts. 249 a
 Para responder, identifica primero el precepto (arts. 249 a 253 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-47-principios-de-las-medidas-de-apoyo.webp -->
+<!-- VISUAL:t07-47-principios-de-las-medidas-de-apoyo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-47-principios-de-las-medidas-de-apoyo.webp" alt="esquema de principios de las medidas de apoyo con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de principios de las medidas de apoyo con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1005,7 +1197,11 @@ Este bloque ordena **medidas voluntarias y poderes preventivos** conforme a arts
 Para responder, identifica primero el precepto (arts. 254 a 262 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-48-medidas-voluntarias-y-poderes-preventivos.webp -->
+<!-- VISUAL:t07-48-medidas-voluntarias-y-poderes-preventivos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-48-medidas-voluntarias-y-poderes-preventivos.webp" alt="esquema de medidas voluntarias y poderes preventivos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de medidas voluntarias y poderes preventivos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1025,7 +1221,11 @@ Este bloque ordena **guarda de hecho de la persona con discapacidad** conforme a
 Para responder, identifica primero el precepto (arts. 263 a 267 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-49-guarda-de-hecho-de-la-persona-con-discapacidad.webp -->
+<!-- VISUAL:t07-49-guarda-de-hecho-de-la-persona-con-discapacidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-49-guarda-de-hecho-de-la-persona-con-discapacidad.webp" alt="esquema de guarda de hecho de la persona con discapacidad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de guarda de hecho de la persona con discapacidad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1047,7 +1247,11 @@ Este bloque ordena **curatela y autocuratela** conforme a arts. 268 a 274 CC, se
 Para responder, identifica primero el precepto (arts. 268 a 274 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-50-curatela-y-autocuratela.webp -->
+<!-- VISUAL:t07-50-curatela-y-autocuratela.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-50-curatela-y-autocuratela.webp" alt="esquema de curatela y autocuratela con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de curatela y autocuratela con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1069,7 +1273,11 @@ Este bloque ordena **nombramiento del curador** conforme a arts. 275 a 281 CC, s
 Para responder, identifica primero el precepto (arts. 275 a 281 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-51-nombramiento-del-curador.webp -->
+<!-- VISUAL:t07-51-nombramiento-del-curador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-51-nombramiento-del-curador.webp" alt="esquema de nombramiento del curador con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de nombramiento del curador con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1093,7 +1301,11 @@ Este bloque ordena **ejercicio de la curatela** conforme a arts. 282 a 290 CC, s
 Para responder, identifica primero el precepto (arts. 282 a 290 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-52-ejercicio-de-la-curatela.webp -->
+<!-- VISUAL:t07-52-ejercicio-de-la-curatela.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-52-ejercicio-de-la-curatela.webp" alt="esquema de ejercicio de la curatela con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de ejercicio de la curatela con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1112,7 +1324,11 @@ Este bloque ordena **extinción de la curatela** conforme a arts. 291 a 294 CC, 
 Para responder, identifica primero el precepto (arts. 291 a 294 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-53-extincion-de-la-curatela.webp -->
+<!-- VISUAL:t07-53-extincion-de-la-curatela.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-53-extincion-de-la-curatela.webp" alt="esquema de extinción de la curatela con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de extinción de la curatela con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1131,7 +1347,11 @@ Este bloque ordena **defensor judicial de la persona con discapacidad** conforme
 Para responder, identifica primero el precepto (arts. 295 a 298 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-54-defensor-judicial-de-la-persona-con-discapacidad.webp -->
+<!-- VISUAL:t07-54-defensor-judicial-de-la-persona-con-discapacidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-54-defensor-judicial-de-la-persona-con-discapacidad.webp" alt="esquema de defensor judicial de la persona con discapacidad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de defensor judicial de la persona con discapacidad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1149,7 +1369,11 @@ Este bloque ordena **responsabilidad y disposiciones comunes** conforme a arts. 
 Para responder, identifica primero el precepto (arts. 299 a 300 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-55-responsabilidad-y-disposiciones-comunes.webp -->
+<!-- VISUAL:t07-55-responsabilidad-y-disposiciones-comunes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-55-responsabilidad-y-disposiciones-comunes.webp" alt="esquema de responsabilidad y disposiciones comunes con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de responsabilidad y disposiciones comunes con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 
@@ -1166,7 +1390,11 @@ Este bloque ordena **preceptos derogados del libro i** conforme a arts. 301 a 33
 Para responder, identifica primero el precepto (arts. 301 a 332 CC) y después comprueba sujeto, condición, plazo y efecto.
 :::
 
-<!-- VISUAL PENDIENTE: t07-56-preceptos-derogados-del-libro-i.webp -->
+<!-- VISUAL:t07-56-preceptos-derogados-del-libro-i.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-07/t07-56-preceptos-derogados-del-libro-i.webp" alt="esquema de preceptos derogados del libro i con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de preceptos derogados del libro i con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CC-BOE-A-1889-4763-T07 -->
 

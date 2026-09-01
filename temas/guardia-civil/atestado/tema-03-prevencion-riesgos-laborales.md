@@ -41,7 +41,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **Programa oficial; LPRL; RD 67/2010; RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-01-alcance-oficial-y-jerarquia-normativa.webp -->
+<!-- VISUAL:t03-01-alcance-oficial-y-jerarquia-normativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-01-alcance-oficial-y-jerarquia-normativa.webp" alt="Alcance oficial y jerarquía normativa" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y jerarquía normativa.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T03 -->
 
@@ -74,7 +78,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 1 a 3 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp -->
+<!-- VISUAL:t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp" alt="Objeto, carácter, ámbito y exclusiones de la LPRL" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto, carácter, ámbito y exclusiones de la LPRL.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -107,7 +115,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 4.1 a 4.4 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp -->
+<!-- VISUAL:t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp" alt="Definiciones nucleares de prevención y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones nucleares de prevención y riesgo.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -144,7 +156,11 @@ Prioridad: **art. 4.5 a 4.8 LPRL**. Las trampas cambian el sujeto, convierten «
 Apariciones oficiales verificadas: 2020 · pregunta 11, 2021 · pregunta 13, 2025 · pregunta 16. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp -->
+<!-- VISUAL:t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp" alt="Definiciones de procesos, equipos, condiciones y EPI" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones de procesos, equipos, condiciones y EPI.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -181,7 +197,11 @@ Prioridad: **arts. 5 y 6 LPRL**. Las trampas cambian el sujeto, convierten «pod
 Apariciones oficiales verificadas: 2023 · pregunta 13. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-05-politica-preventiva-y-potestad-reglamentaria.webp -->
+<!-- VISUAL:t03-05-politica-preventiva-y-potestad-reglamentaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-05-politica-preventiva-y-potestad-reglamentaria.webp" alt="Política preventiva y potestad reglamentaria" width="820">
+</p>
+<p align="center"><em>Infografía: Política preventiva y potestad reglamentaria.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -214,7 +234,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 7 y 8 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-06-administraciones-laborales-e-insst.webp -->
+<!-- VISUAL:t03-06-administraciones-laborales-e-insst.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-06-administraciones-laborales-e-insst.webp" alt="Administraciones laborales e INSST" width="820">
+</p>
+<p align="center"><em>Infografía: Administraciones laborales e INSST.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -247,7 +271,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 9 a 11 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp -->
+<!-- VISUAL:t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp" alt="Inspección de Trabajo, sanidad y coordinación" width="820">
+</p>
+<p align="center"><em>Infografía: Inspección de Trabajo, sanidad y coordinación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -284,7 +312,11 @@ Prioridad: **arts. 12 y 13 LPRL**. Las trampas cambian el sujeto, convierten «p
 Apariciones oficiales verificadas: 2020 · pregunta 11, 2021 · pregunta 14, 2021 · pregunta 14, 2024 · pregunta 15, 2024 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-08-participacion-institucional-y-comision-nacional.webp -->
+<!-- VISUAL:t03-08-participacion-institucional-y-comision-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-08-participacion-institucional-y-comision-nacional.webp" alt="Participación institucional y Comisión Nacional" width="820">
+</p>
+<p align="center"><em>Infografía: Participación institucional y Comisión Nacional.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -321,7 +353,11 @@ Prioridad: **arts. 14 y 15 LPRL**. Las trampas cambian el sujeto, convierten «p
 Apariciones oficiales verificadas: 2024 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp -->
+<!-- VISUAL:t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp" alt="Derecho de protección y principios de acción preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho de protección y principios de acción preventiva.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -354,7 +390,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 16 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-10-plan-evaluacion-y-planificacion-preventiva.webp -->
+<!-- VISUAL:t03-10-plan-evaluacion-y-planificacion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-10-plan-evaluacion-y-planificacion-preventiva.webp" alt="Plan, evaluación y planificación preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Plan, evaluación y planificación preventiva.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -387,7 +427,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 17 a 19 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-11-equipos-informacion-y-formacion.webp -->
+<!-- VISUAL:t03-11-equipos-informacion-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-11-equipos-informacion-y-formacion.webp" alt="Equipos, información y formación" width="820">
+</p>
+<p align="center"><em>Infografía: Equipos, información y formación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -424,7 +468,11 @@ Prioridad: **arts. 20 y 21 LPRL**. Las trampas cambian el sujeto, convierten «p
 Apariciones oficiales verificadas: 2020 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-12-emergencias-y-riesgo-grave-e-inminente.webp -->
+<!-- VISUAL:t03-12-emergencias-y-riesgo-grave-e-inminente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-12-emergencias-y-riesgo-grave-e-inminente.webp" alt="Emergencias y riesgo grave e inminente" width="820">
+</p>
+<p align="center"><em>Infografía: Emergencias y riesgo grave e inminente.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -457,7 +505,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 22 y 23 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-13-vigilancia-de-la-salud-y-documentacion.webp -->
+<!-- VISUAL:t03-13-vigilancia-de-la-salud-y-documentacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-13-vigilancia-de-la-salud-y-documentacion.webp" alt="Vigilancia de la salud y documentación" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud y documentación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -490,7 +542,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 24 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-14-coordinacion-de-actividades-empresariales.webp -->
+<!-- VISUAL:t03-14-coordinacion-de-actividades-empresariales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-14-coordinacion-de-actividades-empresariales.webp" alt="Coordinación de actividades empresariales" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación de actividades empresariales.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -523,7 +579,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 25 a 27 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-15-sensibilidad-especial-maternidad-y-menores.webp -->
+<!-- VISUAL:t03-15-sensibilidad-especial-maternidad-y-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-15-sensibilidad-especial-maternidad-y-menores.webp" alt="Sensibilidad especial, maternidad y menores" width="820">
+</p>
+<p align="center"><em>Infografía: Sensibilidad especial, maternidad y menores.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -556,7 +616,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 28 y 29 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp -->
+<!-- VISUAL:t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp" alt="Relaciones temporales y obligaciones del trabajador" width="820">
+</p>
+<p align="center"><em>Infografía: Relaciones temporales y obligaciones del trabajador.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -589,7 +653,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 41 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-17-fabricantes-importadores-y-suministradores.webp -->
+<!-- VISUAL:t03-17-fabricantes-importadores-y-suministradores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-17-fabricantes-importadores-y-suministradores.webp" alt="Fabricantes, importadores y suministradores" width="820">
+</p>
+<p align="center"><em>Infografía: Fabricantes, importadores y suministradores.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -626,7 +694,11 @@ Prioridad: **arts. 42 y 43 LPRL**. Las trampas cambian el sujeto, convierten «p
 Apariciones oficiales verificadas: 2022 · pregunta 13, 2023 · pregunta 14. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-18-responsabilidades-y-requerimiento-inspector.webp -->
+<!-- VISUAL:t03-18-responsabilidades-y-requerimiento-inspector.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-18-responsabilidades-y-requerimiento-inspector.webp" alt="Responsabilidades y requerimiento inspector" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidades y requerimiento inspector.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -659,7 +731,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 44 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-19-paralizacion-de-trabajos-e-impugnacion.webp -->
+<!-- VISUAL:t03-19-paralizacion-de-trabajos-e-impugnacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-19-paralizacion-de-trabajos-e-impugnacion.webp" alt="Paralización de trabajos e impugnación" width="820">
+</p>
+<p align="center"><em>Infografía: Paralización de trabajos e impugnación.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -696,7 +772,11 @@ Prioridad: **arts. 45 a 52 LPRL**. Las trampas cambian el sujeto, convierten «p
 Apariciones oficiales verificadas: 2022 · pregunta 13, 2026 · pregunta 14. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp -->
+<!-- VISUAL:t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp" alt="Infracciones y preceptos derogados del capítulo VII" width="820">
+</p>
+<p align="center"><em>Infografía: Infracciones y preceptos derogados del capítulo VII.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -729,7 +809,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 53 y 54 LPRL**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-21-suspension-cierre-y-contratacion-publica.webp -->
+<!-- VISUAL:t03-21-suspension-cierre-y-contratacion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-21-suspension-cierre-y-contratacion-publica.webp" alt="Suspensión, cierre y contratación pública" width="820">
+</p>
+<p align="center"><em>Infografía: Suspensión, cierre y contratación pública.</em></p>
 
 <!-- FUENTE: BOE-L31-1995-GC-T03 -->
 
@@ -766,7 +850,11 @@ Prioridad: **arts. 1 y 2 RD 67/2010**. Las trampas cambian el sujeto, convierten
 Apariciones oficiales verificadas: 2021 · pregunta 15, 2026 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp -->
+<!-- VISUAL:t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp" alt="Objeto y ámbito del Real Decreto 67/2010" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito del Real Decreto 67/2010.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -803,7 +891,11 @@ Prioridad: **art. 3 RD 67/2010**. Las trampas cambian el sujeto, convierten «po
 Apariciones oficiales verificadas: 2023 · pregunta 14. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-23-integracion-y-contenido-del-plan-en-la-age.webp -->
+<!-- VISUAL:t03-23-integracion-y-contenido-del-plan-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-23-integracion-y-contenido-del-plan-en-la-age.webp" alt="Integración y contenido del plan en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Integración y contenido del plan en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -840,7 +932,11 @@ Prioridad: **arts. 4 y 5 RD 67/2010**. Las trampas cambian el sujeto, convierten
 Apariciones oficiales verificadas: 2020 · pregunta 12, 2022 · pregunta 14, 2022 · pregunta 14, 2024 · pregunta 16. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp -->
+<!-- VISUAL:t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp" alt="Participación y Delegados de Prevención en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Participación y Delegados de Prevención en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -873,7 +969,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 6 RD 67/2010**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-25-comite-de-seguridad-y-salud-de-la-age.webp -->
+<!-- VISUAL:t03-25-comite-de-seguridad-y-salud-de-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-25-comite-de-seguridad-y-salud-de-la-age.webp" alt="Comité de Seguridad y Salud de la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Comité de Seguridad y Salud de la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -910,7 +1010,11 @@ Prioridad: **art. 7 RD 67/2010**. Las trampas cambian el sujeto, convierten «po
 Apariciones oficiales verificadas: 2021 · pregunta 15, 2024 · pregunta 16. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-26-servicios-de-prevencion-en-la-age.webp -->
+<!-- VISUAL:t03-26-servicios-de-prevencion-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-26-servicios-de-prevencion-en-la-age.webp" alt="Servicios de Prevención en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de Prevención en la AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -947,7 +1051,11 @@ Prioridad: **art. 8 RD 67/2010**. Las trampas cambian el sujeto, convierten «po
 Apariciones oficiales verificadas: 2023 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-27-funciones-y-niveles-de-cualificacion.webp -->
+<!-- VISUAL:t03-27-funciones-y-niveles-de-cualificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-27-funciones-y-niveles-de-cualificacion.webp" alt="Funciones y niveles de cualificación" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones y niveles de cualificación.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -984,7 +1092,11 @@ Prioridad: **arts. 9 y 10 RD 67/2010**. Las trampas cambian el sujeto, convierte
 Apariciones oficiales verificadas: 2023 · pregunta 15, 2024 · pregunta 16, 2025 · pregunta 17. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-28-recursos-preventivos-coordinacion-y-control-externo.webp -->
+<!-- VISUAL:t03-28-recursos-preventivos-coordinacion-y-control-externo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-28-recursos-preventivos-coordinacion-y-control-externo.webp" alt="Recursos preventivos, coordinación y control externo" width="820">
+</p>
+<p align="center"><em>Infografía: Recursos preventivos, coordinación y control externo.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -1021,7 +1133,11 @@ Prioridad: **art. 11 y disposiciones RD 67/2010**. Las trampas cambian el sujeto
 Apariciones oficiales verificadas: 2025 · pregunta 18. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp -->
+<!-- VISUAL:t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp" alt="Dirección General de la Función Pública y disposiciones AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección General de la Función Pública y disposiciones AGE.</em></p>
 
 <!-- FUENTE: BOE-RD67-2010-GC-T03 -->
 
@@ -1058,7 +1174,11 @@ Prioridad: **arts. 1 y 2 RD 179/2005**. Las trampas cambian el sujeto, convierte
 Apariciones oficiales verificadas: 2024 · pregunta 17. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp -->
+<!-- VISUAL:t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp" alt="Objeto y ámbito específico de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito específico de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1091,7 +1211,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 3 y 3 bis RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp -->
+<!-- VISUAL:t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp" alt="Objetivo y principios de acción preventiva en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivo y principios de acción preventiva en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1128,7 +1252,11 @@ Prioridad: **arts. 4 y 5 RD 179/2005**. Las trampas cambian el sujeto, convierte
 Apariciones oficiales verificadas: 2024 · pregunta 17. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp -->
+<!-- VISUAL:t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp" alt="Integración, evaluación y planes de emergencia en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Integración, evaluación y planes de emergencia en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1161,7 +1289,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 6 RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp -->
+<!-- VISUAL:t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp" alt="Vigilancia de la salud tras la reforma de 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud tras la reforma de 2026.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1198,7 +1330,11 @@ Prioridad: **arts. 7 a 9 RD 179/2005**. Las trampas cambian el sujeto, convierte
 Apariciones oficiales verificadas: 2022 · pregunta 14, 2026 · pregunta 16. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp -->
+<!-- VISUAL:t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp" alt="Información, participación y formación en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Información, participación y formación en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1231,7 +1367,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **arts. 10 y 11 RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp -->
+<!-- VISUAL:t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp" alt="Maternidad y obligaciones de la Administración en Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Maternidad y obligaciones de la Administración en Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1264,7 +1404,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 12 RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-36-obligaciones-del-personal-de-guardia-civil.webp -->
+<!-- VISUAL:t03-36-obligaciones-del-personal-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-36-obligaciones-del-personal-de-guardia-civil.webp" alt="Obligaciones del personal de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones del personal de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1301,7 +1445,11 @@ Prioridad: **art. 13 RD 179/2005**. Las trampas cambian el sujeto, convierten «
 Apariciones oficiales verificadas: 2020 · pregunta 13, 2020 · pregunta 13, 2022 · pregunta 15, 2023 · pregunta 16, 2024 · pregunta 17. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-37-organos-de-prevencion-de-guardia-civil.webp -->
+<!-- VISUAL:t03-37-organos-de-prevencion-de-guardia-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-37-organos-de-prevencion-de-guardia-civil.webp" alt="Órganos de prevención de Guardia Civil" width="820">
+</p>
+<p align="center"><em>Infografía: Órganos de prevención de Guardia Civil.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1338,7 +1486,11 @@ Prioridad: **arts. 14 y 15 RD 179/2005**. Las trampas cambian el sujeto, convier
 Apariciones oficiales verificadas: 2021 · pregunta 16, 2022 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t03-38-consejo-inspeccion-y-control-preventivo.webp -->
+<!-- VISUAL:t03-38-consejo-inspeccion-y-control-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-38-consejo-inspeccion-y-control-preventivo.webp" alt="Consejo, inspección y control preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo, inspección y control preventivo.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1371,7 +1523,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **art. 16 RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-39-procedimiento-de-medidas-correctoras.webp -->
+<!-- VISUAL:t03-39-procedimiento-de-medidas-correctoras.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-39-procedimiento-de-medidas-correctoras.webp" alt="Procedimiento de medidas correctoras" width="820">
+</p>
+<p align="center"><em>Infografía: Procedimiento de medidas correctoras.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 
@@ -1404,7 +1560,11 @@ Ante un supuesto, identifica primero el régimen aplicable —LPRL, AGE o Guardi
 Prioridad: **disposiciones adicionales, derogatoria y finales RD 179/2005**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t03-40-disposiciones-del-real-decreto-179-2005.webp -->
+<!-- VISUAL:t03-40-disposiciones-del-real-decreto-179-2005.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-03/t03-40-disposiciones-del-real-decreto-179-2005.webp" alt="Disposiciones del Real Decreto 179/2005" width="820">
+</p>
+<p align="center"><em>Infografía: Disposiciones del Real Decreto 179/2005.</em></p>
 
 <!-- FUENTE: BOE-RD179-2005-GC-T03 -->
 

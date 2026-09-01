@@ -16,7 +16,11 @@
 | 6 | Delitos contra la Administración pública | 50–59 |
 | 7 | Constitución y comunidad internacional | 60–70 |
 
-<!-- VISUAL PENDIENTE: t08-00-mapa-derecho-penal.webp -->
+<!-- VISUAL:t08-00-mapa-derecho-penal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-00-mapa-derecho-penal.webp" alt="recorrido por la parte general y los títulos seleccionados de la parte especial" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido por la parte general y los títulos seleccionados de la parte especial.</em></p>
 
 # Contenido
 
@@ -42,7 +46,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-01-mapa-del-codigo-penal-exigido.webp -->
+<!-- VISUAL:t08-01-mapa-del-codigo-penal-exigido.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-01-mapa-del-codigo-penal-exigido.webp" alt="esquema de mapa del código penal exigido con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de mapa del código penal exigido con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T08 -->
 
@@ -68,7 +76,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-02-legalidad-irretroactividad-y-ejecucion.webp -->
+<!-- VISUAL:t08-02-legalidad-irretroactividad-y-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-02-legalidad-irretroactividad-y-ejecucion.webp" alt="esquema de legalidad, irretroactividad y ejecución con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de legalidad, irretroactividad y ejecución con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -94,7 +106,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-03-analogia-culpabilidad-y-medidas-de-seguridad.webp -->
+<!-- VISUAL:t08-03-analogia-culpabilidad-y-medidas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-03-analogia-culpabilidad-y-medidas-de-seguridad.webp" alt="esquema de analogía, culpabilidad y medidas de seguridad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de analogía, culpabilidad y medidas de seguridad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -120,7 +136,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-04-momento-del-delito-concurso-de-leyes-y-supletoriedad.webp -->
+<!-- VISUAL:t08-04-momento-del-delito-concurso-de-leyes-y-supletoriedad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-04-momento-del-delito-concurso-de-leyes-y-supletoriedad.webp" alt="esquema de momento del delito, concurso de leyes y supletoriedad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de momento del delito, concurso de leyes y supletoriedad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -146,7 +166,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-05-delito-omision-dolo-e-imprudencia.webp -->
+<!-- VISUAL:t08-05-delito-omision-dolo-e-imprudencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-05-delito-omision-dolo-e-imprudencia.webp" alt="esquema de delito, omisión, dolo e imprudencia con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delito, omisión, dolo e imprudencia con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -172,7 +196,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-06-clasificacion-del-delito-y-error.webp -->
+<!-- VISUAL:t08-06-clasificacion-del-delito-y-error.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-06-clasificacion-del-delito-y-error.webp" alt="esquema de clasificación del delito y error con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de clasificación del delito y error con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -198,7 +226,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **8**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-07-consumacion-tentativa-y-actos-preparatorios.webp -->
+<!-- VISUAL:t08-07-consumacion-tentativa-y-actos-preparatorios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-07-consumacion-tentativa-y-actos-preparatorios.webp" alt="esquema de consumación, tentativa y actos preparatorios con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de consumación, tentativa y actos preparatorios con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -224,7 +256,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-08-minoria-de-edad-y-eximentes.webp -->
+<!-- VISUAL:t08-08-minoria-de-edad-y-eximentes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-08-minoria-de-edad-y-eximentes.webp" alt="esquema de minoría de edad y eximentes con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de minoría de edad y eximentes con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -250,7 +286,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-09-atenuantes-agravantes-y-parentesco.webp -->
+<!-- VISUAL:t08-09-atenuantes-agravantes-y-parentesco.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-09-atenuantes-agravantes-y-parentesco.webp" alt="esquema de atenuantes, agravantes y parentesco con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de atenuantes, agravantes y parentesco con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -276,7 +316,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-10-autoridad-funcionario-y-concursos.webp -->
+<!-- VISUAL:t08-10-autoridad-funcionario-y-concursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-10-autoridad-funcionario-y-concursos.webp" alt="esquema de autoridad, funcionario y concursos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de autoridad, funcionario y concursos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -302,7 +346,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-11-autores-y-complices.webp -->
+<!-- VISUAL:t08-11-autores-y-complices.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-11-autores-y-complices.webp" alt="esquema de autores y cómplices con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de autores y cómplices con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -328,7 +376,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-12-responsabilidad-en-difusion-y-actuacion-por-otro.webp -->
+<!-- VISUAL:t08-12-responsabilidad-en-difusion-y-actuacion-por-otro.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-12-responsabilidad-en-difusion-y-actuacion-por-otro.webp" alt="esquema de responsabilidad en difusión y actuación por otro con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de responsabilidad en difusión y actuación por otro con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -354,7 +406,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-13-responsabilidad-penal-de-las-personas-juridicas.webp -->
+<!-- VISUAL:t08-13-responsabilidad-penal-de-las-personas-juridicas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-13-responsabilidad-penal-de-las-personas-juridicas.webp" alt="esquema de responsabilidad penal de las personas jurídicas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de responsabilidad penal de las personas jurídicas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -380,7 +436,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **6**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-14-penas-concepto-clasificacion-y-personas-juridicas.webp -->
+<!-- VISUAL:t08-14-penas-concepto-clasificacion-y-personas-juridicas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-14-penas-concepto-clasificacion-y-personas-juridicas.webp" alt="esquema de penas: concepto, clasificación y personas jurídicas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de penas: concepto, clasificación y personas jurídicas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -406,7 +466,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-15-penas-privativas-de-libertad.webp -->
+<!-- VISUAL:t08-15-penas-privativas-de-libertad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-15-penas-privativas-de-libertad.webp" alt="esquema de penas privativas de libertad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de penas privativas de libertad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -432,7 +496,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-16-penas-privativas-de-derechos.webp -->
+<!-- VISUAL:t08-16-penas-privativas-de-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-16-penas-privativas-de-derechos.webp" alt="esquema de penas privativas de derechos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de penas privativas de derechos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -458,7 +526,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-17-pena-de-multa.webp -->
+<!-- VISUAL:t08-17-pena-de-multa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-17-pena-de-multa.webp" alt="esquema de pena de multa con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de pena de multa con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -484,7 +556,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-18-penas-accesorias-y-prohibiciones.webp -->
+<!-- VISUAL:t08-18-penas-accesorias-y-prohibiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-18-penas-accesorias-y-prohibiciones.webp" alt="esquema de penas accesorias y prohibiciones con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de penas accesorias y prohibiciones con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -510,7 +586,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-19-presupuestos-y-reglas-generales-de-las-medidas.webp -->
+<!-- VISUAL:t08-19-presupuestos-y-reglas-generales-de-las-medidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-19-presupuestos-y-reglas-generales-de-las-medidas.webp" alt="esquema de presupuestos y reglas generales de las medidas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de presupuestos y reglas generales de las medidas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -536,7 +616,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-20-medidas-privativas-de-libertad.webp -->
+<!-- VISUAL:t08-20-medidas-privativas-de-libertad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-20-medidas-privativas-de-libertad.webp" alt="esquema de medidas privativas de libertad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de medidas privativas de libertad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -562,7 +646,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **5**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-21-medidas-no-privativas-y-libertad-vigilada.webp -->
+<!-- VISUAL:t08-21-medidas-no-privativas-y-libertad-vigilada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-21-medidas-no-privativas-y-libertad-vigilada.webp" alt="esquema de medidas no privativas y libertad vigilada con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de medidas no privativas y libertad vigilada con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -588,7 +676,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-22-responsabilidad-civil-y-su-extension.webp -->
+<!-- VISUAL:t08-22-responsabilidad-civil-y-su-extension.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-22-responsabilidad-civil-y-su-extension.webp" alt="esquema de responsabilidad civil y su extensión con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de responsabilidad civil y su extensión con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -614,7 +706,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-23-personas-civilmente-responsables.webp -->
+<!-- VISUAL:t08-23-personas-civilmente-responsables.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-23-personas-civilmente-responsables.webp" alt="esquema de personas civilmente responsables con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de personas civilmente responsables con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -640,7 +736,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-24-causas-de-extincion-de-la-responsabilidad-criminal.webp -->
+<!-- VISUAL:t08-24-causas-de-extincion-de-la-responsabilidad-criminal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-24-causas-de-extincion-de-la-responsabilidad-criminal.webp" alt="esquema de causas de extinción de la responsabilidad criminal con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de causas de extinción de la responsabilidad criminal con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -666,7 +766,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-25-prescripcion-de-los-delitos.webp -->
+<!-- VISUAL:t08-25-prescripcion-de-los-delitos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-25-prescripcion-de-los-delitos.webp" alt="esquema de prescripción de los delitos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de prescripción de los delitos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -692,7 +796,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **4**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-26-prescripcion-de-penas-y-medidas-de-seguridad.webp -->
+<!-- VISUAL:t08-26-prescripcion-de-penas-y-medidas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-26-prescripcion-de-penas-y-medidas-de-seguridad.webp" alt="esquema de prescripción de penas y medidas de seguridad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de prescripción de penas y medidas de seguridad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -718,7 +826,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-27-cancelacion-de-antecedentes-y-computo.webp -->
+<!-- VISUAL:t08-27-cancelacion-de-antecedentes-y-computo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-27-cancelacion-de-antecedentes-y-computo.webp" alt="esquema de cancelación de antecedentes y cómputo con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de cancelación de antecedentes y cómputo con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -744,7 +856,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-28-homicidio-y-formas-agravadas.webp -->
+<!-- VISUAL:t08-28-homicidio-y-formas-agravadas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-28-homicidio-y-formas-agravadas.webp" alt="esquema de homicidio y formas agravadas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de homicidio y formas agravadas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -770,7 +886,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-29-asesinato-y-prision-permanente-revisable.webp -->
+<!-- VISUAL:t08-29-asesinato-y-prision-permanente-revisable.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-29-asesinato-y-prision-permanente-revisable.webp" alt="esquema de asesinato y prisión permanente revisable con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de asesinato y prisión permanente revisable con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -796,7 +916,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-30-induccion-al-suicidio-eutanasia-y-actos-preparatorios.webp -->
+<!-- VISUAL:t08-30-induccion-al-suicidio-eutanasia-y-actos-preparatorios.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-30-induccion-al-suicidio-eutanasia-y-actos-preparatorios.webp" alt="esquema de inducción al suicidio, eutanasia y actos preparatorios con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de inducción al suicidio, eutanasia y actos preparatorios con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -822,7 +946,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-31-lesiones-basicas-y-agravadas.webp -->
+<!-- VISUAL:t08-31-lesiones-basicas-y-agravadas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-31-lesiones-basicas-y-agravadas.webp" alt="esquema de lesiones básicas y agravadas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de lesiones básicas y agravadas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -848,7 +976,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-32-actos-preparatorios-y-violencia-sobre-personas-protegidas.webp -->
+<!-- VISUAL:t08-32-actos-preparatorios-y-violencia-sobre-personas-protegidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-32-actos-preparatorios-y-violencia-sobre-personas-protegidas.webp" alt="esquema de actos preparatorios y violencia sobre personas protegidas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de actos preparatorios y violencia sobre personas protegidas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -874,7 +1006,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-33-rina-consentimiento-y-trafico-de-organos.webp -->
+<!-- VISUAL:t08-33-rina-consentimiento-y-trafico-de-organos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-33-rina-consentimiento-y-trafico-de-organos.webp" alt="esquema de riña, consentimiento y tráfico de órganos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de riña, consentimiento y tráfico de órganos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -900,7 +1036,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-34-detenciones-ilegales-y-secuestros.webp -->
+<!-- VISUAL:t08-34-detenciones-ilegales-y-secuestros.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-34-detenciones-ilegales-y-secuestros.webp" alt="esquema de detenciones ilegales y secuestros con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de detenciones ilegales y secuestros con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -926,7 +1066,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-35-amenazas.webp -->
+<!-- VISUAL:t08-35-amenazas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-35-amenazas.webp" alt="esquema de amenazas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de amenazas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -952,7 +1096,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-36-coacciones-matrimonio-forzado-y-acoso.webp -->
+<!-- VISUAL:t08-36-coacciones-matrimonio-forzado-y-acoso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-36-coacciones-matrimonio-forzado-y-acoso.webp" alt="esquema de coacciones, matrimonio forzado y acoso con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de coacciones, matrimonio forzado y acoso con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -978,7 +1126,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-37-trato-degradante-y-violencia-habitual.webp -->
+<!-- VISUAL:t08-37-trato-degradante-y-violencia-habitual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-37-trato-degradante-y-violencia-habitual.webp" alt="esquema de trato degradante y violencia habitual con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de trato degradante y violencia habitual con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1004,7 +1156,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-38-tortura.webp -->
+<!-- VISUAL:t08-38-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-38-tortura.webp" alt="esquema de tortura con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de tortura con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1030,7 +1186,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-39-omision-funcionarios-y-concursos-en-integridad-moral.webp -->
+<!-- VISUAL:t08-39-omision-funcionarios-y-concursos-en-integridad-moral.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-39-omision-funcionarios-y-concursos-en-integridad-moral.webp" alt="esquema de omisión, funcionarios y concursos en integridad moral con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de omisión, funcionarios y concursos en integridad moral con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1056,7 +1216,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-40-trata-de-seres-humanos.webp -->
+<!-- VISUAL:t08-40-trata-de-seres-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-40-trata-de-seres-humanos.webp" alt="esquema de trata de seres humanos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de trata de seres humanos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1082,7 +1246,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-41-reglas-comunes-de-vida-lesiones-libertad-e-integridad.webp -->
+<!-- VISUAL:t08-41-reglas-comunes-de-vida-lesiones-libertad-e-integridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-41-reglas-comunes-de-vida-lesiones-libertad-e-integridad.webp" alt="esquema de reglas comunes de vida, lesiones, libertad e integridad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de reglas comunes de vida, lesiones, libertad e integridad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1108,7 +1276,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-42-agresion-sexual.webp -->
+<!-- VISUAL:t08-42-agresion-sexual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-42-agresion-sexual.webp" alt="esquema de agresión sexual con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de agresión sexual con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1134,7 +1306,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-43-delitos-sexuales-contra-menores-de-dieciseis-anos.webp -->
+<!-- VISUAL:t08-43-delitos-sexuales-contra-menores-de-dieciseis-anos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-43-delitos-sexuales-contra-menores-de-dieciseis-anos.webp" alt="esquema de delitos sexuales contra menores de dieciséis años con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delitos sexuales contra menores de dieciséis años con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1160,7 +1336,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-44-acoso-sexual.webp -->
+<!-- VISUAL:t08-44-acoso-sexual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-44-acoso-sexual.webp" alt="esquema de acoso sexual con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de acoso sexual con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1186,7 +1366,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-45-exhibicionismo-y-provocacion-sexual.webp -->
+<!-- VISUAL:t08-45-exhibicionismo-y-provocacion-sexual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-45-exhibicionismo-y-provocacion-sexual.webp" alt="esquema de exhibicionismo y provocación sexual con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de exhibicionismo y provocación sexual con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1212,7 +1396,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-46-prostitucion-explotacion-sexual-y-corrupcion-de-menores.webp -->
+<!-- VISUAL:t08-46-prostitucion-explotacion-sexual-y-corrupcion-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-46-prostitucion-explotacion-sexual-y-corrupcion-de-menores.webp" alt="esquema de prostitución, explotación sexual y corrupción de menores con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de prostitución, explotación sexual y corrupción de menores con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1238,7 +1426,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-47-disposiciones-comunes-de-libertad-sexual.webp -->
+<!-- VISUAL:t08-47-disposiciones-comunes-de-libertad-sexual.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-47-disposiciones-comunes-de-libertad-sexual.webp" alt="esquema de disposiciones comunes de libertad sexual con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones comunes de libertad sexual con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1264,7 +1456,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-48-matrimonios-ilegales.webp -->
+<!-- VISUAL:t08-48-matrimonios-ilegales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-48-matrimonios-ilegales.webp" alt="esquema de matrimonios ilegales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de matrimonios ilegales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1290,7 +1486,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-49-suposicion-de-parto-y-alteracion-de-filiacion-o-estado-del-menor.webp -->
+<!-- VISUAL:t08-49-suposicion-de-parto-y-alteracion-de-filiacion-o-estado-del-menor.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-49-suposicion-de-parto-y-alteracion-de-filiacion-o-estado-del-menor.webp" alt="esquema de suposición de parto y alteración de filiación o estado del menor con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de suposición de parto y alteración de filiación o estado del menor con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1316,7 +1516,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-50-prevaricacion-y-nombramientos-ilegales.webp -->
+<!-- VISUAL:t08-50-prevaricacion-y-nombramientos-ilegales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-50-prevaricacion-y-nombramientos-ilegales.webp" alt="esquema de prevaricación y nombramientos ilegales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de prevaricación y nombramientos ilegales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1342,7 +1546,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-51-abandono-de-destino-y-omision-de-perseguir-delitos.webp -->
+<!-- VISUAL:t08-51-abandono-de-destino-y-omision-de-perseguir-delitos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-51-abandono-de-destino-y-omision-de-perseguir-delitos.webp" alt="esquema de abandono de destino y omisión de perseguir delitos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de abandono de destino y omisión de perseguir delitos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1368,7 +1576,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-52-desobediencia-y-denegacion-de-auxilio.webp -->
+<!-- VISUAL:t08-52-desobediencia-y-denegacion-de-auxilio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-52-desobediencia-y-denegacion-de-auxilio.webp" alt="esquema de desobediencia y denegación de auxilio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de desobediencia y denegación de auxilio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1394,7 +1606,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-53-custodia-de-documentos-y-revelacion-de-secretos.webp -->
+<!-- VISUAL:t08-53-custodia-de-documentos-y-revelacion-de-secretos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-53-custodia-de-documentos-y-revelacion-de-secretos.webp" alt="esquema de custodia de documentos y revelación de secretos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de custodia de documentos y revelación de secretos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1420,7 +1636,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-54-cohecho.webp -->
+<!-- VISUAL:t08-54-cohecho.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-54-cohecho.webp" alt="esquema de cohecho con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de cohecho con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1446,7 +1666,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-55-trafico-de-influencias.webp -->
+<!-- VISUAL:t08-55-trafico-de-influencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-55-trafico-de-influencias.webp" alt="esquema de tráfico de influencias con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de tráfico de influencias con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1472,7 +1696,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-56-malversacion.webp -->
+<!-- VISUAL:t08-56-malversacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-56-malversacion.webp" alt="esquema de malversación con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de malversación con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1498,7 +1726,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-57-fraudes-y-exacciones-ilegales.webp -->
+<!-- VISUAL:t08-57-fraudes-y-exacciones-ilegales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-57-fraudes-y-exacciones-ilegales.webp" alt="esquema de fraudes y exacciones ilegales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de fraudes y exacciones ilegales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1524,7 +1756,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-58-negociaciones-prohibidas-y-abusos.webp -->
+<!-- VISUAL:t08-58-negociaciones-prohibidas-y-abusos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-58-negociaciones-prohibidas-y-abusos.webp" alt="esquema de negociaciones prohibidas y abusos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de negociaciones prohibidas y abusos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1550,7 +1786,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-59-disposicion-comun-sobre-funcionarios-extranjeros.webp -->
+<!-- VISUAL:t08-59-disposicion-comun-sobre-funcionarios-extranjeros.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-59-disposicion-comun-sobre-funcionarios-extranjeros.webp" alt="esquema de disposición común sobre funcionarios extranjeros con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposición común sobre funcionarios extranjeros con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1576,7 +1816,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-60-rebelion.webp -->
+<!-- VISUAL:t08-60-rebelion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-60-rebelion.webp" alt="esquema de rebelión con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de rebelión con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1602,7 +1846,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-61-delitos-contra-la-corona.webp -->
+<!-- VISUAL:t08-61-delitos-contra-la-corona.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-61-delitos-contra-la-corona.webp" alt="esquema de delitos contra la corona con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delitos contra la corona con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1628,7 +1876,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-62-instituciones-del-estado-y-division-de-poderes.webp -->
+<!-- VISUAL:t08-62-instituciones-del-estado-y-division-de-poderes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-62-instituciones-del-estado-y-division-de-poderes.webp" alt="esquema de instituciones del estado y división de poderes con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de instituciones del estado y división de poderes con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1654,7 +1906,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **2**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-63-derechos-fundamentales-reuniones-asociaciones-y-libertad-de-conciencia.webp -->
+<!-- VISUAL:t08-63-derechos-fundamentales-reuniones-asociaciones-y-libertad-de-conciencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-63-derechos-fundamentales-reuniones-asociaciones-y-libertad-de-conciencia.webp" alt="esquema de derechos fundamentales, reuniones, asociaciones y libertad de conciencia con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de derechos fundamentales, reuniones, asociaciones y libertad de conciencia con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1680,7 +1936,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **3**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-64-delitos-de-funcionarios-contra-garantias-constitucionales.webp -->
+<!-- VISUAL:t08-64-delitos-de-funcionarios-contra-garantias-constitucionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-64-delitos-de-funcionarios-contra-garantias-constitucionales.webp" alt="esquema de delitos de funcionarios contra garantías constitucionales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delitos de funcionarios contra garantías constitucionales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1706,7 +1966,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-65-ultrajes-a-espana-y-sus-simbolos.webp -->
+<!-- VISUAL:t08-65-ultrajes-a-espana-y-sus-simbolos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-65-ultrajes-a-espana-y-sus-simbolos.webp" alt="esquema de ultrajes a españa y sus símbolos con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de ultrajes a españa y sus símbolos con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1732,7 +1996,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-66-delitos-contra-personas-internacionalmente-protegidas.webp -->
+<!-- VISUAL:t08-66-delitos-contra-personas-internacionalmente-protegidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-66-delitos-contra-personas-internacionalmente-protegidas.webp" alt="esquema de delitos contra personas internacionalmente protegidas con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delitos contra personas internacionalmente protegidas con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1758,7 +2026,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **1**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-67-genocidio.webp -->
+<!-- VISUAL:t08-67-genocidio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-67-genocidio.webp" alt="esquema de genocidio con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de genocidio con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1784,7 +2056,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-68-lesa-humanidad.webp -->
+<!-- VISUAL:t08-68-lesa-humanidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-68-lesa-humanidad.webp" alt="esquema de lesa humanidad con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de lesa humanidad con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1810,7 +2086,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-69-delitos-contra-personas-y-bienes-en-conflicto-armado.webp -->
+<!-- VISUAL:t08-69-delitos-contra-personas-y-bienes-en-conflicto-armado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-69-delitos-contra-personas-y-bienes-en-conflicto-armado.webp" alt="esquema de delitos contra personas y bienes en conflicto armado con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de delitos contra personas y bienes en conflicto armado con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
@@ -1836,7 +2116,11 @@ En un supuesto práctico, separa conducta, autoría, dolo o imprudencia, grado d
 Prioriza verbos típicos, sujetos cualificados, penas, plazos, requisitos, agravaciones y excepciones. Apariciones oficiales mapeadas en este bloque: **0**.
 :::
 
-<!-- VISUAL PENDIENTE: t08-70-disposiciones-comunes-y-otros-delitos-internacionales.webp -->
+<!-- VISUAL:t08-70-disposiciones-comunes-y-otros-delitos-internacionales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-08/t08-70-disposiciones-comunes-y-otros-delitos-internacionales.webp" alt="esquema de disposiciones comunes y otros delitos internacionales con relaciones y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: esquema de disposiciones comunes y otros delitos internacionales con relaciones y trampas de examen.</em></p>
 
 <!-- FUENTE: CP-BOE-A-1995-25444-T08 -->
 
