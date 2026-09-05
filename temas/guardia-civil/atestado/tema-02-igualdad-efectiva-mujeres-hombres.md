@@ -41,7 +41,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **Programa oficial; títulos I a VIII**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-01-alcance-oficial-y-mapa-de-la-ley-organica-3-2007.webp -->
+<!-- VISUAL:t02-01-alcance-oficial-y-mapa-de-la-ley-organica-3-2007.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-01-alcance-oficial-y-mapa-de-la-ley-organica-3-2007.webp" alt="Alcance oficial y mapa de la Ley Orgánica 3/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y mapa de la Ley Orgánica 3/2007.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2024-T02 -->
 
@@ -78,7 +82,11 @@ Prioridad: **arts. 3 y 4**. Las trampas cambian el sujeto, convierten «podrá»
 Apariciones oficiales verificadas: 2020 · pregunta 9, 2022 · pregunta 11. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-02-igualdad-de-trato-y-principio-informador.webp -->
+<!-- VISUAL:t02-02-igualdad-de-trato-y-principio-informador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-02-igualdad-de-trato-y-principio-informador.webp" alt="Igualdad de trato y principio informador" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad de trato y principio informador.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -115,7 +123,11 @@ Prioridad: **art. 5**. Las trampas cambian el sujeto, convierten «podrá» en �
 Apariciones oficiales verificadas: 2022 · pregunta 11. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-03-igualdad-en-el-empleo-y-requisito-profesional.webp -->
+<!-- VISUAL:t02-03-igualdad-en-el-empleo-y-requisito-profesional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-03-igualdad-en-el-empleo-y-requisito-profesional.webp" alt="Igualdad en el empleo y requisito profesional" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad en el empleo y requisito profesional.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -152,7 +164,11 @@ Prioridad: **art. 6**. Las trampas cambian el sujeto, convierten «podrá» en �
 Apariciones oficiales verificadas: 2023 · pregunta 10. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-04-discriminacion-directa-indirecta-y-orden-de-discriminar.webp -->
+<!-- VISUAL:t02-04-discriminacion-directa-indirecta-y-orden-de-discriminar.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-04-discriminacion-directa-indirecta-y-orden-de-discriminar.webp" alt="Discriminación directa, indirecta y orden de discriminar" width="820">
+</p>
+<p align="center"><em>Infografía: Discriminación directa, indirecta y orden de discriminar.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -189,7 +205,11 @@ Prioridad: **art. 7**. Las trampas cambian el sujeto, convierten «podrá» en �
 Apariciones oficiales verificadas: 2024 · pregunta 13. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-05-acoso-sexual-y-acoso-por-razon-de-sexo.webp -->
+<!-- VISUAL:t02-05-acoso-sexual-y-acoso-por-razon-de-sexo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-05-acoso-sexual-y-acoso-por-razon-de-sexo.webp" alt="Acoso sexual y acoso por razón de sexo" width="820">
+</p>
+<p align="center"><em>Infografía: Acoso sexual y acoso por razón de sexo.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -226,7 +246,11 @@ Prioridad: **arts. 8 a 10**. Las trampas cambian el sujeto, convierten «podrá�
 Apariciones oficiales verificadas: 2021 · pregunta 11. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-06-embarazo-represalias-y-consecuencias-juridicas.webp -->
+<!-- VISUAL:t02-06-embarazo-represalias-y-consecuencias-juridicas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-06-embarazo-represalias-y-consecuencias-juridicas.webp" alt="Embarazo, represalias y consecuencias jurídicas" width="820">
+</p>
+<p align="center"><em>Infografía: Embarazo, represalias y consecuencias jurídicas.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -263,7 +287,11 @@ Prioridad: **arts. 11 a 13**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2022 · pregunta 12, 2024 · pregunta 13, 2026 · pregunta 13. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-07-acciones-positivas-tutela-y-carga-de-la-prueba.webp -->
+<!-- VISUAL:t02-07-acciones-positivas-tutela-y-carga-de-la-prueba.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-07-acciones-positivas-tutela-y-carga-de-la-prueba.webp" alt="Acciones positivas, tutela y carga de la prueba" width="820">
+</p>
+<p align="center"><em>Infografía: Acciones positivas, tutela y carga de la prueba.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -296,7 +324,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **art. 14**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-08-criterios-generales-de-los-poderes-publicos.webp -->
+<!-- VISUAL:t02-08-criterios-generales-de-los-poderes-publicos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-08-criterios-generales-de-los-poderes-publicos.webp" alt="Criterios generales de los poderes públicos" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios generales de los poderes públicos.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -333,7 +365,11 @@ Prioridad: **arts. 15 a 18**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2023 · pregunta 11. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-09-transversalidad-nombramientos-plan-e-informe.webp -->
+<!-- VISUAL:t02-09-transversalidad-nombramientos-plan-e-informe.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-09-transversalidad-nombramientos-plan-e-informe.webp" alt="Transversalidad, nombramientos, plan e informe" width="820">
+</p>
+<p align="center"><em>Infografía: Transversalidad, nombramientos, plan e informe.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -366,7 +402,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **arts. 19 y 20**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-10-impacto-de-genero-estadisticas-e-indicadores.webp -->
+<!-- VISUAL:t02-10-impacto-de-genero-estadisticas-e-indicadores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-10-impacto-de-genero-estadisticas-e-indicadores.webp" alt="Impacto de género, estadísticas e indicadores" width="820">
+</p>
+<p align="center"><em>Infografía: Impacto de género, estadísticas e indicadores.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -403,7 +443,11 @@ Prioridad: **arts. 21 y 22**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2024 · pregunta 13. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-11-cooperacion-administrativa-y-tiempos-de-la-ciudad.webp -->
+<!-- VISUAL:t02-11-cooperacion-administrativa-y-tiempos-de-la-ciudad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-11-cooperacion-administrativa-y-tiempos-de-la-ciudad.webp" alt="Cooperación administrativa y tiempos de la ciudad" width="820">
+</p>
+<p align="center"><em>Infografía: Cooperación administrativa y tiempos de la ciudad.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -436,7 +480,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **arts. 36 y 37**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-12-medios-publicos-y-corporacion-rtve.webp -->
+<!-- VISUAL:t02-12-medios-publicos-y-corporacion-rtve.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-12-medios-publicos-y-corporacion-rtve.webp" alt="Medios públicos y Corporación RTVE" width="820">
+</p>
+<p align="center"><em>Infografía: Medios públicos y Corporación RTVE.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -469,7 +517,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **art. 38**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-13-agencia-efe-e-igualdad-informativa.webp -->
+<!-- VISUAL:t02-13-agencia-efe-e-igualdad-informativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-13-agencia-efe-e-igualdad-informativa.webp" alt="Agencia EFE e igualdad informativa" width="820">
+</p>
+<p align="center"><em>Infografía: Agencia EFE e igualdad informativa.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -506,7 +558,11 @@ Prioridad: **arts. 39 a 41**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2023 · pregunta 11. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-14-medios-privados-autoridad-audiovisual-y-publicidad.webp -->
+<!-- VISUAL:t02-14-medios-privados-autoridad-audiovisual-y-publicidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-14-medios-privados-autoridad-audiovisual-y-publicidad.webp" alt="Medios privados, autoridad audiovisual y publicidad" width="820">
+</p>
+<p align="center"><em>Infografía: Medios privados, autoridad audiovisual y publicidad.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -543,7 +599,11 @@ Prioridad: **arts. 42 y 43**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2023 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-15-empleabilidad-y-negociacion-colectiva.webp -->
+<!-- VISUAL:t02-15-empleabilidad-y-negociacion-colectiva.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-15-empleabilidad-y-negociacion-colectiva.webp" alt="Empleabilidad y negociación colectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Empleabilidad y negociación colectiva.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -576,7 +636,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **art. 44**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-16-conciliacion-y-corresponsabilidad.webp -->
+<!-- VISUAL:t02-16-conciliacion-y-corresponsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-16-conciliacion-y-corresponsabilidad.webp" alt="Conciliación y corresponsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Conciliación y corresponsabilidad.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -613,7 +677,11 @@ Prioridad: **art. 45**. Las trampas cambian el sujeto, convierten «podrá» en 
 Apariciones oficiales verificadas: 2020 · pregunta 9. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-17-obligacion-de-elaborar-planes-de-igualdad.webp -->
+<!-- VISUAL:t02-17-obligacion-de-elaborar-planes-de-igualdad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-17-obligacion-de-elaborar-planes-de-igualdad.webp" alt="Obligación de elaborar planes de igualdad" width="820">
+</p>
+<p align="center"><em>Infografía: Obligación de elaborar planes de igualdad.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -646,7 +714,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **art. 46**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-18-concepto-diagnostico-y-registro-del-plan.webp -->
+<!-- VISUAL:t02-18-concepto-diagnostico-y-registro-del-plan.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-18-concepto-diagnostico-y-registro-del-plan.webp" alt="Concepto, diagnóstico y registro del plan" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto, diagnóstico y registro del plan.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -679,7 +751,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **arts. 47 y 48**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-19-transparencia-y-prevencion-del-acoso-en-la-empresa.webp -->
+<!-- VISUAL:t02-19-transparencia-y-prevencion-del-acoso-en-la-empresa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-19-transparencia-y-prevencion-del-acoso-en-la-empresa.webp" alt="Transparencia y prevención del acoso en la empresa" width="820">
+</p>
+<p align="center"><em>Infografía: Transparencia y prevención del acoso en la empresa.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -716,7 +792,11 @@ Prioridad: **arts. 49 y 50**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2024 · pregunta 14, 2024 · pregunta 14. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-20-apoyo-a-pymes-y-distintivo-empresarial.webp -->
+<!-- VISUAL:t02-20-apoyo-a-pymes-y-distintivo-empresarial.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-20-apoyo-a-pymes-y-distintivo-empresarial.webp" alt="Apoyo a pymes y distintivo empresarial" width="820">
+</p>
+<p align="center"><em>Infografía: Apoyo a pymes y distintivo empresarial.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -749,7 +829,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **art. 51**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-21-criterios-de-igualdad-en-las-administraciones.webp -->
+<!-- VISUAL:t02-21-criterios-de-igualdad-en-las-administraciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-21-criterios-de-igualdad-en-las-administraciones.webp" alt="Criterios de igualdad en las Administraciones" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios de igualdad en las Administraciones.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -782,7 +866,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **arts. 52 a 55**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-22-organos-directivos-seleccion-y-representacion.webp -->
+<!-- VISUAL:t02-22-organos-directivos-seleccion-y-representacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-22-organos-directivos-seleccion-y-representacion.webp" alt="Órganos directivos, selección y representación" width="820">
+</p>
+<p align="center"><em>Infografía: Órganos directivos, selección y representación.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -819,7 +907,11 @@ Prioridad: **arts. 56 a 60**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2020 · pregunta 10, 2022 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-23-permisos-provision-licencias-vacaciones-y-formacion.webp -->
+<!-- VISUAL:t02-23-permisos-provision-licencias-vacaciones-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-23-permisos-provision-licencias-vacaciones-y-formacion.webp" alt="Permisos, provisión, licencias, vacaciones y formación" width="820">
+</p>
+<p align="center"><em>Infografía: Permisos, provisión, licencias, vacaciones y formación.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -852,7 +944,11 @@ Ante un supuesto, separa primero la regla de igualdad, después la medida concre
 Prioridad: **arts. 61 y 62**. Las trampas cambian el sujeto, convierten «podrá» en «deberá» o alteran un plazo o porcentaje.
 :::
 
-<!-- VISUAL PENDIENTE: t02-24-acceso-formacion-y-protocolo-frente-al-acoso.webp -->
+<!-- VISUAL:t02-24-acceso-formacion-y-protocolo-frente-al-acoso.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-24-acceso-formacion-y-protocolo-frente-al-acoso.webp" alt="Acceso, formación y protocolo frente al acoso" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso, formación y protocolo frente al acoso.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -889,7 +985,11 @@ Prioridad: **arts. 63 y 64**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2021 · pregunta 12, 2021 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-25-evaluacion-anual-y-plan-de-igualdad-de-la-age.webp -->
+<!-- VISUAL:t02-25-evaluacion-anual-y-plan-de-igualdad-de-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-25-evaluacion-anual-y-plan-de-igualdad-de-la-age.webp" alt="Evaluación anual y Plan de Igualdad de la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación anual y Plan de Igualdad de la AGE.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -926,7 +1026,11 @@ Prioridad: **arts. 65 y 66**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2025 · pregunta 14. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-26-igualdad-en-las-fuerzas-armadas.webp -->
+<!-- VISUAL:t02-26-igualdad-en-las-fuerzas-armadas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-26-igualdad-en-las-fuerzas-armadas.webp" alt="Igualdad en las Fuerzas Armadas" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad en las Fuerzas Armadas.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -963,7 +1067,11 @@ Prioridad: **arts. 67 y 68**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2024 · pregunta 14, 2025 · pregunta 15. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-27-igualdad-en-las-fuerzas-y-cuerpos-de-seguridad.webp -->
+<!-- VISUAL:t02-27-igualdad-en-las-fuerzas-y-cuerpos-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-27-igualdad-en-las-fuerzas-y-cuerpos-de-seguridad.webp" alt="Igualdad en las Fuerzas y Cuerpos de Seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad en las Fuerzas y Cuerpos de Seguridad.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -1000,7 +1108,11 @@ Prioridad: **arts. 69 a 72**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2023 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-28-acceso-a-bienes-embarazo-seguros-e-indemnizacion.webp -->
+<!-- VISUAL:t02-28-acceso-a-bienes-embarazo-seguros-e-indemnizacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-28-acceso-a-bienes-embarazo-seguros-e-indemnizacion.webp" alt="Acceso a bienes, embarazo, seguros e indemnización" width="820">
+</p>
+<p align="center"><em>Infografía: Acceso a bienes, embarazo, seguros e indemnización.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -1037,7 +1149,11 @@ Prioridad: **arts. 73 a 75**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2023 · pregunta 13. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-29-responsabilidad-social-publicidad-y-consejos.webp -->
+<!-- VISUAL:t02-29-responsabilidad-social-publicidad-y-consejos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-29-responsabilidad-social-publicidad-y-consejos.webp" alt="Responsabilidad social, publicidad y consejos" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad social, publicidad y consejos.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 
@@ -1074,7 +1190,11 @@ Prioridad: **arts. 76 a 78**. Las trampas cambian el sujeto, convierten «podrá
 Apariciones oficiales verificadas: 2020 · pregunta 10, 2021 · pregunta 13, 2022 · pregunta 13, 2022 · pregunta 12. La respuesta se conserva en el índice oficial trazado.
 :::
 
-<!-- VISUAL PENDIENTE: t02-30-comision-unidades-de-igualdad-y-consejo-de-participacion.webp -->
+<!-- VISUAL:t02-30-comision-unidades-de-igualdad-y-consejo-de-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-02/t02-30-comision-unidades-de-igualdad-y-consejo-de-participacion.webp" alt="Comisión, Unidades de Igualdad y Consejo de Participación" width="820">
+</p>
+<p align="center"><em>Infografía: Comisión, Unidades de Igualdad y Consejo de Participación.</em></p>
 
 <!-- FUENTE: BOE-LO3-2007-GC-T02 -->
 

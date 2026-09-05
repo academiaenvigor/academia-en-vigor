@@ -17,6 +17,12 @@
 | 7 | Coordinación y disposiciones de la Ley | 38–43 |
 | 8 | Ciudadanía de la Unión y del EEE | 44–55 |
 
+<!-- VISUAL:t12-00-mapa-extranjeria-inmigracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-12/t12-00-mapa-extranjeria-inmigracion.webp" alt="árbol inicial para distinguir régimen general, Unión/EEE, entrada, estancia, residencia, trabajo y sanción" width="820">
+</p>
+<p align="center"><em>Infografía: árbol inicial para distinguir régimen general, Unión/EEE, entrada, estancia, residencia, trabajo y sanción.</em></p>
+
 # Contenido
 
 ## 01. Alcance, exclusiones y derechos generales

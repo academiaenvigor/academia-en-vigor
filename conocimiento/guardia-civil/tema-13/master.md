@@ -3359,6 +3359,10 @@ Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Aparicion
 | 10 | Servicios de seguridad privada | 46–54 |
 | 11 | Medidas y control administrativo | 55–57 |
 
+:::visual
+**Mapa general previsto:** `t13-00-mapa-seguridad-publica-privada.webp` · mapa para separar potestades públicas, seguridad privada, empresas, personal, servicios, medidas y control.
+:::
+
 <!-- LAYER:CONTENIDO -->
 # Contenido
 

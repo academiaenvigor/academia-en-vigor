@@ -12,7 +12,11 @@
 | 2 | Unidades geométricas y escalas | 7–11 |
 | 3 | Representación y lectura del terreno | 12–18 |
 
-<!-- VISUAL PENDIENTE: t18-00-mapa-topografia.webp -->
+<!-- VISUAL:t18-00-mapa-topografia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-00-mapa-topografia.webp" alt="arquitectura del tema" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura del tema.</em></p>
 
 # Contenido
 
@@ -45,7 +49,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-01-alcance-oficial-y-metodo-de-resolucion.webp -->
+<!-- VISUAL:t18-01-alcance-oficial-y-metodo-de-resolucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-01-alcance-oficial-y-metodo-de-resolucion.webp" alt="alcance oficial y método de resolución" width="820">
+</p>
+<p align="center"><em>Infografía: alcance oficial y método de resolución.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T18 -->
 
@@ -78,7 +86,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **1**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-il-02-topografia-planimetria-y-altimetria.webp -->
+<!-- VISUAL:t18-il-02-topografia-planimetria-y-altimetria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-il-02-topografia-planimetria-y-altimetria.webp" alt="topografía, planimetría y altimetría" width="820">
+</p>
+<p align="center"><em>Infografía: topografía, planimetría y altimetría.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -112,7 +124,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-03-eje-terrestre-polos-y-ecuador.webp -->
+<!-- VISUAL:t18-03-eje-terrestre-polos-y-ecuador.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-03-eje-terrestre-polos-y-ecuador.webp" alt="eje terrestre, polos y ecuador" width="820">
+</p>
+<p align="center"><em>Infografía: eje terrestre, polos y ecuador.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -149,7 +165,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **2**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-04-meridianos-paralelos-y-coordenadas-geograficas.webp -->
+<!-- VISUAL:t18-04-meridianos-paralelos-y-coordenadas-geograficas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-04-meridianos-paralelos-y-coordenadas-geograficas.webp" alt="meridianos, paralelos y coordenadas geográficas" width="820">
+</p>
+<p align="center"><em>Infografía: meridianos, paralelos y coordenadas geográficas.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -184,7 +204,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-05-puntos-cardinales-nortes-y-declinacion-magnetica.webp -->
+<!-- VISUAL:t18-05-puntos-cardinales-nortes-y-declinacion-magnetica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-05-puntos-cardinales-nortes-y-declinacion-magnetica.webp" alt="puntos cardinales, nortes y declinación magnética" width="820">
+</p>
+<p align="center"><em>Infografía: puntos cardinales, nortes y declinación magnética.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -219,7 +243,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **3**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-il-06-acimut-rumbo-y-direcciones-inversas.webp -->
+<!-- VISUAL:t18-il-06-acimut-rumbo-y-direcciones-inversas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-il-06-acimut-rumbo-y-direcciones-inversas.webp" alt="acimut, rumbo y direcciones inversas" width="820">
+</p>
+<p align="center"><em>Infografía: acimut, rumbo y direcciones inversas.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -257,7 +285,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **1**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-07-unidades-lineales-y-superficiales.webp -->
+<!-- VISUAL:t18-07-unidades-lineales-y-superficiales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-07-unidades-lineales-y-superficiales.webp" alt="unidades lineales y superficiales" width="820">
+</p>
+<p align="center"><em>Infografía: unidades lineales y superficiales.</em></p>
 
 <!-- FUENTE: CEM-SI-9ED-T18 -->
 
@@ -294,7 +326,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **2**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-08-sistemas-angulares-sexagesimal-y-centesimal.webp -->
+<!-- VISUAL:t18-08-sistemas-angulares-sexagesimal-y-centesimal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-08-sistemas-angulares-sexagesimal-y-centesimal.webp" alt="sistemas angulares sexagesimal y centesimal" width="820">
+</p>
+<p align="center"><em>Infografía: sistemas angulares sexagesimal y centesimal.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -331,7 +367,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **2**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-09-radian-milesima-y-conversiones-angulares.webp -->
+<!-- VISUAL:t18-09-radian-milesima-y-conversiones-angulares.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-09-radian-milesima-y-conversiones-angulares.webp" alt="radián, milésima y conversiones angulares" width="820">
+</p>
+<p align="center"><em>Infografía: radián, milésima y conversiones angulares.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -366,7 +406,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-il-10-concepto-y-tipos-de-escala.webp -->
+<!-- VISUAL:t18-il-10-concepto-y-tipos-de-escala.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-il-10-concepto-y-tipos-de-escala.webp" alt="concepto y tipos de escala" width="820">
+</p>
+<p align="center"><em>Infografía: concepto y tipos de escala.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -404,7 +448,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **10**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-11-calculos-con-escalas-lineales-y-superficiales.webp -->
+<!-- VISUAL:t18-11-calculos-con-escalas-lineales-y-superficiales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-11-calculos-con-escalas-lineales-y-superficiales.webp" alt="cálculos con escalas lineales y superficiales" width="820">
+</p>
+<p align="center"><em>Infografía: cálculos con escalas lineales y superficiales.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -437,7 +485,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-12-mapas-planos-cartas-y-croquis.webp -->
+<!-- VISUAL:t18-12-mapas-planos-cartas-y-croquis.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-12-mapas-planos-cartas-y-croquis.webp" alt="mapas, planos, cartas y croquis" width="820">
+</p>
+<p align="center"><em>Infografía: mapas, planos, cartas y croquis.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -474,7 +526,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **2**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-13-distancias-cota-altitud-y-desnivel.webp -->
+<!-- VISUAL:t18-13-distancias-cota-altitud-y-desnivel.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-13-distancias-cota-altitud-y-desnivel.webp" alt="distancias, cota, altitud y desnivel" width="820">
+</p>
+<p align="center"><em>Infografía: distancias, cota, altitud y desnivel.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -514,7 +570,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-il-14-sistema-de-planos-acotados-y-curvas-de-nivel.webp -->
+<!-- VISUAL:t18-il-14-sistema-de-planos-acotados-y-curvas-de-nivel.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-il-14-sistema-de-planos-acotados-y-curvas-de-nivel.webp" alt="sistema de planos acotados y curvas de nivel" width="820">
+</p>
+<p align="center"><em>Infografía: sistema de planos acotados y curvas de nivel.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -549,7 +609,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **4**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-15-interpolacion-de-cotas-y-pendiente.webp -->
+<!-- VISUAL:t18-15-interpolacion-de-cotas-y-pendiente.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-15-interpolacion-de-cotas-y-pendiente.webp" alt="interpolación de cotas y pendiente" width="820">
+</p>
+<p align="center"><em>Infografía: interpolación de cotas y pendiente.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -586,7 +650,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **0**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-16-clases-del-terreno.webp -->
+<!-- VISUAL:t18-16-clases-del-terreno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-16-clases-del-terreno.webp" alt="clases del terreno" width="820">
+</p>
+<p align="center"><em>Infografía: clases del terreno.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -625,7 +693,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **2**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-17-accidentes-basicos-laderas-divisorias-vaguadas-y-collados.webp -->
+<!-- VISUAL:t18-17-accidentes-basicos-laderas-divisorias-vaguadas-y-collados.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-17-accidentes-basicos-laderas-divisorias-vaguadas-y-collados.webp" alt="accidentes básicos: laderas, divisorias, vaguadas y collados" width="820">
+</p>
+<p align="center"><em>Infografía: accidentes básicos: laderas, divisorias, vaguadas y collados.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 
@@ -665,7 +737,11 @@ En una lectura operativa del terreno, combina orientación, escala, pendiente, r
 Apariciones oficiales mapeadas en este bloque: **3**. Prioridad: fórmulas, unidades, definiciones y accidentes próximos.
 :::
 
-<!-- VISUAL PENDIENTE: t18-il-18-accidentes-complejos-e-hidrograficos.webp -->
+<!-- VISUAL:t18-il-18-accidentes-complejos-e-hidrograficos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-18/t18-il-18-accidentes-complejos-e-hidrograficos.webp" alt="accidentes complejos e hidrográficos" width="820">
+</p>
+<p align="center"><em>Infografía: accidentes complejos e hidrográficos.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTOS-CARTOGRAFICOS-T18 -->
 

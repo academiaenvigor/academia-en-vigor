@@ -2346,6 +2346,10 @@ Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Aparicion
 | 6 | Autoridades de protección de datos | 25–36 |
 | 7 | Procedimientos por posible vulneración | 37–42 |
 
+:::visual
+**Mapa general previsto:** `t11-00-mapa-proteccion-datos.webp` · recorrido desde la recogida del dato hasta derechos, control y reclamación.
+:::
+
 <!-- LAYER:CONTENIDO -->
 # Contenido
 

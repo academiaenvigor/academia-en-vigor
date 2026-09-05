@@ -17,6 +17,12 @@
 | 7 | Relaciones interadministrativas | 61–65 |
 | 8 | Ley del Gobierno reformada por la Ley 40/2015 | 66–66 |
 
+<!-- VISUAL:t10-00-mapa-derecho-administrativo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-10/t10-00-mapa-derecho-administrativo.webp" alt="recorrido por personas, actos, procedimiento, organización y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido por personas, actos, procedimiento, organización y cooperación.</em></p>
+
 # Contenido
 
 ## 01. Mapa, alcance y vigencia

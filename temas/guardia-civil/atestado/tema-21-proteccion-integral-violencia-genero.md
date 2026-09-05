@@ -13,7 +13,11 @@
 | 3 | Seguridad, tutela penal y organización judicial | 9–11 |
 | 4 | Protección judicial, Ministerio Fiscal y disposiciones | 12–14 |
 
-<!-- VISUAL PENDIENTE: t21-00-mapa-proteccion-integral.webp -->
+<!-- VISUAL:t21-00-mapa-proteccion-integral.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-00-mapa-proteccion-integral.webp" alt="arquitectura de la Ley" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura de la Ley.</em></p>
 
 # Contenido
 
@@ -59,7 +63,11 @@ Ante una intervención, identifica primero si los hechos encajan en el ámbito s
 Apariciones oficiales mapeadas en este bloque: **1**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-01-objeto-y-principios-rectores.webp -->
+<!-- VISUAL:t21-01-objeto-y-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-01-objeto-y-principios-rectores.webp" alt="objeto y principios rectores" width="820">
+</p>
+<p align="center"><em>Infografía: objeto y principios rectores.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -109,7 +117,11 @@ La prevención efectiva exige detectar señales tempranas y activar recursos edu
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp -->
+<!-- VISUAL:t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp" alt="sensibilización, educación e inspección educativa" width="820">
+</p>
+<p align="center"><em>Infografía: sensibilización, educación e inspección educativa.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -141,7 +153,11 @@ Una comunicación pública no puede usar la dignidad de la víctima como reclamo
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-03-publicidad-y-medios-de-comunicacion.webp -->
+<!-- VISUAL:t21-03-publicidad-y-medios-de-comunicacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-03-publicidad-y-medios-de-comunicacion.webp" alt="publicidad y medios de comunicación" width="820">
+</p>
+<p align="center"><em>Infografía: publicidad y medios de comunicación.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -173,7 +189,11 @@ El parte sanitario puede ser decisivo para detectar, asistir y documentar una si
 Apariciones oficiales mapeadas en este bloque: **2**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-04-ambito-sanitario.webp -->
+<!-- VISUAL:t21-il-04-ambito-sanitario.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-04-ambito-sanitario.webp" alt="ámbito sanitario" width="820">
+</p>
+<p align="center"><em>Infografía: ámbito sanitario.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -231,7 +251,11 @@ La primera información debe ser comprensible, accesible y útil: seguridad, der
 Apariciones oficiales mapeadas en este bloque: **1**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp -->
+<!-- VISUAL:t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp" alt="información, atención integral, salud y asistencia jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: información, atención integral, salud y asistencia jurídica.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -270,7 +294,11 @@ La protección real puede exigir reorganizar jornada, trasladar centro, suspende
 Apariciones oficiales mapeadas en este bloque: **4**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp -->
+<!-- VISUAL:t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp" alt="derechos laborales, seguridad social y función pública" width="820">
+</p>
+<p align="center"><em>Infografía: derechos laborales, seguridad social y función pública.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -315,7 +343,11 @@ La recuperación incluye daños físicos, psicológicos, materiales y pérdida d
 Apariciones oficiales mapeadas en este bloque: **1**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp -->
+<!-- VISUAL:t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp" alt="ayudas, vivienda y derecho a la reparación" width="820">
+</p>
+<p align="center"><em>Infografía: ayudas, vivienda y derecho a la reparación.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -346,7 +378,11 @@ En coordinación institucional, pregunta qué órgano diseña política y cuál 
 Apariciones oficiales mapeadas en este bloque: **4**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp -->
+<!-- VISUAL:t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp" alt="delegación del gobierno y observatorio estatal" width="820">
+</p>
+<p align="center"><em>Infografía: delegación del gobierno y observatorio estatal.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -381,7 +417,11 @@ La unidad especializada controla medidas judiciales y comparte información conf
 Apariciones oficiales mapeadas en este bloque: **1**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp -->
+<!-- VISUAL:t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp" alt="fuerzas y cuerpos de seguridad y planes de colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: fuerzas y cuerpos de seguridad y planes de colaboración.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -417,7 +457,11 @@ Para calificar hoy una conducta, usa el Código Penal vigente; para contestar qu
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-10-tutela-penal-y-administracion-penitenciaria.webp -->
+<!-- VISUAL:t21-il-10-tutela-penal-y-administracion-penitenciaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-10-tutela-penal-y-administracion-penitenciaria.webp" alt="tutela penal y administración penitenciaria" width="820">
+</p>
+<p align="center"><em>Infografía: tutela penal y administración penitenciaria.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -460,7 +504,11 @@ La competencia territorial favorece el acceso de la víctima, pero las medidas u
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp -->
+<!-- VISUAL:t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp" alt="organización judicial, competencias y reglas procesales" width="820">
+</p>
+<p align="center"><em>Infografía: organización judicial, competencias y reglas procesales.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -504,7 +552,11 @@ Si existen menores, el órgano judicial debe decidir expresamente sobre custodia
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp -->
+<!-- VISUAL:t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp" alt="medidas judiciales de protección y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: medidas judiciales de protección y seguridad.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -532,7 +584,11 @@ La coordinación fiscal evita criterios contradictorios entre territorios y perm
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp -->
+<!-- VISUAL:t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp" alt="fiscal contra la violencia sobre la mujer" width="820">
+</p>
+<p align="center"><em>Infografía: fiscal contra la violencia sobre la mujer.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -636,7 +692,11 @@ Cuando una disposición modifica otra ley, separa la pregunta histórica —qué
 Apariciones oficiales mapeadas en este bloque: **0**. Distingue órgano, destinatario, requisitos, efectos, periodicidades y excepciones.
 :::
 
-<!-- VISUAL PENDIENTE: t21-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<!-- VISUAL:t21-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-14-disposiciones-adicionales-transitoria-y-finales.webp" alt="disposiciones adicionales, transitoria y finales" width="820">
+</p>
+<p align="center"><em>Infografía: disposiciones adicionales, transitoria y finales.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 

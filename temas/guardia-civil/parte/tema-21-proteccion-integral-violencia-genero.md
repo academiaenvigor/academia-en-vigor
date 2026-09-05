@@ -13,7 +13,11 @@
 | 3 | Seguridad, tutela penal y organización judicial | 9–11 |
 | 4 | Protección judicial, Ministerio Fiscal y disposiciones | 12–14 |
 
-<!-- VISUAL PENDIENTE: t21-00-mapa-proteccion-integral.webp -->
+<!-- VISUAL:t21-00-mapa-proteccion-integral.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-00-mapa-proteccion-integral.webp" alt="arquitectura de la Ley" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura de la Ley.</em></p>
 
 # Contenido
 
@@ -49,7 +53,11 @@ Este bloque desarrolla **objeto y principios rectores** dentro de fundamentos, s
 El objeto legal define a la vez la violencia combatida, la relación con el agresor y la finalidad integral de las medidas. No reduzcas el concepto a una agresión física.
 :::
 
-<!-- VISUAL PENDIENTE: t21-01-objeto-y-principios-rectores.webp -->
+<!-- VISUAL:t21-01-objeto-y-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-01-objeto-y-principios-rectores.webp" alt="objeto y principios rectores" width="820">
+</p>
+<p align="center"><em>Infografía: objeto y principios rectores.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -89,7 +97,11 @@ Este bloque desarrolla **sensibilización, educación e inspección educativa** 
 La prevención comienza antes del delito: campañas, currículo, convivencia escolar, formación docente e inspección forman una cadena de intervención educativa.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp -->
+<!-- VISUAL:t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp" alt="sensibilización, educación e inspección educativa" width="820">
+</p>
+<p align="center"><em>Infografía: sensibilización, educación e inspección educativa.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -111,7 +123,11 @@ Este bloque desarrolla **publicidad y medios de comunicación** dentro de fundam
 Publicidad ilícita, acción de cesación y tratamiento mediático son piezas distintas: una califica el mensaje, otra permite reaccionar y la tercera impone deberes editoriales.
 :::
 
-<!-- VISUAL PENDIENTE: t21-03-publicidad-y-medios-de-comunicacion.webp -->
+<!-- VISUAL:t21-03-publicidad-y-medios-de-comunicacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-03-publicidad-y-medios-de-comunicacion.webp" alt="publicidad y medios de comunicación" width="820">
+</p>
+<p align="center"><em>Infografía: publicidad y medios de comunicación.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -133,7 +149,11 @@ Este bloque desarrolla **ámbito sanitario** dentro de fundamentos, sensibilizac
 El sistema sanitario no se limita a curar lesiones: detecta precozmente, forma profesionales, aplica protocolos y evalúa mediante la Comisión del Consejo Interterritorial.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-04-ambito-sanitario.webp -->
+<!-- VISUAL:t21-il-04-ambito-sanitario.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-04-ambito-sanitario.webp" alt="ámbito sanitario" width="820">
+</p>
+<p align="center"><em>Infografía: ámbito sanitario.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -181,7 +201,11 @@ Este bloque desarrolla **información, atención integral, salud y asistencia ju
 Los derechos se garantizan sin discriminación y combinan información accesible, atención social, atención sanitaria y asistencia jurídica inmediata y especializada.
 :::
 
-<!-- VISUAL PENDIENTE: t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp -->
+<!-- VISUAL:t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp" alt="información, atención integral, salud y asistencia jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: información, atención integral, salud y asistencia jurídica.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -210,7 +234,11 @@ Este bloque desarrolla **derechos laborales, seguridad social y función públic
 No mezcles trabajadora, autónoma y funcionaria: comparten finalidad protectora, pero los instrumentos laborales, de Seguridad Social y administrativos no son idénticos.
 :::
 
-<!-- VISUAL PENDIENTE: t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp -->
+<!-- VISUAL:t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp" alt="derechos laborales, seguridad social y función pública" width="820">
+</p>
+<p align="center"><em>Infografía: derechos laborales, seguridad social y función pública.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -245,7 +273,11 @@ Este bloque desarrolla **ayudas, vivienda y derecho a la reparación** dentro de
 La tutela económica no se agota en una ayuda: comprende apoyo social, vivienda prioritaria y reparación con restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp -->
+<!-- VISUAL:t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp" alt="ayudas, vivienda y derecho a la reparación" width="820">
+</p>
+<p align="center"><em>Infografía: ayudas, vivienda y derecho a la reparación.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -266,7 +298,11 @@ Este bloque desarrolla **delegación del gobierno y observatorio estatal** dentr
 La Delegación formula y coordina políticas; el Observatorio asesora, evalúa, estudia y propone. Son órganos distintos y esa diferencia cae en examen.
 :::
 
-<!-- VISUAL PENDIENTE: t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp -->
+<!-- VISUAL:t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp" alt="delegación del gobierno y observatorio estatal" width="820">
+</p>
+<p align="center"><em>Infografía: delegación del gobierno y observatorio estatal.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -291,7 +327,11 @@ Este bloque desarrolla **fuerzas y cuerpos de seguridad y planes de colaboració
 La especialización policial y la coordinación con policías autonómicas, locales, órganos judiciales y servicios de atención buscan que la medida acordada se cumpla realmente.
 :::
 
-<!-- VISUAL PENDIENTE: t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp -->
+<!-- VISUAL:t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp" alt="fuerzas y cuerpos de seguridad y planes de colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: fuerzas y cuerpos de seguridad y planes de colaboración.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -317,7 +357,11 @@ Este bloque desarrolla **tutela penal y administración penitenciaria** dentro d
 Los artículos penales de este título son mandatos modificativos de 2004. Su literalidad pertenece a esta Ley, pero la regulación penal aplicable hoy se obtiene del Código Penal consolidado.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-10-tutela-penal-y-administracion-penitenciaria.webp -->
+<!-- VISUAL:t21-il-10-tutela-penal-y-administracion-penitenciaria.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-10-tutela-penal-y-administracion-penitenciaria.webp" alt="tutela penal y administración penitenciaria" width="820">
+</p>
+<p align="center"><em>Infografía: tutela penal y administración penitenciaria.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -350,7 +394,11 @@ Este bloque desarrolla **organización judicial, competencias y reglas procesale
 Buena parte del título judicial insertó reglas en otras leyes. Desde 2025 las referencias orgánicas deben leerse conforme al sistema de Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.
 :::
 
-<!-- VISUAL PENDIENTE: t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp -->
+<!-- VISUAL:t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp" alt="organización judicial, competencias y reglas procesales" width="820">
+</p>
+<p align="center"><em>Infografía: organización judicial, competencias y reglas procesales.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -384,7 +432,11 @@ Este bloque desarrolla **medidas judiciales de protección y seguridad** dentro 
 Orden de protección, alejamiento, suspensión de comunicaciones, custodia, visitas y armas son medidas diferentes; el juez debe motivarlas, fijar su régimen y proteger también a los menores.
 :::
 
-<!-- VISUAL PENDIENTE: t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp -->
+<!-- VISUAL:t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp" alt="medidas judiciales de protección y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: medidas judiciales de protección y seguridad.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -402,7 +454,11 @@ Este bloque desarrolla **fiscal contra la violencia sobre la mujer** dentro de p
 El Fiscal contra la Violencia sobre la Mujer coordina criterios y asuntos de especial trascendencia; las Secciones territoriales intervienen en los procedimientos de su ámbito.
 :::
 
-<!-- VISUAL PENDIENTE: t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp -->
+<!-- VISUAL:t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp" alt="fiscal contra la violencia sobre la mujer" width="820">
+</p>
+<p align="center"><em>Infografía: fiscal contra la violencia sobre la mujer.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 
@@ -496,7 +552,11 @@ Este bloque desarrolla **disposiciones adicionales, transitoria y finales** dent
 Las disposiciones contienen financiación, protocolos, reformas de otras leyes, transitorios y entrada en vigor. Algunas agotaron su efecto, pero siguen formando parte del alcance literal exigido.
 :::
 
-<!-- VISUAL PENDIENTE: t21-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<!-- VISUAL:t21-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-21/t21-14-disposiciones-adicionales-transitoria-y-finales.webp" alt="disposiciones adicionales, transitoria y finales" width="820">
+</p>
+<p align="center"><em>Infografía: disposiciones adicionales, transitoria y finales.</em></p>
 
 <!-- FUENTE: LO1-2004-T21 -->
 

@@ -13,7 +13,11 @@
 | 3 | Audiencia, sentencia y recursos | 7–9 |
 | 4 | Ejecución, internamiento y responsabilidad civil | 10–14 |
 
-<!-- VISUAL PENDIENTE: t20-00-mapa-responsabilidad-menores.webp -->
+<!-- VISUAL:t20-00-mapa-responsabilidad-menores.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-00-mapa-responsabilidad-menores.webp" alt="arquitectura de la Ley" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura de la Ley.</em></p>
 
 # Contenido
 
@@ -49,7 +53,11 @@ Este bloque desarrolla **objeto, ámbito, víctimas y sujetos intervinientes** d
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-01-objeto-ambito-victimas-y-sujetos-intervinientes.webp -->
+<!-- VISUAL:t20-01-objeto-ambito-victimas-y-sujetos-intervinientes.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-01-objeto-ambito-victimas-y-sujetos-intervinientes.webp" alt="objeto, ámbito, víctimas y sujetos intervinientes" width="820">
+</p>
+<p align="center"><em>Infografía: objeto, ámbito, víctimas y sujetos intervinientes.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -91,7 +99,11 @@ Este bloque desarrolla **catálogo y contenido de las medidas** dentro de ámbit
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-il-02-catalogo-y-contenido-de-las-medidas.webp -->
+<!-- VISUAL:t20-il-02-catalogo-y-contenido-de-las-medidas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-il-02-catalogo-y-contenido-de-las-medidas.webp" alt="catálogo y contenido de las medidas" width="820">
+</p>
+<p align="center"><em>Infografía: catálogo y contenido de las medidas.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -143,7 +155,11 @@ Este bloque desarrolla **determinación, modificación, mayoría de edad y presc
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-03-determinacion-modificacion-mayoria-de-edad-y-prescripcion.webp -->
+<!-- VISUAL:t20-03-determinacion-modificacion-mayoria-de-edad-y-prescripcion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-03-determinacion-modificacion-mayoria-de-edad-y-prescripcion.webp" alt="determinación, modificación, mayoría de edad y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: determinación, modificación, mayoría de edad y prescripción.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -184,7 +200,11 @@ Este bloque desarrolla **incoación, detención, desistimiento y conciliación**
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-il-04-incoacion-detencion-desistimiento-y-conciliacion.webp -->
+<!-- VISUAL:t20-il-04-incoacion-detencion-desistimiento-y-conciliacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-il-04-incoacion-detencion-desistimiento-y-conciliacion.webp" alt="incoación, detención, desistimiento y conciliación" width="820">
+</p>
+<p align="center"><em>Infografía: incoación, detención, desistimiento y conciliación.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -236,7 +256,11 @@ Este bloque desarrolla **unidad del expediente, defensa, secreto y equipo técni
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-05-unidad-del-expediente-defensa-secreto-y-equipo-tecnico.webp -->
+<!-- VISUAL:t20-05-unidad-del-expediente-defensa-secreto-y-equipo-tecnico.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-05-unidad-del-expediente-defensa-secreto-y-equipo-tecnico.webp" alt="unidad del expediente, defensa, secreto y equipo técnico" width="820">
+</p>
+<p align="center"><em>Infografía: unidad del expediente, defensa, secreto y equipo técnico.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -261,7 +285,11 @@ Este bloque desarrolla **medidas cautelares y conclusión de la instrucción** d
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-06-medidas-cautelares-y-conclusion-de-la-instruccion.webp -->
+<!-- VISUAL:t20-06-medidas-cautelares-y-conclusion-de-la-instruccion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-06-medidas-cautelares-y-conclusion-de-la-instruccion.webp" alt="medidas cautelares y conclusión de la instrucción" width="820">
+</p>
+<p align="center"><em>Infografía: medidas cautelares y conclusión de la instrucción.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -299,7 +327,11 @@ Este bloque desarrolla **fase de audiencia** dentro de audiencia, sentencia y re
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-il-07-fase-de-audiencia.webp -->
+<!-- VISUAL:t20-il-07-fase-de-audiencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-il-07-fase-de-audiencia.webp" alt="fase de audiencia" width="820">
+</p>
+<p align="center"><em>Infografía: fase de audiencia.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -324,7 +356,11 @@ Este bloque desarrolla **sentencia, suspensión y vistas** dentro de audiencia, 
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-08-sentencia-suspension-y-vistas.webp -->
+<!-- VISUAL:t20-08-sentencia-suspension-y-vistas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-08-sentencia-suspension-y-vistas.webp" alt="sentencia, suspensión y vistas" width="820">
+</p>
+<p align="center"><em>Infografía: sentencia, suspensión y vistas.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -349,7 +385,11 @@ Este bloque desarrolla **régimen de recursos** dentro de audiencia, sentencia y
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-09-regimen-de-recursos.webp -->
+<!-- VISUAL:t20-09-regimen-de-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-09-regimen-de-recursos.webp" alt="régimen de recursos" width="820">
+</p>
+<p align="center"><em>Infografía: régimen de recursos.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -381,7 +421,11 @@ Este bloque desarrolla **inicio y principios de la ejecución** dentro de ejecuc
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-il-10-inicio-y-principios-de-la-ejecucion.webp -->
+<!-- VISUAL:t20-il-10-inicio-y-principios-de-la-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-il-10-inicio-y-principios-de-la-ejecucion.webp" alt="inicio y principios de la ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: inicio y principios de la ejecución.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -432,7 +476,11 @@ Este bloque desarrolla **reglas de ejecución, quebrantamiento y sustitución** 
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-11-reglas-de-ejecucion-quebrantamiento-y-sustitucion.webp -->
+<!-- VISUAL:t20-11-reglas-de-ejecucion-quebrantamiento-y-sustitucion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-11-reglas-de-ejecucion-quebrantamiento-y-sustitucion.webp" alt="reglas de ejecución, quebrantamiento y sustitución" width="820">
+</p>
+<p align="center"><em>Infografía: reglas de ejecución, quebrantamiento y sustitución.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -503,7 +551,11 @@ Este bloque desarrolla **centros, derechos, deberes, vigilancia y disciplina** d
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-il-12-centros-derechos-deberes-vigilancia-y-disciplina.webp -->
+<!-- VISUAL:t20-il-12-centros-derechos-deberes-vigilancia-y-disciplina.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-il-12-centros-derechos-deberes-vigilancia-y-disciplina.webp" alt="centros, derechos, deberes, vigilancia y disciplina" width="820">
+</p>
+<p align="center"><em>Infografía: centros, derechos, deberes, vigilancia y disciplina.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -530,7 +582,11 @@ Este bloque desarrolla **responsabilidad civil** dentro de ejecución, internami
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-13-responsabilidad-civil.webp -->
+<!-- VISUAL:t20-13-responsabilidad-civil.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-13-responsabilidad-civil.webp" alt="responsabilidad civil" width="820">
+</p>
+<p align="center"><em>Infografía: responsabilidad civil.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 
@@ -575,7 +631,11 @@ Este bloque desarrolla **disposiciones adicionales, transitoria y finales** dent
 En menores, edad, órgano, plazo y finalidad educativa cambian la respuesta: no traslades automáticamente las reglas del proceso penal de adultos.
 :::
 
-<!-- VISUAL PENDIENTE: t20-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<!-- VISUAL:t20-14-disposiciones-adicionales-transitoria-y-finales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-20/t20-14-disposiciones-adicionales-transitoria-y-finales.webp" alt="disposiciones adicionales, transitoria y finales" width="820">
+</p>
+<p align="center"><em>Infografía: disposiciones adicionales, transitoria y finales.</em></p>
 
 <!-- FUENTE: LO5-2000-T20 -->
 

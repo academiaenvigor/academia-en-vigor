@@ -16,6 +16,12 @@
 | 6 | Autoridades de protección de datos | 25–36 |
 | 7 | Procedimientos por posible vulneración | 37–42 |
 
+<!-- VISUAL:t11-00-mapa-proteccion-datos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-11/t11-00-mapa-proteccion-datos.webp" alt="recorrido desde la recogida del dato hasta derechos, control y reclamación" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido desde la recogida del dato hasta derechos, control y reclamación.</em></p>
+
 # Contenido
 
 ## 01. Objeto, alcance oficial y sistema normativo

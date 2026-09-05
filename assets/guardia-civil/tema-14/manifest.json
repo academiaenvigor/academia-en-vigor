@@ -4,14 +4,14 @@
   "topic": "tema-14",
   "content_version": "1.0.0",
   "visual_version": "0.0.0",
-  "status": "partial",
+  "status": "integrated",
   "totals": {
     "resources": 44,
-    "integrated": 43,
-    "planned": 1
+    "integrated": 44,
+    "planned": 0
   },
-  "integration_status": "partial",
-  "integrated_at": "2026-09-01",
+  "integration_status": "complete",
+  "integrated_at": "2026-09-05",
   "resources": [
     {
       "id": "GC-T14-V00",
@@ -19,14 +19,15 @@
       "title": "Mapa general",
       "type": "infografia",
       "placement": "mapa-del-tema",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 0,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
       "description": "Doble organigrama para comparar los Ministerios del Interior y de Defensa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {

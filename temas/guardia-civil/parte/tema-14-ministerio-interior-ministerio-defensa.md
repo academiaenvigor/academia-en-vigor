@@ -21,6 +21,12 @@
 | 11 | Política de Defensa | 35–37 |
 | 12 | Disposiciones del Ministerio de Defensa | 38–43 |
 
+<!-- VISUAL:t14-00-mapa-interior-defensa.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-14/t14-00-mapa-interior-defensa.webp" alt="doble organigrama para comparar los Ministerios del Interior y de Defensa" width="820">
+</p>
+<p align="center"><em>Infografía: doble organigrama para comparar los Ministerios del Interior y de Defensa.</em></p>
+
 # Contenido
 
 ## 01. Alcance oficial y reformas vigentes

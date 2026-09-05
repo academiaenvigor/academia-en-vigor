@@ -13,7 +13,11 @@
 | 3 | Normas de comportamiento y prestación del servicio | 13–17 |
 | 4 | Decálogo y síntesis operativa | 18–20 |
 
-<!-- VISUAL PENDIENTE: t19-00-mapa-deontologia.webp -->
+<!-- VISUAL:t19-00-mapa-deontologia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-00-mapa-deontologia.webp" alt="arquitectura del tema" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura del tema.</em></p>
 
 # Contenido
 
@@ -43,7 +47,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-01-alcance-adopcion-y-conceptos-de-partida.webp -->
+<!-- VISUAL:t19-01-alcance-adopcion-y-conceptos-de-partida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-01-alcance-adopcion-y-conceptos-de-partida.webp" alt="alcance, adopción y conceptos de partida" width="820">
+</p>
+<p align="center"><em>Infografía: alcance, adopción y conceptos de partida.</em></p>
 
 <!-- FUENTE: GC-PROGRAMA-2026-T19 -->
 
@@ -79,7 +87,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **2**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-02-reglas-generales-de-necesidad-y-reduccion-del-dano.webp -->
+<!-- VISUAL:t19-02-reglas-generales-de-necesidad-y-reduccion-del-dano.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-02-reglas-generales-de-necesidad-y-reduccion-del-dano.webp" alt="reglas generales de necesidad y reducción del daño" width="820">
+</p>
+<p align="center"><em>Infografía: reglas generales de necesidad y reducción del daño.</em></p>
 
 <!-- FUENTE: ONU-PRINCIPIOS-FUERZA-1990-T19 -->
 
@@ -113,7 +125,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-03-armas-de-fuego-umbral-advertencia-y-regulacion.webp -->
+<!-- VISUAL:t19-03-armas-de-fuego-umbral-advertencia-y-regulacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-03-armas-de-fuego-umbral-advertencia-y-regulacion.webp" alt="armas de fuego: umbral, advertencia y regulación" width="820">
+</p>
+<p align="center"><em>Infografía: armas de fuego: umbral, advertencia y regulación.</em></p>
 
 <!-- FUENTE: ONU-PRINCIPIOS-FUERZA-1990-T19 -->
 
@@ -141,7 +157,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-il-04-reuniones-ilicitas-y-personas-bajo-custodia.webp -->
+<!-- VISUAL:t19-il-04-reuniones-ilicitas-y-personas-bajo-custodia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-il-04-reuniones-ilicitas-y-personas-bajo-custodia.webp" alt="reuniones ilícitas y personas bajo custodia" width="820">
+</p>
+<p align="center"><em>Infografía: reuniones ilícitas y personas bajo custodia.</em></p>
 
 <!-- FUENTE: ONU-PRINCIPIOS-FUERZA-1990-T19 -->
 
@@ -170,7 +190,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-05-seleccion-capacitacion-y-asistencia.webp -->
+<!-- VISUAL:t19-05-seleccion-capacitacion-y-asistencia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-05-seleccion-capacitacion-y-asistencia.webp" alt="selección, capacitación y asistencia" width="820">
+</p>
+<p align="center"><em>Infografía: selección, capacitación y asistencia.</em></p>
 
 <!-- FUENTE: ONU-PRINCIPIOS-FUERZA-1990-T19 -->
 
@@ -200,7 +224,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-06-informes-revision-y-responsabilidad.webp -->
+<!-- VISUAL:t19-06-informes-revision-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-06-informes-revision-y-responsabilidad.webp" alt="informes, revisión y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: informes, revisión y responsabilidad.</em></p>
 
 <!-- FUENTE: ONU-PRINCIPIOS-FUERZA-1990-T19 -->
 
@@ -233,7 +261,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-07-parte-dispositiva-del-real-decreto-176-2022.webp -->
+<!-- VISUAL:t19-07-parte-dispositiva-del-real-decreto-176-2022.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-07-parte-dispositiva-del-real-decreto-176-2022.webp" alt="parte dispositiva del real decreto 176/2022" width="820">
+</p>
+<p align="center"><em>Infografía: parte dispositiva del real decreto 176/2022.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -263,7 +295,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-08-disposiciones-y-arquitectura-del-codigo.webp -->
+<!-- VISUAL:t19-08-disposiciones-y-arquitectura-del-codigo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-08-disposiciones-y-arquitectura-del-codigo.webp" alt="disposiciones y arquitectura del código" width="820">
+</p>
+<p align="center"><em>Infografía: disposiciones y arquitectura del código.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -290,7 +326,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **2**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-09-valores-fundamentales-honor-a-justicia.webp -->
+<!-- VISUAL:t19-09-valores-fundamentales-honor-a-justicia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-09-valores-fundamentales-honor-a-justicia.webp" alt="valores fundamentales: honor a justicia" width="820">
+</p>
+<p align="center"><em>Infografía: valores fundamentales: honor a justicia.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -317,7 +357,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-il-10-valores-fundamentales-imparcialidad-a-sacrificio.webp -->
+<!-- VISUAL:t19-il-10-valores-fundamentales-imparcialidad-a-sacrificio.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-il-10-valores-fundamentales-imparcialidad-a-sacrificio.webp" alt="valores fundamentales: imparcialidad a sacrificio" width="820">
+</p>
+<p align="center"><em>Infografía: valores fundamentales: imparcialidad a sacrificio.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -347,7 +391,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-11-principios-institucionales-constitucion-a-subordinacion.webp -->
+<!-- VISUAL:t19-11-principios-institucionales-constitucion-a-subordinacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-11-principios-institucionales-constitucion-a-subordinacion.webp" alt="principios institucionales: constitución a subordinación" width="820">
+</p>
+<p align="center"><em>Infografía: principios institucionales: constitución a subordinación.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -377,7 +425,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-12-principios-institucionales-pluralidad-a-tradiciones.webp -->
+<!-- VISUAL:t19-12-principios-institucionales-pluralidad-a-tradiciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-12-principios-institucionales-pluralidad-a-tradiciones.webp" alt="principios institucionales: pluralidad a tradiciones" width="820">
+</p>
+<p align="center"><em>Infografía: principios institucionales: pluralidad a tradiciones.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -408,7 +460,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-13-normas-generales-disponibilidad-a-uniforme.webp -->
+<!-- VISUAL:t19-13-normas-generales-disponibilidad-a-uniforme.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-13-normas-generales-disponibilidad-a-uniforme.webp" alt="normas generales: disponibilidad a uniforme" width="820">
+</p>
+<p align="center"><em>Infografía: normas generales: disponibilidad a uniforme.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -434,7 +490,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-14-normas-generales-sostenibilidad-a-salud.webp -->
+<!-- VISUAL:t19-14-normas-generales-sostenibilidad-a-salud.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-14-normas-generales-sostenibilidad-a-salud.webp" alt="normas generales: sostenibilidad a salud" width="820">
+</p>
+<p align="center"><em>Infografía: normas generales: sostenibilidad a salud.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -462,7 +522,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-15-prestacion-del-servicio-ciudadania-y-cooperacion.webp -->
+<!-- VISUAL:t19-15-prestacion-del-servicio-ciudadania-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-15-prestacion-del-servicio-ciudadania-y-cooperacion.webp" alt="prestación del servicio: ciudadanía y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: prestación del servicio: ciudadanía y cooperación.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -494,7 +558,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-il-16-prestacion-del-servicio-identificacion-mando-y-fuerza.webp -->
+<!-- VISUAL:t19-il-16-prestacion-del-servicio-identificacion-mando-y-fuerza.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-il-16-prestacion-del-servicio-identificacion-mando-y-fuerza.webp" alt="prestación del servicio: identificación, mando y fuerza" width="820">
+</p>
+<p align="center"><em>Infografía: prestación del servicio: identificación, mando y fuerza.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -525,7 +593,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **0**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-17-prestacion-del-servicio-proteccion-y-funciones-especiales.webp -->
+<!-- VISUAL:t19-17-prestacion-del-servicio-proteccion-y-funciones-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-17-prestacion-del-servicio-proteccion-y-funciones-especiales.webp" alt="prestación del servicio: protección y funciones especiales" width="820">
+</p>
+<p align="center"><em>Infografía: prestación del servicio: protección y funciones especiales.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -551,7 +623,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-18-decalogo-compromisos-primero-a-quinto.webp -->
+<!-- VISUAL:t19-18-decalogo-compromisos-primero-a-quinto.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-18-decalogo-compromisos-primero-a-quinto.webp" alt="decálogo: compromisos primero a quinto" width="820">
+</p>
+<p align="center"><em>Infografía: decálogo: compromisos primero a quinto.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -577,7 +653,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-il-19-decalogo-compromisos-sexto-a-decimo.webp -->
+<!-- VISUAL:t19-il-19-decalogo-compromisos-sexto-a-decimo.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-il-19-decalogo-compromisos-sexto-a-decimo.webp" alt="decálogo: compromisos sexto a décimo" width="820">
+</p>
+<p align="center"><em>Infografía: decálogo: compromisos sexto a décimo.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 
@@ -606,7 +686,11 @@ La decisión operativa exige agotar medios menos lesivos, proteger la vida, grad
 Preguntas oficiales mapeadas en este bloque: **1**. Prioridad: literalidad, excepciones y ubicación sistemática.
 :::
 
-<!-- VISUAL PENDIENTE: t19-20-comparaciones-criticas-para-examen.webp -->
+<!-- VISUAL:t19-20-comparaciones-criticas-para-examen.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-19/t19-20-comparaciones-criticas-para-examen.webp" alt="comparaciones críticas para examen" width="820">
+</p>
+<p align="center"><em>Infografía: comparaciones críticas para examen.</em></p>
 
 <!-- FUENTE: RD176-2022-T19 -->
 

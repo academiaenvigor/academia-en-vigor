@@ -4063,6 +4063,10 @@ Prioriza sujetos, plazos, órganos, mayorías, recursos, causas y efectos. Apari
 | 7 | Relaciones interadministrativas | 61–65 |
 | 8 | Ley del Gobierno reformada por la Ley 40/2015 | 66–66 |
 
+:::visual
+**Mapa general previsto:** `t10-00-mapa-derecho-administrativo.webp` · recorrido por personas, actos, procedimiento, organización y cooperación.
+:::
+
 <!-- LAYER:CONTENIDO -->
 # Contenido
 

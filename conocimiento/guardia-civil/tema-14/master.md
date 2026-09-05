@@ -2831,6 +2831,10 @@ Prioriza dependencias, rangos, adscripciones, listas de órganos y funciones exc
 | 11 | Política de Defensa | 35–37 |
 | 12 | Disposiciones del Ministerio de Defensa | 38–43 |
 
+:::visual
+**Mapa general previsto:** `t14-00-mapa-interior-defensa.webp` · doble organigrama para comparar los Ministerios del Interior y de Defensa.
+:::
+
 <!-- LAYER:CONTENIDO -->
 # Contenido
 

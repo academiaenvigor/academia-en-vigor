@@ -3428,6 +3428,10 @@ Prioriza listas cerradas, plazos, excepciones, competencias y efectos. Aparicion
 | 7 | Coordinación y disposiciones de la Ley | 38–43 |
 | 8 | Ciudadanía de la Unión y del EEE | 44–55 |
 
+:::visual
+**Mapa general previsto:** `t12-00-mapa-extranjeria-inmigracion.webp` · árbol inicial para distinguir régimen general, Unión/EEE, entrada, estancia, residencia, trabajo y sanción.
+:::
+
 <!-- LAYER:CONTENIDO -->
 # Contenido
 

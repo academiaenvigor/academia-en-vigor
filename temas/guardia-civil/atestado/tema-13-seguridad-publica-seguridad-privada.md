@@ -20,6 +20,12 @@
 | 10 | Servicios de seguridad privada | 46–54 |
 | 11 | Medidas y control administrativo | 55–57 |
 
+<!-- VISUAL:t13-00-mapa-seguridad-publica-privada.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-13/t13-00-mapa-seguridad-publica-privada.webp" alt="mapa para separar potestades públicas, seguridad privada, empresas, personal, servicios, medidas y control" width="820">
+</p>
+<p align="center"><em>Infografía: mapa para separar potestades públicas, seguridad privada, empresas, personal, servicios, medidas y control.</em></p>
+
 # Contenido
 
 ## 01. Objeto y ámbito de la seguridad ciudadana

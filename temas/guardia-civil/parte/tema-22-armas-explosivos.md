@@ -13,7 +13,11 @@
 | 3 | Reglamento de Explosivos: régimen general y operativo | 8–14 |
 | 4 | Reglamento de Explosivos: instrucciones técnicas complementarias | 15–20 |
 
-<!-- VISUAL PENDIENTE: t22-00-mapa-general.webp -->
+<!-- VISUAL:t22-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-00-mapa-general.webp" alt="arquitectura normativa" width="820">
+</p>
+<p align="center"><em>Infografía: arquitectura normativa.</em></p>
 
 # Contenido
 
@@ -63,7 +67,11 @@ Este bloque desarrolla **reglamento de armas: alcance, definiciones y clasificac
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: alcance, definiciones y clasificación» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-01-reglamento-de-armas-alcance-definiciones-y-clasificacion.webp -->
+<!-- VISUAL:t22-01-reglamento-de-armas-alcance-definiciones-y-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-01-reglamento-de-armas-alcance-definiciones-y-clasificacion.webp" alt="reglamento de armas: alcance, definiciones y clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: alcance, definiciones y clasificación.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -119,7 +127,11 @@ Este bloque desarrolla **reglamento de armas: fabricación, reparación, pruebas
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: fabricación, reparación, pruebas y circulación» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-02-reglamento-de-armas-fabricacion-reparacion-pruebas-y-circulacion.webp -->
+<!-- VISUAL:t22-02-reglamento-de-armas-fabricacion-reparacion-pruebas-y-circulacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-02-reglamento-de-armas-fabricacion-reparacion-pruebas-y-circulacion.webp" alt="reglamento de armas: fabricación, reparación, pruebas y circulación" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: fabricación, reparación, pruebas y circulación.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -222,7 +234,11 @@ Este bloque desarrolla **reglamento de armas: comercio, importación, exportaci�
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: comercio, importación, exportación y seguridad» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-03-reglamento-de-armas-comercio-importacion-exportacion-y-seguridad.webp -->
+<!-- VISUAL:t22-03-reglamento-de-armas-comercio-importacion-exportacion-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-03-reglamento-de-armas-comercio-importacion-exportacion-y-seguridad.webp" alt="reglamento de armas: comercio, importación, exportación y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: comercio, importación, exportación y seguridad.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -322,7 +338,11 @@ Este bloque desarrolla **reglamento de armas: documentación, licencias y autori
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: documentación, licencias y autorizaciones» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-04-reglamento-de-armas-documentacion-licencias-y-autorizaciones.webp -->
+<!-- VISUAL:t22-04-reglamento-de-armas-documentacion-licencias-y-autorizaciones.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-04-reglamento-de-armas-documentacion-licencias-y-autorizaciones.webp" alt="reglamento de armas: documentación, licencias y autorizaciones" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: documentación, licencias y autorizaciones.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -379,7 +399,11 @@ Este bloque desarrolla **reglamento de armas: uso, campos, sanciones y depósito
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: uso, campos, sanciones y depósitos» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-05-reglamento-de-armas-uso-campos-sanciones-y-depositos.webp -->
+<!-- VISUAL:t22-05-reglamento-de-armas-uso-campos-sanciones-y-depositos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-05-reglamento-de-armas-uso-campos-sanciones-y-depositos.webp" alt="reglamento de armas: uso, campos, sanciones y depósitos" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: uso, campos, sanciones y depósitos.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -423,7 +447,11 @@ Este bloque desarrolla **reglamento de armas: disposiciones y cierre del articul
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: disposiciones y cierre del articulado» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-06-reglamento-de-armas-disposiciones-y-cierre-del-articulado.webp -->
+<!-- VISUAL:t22-06-reglamento-de-armas-disposiciones-y-cierre-del-articulado.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-06-reglamento-de-armas-disposiciones-y-cierre-del-articulado.webp" alt="reglamento de armas: disposiciones y cierre del articulado" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: disposiciones y cierre del articulado.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -457,7 +485,11 @@ Este bloque desarrolla **reglamento de armas: itc y anexos** dentro de reglament
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Armas: ITC y anexos» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-07-reglamento-de-armas-itc-y-anexos.webp -->
+<!-- VISUAL:t22-07-reglamento-de-armas-itc-y-anexos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-07-reglamento-de-armas-itc-y-anexos.webp" alt="reglamento de armas: itc y anexos" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de armas: itc y anexos.</em></p>
 
 <!-- FUENTE: RD137-1993-T22 -->
 
@@ -520,7 +552,11 @@ Este bloque desarrolla **reglamento de explosivos: aprobación, conceptos y clas
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: aprobación, conceptos y clasificación» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-08-reglamento-de-explosivos-aprobacion-conceptos-y-clasificacion.webp -->
+<!-- VISUAL:t22-08-reglamento-de-explosivos-aprobacion-conceptos-y-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-08-reglamento-de-explosivos-aprobacion-conceptos-y-clasificacion.webp" alt="reglamento de explosivos: aprobación, conceptos y clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: aprobación, conceptos y clasificación.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -584,7 +620,11 @@ Este bloque desarrolla **reglamento de explosivos: fábricas** dentro de reglame
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: fábricas» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-09-reglamento-de-explosivos-fabricas.webp -->
+<!-- VISUAL:t22-09-reglamento-de-explosivos-fabricas.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-09-reglamento-de-explosivos-fabricas.webp" alt="reglamento de explosivos: fábricas" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: fábricas.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -656,7 +696,11 @@ Este bloque desarrolla **reglamento de explosivos: depósitos, envases y comerci
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: depósitos, envases y comercialización» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-10-reglamento-de-explosivos-depositos-envases-y-comercializacion.webp -->
+<!-- VISUAL:t22-10-reglamento-de-explosivos-depositos-envases-y-comercializacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-10-reglamento-de-explosivos-depositos-envases-y-comercializacion.webp" alt="reglamento de explosivos: depósitos, envases y comercialización" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: depósitos, envases y comercialización.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -727,7 +771,11 @@ Este bloque desarrolla **reglamento de explosivos: control de mercado y utilizac
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: control de mercado y utilización» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-11-reglamento-de-explosivos-control-de-mercado-y-utilizacion.webp -->
+<!-- VISUAL:t22-11-reglamento-de-explosivos-control-de-mercado-y-utilizacion.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-11-reglamento-de-explosivos-control-de-mercado-y-utilizacion.webp" alt="reglamento de explosivos: control de mercado y utilización" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: control de mercado y utilización.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -798,7 +846,11 @@ Este bloque desarrolla **reglamento de explosivos: importación, exportación y 
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: importación, exportación y transferencias» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-12-reglamento-de-explosivos-importacion-exportacion-y-transferencias.webp -->
+<!-- VISUAL:t22-12-reglamento-de-explosivos-importacion-exportacion-y-transferencias.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-12-reglamento-de-explosivos-importacion-exportacion-y-transferencias.webp" alt="reglamento de explosivos: importación, exportación y transferencias" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: importación, exportación y transferencias.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -869,7 +921,11 @@ Este bloque desarrolla **reglamento de explosivos: transporte** dentro de reglam
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: transporte» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-13-reglamento-de-explosivos-transporte.webp -->
+<!-- VISUAL:t22-13-reglamento-de-explosivos-transporte.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-13-reglamento-de-explosivos-transporte.webp" alt="reglamento de explosivos: transporte" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: transporte.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -942,7 +998,11 @@ Este bloque desarrolla **reglamento de explosivos: régimen sancionador y medida
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Reglamento de Explosivos: régimen sancionador y medidas de seguridad» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-14-reglamento-de-explosivos-regimen-sancionador-y-medidas-de-seguridad.webp -->
+<!-- VISUAL:t22-14-reglamento-de-explosivos-regimen-sancionador-y-medidas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-14-reglamento-de-explosivos-regimen-sancionador-y-medidas-de-seguridad.webp" alt="reglamento de explosivos: régimen sancionador y medidas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: reglamento de explosivos: régimen sancionador y medidas de seguridad.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -989,7 +1049,11 @@ Este bloque desarrolla **explosivos: itc 1 a 5** dentro de reglamento de explosi
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 1 a 5» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-15-explosivos-itc-1-a-5.webp -->
+<!-- VISUAL:t22-15-explosivos-itc-1-a-5.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-15-explosivos-itc-1-a-5.webp" alt="explosivos: itc 1 a 5" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 1 a 5.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -1030,7 +1094,11 @@ Este bloque desarrolla **explosivos: itc 6 a 10** dentro de reglamento de explos
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 6 a 10» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-16-explosivos-itc-6-a-10.webp -->
+<!-- VISUAL:t22-16-explosivos-itc-6-a-10.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-16-explosivos-itc-6-a-10.webp" alt="explosivos: itc 6 a 10" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 6 a 10.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -1066,7 +1134,11 @@ Este bloque desarrolla **explosivos: itc 11 a 15** dentro de reglamento de explo
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 11 a 15» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-17-explosivos-itc-11-a-15.webp -->
+<!-- VISUAL:t22-17-explosivos-itc-11-a-15.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-17-explosivos-itc-11-a-15.webp" alt="explosivos: itc 11 a 15" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 11 a 15.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -1093,7 +1165,11 @@ Este bloque desarrolla **explosivos: itc 16 a 20** dentro de reglamento de explo
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 16 a 20» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-18-explosivos-itc-16-a-20.webp -->
+<!-- VISUAL:t22-18-explosivos-itc-16-a-20.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-18-explosivos-itc-16-a-20.webp" alt="explosivos: itc 16 a 20" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 16 a 20.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -1128,7 +1204,11 @@ Este bloque desarrolla **explosivos: itc 21 a 27** dentro de reglamento de explo
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 21 a 27» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-19-explosivos-itc-21-a-27.webp -->
+<!-- VISUAL:t22-19-explosivos-itc-21-a-27.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-19-explosivos-itc-21-a-27.webp" alt="explosivos: itc 21 a 27" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 21 a 27.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
@@ -1162,7 +1242,11 @@ Este bloque desarrolla **explosivos: itc 28 a 34** dentro de reglamento de explo
 Estudia este bloque por unidades literales: sujeto competente, conducta, requisito, plazo, excepción y efecto. El título «Explosivos: ITC 28 a 34» ordena la materia, pero la respuesta exacta está anclada en cada precepto oficial.
 :::
 
-<!-- VISUAL PENDIENTE: t22-20-explosivos-itc-28-a-34.webp -->
+<!-- VISUAL:t22-20-explosivos-itc-28-a-34.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-22/t22-20-explosivos-itc-28-a-34.webp" alt="explosivos: itc 28 a 34" width="820">
+</p>
+<p align="center"><em>Infografía: explosivos: itc 28 a 34.</em></p>
 
 <!-- FUENTE: RD130-2017-T22 -->
 
